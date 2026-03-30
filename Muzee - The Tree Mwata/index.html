@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>The Tree Mwata — Muzee of Kanazi</title>
+  <link rel="stylesheet" href="../viewer/styles.css" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <audio id="audio" src="https://archive.org/download/Mwata/Mwata.m4a" preload="metadata"></audio>
+
+  <div id="transport">
+    <div id="transportLeft">
+      <button id="playPause">&#9654;</button>
+      <span id="timeDisplay">0:00 / 0:00</span>
+      <span class="range-label">Seek</span>
+      <input id="seek" type="range" min="0" max="0" step="0.01">
+      <div id="line-nav" class="line-nav-box">
+        <span id="lineLabel">1</span>
+        <input type="text" id="lineInput" class="hidden">
+      </div>
+      <span class="range-label">Vol.</span>
+      <input id="vol" type="range" min="0" max="1" step="0.01" value="1">
+      <span class="range-label">Speed</span>
+      <div id="speedControl">
+        <button class="speed-btn active" data-rate="1">100%</button>
+        <button class="speed-btn" data-rate="0.8">80%</button>
+      </div>
+    </div>
+    <div id="transportRight">
+      <span id="infoText"><em>The Tree Mwata</em> — Muzee of Kanazi</span>
+      <button id="menuBtn" class="hamburger-btn" aria-label="Menu">
+        <span class="hamburger-icon">&#9776;</span>
+      </button>
+      <div id="menuPanel" class="menu-panel hidden">
+        <button class="menu-item" data-action="controls">Player Controls</button>
+        <button class="menu-item" data-action="plot">Plot Summary</button>
+        <button class="menu-item" data-action="verse">Poetic Verse Forms</button>
+        <button class="menu-item" data-action="pdf">Full Text &amp; Annotations PDF</button>
+        <button class="menu-item" data-action="search">Search</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Intro Modal -->
+  <div id="introOverlay">
+    <div id="introModal">
+      <div id="introModalHeader">
+        <span id="introModalTitle"><em>The Tree Mwata</em> &mdash; Muzee of Kanazi</span>
+        <div id="introModalBtns">
+          <button id="introClose">Close</button>
+          <button id="introClosePlay">Close &amp; Play</button>
+          <button id="introBackLib">Back to Library</button>
+        </div>
+      </div>
+      <div id="introModalBody">
+        <p>The Tree Mwata presents the further colorful exploits of the lake god Mugasha. In this story, his friendly alliance with the famous 17th-century ruler of Kyamutwala kingdom, Rugomora Mahe, presents an opportunity for adventure that has him stomping all over Hayaland. The mortal king is deeply troubled when a large tree is found that refuses to be chopped down by the cohort of workers he sends. With poetic boast and intransigent strength, the tree insultingly defies his will and power. The king sends emissaries to his friend Mugasha, who does the job with his characteristic humorous, rollicking, and world-altering style. In addition to his usual animal- and weather-spirit minions, the fisher-god brings along his powerful yet domestically capable wife Nyakalembe, "The Peaceful One," goddess of women's agricultural fertility. The tree is a place of sacrifice sacred to Wamala, the king of the gods, who Mugasha also battled in the heroic ballad that bears his name. There is a mythology of conflict and alliance between Mugasha, Wamala, and Rugomora Mahe that reflects strategic relationships among political groups in the development of the Haya royal state. (These are treated fully in Peter Schmidt's book Historical Archeology, Greenwood Press, 1978.) These enmities and alliances shape the world of the heroic ballad and give it mythic resonance, but drama and interest are carried by the bard's ability to create a rich tapestry of characters, settings, actions and, most of all, poetic speech.</p>
+      </div>
+    </div>
+  </div>
+
+  <div id="rows"></div>
+  <section id="annoPanel" class="anno"></section>
+  <div id="imagePanel" class="image-modal"></div>
+
+  <script src="../viewer/script.js"></script>
+  <script>
+    const audio = document.getElementById('audio');
+    document.querySelectorAll('.speed-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        audio.playbackRate = parseFloat(btn.dataset.rate);
+        document.querySelectorAll('.speed-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+      });
+    });
+  </script>
+
+</body>
+</html>

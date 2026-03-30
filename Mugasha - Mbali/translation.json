@@ -1,0 +1,2114 @@
+[
+  {
+    "id": 1,
+    "kind": "poem",
+    "line": "1",
+    "text": "The Place You Come from — I Was Born There"
+  },
+  {
+    "id": 2,
+    "kind": "poem",
+    "line": "2",
+    "text": "The Place You Come from — I Was Born There"
+  },
+  {
+    "id": 3,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 4,
+    "kind": "poem",
+    "line": "3",
+    "text": "\"The place you come from — I was born there"
+  },
+  {
+    "id": 5,
+    "kind": "poem",
+    "line": "4",
+    "text": "The place you come from — I was born there"
+  },
+  {
+    "id": 6,
+    "kind": "poem",
+    "line": "5",
+    "text": "Tell me where you were born,"
+  },
+  {
+    "id": 7,
+    "kind": "poem",
+    "line": "6",
+    "text": "And I'll tell you where I was born."
+  },
+  {
+    "id": 8,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 9,
+    "kind": "poem",
+    "line": "7",
+    "text": "You're from Lubya, I'm from Ijumbi."
+  },
+  {
+    "id": 10,
+    "kind": "poem",
+    "line": "8",
+    "text": "Cow-sisters' children breed well together."
+  },
+  {
+    "id": 11,
+    "kind": "poem",
+    "line": "9",
+    "text": "Tell me where you were born,"
+  },
+  {
+    "id": 12,
+    "kind": "poem",
+    "line": "10",
+    "text": "And I'll tell you where I was born."
+  },
+  {
+    "id": 13,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 14,
+    "kind": "poem",
+    "line": "11",
+    "text": "I was born in Katoma <i>o</i><i>f</i><i> </i><i>k</i><i>i</i><i>n</i><i>s</i><i>h</i><i>w</i><i>i</i>,"
+  },
+  {
+    "id": 15,
+    "kind": "poem",
+    "line": "12",
+    "text": "You were born in Bulembo <i>o</i><i>f</i><i> </i><i>y</i><i>o</i><i>j</i><i>w</i><i>e</i>."
+  },
+  {
+    "id": 16,
+    "kind": "poem",
+    "line": "13",
+    "text": "Tell me where you were born,"
+  },
+  {
+    "id": 17,
+    "kind": "poem",
+    "line": "14",
+    "text": "And I'll tell you where I was born."
+  },
+  {
+    "id": 18,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 19,
+    "kind": "poem",
+    "line": "15",
+    "text": "You're a child of the Ikanoni river,"
+  },
+  {
+    "id": 20,
+    "kind": "poem",
+    "line": "16",
+    "text": "I'm a child of the cattle roads,"
+  },
+  {
+    "id": 21,
+    "kind": "poem",
+    "line": "17",
+    "text": "The cattle roads to Itongo,"
+  },
+  {
+    "id": 22,
+    "kind": "poem",
+    "line": "18",
+    "text": "Ane others to Ilogelo."
+  },
+  {
+    "id": 23,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 24,
+    "kind": "poem",
+    "line": "19",
+    "text": "<i>Y</i><i>o</i><i>u</i><i>'</i><i>r</i><i>e</i><i> </i><i>a</i><i> </i><i>c</i><i>h</i><i>i</i><i>l</i><i>d</i><i> </i><i>o</i><i>f</i><i> </i><i>t</i><i>h</i><i>e</i><i> </i><i>B</i><i>i</i><i>g</i><i>w</i><i>a</i><i>n</i><i>e</i><i>m</i><i>b</i><i>a</i>"
+  },
+  {
+    "id": 25,
+    "kind": "poem",
+    "line": "20",
+    "text": "<i>O</i><i>f</i><i> </i><i>T</i><i>h</i><i>e</i><i>y</i><i>-</i><i>b</i><i>e</i><i>l</i><i>l</i><i>o</i><i>w</i><i>-</i><i>n</i><i>o</i><i>t</i><i> </i><i>f</i><i>r</i><i>o</i><i>m</i><i> </i><i>L</i><i>a</i><i>k</i><i>e</i><i> </i><i>I</i><i>k</i><i>i</i><i>m</i><i>b</i><i>a</i>."
+  },
+  {
+    "id": 26,
+    "kind": "poem",
+    "line": "21",
+    "text": "I chopped a tree down in Ngalama, they say,"
+  },
+  {
+    "id": 27,
+    "kind": "poem",
+    "line": "22",
+    "text": "And the branches hit a house,"
+  },
+  {
+    "id": 28,
+    "kind": "poem",
+    "line": "23",
+    "text": "And twigs hit a house."
+  },
+  {
+    "id": 29,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 30,
+    "kind": "poem",
+    "line": "24",
+    "text": "Stand still there, let me beguile you,\" he said."
+  },
+  {
+    "id": 31,
+    "kind": "poem",
+    "line": "25",
+    "text": "\"Stand still there, let me beguile you well."
+  },
+  {
+    "id": 32,
+    "kind": "poem",
+    "line": "26",
+    "text": "You Ma Kilondo <i>o</i><i>f</i><i> </i><i>t</i><i>h</i><i>e</i><i> </i><i>M</i><i>o</i><i>u</i><i>n</i><i>t</i><i>a</i><i>i</i><i>n</i>."
+  },
+  {
+    "id": 33,
+    "kind": "poem",
+    "line": "27",
+    "text": "This is the greeting I would give you: 'Sleep well?'"
+  },
+  {
+    "id": 34,
+    "kind": "poem",
+    "line": "28",
+    "text": "They'll think we have one father.\""
+  },
+  {
+    "id": 35,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 36,
+    "kind": "poem",
+    "line": "29",
+    "text": "\"That little switch of twigs of yours,\" she said,"
+  },
+  {
+    "id": 37,
+    "kind": "poem",
+    "line": "30",
+    "text": "\"That little switch of twigs in fours,"
+  },
+  {
+    "id": 38,
+    "kind": "poem",
+    "line": "31",
+    "text": "Whom did you cut that to hit?\""
+  },
+  {
+    "id": 39,
+    "kind": "poem",
+    "line": "32",
+    "text": "\"I cut it to hit you!\""
+  },
+  {
+    "id": 40,
+    "kind": "poem",
+    "line": "33",
+    "text": "\"Hitting, punishing me so! For what?\""
+  },
+  {
+    "id": 41,
+    "kind": "poem",
+    "line": "34",
+    "text": "\"I punish you for your mistakes,\" he said,"
+  },
+  {
+    "id": 42,
+    "kind": "poem",
+    "line": "35",
+    "text": "I'm punishing you for your mistakes."
+  },
+  {
+    "id": 43,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 44,
+    "kind": "poem",
+    "line": "36",
+    "text": "I asked you long ago to be blood brothers,\" he said."
+  },
+  {
+    "id": 45,
+    "kind": "poem",
+    "line": "37",
+    "text": "\"I asked you long ago to be blood brothers, you and I."
+  },
+  {
+    "id": 46,
+    "kind": "poem",
+    "line": "38",
+    "text": "<i>C</i><i>h</i><i>i</i><i>l</i><i>d</i><i> </i><i>o</i><i>f</i><i> </i><i>t</i><i>h</i><i>e</i><i> </i><i>b</i><i>l</i><i>a</i><i>c</i><i>k</i><i> </i><i>s</i><i>n</i><i>a</i><i>k</i><i>e</i><i>s</i><i> </i><i>o</i><i>f</i><i> </i><i>B</i><i>u</i><i>n</i><i>e</i><i>n</i><i>a</i><i>,</i>"
+  },
+  {
+    "id": 47,
+    "kind": "poem",
+    "line": "39",
+    "text": "I asked you long ago to be blood brothers.\""
+  },
+  {
+    "id": 48,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 49,
+    "kind": "poem",
+    "line": "40",
+    "text": "\"Go stand at the River Ngono,\" he said,"
+  },
+  {
+    "id": 50,
+    "kind": "poem",
+    "line": "41",
+    "text": "\"Go stand on the Ngono's bank,"
+  },
+  {
+    "id": 51,
+    "kind": "poem",
+    "line": "42",
+    "text": "And I'll stand on the other Ngono bank."
+  },
+  {
+    "id": 52,
+    "kind": "poem",
+    "line": "43",
+    "text": "They'll think us trees that always grew there,"
+  },
+  {
+    "id": 53,
+    "kind": "poem",
+    "line": "44",
+    "text": "<i>M</i><i>u</i><i>h</i><i>u</i><i>m</i><i>u</i><i>l</i><i>a</i><i> </i>trees found there long ago."
+  },
+  {
+    "id": 54,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 55,
+    "kind": "poem",
+    "line": "45",
+    "text": "Again stand on the Ngono's bank,"
+  },
+  {
+    "id": 56,
+    "kind": "poem",
+    "line": "46",
+    "text": "And on the other Ngono bank I'll stand."
+  },
+  {
+    "id": 57,
+    "kind": "poem",
+    "line": "47",
+    "text": "He said, \"I'll fling it to you–catch it!"
+  },
+  {
+    "id": 58,
+    "kind": "poem",
+    "line": "48",
+    "text": "<i>I</i><i>t</i><i> </i><i>i</i><i>t</i><i>c</i><i>h</i><i>e</i><i>s</i><i> </i><i>m</i><i>o</i><i>r</i><i>e</i><i> </i><i>t</i><i>h</i><i>a</i><i>n</i><i> </i><i>a</i><i>n</i><i>y</i><i> </i><i>r</i><i>a</i><i>s</i><i>h</i><i>.</i>"
+  },
+  {
+    "id": 59,
+    "kind": "poem",
+    "line": "49",
+    "text": "<i>I</i><i>t</i><i> </i><i>l</i><i>a</i><i>m</i><i>e</i><i>s</i><i> </i><i>m</i><i>o</i><i>r</i><i>e</i><i> </i><i>t</i><i>h</i><i>a</i><i>n</i><i> </i><i>a</i><i>c</i><i>a</i><i>n</i><i>t</i><i>h</i><i>u</i><i>s</i><i> </i><i>t</i><i>h</i><i>o</i><i>r</i><i>n</i><i>.</i>"
+  },
+  {
+    "id": 60,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 61,
+    "kind": "poem",
+    "line": "50",
+    "text": "Dear one, it's you!\""
+  },
+  {
+    "id": 62,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 63,
+    "kind": "poem",
+    "line": "51",
+    "text": "<i>S</i><i>m</i><i>o</i><i>o</i><i>t</i><i>h</i><i>n</i><i>e</i><i>s</i><i>s</i><i> </i><i>o</i><i>f</i><i> </i><i>K</i><i>i</i><i>j</i><i>o</i><i>n</i><i>g</i><i>o</i><i>,</i> there"
+  },
+  {
+    "id": 64,
+    "kind": "poem",
+    "line": "52",
+    "text": "Where he had met her,"
+  },
+  {
+    "id": 65,
+    "kind": "poem",
+    "line": "53",
+    "text": "Ma Kilondo <i>o</i><i>f</i><i> </i><i>t</i><i>h</i><i>e</i><i> </i><i>M</i><i>o</i><i>u</i><i>n</i><i>t</i><i>a</i><i>i</i><i>n</i>."
+  },
+  {
+    "id": 66,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 67,
+    "kind": "poem",
+    "line": "54",
+    "text": "\"Rather than eat your mother's food, I'd eat you,\" he said."
+  },
+  {
+    "id": 68,
+    "kind": "poem",
+    "line": "55",
+    "text": "\"Those who eat you have acquired a taste."
+  },
+  {
+    "id": 69,
+    "kind": "poem",
+    "line": "56",
+    "text": "Stop tormenting me with neighbor's closeness.\""
+  },
+  {
+    "id": 70,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 71,
+    "kind": "poem",
+    "line": "57",
+    "text": "\"Mother, Mother <i>D</i><i>a</i><i>p</i><i>p</i><i>l</i><i>e</i><i>d</i><i>-</i><i>c</i><i>o</i><i>w</i>, <i>O</i><i>f</i><i>t</i><i>-</i><i>s</i><i>p</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>o</i><i>f</i>,\" he said,"
+  },
+  {
+    "id": 72,
+    "kind": "poem",
+    "line": "58",
+    "text": "\"<i>S</i><i>p</i><i>e</i><i>a</i><i>r</i><i>s</i><i> </i><i>k</i><i>i</i><i>l</i><i>l</i><i> </i><i>m</i><i>e</i><i>n</i>,"
+  },
+  {
+    "id": 73,
+    "kind": "poem",
+    "line": "59",
+    "text": "<i>H</i><i>o</i><i>e</i><i>s</i><i> </i><i>a</i><i>r</i><i>e</i><i> </i><i>r</i><i>u</i><i>l</i><i>e</i><i>d</i><i> </i><i>b</i><i>y</i><i> </i><i>K</i><i>a</i><i>b</i><i>a</i><i>g</i><i>a</i><i>l</i><i>a</i>,\""
+  },
+  {
+    "id": 74,
+    "kind": "poem",
+    "line": "60",
+    "text": "\"Father<i> </i><i>w</i><i>h</i><i>o</i><i> </i><i>m</i><i>a</i><i>k</i><i>e</i><i>s</i><i> </i><i>m</i><i>e</i><i> </i><i>w</i><i>e</i><i>l</i><i>l</i>,\" she answered."
+  },
+  {
+    "id": 75,
+    "kind": "poem",
+    "line": "61",
+    "text": "And speaking so, she consented."
+  },
+  {
+    "id": 76,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 77,
+    "kind": "poem",
+    "line": "62",
+    "text": "The two hid her yams in a mushasha grove,"
+  },
+  {
+    "id": 78,
+    "kind": "poem",
+    "line": "63",
+    "text": "Near where Kilondo had been washing them."
+  },
+  {
+    "id": 79,
+    "kind": "poem",
+    "line": "64",
+    "text": "The two hurried and entered,"
+  },
+  {
+    "id": 80,
+    "kind": "poem",
+    "line": "65",
+    "text": "Undressed and lay down."
+  },
+  {
+    "id": 81,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 82,
+    "kind": "poem",
+    "line": "66",
+    "text": "He touched her on the thing <i>W</i><i>e</i><i>l</i><i>l</i><i>-</i><i>s</i><i>p</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>o</i><i>f</i>,"
+  },
+  {
+    "id": 83,
+    "kind": "poem",
+    "line": "67",
+    "text": "On the <i>S</i><i>l</i><i>e</i><i>e</i><i>p</i><i>i</i><i>n</i><i>g</i><i>-</i><i>s</i><i>i</i><i>c</i><i>k</i><i>n</i><i>e</i><i>s</i><i>s</i>, <i>K</i><i>i</i><i>l</i><i>l</i><i>e</i><i>r</i><i>-</i><i>o</i><i>f</i><i>-</i><i>c</i><i>a</i><i>t</i><i>t</i><i>l</i><i>e</i>,"
+  },
+  {
+    "id": 84,
+    "kind": "poem",
+    "line": "68",
+    "text": "On the <i>P</i><i>l</i><i>u</i><i>n</i><i>d</i><i>e</i><i>r</i><i>e</i><i>r</i><i> </i><i>o</i><i>f</i><i> </i><i>c</i><i>a</i><i>t</i><i>t</i><i>l</i><i>e</i><i> </i><i>a</i><i>n</i><i>d</i><i> </i><i>t</i><i>h</i><i>e</i><i>i</i><i>r</i><i> </i><i>o</i><i>f</i><i>f</i><i>s</i><i>p</i><i>r</i><i>i</i><i>n</i><i>g</i>,"
+  },
+  {
+    "id": 85,
+    "kind": "poem",
+    "line": "69",
+    "text": "On the <i>S</i><i>h</i><i>o</i><i>r</i><i>t</i><i> </i><i>f</i><i>a</i><i>c</i><i>e</i><i> </i><i>w</i><i>i</i><i>t</i><i>h</i><i> </i><i>a</i><i> </i><i>l</i><i>o</i><i>n</i><i>g</i><i> </i><i>n</i><i>o</i><i>s</i><i>e</i>."
+  },
+  {
+    "id": 86,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 87,
+    "kind": "poem",
+    "line": "70",
+    "text": "When he began the folding,"
+  },
+  {
+    "id": 88,
+    "kind": "poem",
+    "line": "71",
+    "text": "When he entered inside, he found bananas ripe to falling from the stalk,"
+  },
+  {
+    "id": 89,
+    "kind": "poem",
+    "line": "72",
+    "text": "And higher up, the thick sweet mash kneading itself."
+  },
+  {
+    "id": 90,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 91,
+    "kind": "poem",
+    "line": "73",
+    "text": "\"Mother, Mother, Mother, Mother,\" he said,"
+  },
+  {
+    "id": 92,
+    "kind": "poem",
+    "line": "73.1",
+    "text": " \"Mother <i>D</i><i>a</i><i>p</i><i>p</i><i>l</i><i>e</i><i>d</i><i>-</i><i>c</i><i>o</i><i>w</i>,"
+  },
+  {
+    "id": 93,
+    "kind": "poem",
+    "line": "74",
+    "text": "Mother <i>S</i><i>p</i><i>e</i><i>a</i><i>r</i><i>s</i><i>-</i><i>k</i><i>i</i><i>l</i><i>l</i><i>-</i><i>m</i><i>e</i><i>n</i>,"
+  },
+  {
+    "id": 94,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 95,
+    "kind": "poem",
+    "line": "75",
+    "text": "\"If you visit, if you visit,\" he said,"
+  },
+  {
+    "id": 96,
+    "kind": "poem",
+    "line": "76",
+    "text": "\"If you find I'm cutting firewood,"
+  },
+  {
+    "id": 97,
+    "kind": "poem",
+    "line": "77",
+    "text": "The axe I'll throw above,"
+  },
+  {
+    "id": 98,
+    "kind": "poem",
+    "line": "78",
+    "text": "The hafted-knife I'll throw below."
+  },
+  {
+    "id": 99,
+    "kind": "poem",
+    "line": "79",
+    "text": "We'll just walk together talking."
+  },
+  {
+    "id": 100,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 101,
+    "kind": "poem",
+    "line": "80",
+    "text": "You Ma Kilondo <i>o</i><i>f</i><i> </i><i>t</i><i>h</i><i>e</i><i> </i><i>M</i><i>o</i><i>u</i><i>n</i><i>t</i><i>a</i><i>i</i><i>n</i>,"
+  },
+  {
+    "id": 102,
+    "kind": "poem",
+    "line": "81",
+    "text": "You <i>L</i><i>i</i><i>t</i><i>t</i><i>l</i><i>e</i><i> </i><i>c</i><i>a</i><i>l</i><i>f</i><i>'</i><i>s</i><i> </i><i>f</i><i>o</i><i>o</i><i>t</i>,"
+  },
+  {
+    "id": 103,
+    "kind": "poem",
+    "line": "82",
+    "text": "Mother <i>F</i><i>l</i><i>i</i><i>r</i><i>t</i><i>i</i><i>n</i><i>g</i><i> </i><i>n</i><i>e</i><i>i</i><i>g</i><i>h</i><i>b</i><i>o</i><i>r</i><i>'</i><i>s</i><i> </i><i>e</i><i>y</i><i>e</i><i>s</i>,"
+  },
+  {
+    "id": 104,
+    "kind": "poem",
+    "line": "83",
+    "text": "Is this not desire? You possess me!"
+  },
+  {
+    "id": 105,
+    "kind": "poem",
+    "line": "84",
+    "text": "You possess me, you possess me!\""
+  },
+  {
+    "id": 106,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 107,
+    "kind": "poem",
+    "line": "85",
+    "text": "\"Father <i>C</i><i>a</i><i>n</i><i>o</i><i>e</i><i>-</i><i>p</i><i>o</i><i>l</i><i>e</i><i> </i><i>o</i><i>f</i><i> </i><i>I</i><i>t</i><i>o</i><i>j</i><i>o</i><i>'</i><i>s</i><i> </i><i>f</i><i>e</i><i>r</i><i>r</i><i>y</i><i>m</i><i>a</i><i>n</i><i> </i><i>K</i><i>y</i><i>a</i><i>k</i><i>u</i><i>s</i><i>h</i><i>e</i><i>n</i><i>g</i><i>o</i>,\" she answered,"
+  },
+  {
+    "id": 108,
+    "kind": "poem",
+    "line": "86",
+    "text": "<i>T</i><i>h</i><i>a</i><i>t</i><i> </i><i>m</i><i>e</i><i>a</i><i>s</i><i>u</i><i>r</i><i>e</i><i>s</i><i> </i><i>t</i><i>h</i><i>e</i><i> </i><i>r</i><i>i</i><i>v</i><i>e</i><i>r</i><i> </i><i>b</i><i>o</i><i>t</i><i>t</i><i>o</i><i>m</i><i> </i><i>w</i><i>i</i><i>t</i><i>h</i><i>o</i><i>u</i><i>t</i><i> </i><i>a</i><i> </i><i>s</i><i>t</i><i>r</i><i>u</i><i>g</i><i>g</i><i>l</i><i>e</i>.\""
+  },
+  {
+    "id": 109,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 110,
+    "kind": "poem",
+    "line": "87",
+    "text": "And if you visit,\" she said,"
+  },
+  {
+    "id": 111,
+    "kind": "poem",
+    "line": "88",
+    "text": "\"If you visit, if you visit,\" she said,"
+  },
+  {
+    "id": 112,
+    "kind": "poem",
+    "line": "89",
+    "text": "If you find me peeling plantains,"
+  },
+  {
+    "id": 113,
+    "kind": "poem",
+    "line": "90",
+    "text": "Leave them. I'll wrap them up."
+  },
+  {
+    "id": 114,
+    "kind": "poem",
+    "line": "91",
+    "text": "Let those who wanted them put them on the fire."
+  },
+  {
+    "id": 115,
+    "kind": "poem",
+    "line": "92",
+    "text": "And if they leave them, let them burn.\""
+  },
+  {
+    "id": 116,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 117,
+    "kind": "poem",
+    "line": "93",
+    "text": "\"If you visit, if you visit,\" she continued,"
+  },
+  {
+    "id": 118,
+    "kind": "poem",
+    "line": "94",
+    "text": "\"If you find me with the milk already poured,"
+  },
+  {
+    "id": 119,
+    "kind": "poem",
+    "line": "95",
+    "text": "And in the dairy room I'm churning,"
+  },
+  {
+    "id": 120,
+    "kind": "poem",
+    "line": "96",
+    "text": "Just tickle my ribs, I'll spill it out,"
+  },
+  {
+    "id": 121,
+    "kind": "poem",
+    "line": "97",
+    "text": "And let those who wanted it drink water."
+  },
+  {
+    "id": 122,
+    "kind": "poem",
+    "line": "98",
+    "text": "Is this not desire? Sleep well?\""
+  },
+  {
+    "id": 123,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 124,
+    "kind": "poem",
+    "line": "99",
+    "text": "The two lay down and arose,"
+  },
+  {
+    "id": 125,
+    "kind": "poem",
+    "line": "100",
+    "text": "Went and dressed."
+  },
+  {
+    "id": 126,
+    "kind": "poem",
+    "line": "101",
+    "text": "Went and found the yams again."
+  },
+  {
+    "id": 127,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 128,
+    "kind": "poem",
+    "line": "102",
+    "text": "The woman Kilondo reached in her basket,"
+  },
+  {
+    "id": 129,
+    "kind": "poem",
+    "line": "103",
+    "text": "Took some nice kilibwa yams,"
+  },
+  {
+    "id": 130,
+    "kind": "poem",
+    "line": "104",
+    "text": "Placed them on a banana leaf,"
+  },
+  {
+    "id": 131,
+    "kind": "poem",
+    "line": "105",
+    "text": "Presented them to the man."
+  },
+  {
+    "id": 132,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 133,
+    "kind": "poem",
+    "line": "106",
+    "text": "When at first he began to refuse them,"
+  },
+  {
+    "id": 134,
+    "kind": "poem",
+    "line": "107",
+    "text": "He stopped and thought, \"I'll eat these yams."
+  },
+  {
+    "id": 135,
+    "kind": "poem",
+    "line": "108",
+    "text": "I know 'The beautiful cannot be impure.'\""
+  },
+  {
+    "id": 136,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 137,
+    "kind": "poem",
+    "line": "109",
+    "text": "When he'd finished eating yams,"
+  },
+  {
+    "id": 138,
+    "kind": "poem",
+    "line": "110",
+    "text": "The man was then descending,"
+  },
+  {
+    "id": 139,
+    "kind": "poem",
+    "line": "111",
+    "text": "The woman was then climbing a hill."
+  },
+  {
+    "id": 140,
+    "kind": "poem",
+    "line": "112",
+    "text": "He called to her again."
+  },
+  {
+    "id": 141,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 142,
+    "kind": "poem",
+    "line": "113",
+    "text": "\"Mother <i>D</i><i>a</i><i>p</i><i>p</i><i>l</i><i>e</i><i>d</i><i>-</i><i>c</i><i>o</i><i>w</i><i>,</i><i> </i><i>O</i><i>f</i><i>t</i><i>-</i><i>s</i><i>p</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>o</i><i>f</i><i>,</i>\" he said,"
+  },
+  {
+    "id": 143,
+    "kind": "poem",
+    "line": "114",
+    "text": "\"<i>S</i><i>p</i><i>e</i><i>a</i><i>r</i><i>s</i><i> </i><i>k</i><i>i</i><i>l</i><i>l</i><i> </i><i>m</i><i>e</i><i>n</i>.\""
+  },
+  {
+    "id": 144,
+    "kind": "poem",
+    "line": "115",
+    "text": "\"Father <i>W</i><i>h</i><i>o</i><i>-</i><i>m</i><i>a</i><i>k</i><i>e</i><i>s</i><i>-</i><i>m</i><i>e</i><i>-</i><i>w</i><i>e</i><i>l</i><i>l</i>,\" she answered."
+  },
+  {
+    "id": 145,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 146,
+    "kind": "poem",
+    "line": "116",
+    "text": "\"Into your <i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i>,\" he said,"
+  },
+  {
+    "id": 147,
+    "kind": "poem",
+    "line": "117",
+    "text": "\"I threw a clod of earth."
+  },
+  {
+    "id": 148,
+    "kind": "poem",
+    "line": "118",
+    "text": "It burst in there."
+  },
+  {
+    "id": 149,
+    "kind": "poem",
+    "line": "119",
+    "text": "When you bear a child,\" he said,"
+  },
+  {
+    "id": 150,
+    "kind": "poem",
+    "line": "120",
+    "text": "\"Call it <i>B</i><i>r</i><i>o</i><i>u</i><i>g</i><i>h</i><i>t</i><i>-</i><i>b</i><i>y</i><i>-</i><i>D</i><i>e</i><i>s</i><i>i</i><i>r</i><i>e</i>.\""
+  },
+  {
+    "id": 151,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 152,
+    "kind": "poem",
+    "line": "121",
+    "text": "She wheeled around at once, Kilondo."
+  },
+  {
+    "id": 153,
+    "kind": "poem",
+    "line": "122",
+    "text": "\"You commoner's son, you've shamed me!"
+  },
+  {
+    "id": 154,
+    "kind": "poem",
+    "line": "123",
+    "text": "You've greatly shamed me! you've shamed me!"
+  },
+  {
+    "id": 155,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 156,
+    "kind": "poem",
+    "line": "124",
+    "text": "You took the <i>D</i><i>r</i><i>u</i><i>m</i><i> </i><i>o</i><i>f</i><i> </i><i>k</i><i>i</i><i>n</i><i>g</i><i>s</i><i> </i><i>a</i><i>n</i><i>d</i><i> </i><i>m</i><i>e</i><i>n</i><i>,</i><i> </i><i>t</i><i>h</i><i>e</i><i> </i><i>t</i><i>h</i><i>i</i><i>n</i><i>g</i><i> </i><i>W</i><i>e</i><i>l</i><i>l</i><i>-</i><i>s</i><i>p</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>o</i><i>f</i><i>,</i>"
+  },
+  {
+    "id": 157,
+    "kind": "poem",
+    "line": "125",
+    "text": "<i>T</i><i>h</i><i>e</i><i> </i><i>S</i><i>l</i><i>e</i><i>e</i><i>p</i><i>i</i><i>n</i><i>g</i><i>-</i><i>s</i><i>i</i><i>c</i><i>k</i><i>n</i><i>e</i><i>s</i><i>s</i><i>,</i><i> </i><i>K</i><i>i</i><i>l</i><i>l</i><i>e</i><i>r</i><i>-</i><i>o</i><i>f</i><i>-</i><i>c</i><i>a</i><i>t</i><i>t</i><i>l</i><i>e</i><i>,</i>"
+  },
+  {
+    "id": 158,
+    "kind": "poem",
+    "line": "126",
+    "text": "<i>T</i><i>h</i><i>e</i><i> </i><i>P</i><i>l</i><i>u</i><i>n</i><i>d</i><i>e</i><i>r</i><i>e</i><i>r</i><i> </i><i>o</i><i>f</i><i> </i><i>c</i><i>a</i><i>t</i><i>t</i><i>l</i><i>e</i><i> </i><i>a</i><i>n</i><i>d</i><i> </i><i>t</i><i>h</i><i>e</i><i>i</i><i>r</i><i> </i><i>o</i><i>f</i><i>f</i><i>s</i><i>p</i><i>r</i><i>i</i><i>n</i><i>g</i><i>,</i>"
+  },
+  {
+    "id": 159,
+    "kind": "poem",
+    "line": "127",
+    "text": "You call it <i>a</i><i> </i><i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i>."
+  },
+  {
+    "id": 160,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 161,
+    "kind": "poem",
+    "line": "128",
+    "text": "It's not a keg calabash for fermented brew."
+  },
+  {
+    "id": 162,
+    "kind": "poem",
+    "line": "129",
+    "text": "Nor a tankard for sweet mash."
+  },
+  {
+    "id": 163,
+    "kind": "poem",
+    "line": "130",
+    "text": "What they call a <i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i>'"
+  },
+  {
+    "id": 164,
+    "kind": "poem",
+    "line": "131",
+    "text": "Is the resonator for the <i>e</i><i>n</i><i>a</i><i>n</i><i>g</i><i>a</i>"
+  },
+  {
+    "id": 165,
+    "kind": "poem",
+    "line": "132",
+    "text": "That's the one that booms though it's been split.\""
+  },
+  {
+    "id": 166,
+    "kind": "poem",
+    "line": "133",
+    "text": "\"Mine is <i>a</i><i> </i><i>t</i><i>h</i><i>i</i><i>n</i><i>g</i><i> </i><i>W</i><i>e</i><i>l</i><i>l</i><i>-</i><i>s</i><i>p</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>o</i><i>f</i>,\" she declared."
+  },
+  {
+    "id": 167,
+    "kind": "poem",
+    "line": "134",
+    "text": "\"It's really <i>a</i><i> </i><i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i>,\" he said."
+  },
+  {
+    "id": 168,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 169,
+    "kind": "poem",
+    "line": "135",
+    "text": "She turned around,"
+  },
+  {
+    "id": 170,
+    "kind": "poem",
+    "line": "136",
+    "text": "Saw her home was near,"
+  },
+  {
+    "id": 171,
+    "kind": "poem",
+    "line": "137",
+    "text": "Climbed a hill,"
+  },
+  {
+    "id": 172,
+    "kind": "poem",
+    "line": "138",
+    "text": "Passed two farms,"
+  },
+  {
+    "id": 173,
+    "kind": "poem",
+    "line": "139",
+    "text": "Reached her forecourt,"
+  },
+  {
+    "id": 174,
+    "kind": "poem",
+    "line": "140",
+    "text": "Entered the house,"
+  },
+  {
+    "id": 175,
+    "kind": "poem",
+    "line": "141",
+    "text": "And her harvest basket left; she put it in the inner room."
+  },
+  {
+    "id": 176,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 177,
+    "kind": "poem",
+    "line": "142",
+    "text": "She went out again without delay,"
+  },
+  {
+    "id": 178,
+    "kind": "poem",
+    "line": "143",
+    "text": "Descended the hill,"
+  },
+  {
+    "id": 179,
+    "kind": "poem",
+    "line": "144",
+    "text": "Crossed a stream,"
+  },
+  {
+    "id": 180,
+    "kind": "poem",
+    "line": "145",
+    "text": "Met two men, and then she began:"
+  },
+  {
+    "id": 181,
+    "kind": "poem",
+    "line": "146",
+    "text": "\"But that man truly shamed me!\" she said."
+  },
+  {
+    "id": 182,
+    "kind": "poem",
+    "line": "147",
+    "text": "\"How did he cause you shame, Mother?\" they asked."
+  },
+  {
+    "id": 183,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 184,
+    "kind": "poem",
+    "line": "148",
+    "text": "\"He met me on the path,\" she said."
+  },
+  {
+    "id": 185,
+    "kind": "poem",
+    "line": "149",
+    "text": "He spoke of adult things and I agreed.\""
+  },
+  {
+    "id": 186,
+    "kind": "poem",
+    "line": "150",
+    "text": "We came to lay down,\" she said,"
+  },
+  {
+    "id": 187,
+    "kind": "poem",
+    "line": "151",
+    "text": "And when we came to get up,"
+  },
+  {
+    "id": 188,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 189,
+    "kind": "poem",
+    "line": "152",
+    "text": "He took the <i>D</i><i>r</i><i>u</i><i>m</i><i> </i><i>o</i><i>f</i><i> </i><i>k</i><i>i</i><i>n</i><i>g</i><i>s</i><i> </i><i>a</i><i>n</i><i>d</i><i> </i><i>m</i><i>e</i><i>n</i><i>,</i><i> </i><i>t</i><i>h</i><i>e</i><i> </i><i>t</i><i>h</i><i>i</i><i>n</i><i>g</i><i> </i><i>W</i><i>e</i><i>l</i><i>l</i><i>-</i><i>s</i><i>p</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>o</i><i>f</i><i>,</i>"
+  },
+  {
+    "id": 190,
+    "kind": "poem",
+    "line": "153",
+    "text": "<i>T</i><i>h</i><i>e</i><i> </i><i>S</i><i>l</i><i>e</i><i>e</i><i>p</i><i>i</i><i>n</i><i>g</i><i>-</i><i>s</i><i>i</i><i>c</i><i>k</i><i>n</i><i>e</i><i>s</i><i>s</i><i>,</i><i> </i><i>K</i><i>i</i><i>l</i><i>l</i><i>e</i><i>r</i><i>-</i><i>o</i><i>f</i><i>-</i><i>c</i><i>a</i><i>t</i><i>t</i><i>l</i><i>e</i><i>,</i>"
+  },
+  {
+    "id": 191,
+    "kind": "poem",
+    "line": "154",
+    "text": "<i>T</i><i>h</i><i>e</i><i> </i><i>P</i><i>l</i><i>u</i><i>n</i><i>d</i><i>e</i><i>r</i><i>e</i><i>r</i><i> </i><i>o</i><i>f</i><i> </i><i>c</i><i>a</i><i>t</i><i>t</i><i>l</i><i>e</i><i> </i><i>a</i><i>n</i><i>d</i><i> </i><i>t</i><i>h</i><i>e</i><i>i</i><i>r</i><i> </i><i>o</i><i>f</i><i>f</i><i>s</i><i>p</i><i>r</i><i>i</i><i>n</i><i>g</i><i>,</i>"
+  },
+  {
+    "id": 192,
+    "kind": "poem",
+    "line": "155",
+    "text": "He called it a <i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i>."
+  },
+  {
+    "id": 193,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 194,
+    "kind": "poem",
+    "line": "156",
+    "text": "I declare: It's not a keg calabash for fermented brew,"
+  },
+  {
+    "id": 195,
+    "kind": "poem",
+    "line": "157",
+    "text": "Nor a tankard for sweet mash."
+  },
+  {
+    "id": 196,
+    "kind": "poem",
+    "line": "158",
+    "text": "What they call a <i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i>'"
+  },
+  {
+    "id": 197,
+    "kind": "poem",
+    "line": "159",
+    "text": "Is the resonator for the <i>e</i><i>n</i><i>a</i><i>n</i><i>g</i><i>a</i>"
+  },
+  {
+    "id": 198,
+    "kind": "poem",
+    "line": "160",
+    "text": "That's the one that booms though it's been split.\""
+  },
+  {
+    "id": 199,
+    "kind": "poem",
+    "line": "161",
+    "text": "\"Mine is a thing <i>W</i><i>e</i><i>l</i><i>l</i><i>-</i><i>s</i><i>p</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>o</i><i>f</i>.\""
+  },
+  {
+    "id": 200,
+    "kind": "poem",
+    "line": "162",
+    "text": "\"Yes,\" they agreed, \"It's a <i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i>.\""
+  },
+  {
+    "id": 201,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 202,
+    "kind": "poem",
+    "line": "163",
+    "text": "What was once a secret broke open now."
+  },
+  {
+    "id": 203,
+    "kind": "poem",
+    "line": "164",
+    "text": "She travelled to the lower court and made her accusation."
+  },
+  {
+    "id": 204,
+    "kind": "poem",
+    "line": "165",
+    "text": "All the chairs creaked,"
+  },
+  {
+    "id": 205,
+    "kind": "poem",
+    "line": "166",
+    "text": "All officials judged,"
+  },
+  {
+    "id": 206,
+    "kind": "poem",
+    "line": "167",
+    "text": "\"Yes,\" they agreed, \"It's a <i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i>.\""
+  },
+  {
+    "id": 207,
+    "kind": "poem",
+    "line": "168",
+    "text": "And a royal kinsman also judged,"
+  },
+  {
+    "id": 208,
+    "kind": "poem",
+    "line": "169",
+    "text": "\"Yes,\" he agreed, \"It's a <i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i>.\""
+  },
+  {
+    "id": 209,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 210,
+    "kind": "poem",
+    "line": "170",
+    "text": "She stiffened her resolve; she went,"
+  },
+  {
+    "id": 211,
+    "kind": "poem",
+    "line": "171",
+    "text": "She travelled to the higher court and made her accusation."
+  },
+  {
+    "id": 212,
+    "kind": "poem",
+    "line": "172",
+    "text": "All the chairs creaked,"
+  },
+  {
+    "id": 213,
+    "kind": "poem",
+    "line": "173",
+    "text": "And all the elders judged,"
+  },
+  {
+    "id": 214,
+    "kind": "poem",
+    "line": "174",
+    "text": "\"Yes,\" they agreed, \"It's a <i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i>.\""
+  },
+  {
+    "id": 215,
+    "kind": "poem",
+    "line": "175",
+    "text": "And the Prime Minister also judged,"
+  },
+  {
+    "id": 216,
+    "kind": "poem",
+    "line": "176",
+    "text": "\"Yes,\" he agreed, \"It's a <i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i>.\""
+  },
+  {
+    "id": 217,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 218,
+    "kind": "poem",
+    "line": "177",
+    "text": "She wept. Tears fell,"
+  },
+  {
+    "id": 219,
+    "kind": "poem",
+    "line": "178",
+    "text": "Ma Kilondo <i>o</i><i>f</i><i> </i><i>t</i><i>h</i><i>e</i><i> </i><i>M</i><i>o</i><i>u</i><i>n</i><i>t</i><i>a</i><i>i</i><i>n</i>."
+  },
+  {
+    "id": 220,
+    "kind": "poem",
+    "line": "179",
+    "text": "She was weeping there, when the king appeared."
+  },
+  {
+    "id": 221,
+    "kind": "poem",
+    "line": "180",
+    "text": "\"What makes you weep, woman?\" he asked."
+  },
+  {
+    "id": 222,
+    "kind": "poem",
+    "line": "181",
+    "text": "She wiped her tears."
+  },
+  {
+    "id": 223,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 224,
+    "kind": "poem",
+    "line": "182",
+    "text": "\"O King,\" she said, \"What makes me weep this flood and bellow and wail,\""
+  },
+  {
+    "id": 225,
+    "kind": "poem",
+    "line": "183",
+    "text": "Once that man and I loved each other,\" she said."
+  },
+  {
+    "id": 226,
+    "kind": "poem",
+    "line": "183.1",
+    "text": " \"We were young then. We were children."
+  },
+  {
+    "id": 227,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 228,
+    "kind": "poem",
+    "line": "184",
+    "text": "He's from Lubya,"
+  },
+  {
+    "id": 229,
+    "kind": "poem",
+    "line": "184.1",
+    "text": " I'm from Ijumbi."
+  },
+  {
+    "id": 230,
+    "kind": "poem",
+    "line": "185",
+    "text": "He's from Katoma <i>o</i><i>f</i><i> </i><i>k</i><i>i</i><i>n</i><i>s</i><i>h</i><i>w</i><i>i</i>,"
+  },
+  {
+    "id": 231,
+    "kind": "poem",
+    "line": "186",
+    "text": "I'm from Bulembo <i>o</i><i>f</i><i> </i><i>y</i><i>o</i><i>j</i><i>w</i><i>e</i>."
+  },
+  {
+    "id": 232,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 233,
+    "kind": "poem",
+    "line": "187",
+    "text": "'When you grow up I'll marry you,' he'd say."
+  },
+  {
+    "id": 234,
+    "kind": "poem",
+    "line": "188",
+    "text": "But when I grew up, he was not allowed to court me,\" she said."
+  },
+  {
+    "id": 235,
+    "kind": "poem",
+    "line": "189",
+    "text": "\"Father betrothed me somewhere else.\""
+  },
+  {
+    "id": 236,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 237,
+    "kind": "poem",
+    "line": "190",
+    "text": "He met me just come out from bride's seclusion,\" she said. \"I'd spent a year inside."
+  },
+  {
+    "id": 238,
+    "kind": "poem",
+    "line": "191",
+    "text": "He spoke of adult things, and I agreed."
+  },
+  {
+    "id": 239,
+    "kind": "poem",
+    "line": "192",
+    "text": "\"We came to lay down, O King,\" she said,"
+  },
+  {
+    "id": 240,
+    "kind": "poem",
+    "line": "193",
+    "text": "\"And when we came to get up,"
+  },
+  {
+    "id": 241,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 242,
+    "kind": "poem",
+    "line": "194",
+    "text": "He took <i>t</i><i>h</i><i>e</i><i> </i><i>D</i><i>r</i><i>u</i><i>m</i><i> </i><i>o</i><i>f</i><i> </i><i>k</i><i>i</i><i>n</i><i>g</i><i>s</i><i> </i><i>a</i><i>n</i><i>d</i><i> </i><i>m</i><i>e</i><i>n</i><i>,</i><i> </i><i>t</i><i>h</i><i>e</i><i> </i><i>t</i><i>h</i><i>i</i><i>n</i><i>g</i><i> </i><i>W</i><i>e</i><i>l</i><i>l</i><i>-</i><i>s</i><i>p</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>o</i><i>f</i><i>,</i>"
+  },
+  {
+    "id": 243,
+    "kind": "poem",
+    "line": "195",
+    "text": "<i>T</i><i>h</i><i>e</i><i> </i><i>S</i><i>l</i><i>e</i><i>e</i><i>p</i><i>i</i><i>n</i><i>g</i><i>-</i><i>s</i><i>i</i><i>c</i><i>k</i><i>n</i><i>e</i><i>s</i><i>s</i><i>,</i><i> </i><i>K</i><i>i</i><i>l</i><i>l</i><i>e</i><i>r</i><i>-</i><i>o</i><i>f</i><i>-</i><i>c</i><i>a</i><i>t</i><i>t</i><i>l</i><i>e</i><i>,</i>"
+  },
+  {
+    "id": 244,
+    "kind": "poem",
+    "line": "196",
+    "text": "<i>T</i><i>h</i><i>e</i><i> </i><i>P</i><i>l</i><i>u</i><i>n</i><i>d</i><i>e</i><i>r</i><i>e</i><i>r</i><i> </i><i>o</i><i>f</i><i> </i><i>c</i><i>a</i><i>t</i><i>t</i><i>l</i><i>e</i><i> </i><i>a</i><i>n</i><i>d</i><i> </i><i>t</i><i>h</i><i>e</i><i>i</i><i>r</i><i> </i><i>o</i><i>f</i><i>f</i><i>s</i><i>p</i><i>r</i><i>i</i><i>n</i><i>g</i><i>.</i>"
+  },
+  {
+    "id": 245,
+    "kind": "poem",
+    "line": "197",
+    "text": "He called it <i>a</i><i> </i><i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i>!"
+  },
+  {
+    "id": 246,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 247,
+    "kind": "poem",
+    "line": "198",
+    "text": "It's not a keg calabash for fermented brew,"
+  },
+  {
+    "id": 248,
+    "kind": "poem",
+    "line": "199",
+    "text": "Nor a tankard for sweet mash."
+  },
+  {
+    "id": 249,
+    "kind": "poem",
+    "line": "200",
+    "text": "What they call a <i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i>'"
+  },
+  {
+    "id": 250,
+    "kind": "poem",
+    "line": "201",
+    "text": "Is the resonator for the <i>e</i><i>n</i><i>a</i><i>n</i><i>g</i><i>a</i>"
+  },
+  {
+    "id": 251,
+    "kind": "poem",
+    "line": "202",
+    "text": "That's the one that booms though it's been split.\""
+  },
+  {
+    "id": 252,
+    "kind": "poem",
+    "line": "203",
+    "text": "'Yes,' he said, 'It's a <i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i><i>.</i>'\""
+  },
+  {
+    "id": 253,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 254,
+    "kind": "poem",
+    "line": "204",
+    "text": "\"O King,\" she said,\"I was greatly angered."
+  },
+  {
+    "id": 255,
+    "kind": "poem",
+    "line": "205",
+    "text": "I came to the lower court and made my accusation."
+  },
+  {
+    "id": 256,
+    "kind": "poem",
+    "line": "206",
+    "text": "All the officials judged me,"
+  },
+  {
+    "id": 257,
+    "kind": "poem",
+    "line": "207",
+    "text": "'Yes,' they agreed 'It's <i>a</i><i> </i><i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i>.'"
+  },
+  {
+    "id": 258,
+    "kind": "poem",
+    "line": "208",
+    "text": "And the royal kinsman judged me too,"
+  },
+  {
+    "id": 259,
+    "kind": "poem",
+    "line": "209",
+    "text": "'Yes,' he agreed, 'It's <i>a</i><i> </i><i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i>.'\""
+  },
+  {
+    "id": 260,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 261,
+    "kind": "poem",
+    "line": "210",
+    "text": "\"I came here to the upper court,\" she said, \"and made my accusation."
+  },
+  {
+    "id": 262,
+    "kind": "poem",
+    "line": "211",
+    "text": "And all the elders judged me,"
+  },
+  {
+    "id": 263,
+    "kind": "poem",
+    "line": "212",
+    "text": "'Yes,' they agreed, 'It's a <i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i>.'"
+  },
+  {
+    "id": 264,
+    "kind": "poem",
+    "line": "213",
+    "text": "And even the Prime Minister judged me,"
+  },
+  {
+    "id": 265,
+    "kind": "poem",
+    "line": "214",
+    "text": "'Yes,' he agreed, 'It's <i>a</i><i> </i><i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i>.'\""
+  },
+  {
+    "id": 266,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 267,
+    "kind": "poem",
+    "line": "215",
+    "text": "\"And I was greatly angered,\" she said."
+  },
+  {
+    "id": 268,
+    "kind": "poem",
+    "line": "216",
+    "text": "\"And I shall wail, I shall bellow,"
+  },
+  {
+    "id": 269,
+    "kind": "poem",
+    "line": "217",
+    "text": "I shall fall into the lake of salt I weep."
+  },
+  {
+    "id": 270,
+    "kind": "poem",
+    "line": "218",
+    "text": "To take my <i>t</i><i>h</i><i>i</i><i>n</i><i>g</i> <i>W</i><i>e</i><i>l</i><i>l</i><i>-</i><i>s</i><i>p</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>o</i><i>f</i><i>,</i>"
+  },
+  {
+    "id": 271,
+    "kind": "poem",
+    "line": "219",
+    "text": "Then they call it <i>a</i><i> </i><i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i>!\""
+  },
+  {
+    "id": 272,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 273,
+    "kind": "poem",
+    "line": "220",
+    "text": "The king inclined his head in thought; he raised it up."
+  },
+  {
+    "id": 274,
+    "kind": "poem",
+    "line": "221",
+    "text": "\"You truly win the case,\" he said."
+  },
+  {
+    "id": 275,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 276,
+    "kind": "poem",
+    "line": "222",
+    "text": "\"Yes,\" he agreed, \"It is <i>a</i><i> </i><i>t</i><i>h</i><i>i</i><i>n</i><i>g</i><i> </i><i>W</i><i>e</i><i>l</i><i>l</i><i>-</i><i>s</i><i>p</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>o</i><i>f</i>.\""
+  },
+  {
+    "id": 277,
+    "kind": "poem",
+    "line": "223",
+    "text": "\"Father's going to court my mother,\" he said,"
+  },
+  {
+    "id": 278,
+    "kind": "poem",
+    "line": "224",
+    "text": "Was going to hunt <i>t</i><i>h</i><i>e</i><i> </i><i>t</i><i>h</i><i>i</i><i>n</i><i>g</i><i> </i><i>W</i><i>e</i><i>l</i><i>l</i><i>-</i><i>s</i><i>p</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>o</i><i>f</i>.\""
+  },
+  {
+    "id": 279,
+    "kind": "poem",
+    "line": "225",
+    "text": "\"When I was born they kissed me,\" he said,"
+  },
+  {
+    "id": 280,
+    "kind": "poem",
+    "line": "226",
+    "text": "\"They were kissing <i>t</i><i>h</i><i>e</i><i> </i><i>t</i><i>h</i><i>i</i><i>n</i><i>g</i><i> </i><i>W</i><i>e</i><i>l</i><i>l</i><i>-</i><i>s</i><i>p</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>o</i><i>f</i>.\""
+  },
+  {
+    "id": 281,
+    "kind": "poem",
+    "line": "227",
+    "text": "\"When father passed inside and I assumed the rule,\" he said, \"they honored me."
+  },
+  {
+    "id": 282,
+    "kind": "poem",
+    "line": "228",
+    "text": "They were honoring <i>t</i><i>h</i><i>e</i><i> </i><i>t</i><i>h</i><i>i</i><i>n</i><i>g</i><i> </i><i>W</i><i>e</i><i>l</i><i>l</i><i>-</i><i>s</i><i>p</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>o</i><i>f</i>.\""
+  },
+  {
+    "id": 283,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 284,
+    "kind": "poem",
+    "line": "229",
+    "text": "\"And it is truly <i>t</i><i>h</i><i>e</i><i> </i><i>P</i><i>l</i><i>u</i><i>n</i><i>d</i><i>e</i><i>r</i><i>e</i><i>r</i><i> </i><i>o</i><i>f</i><i> </i><i>c</i><i>a</i><i>t</i><i>t</i><i>l</i><i>e</i><i> </i><i>a</i><i>n</i><i>d</i><i> </i><i>t</i><i>h</i><i>e</i><i>i</i><i>r</i><i> </i><i>o</i><i>f</i><i>f</i><i>s</i><i>p</i><i>r</i><i>i</i><i>n</i><i>g</i><i>,</i>\" he said,"
+  },
+  {
+    "id": 285,
+    "kind": "poem",
+    "line": "230",
+    "text": "\"For when they demanded four cows in bridewealth,"
+  },
+  {
+    "id": 286,
+    "kind": "poem",
+    "line": "231",
+    "text": "They went. And those just born were carried with them."
+  },
+  {
+    "id": 287,
+    "kind": "poem",
+    "line": "232",
+    "text": "And when they demanded a white sheep for the clan spirit,\" he said,"
+  },
+  {
+    "id": 288,
+    "kind": "poem",
+    "line": "233",
+    "text": "It also went, and with it nines of cowries.\""
+  },
+  {
+    "id": 289,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 290,
+    "kind": "poem",
+    "line": "234",
+    "text": "\"And it is truly the <i>S</i><i>l</i><i>e</i><i>e</i><i>p</i><i>i</i><i>n</i><i>g</i><i>-</i><i>s</i><i>i</i><i>c</i><i>k</i><i>n</i><i>e</i><i>s</i><i>s</i><i>,</i><i> </i><i>K</i><i>i</i><i>l</i><i>l</i><i>e</i><i>r</i><i>-</i><i>o</i><i>f</i><i>-</i><i>c</i><i>a</i><i>t</i><i>t</i><i>l</i><i>e</i>,\" he said."
+  },
+  {
+    "id": 291,
+    "kind": "poem",
+    "line": "235",
+    "text": "It bears syphilis,"
+  },
+  {
+    "id": 292,
+    "kind": "poem",
+    "line": "235.1",
+    "text": " It bears gonorrhea,"
+  },
+  {
+    "id": 293,
+    "kind": "poem",
+    "line": "235.2",
+    "text": " It bears tertiary syphilis, whose pain cannot be spoken.\""
+  },
+  {
+    "id": 294,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 295,
+    "kind": "poem",
+    "line": "236",
+    "text": "\"How many judged you in the lower court?\" he asked."
+  },
+  {
+    "id": 296,
+    "kind": "poem",
+    "line": "237",
+    "text": "\"Ten officials judged me,\" she said,"
+  },
+  {
+    "id": 297,
+    "kind": "poem",
+    "line": "238",
+    "text": "\"And the royal kinsman was the eleventh.\""
+  },
+  {
+    "id": 298,
+    "kind": "poem",
+    "line": "239",
+    "text": "\"Let each official pay you ten,\" he said,"
+  },
+  {
+    "id": 299,
+    "kind": "poem",
+    "line": "240",
+    "text": "And let the royal kinsman pay fifteen."
+  },
+  {
+    "id": 300,
+    "kind": "poem",
+    "line": "241",
+    "text": "Calling it a <i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i> shows"
+  },
+  {
+    "id": 301,
+    "kind": "poem",
+    "line": "242",
+    "text": "They know nothing of the folding.\""
+  },
+  {
+    "id": 302,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 303,
+    "kind": "poem",
+    "line": "243",
+    "text": "\"How many judged you here?\" he asked."
+  },
+  {
+    "id": 304,
+    "kind": "poem",
+    "line": "244",
+    "text": "\"The elders numbered nine,\" she said. \"The Prime Minister was the tenth.\""
+  },
+  {
+    "id": 305,
+    "kind": "poem",
+    "line": "245",
+    "text": "\"Let every elder pay fifteen,\" he said."
+  },
+  {
+    "id": 306,
+    "kind": "poem",
+    "line": "246",
+    "text": "\"Let the Prime Minister bring you twenty-five.\""
+  },
+  {
+    "id": 307,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 308,
+    "kind": "poem",
+    "line": "247",
+    "text": "\"You man! You!\" he said,"
+  },
+  {
+    "id": 309,
+    "kind": "poem",
+    "line": "248",
+    "text": "\"The one who called it a <i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i>,"
+  },
+  {
+    "id": 310,
+    "kind": "poem",
+    "line": "249",
+    "text": "Lie down. They'll thrash you five and twenty.\""
+  },
+  {
+    "id": 311,
+    "kind": "poem",
+    "line": "250",
+    "text": "Down he lay. They thrashed him five and twenty."
+  },
+  {
+    "id": 312,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 313,
+    "kind": "poem",
+    "line": "251",
+    "text": "He arose and grasped the king's knees for mercy."
+  },
+  {
+    "id": 314,
+    "kind": "poem",
+    "line": "252",
+    "text": "\"Stand again,\" he said, \"Let me make it perfectly clear.\""
+  },
+  {
+    "id": 315,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 316,
+    "kind": "poem",
+    "line": "253",
+    "text": "\"So you'll know that you know nothing of <i>t</i><i>h</i><i>e</i><i> </i><i>f</i><i>o</i><i>l</i><i>d</i><i>i</i><i>n</i><i>g</i>,\" he said,"
+  },
+  {
+    "id": 317,
+    "kind": "poem",
+    "line": "254",
+    "text": "\"They'll boil <i>k</i><i>a</i><i>g</i><i>i</i><i>g</i><i>i</i> beans for you"
+  },
+  {
+    "id": 318,
+    "kind": "poem",
+    "line": "255",
+    "text": "And <i>s</i><i>h</i><i>o</i><i>l</i><i>o</i><i>s</i><i>i</i><i> </i>beans that are black."
+  },
+  {
+    "id": 319,
+    "kind": "poem",
+    "line": "256",
+    "text": "They'll cut <i>B</i><i>e</i><i>l</i><i>l</i><i>o</i><i>w</i><i>e</i><i>r</i><i> </i><i>e</i><i>n</i><i>s</i><i>h</i><i>a</i><i>n</i><i>k</i><i>a</i><i>l</i><i>a</i> plantains.\" he said,"
+  },
+  {
+    "id": 320,
+    "kind": "poem",
+    "line": "257",
+    "text": "And they'll cook you mole meat."
+  },
+  {
+    "id": 321,
+    "kind": "poem",
+    "line": "258",
+    "text": "You know nothing of <i>t</i><i>h</i><i>e</i><i> </i><i>f</i><i>o</i><i>l</i><i>d</i><i>i</i><i>n</i><i>g</i><i>.</i>\""
+  },
+  {
+    "id": 322,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 323,
+    "kind": "poem",
+    "line": "259",
+    "text": "A name he called–the husband who had followed after her."
+  },
+  {
+    "id": 324,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 325,
+    "kind": "poem",
+    "line": "260",
+    "text": "\"I call it <i>t</i><i>h</i><i>e</i><i> </i><i>t</i><i>h</i><i>i</i><i>n</i><i>g</i><i> </i><i>W</i><i>e</i><i>l</i><i>l</i><i>-</i><i>s</i><i>p</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>o</i><i>f</i><i>,</i>\" he declared,"
+  },
+  {
+    "id": 326,
+    "kind": "poem",
+    "line": "261",
+    "text": "<i>T</i><i>h</i><i>e</i><i> </i><i>S</i><i>l</i><i>e</i><i>e</i><i>p</i><i>i</i><i>n</i><i>g</i><i>-</i><i>s</i><i>i</i><i>c</i><i>k</i><i>n</i><i>e</i><i>s</i><i>s</i><i>,</i><i> </i><i>K</i><i>i</i><i>l</i><i>l</i><i>e</i><i>r</i><i>-</i><i>o</i><i>f</i><i>-</i><i>c</i><i>a</i><i>t</i><i>t</i><i>l</i><i>e</i><i>,</i>"
+  },
+  {
+    "id": 327,
+    "kind": "poem",
+    "line": "262",
+    "text": "<i>t</i><i>h</i><i>e</i><i> </i><i>P</i><i>l</i><i>u</i><i>n</i><i>d</i><i>e</i><i>r</i><i>e</i><i>r</i><i> </i><i>o</i><i>f</i><i> </i><i>c</i><i>a</i><i>t</i><i>t</i><i>l</i><i>e</i><i> </i><i>a</i><i>n</i><i>d</i><i> </i><i>t</i><i>h</i><i>e</i><i>i</i><i>r</i><i> </i><i>o</i><i>f</i><i>f</i><i>s</i><i>p</i><i>r</i><i>i</i><i>n</i><i>g</i><i>.</i>"
+  },
+  {
+    "id": 328,
+    "kind": "poem",
+    "line": "263",
+    "text": "I call it <i>t</i><i>h</i><i>e</i><i> </i><i>S</i><i>h</i><i>o</i><i>r</i><i>t</i><i> </i><i>f</i><i>a</i><i>c</i><i>e</i><i> </i><i>w</i><i>i</i><i>t</i><i>h</i><i> </i><i>a</i><i> </i><i>L</i><i>o</i><i>n</i><i>g</i><i> </i><i>n</i><i>o</i><i>s</i><i>e</i>.\""
+  },
+  {
+    "id": 329,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 330,
+    "kind": "poem",
+    "line": "264",
+    "text": "He said, \"You know the folding.\""
+  },
+  {
+    "id": 331,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 332,
+    "kind": "poem",
+    "line": "265",
+    "text": "\"They'll boil <i>k</i><i>a</i><i>m</i><i>w</i><i>a</i><i>m</i><i>i</i> beans for you,\" he said,"
+  },
+  {
+    "id": 333,
+    "kind": "poem",
+    "line": "266",
+    "text": "\"And <i>k</i><i>a</i><i>b</i><i>a</i><i>n</i><i>g</i><i>a</i><i> </i>beans that are white."
+  },
+  {
+    "id": 334,
+    "kind": "poem",
+    "line": "267",
+    "text": "They'll find you meat that's rich,\" he said,"
+  },
+  {
+    "id": 335,
+    "kind": "poem",
+    "line": "268",
+    "text": "\"My friend, I say rich kidney or the richest of the brisket.\""
+  },
+  {
+    "id": 336,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 337,
+    "kind": "poem",
+    "line": "269",
+    "text": "\"They'll cut you <i>e</i><i>n</i><i>s</i><i>h</i><i>a</i><i>n</i><i>s</i><i>h</i><i>a</i><i> </i>plantains.\" he said."
+  },
+  {
+    "id": 338,
+    "kind": "poem",
+    "line": "270",
+    "text": "Eat the <i>e</i><i>n</i><i>s</i><i>h</i><i>a</i><i>n</i><i>s</i><i>h</i><i>a</i><i> </i>plantains,"
+  },
+  {
+    "id": 339,
+    "kind": "poem",
+    "line": "271",
+    "text": "Because you called it <i>t</i><i>h</i><i>e</i><i> </i><i>t</i><i>h</i><i>i</i><i>n</i><i>g</i><i> </i><i>W</i><i>e</i><i>l</i><i>l</i><i>-</i><i>s</i><i>p</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>o</i><i>f</i>,"
+  },
+  {
+    "id": 340,
+    "kind": "poem",
+    "line": "272",
+    "text": "Eat the <i>e</i><i>n</i><i>s</i><i>h</i><i>a</i><i>n</i><i>s</i><i>h</i><i>a</i><i> </i>plantains,"
+  },
+  {
+    "id": 341,
+    "kind": "poem",
+    "line": "273",
+    "text": "Eat them, feel happy in all your body.\""
+  },
+  {
+    "id": 342,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 343,
+    "kind": "poem",
+    "line": "274",
+    "text": "\"But that <i>t</i><i>h</i><i>i</i><i>n</i><i>g</i><i> </i><i>W</i><i>e</i><i>l</i><i>l</i><i>-</i><i>s</i><i>p</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>o</i><i>f</i>,\" he said,"
+  },
+  {
+    "id": 344,
+    "kind": "poem",
+    "line": "275",
+    "text": "\"<i>T</i><i>h</i><i>e</i><i> </i><i>S</i><i>l</i><i>e</i><i>e</i><i>p</i><i>i</i><i>n</i><i>g</i><i>-</i><i>s</i><i>i</i><i>c</i><i>k</i><i>n</i><i>e</i><i>s</i><i>s</i><i>,</i><i> </i><i>K</i><i>i</i><i>l</i><i>l</i><i>e</i><i>r</i><i>-</i><i>o</i><i>f</i><i>-</i><i>c</i><i>a</i><i>t</i><i>t</i><i>l</i><i>e</i>,\""
+  },
+  {
+    "id": 345,
+    "kind": "poem",
+    "line": "276",
+    "text": "What caused its great misfortune was–\" he said,"
+  },
+  {
+    "id": 346,
+    "kind": "poem",
+    "line": "277",
+    "text": "\"Its roar was diminished by its downward turn."
+  },
+  {
+    "id": 347,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 348,
+    "kind": "poem",
+    "line": "278",
+    "text": "Had they suspended it"
+  },
+  {
+    "id": 349,
+    "kind": "poem",
+    "line": "279",
+    "text": "Say, high upon the mountain at Ilogelo,"
+  },
+  {
+    "id": 350,
+    "kind": "poem",
+    "line": "280",
+    "text": "And had they put a drumstick to it,"
+  },
+  {
+    "id": 351,
+    "kind": "poem",
+    "line": "281",
+    "text": "Its call would have been greater than the drum's.\""
+  },
+  {
+    "id": 352,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  }
+]

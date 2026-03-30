@@ -1,0 +1,1226 @@
+[
+  {
+    "type": "verse",
+    "line": 1,
+    "line_end": 5,
+    "id": 1,
+    "time": 6.28,
+    "note": "stanza in <b>aabb</b> - with one line (2) the result of a repetition for emphasis - formed by contrast between a couplet that coheres by chained repetition (1-3) and one that coheres by parallelism.",
+    "id_ref": 1
+  },
+  {
+    "type": "note",
+    "line": 4,
+    "line_end": null,
+    "id": 4,
+    "time": 17.05,
+    "note": "Spoke royally, the Creator: Special vocabularies describe activities and attributes of kings (and of brides and spirit mediums); the singer puns on the word <i>oku-hanga</i>, which means &quot;to create&quot; in most contexts, including the king&#x27;s praise name, and can also mean &quot;to speak&quot; when its subject is royal.",
+    "id_ref": 4
+  },
+  {
+    "type": "verse",
+    "line": 6,
+    "line_end": 17,
+    "id": 7,
+    "time": 22.27,
+    "note": "verse of two compound stanzas (6-11 and 12-17), both <b>aab</b>, 2 + 2 + 2; the first compound stanza (6-11) is formed by contrast between couplets that cohere by chained repetition and a parallelism created by the second line of each being composed as name + praisename (6-7 and 8-9) and a couplet (10-11) that coheres by repetition of a form of <i>oku-hanula</i> (&quot;to counsel&quot;) in final position; the second compound stanza (12-17) is formed by contrast between couplets that cohere by parallelism lexical repetition (12-13, 14-15) and one that seems not to cohere; the verse coheres by virtue of the repeated, structurally similar six line units, and by virtue of the fact that the final line of each (11, 17) begins with the repeated commonplace <i>Kil&#x27; ek-</i>, &quot;this day&quot;; the verse is finalized by repeating the adverb <i>bwoli</i>, &quot;truly&quot;at the end of the last line.",
+    "id_ref": 7
+  },
+  {
+    "type": "note",
+    "line": 13,
+    "line_end": null,
+    "id": 15,
+    "time": 39.26,
+    "note": "Among the Balwani: = at the guardhouse; in Kyamutwala kingdom the Balwani clan provided guardians to the king.",
+    "id_ref": 15
+  },
+  {
+    "type": "note",
+    "line": 16,
+    "line_end": null,
+    "id": 18,
+    "time": 49.01,
+    "note": "Kaboneke: Literally, &quot;may it appear,&quot; is the most polite way to answer being called or addressed. {Sun}: a praise name for the king.",
+    "id_ref": 18
+  },
+  {
+    "type": "note",
+    "line": 18,
+    "line_end": null,
+    "id": 23,
+    "time": 63.82,
+    "note": "Banoina: Lushuli seems to have been a slip of the tongue. {Asked no other word}: not literally, as the following line shows; this often repeated phrase indicates single-minded resolve - one asks no other questions of oneself.",
+    "id_ref": 23
+  },
+  {
+    "type": "verse",
+    "line": 18,
+    "line_end": 21,
+    "id": 23,
+    "time": 63.82,
+    "note": "stanza in <b>abbc</b> formed by incremental repetition of the verb <i>oku-kwata</i>, &quot;to take hold of&quot;inflected in a relative form and parallelism created by composition as noun phrase (relative verb) + address + pronoun in the two middle lines (19-20);",
+    "id_ref": 23
+  },
+  {
+    "type": "note",
+    "line": 22,
+    "line_end": null,
+    "id": 28,
+    "time": 74.51,
+    "note": "Muhyoza: (pl. bahyoza) the name collectively applied to the inhabitants of Kyamutwala kingdom.",
+    "id_ref": 28
+  },
+  {
+    "type": "verse",
+    "line": 22,
+    "line_end": 25,
+    "id": 28,
+    "time": 74.51,
+    "note": "stanza in <b>abab</b> formed by contrast between lines that begin with interrogatives (<b>a</b>&#x27;s: 22,24) and those that end with a praisename (<b>b</b>&#x27;s: 23,25).",
+    "id_ref": 28
+  },
+  {
+    "type": "note",
+    "line": 23,
+    "line_end": null,
+    "id": 29,
+    "time": 77.23,
+    "note": "Nyamugenya: a commonly heard praise, but apparantly its meaning has been forgotton.",
+    "id_ref": 29
+  },
+  {
+    "type": "note",
+    "line": 25,
+    "line_end": null,
+    "id": 31,
+    "time": 81.78,
+    "note": "Hunter-of-the-Steppes: praise name for Kaitaba, the king. {Salute}: Greetings are important markers and acknowledgements of rank and Kaitaba&#x27;s complaint foreshadows the vulnerability he later shows to status insult. Although historically a powerful ruler, he was not a member of the Hinda clan that held legitimate power in other kingdoms of Hayaland.",
+    "id_ref": 31
+  },
+  {
+    "type": "verse",
+    "line": 30,
+    "line_end": 40,
+    "id": 38,
+    "time": 94.8,
+    "note": "verse in <b>aba&#x27;</b> of three linegroups that cohere by incremental repetition; the first linegroup of three lines is apparantly a truncated quatrain (30-32); the other two are full quatrains; the first and third linegroups are almost identical, except for truncation and the fact they are framed as quoted speech and narration, respectively; it seems if the first linegroup were a full quatrain it would be linked to the second by incremantel repetition also; the final line of the final linegroup finalizes the figure with the standard phrase &quot;that day&quot;; second quatrain (33-36) is a stanza in <b>aaab</b> formed by contrast between lines that begin with a verb inflected in the first person plural and a line with no verb consisting of a praisename.",
+    "id_ref": 38
+  },
+  {
+    "type": "note",
+    "line": 32,
+    "line_end": null,
+    "id": 40,
+    "time": 101.32,
+    "note": "Roan Bull: praise name for one of Kaitaba&#x27;s royal drums.",
+    "id_ref": 40
+  },
+  {
+    "type": "note",
+    "line": 33,
+    "line_end": null,
+    "id": 42,
+    "time": 104.57,
+    "note": "Obliterator-of-Borders: another drum praise name.",
+    "id_ref": 42
+  },
+  {
+    "type": "note",
+    "line": 35,
+    "line_end": null,
+    "id": 44,
+    "time": 111.32,
+    "note": "Go to war: the Bahyoza&#x27;s love of battle is legendary.",
+    "id_ref": 44
+  },
+  {
+    "type": "verse",
+    "line": 41,
+    "line_end": 44,
+    "id": 52,
+    "time": 127.78,
+    "note": "stanza in <b>abab</b> formed by contrast between lines that are constructed as verb initial + subject (<b>a</b>&#x27;s: 41, 43) and lines that consist of the subject&#x27;s praisename (<b>b</b>&#x27;s: 42, 44).",
+    "id_ref": 52
+  },
+  {
+    "type": "verse",
+    "line": 41,
+    "line_end": 61,
+    "id": 52,
+    "time": 127.78,
+    "note": "verse in <b>aab</b> of three linegroups (41-49, 50-55, 56-61) with mirrored structure; each linegroup consists of couplets composed as verb initial/ 0verb appositive or praisename of the previous line&#x27;s subject, a pattern that is varied to create finalizations; the three linegroups share virtually the same final line (49, 55, and 61), which alters the couplet pattern just noted and finalizes each linegroup; the first linegroup is somewhat irregular and is the result, I believe, both of an expansion of the pattern clearly evident in the succeeding linegroups and of the noted interruption in the performance; if we regard lines 43-45 as expansions of the pattern, perhaps truncated by interruption, then the pattern of the verse can be seen as consisting of three six-line stanzas constructed as mirror images of one another (41-42 + 46-49, 50-55 and 56- 61); based on couplets composed as verb initial/ 0verb, the six line stanza has the following pattern: initial verb of attendance (or hearing) + proper noun/ praise/ interrogative form of &quot;to be&quot;/ address or praise of King/ initial imperative/ final line essentially repeated; the first two stanzas are finalized by the third (56-61), which varies the pattern by being composed solely of the alternation - inital verb of attendance + proper noun/ praise - except for its final line, which it shares with the other stanzas; it also introduces and repeats <i>teka</i> &quot;assemble&quot;in alternating lines, a verb that links this final and finalizing stanza to the stanza that follows.",
+    "id_ref": 52
+  },
+  {
+    "type": "note",
+    "line": 43,
+    "line_end": null,
+    "id": 54,
+    "time": 132.57,
+    "note": "Kabale: the traditional seat of Kyamutwala rule.",
+    "id_ref": 54
+  },
+  {
+    "type": "note",
+    "line": 45,
+    "line_end": null,
+    "id": 57,
+    "time": 137.31,
+    "note": "Leper: praise name for a drum used to signal the onset of war.",
+    "id_ref": 57
+  },
+  {
+    "type": "note",
+    "line": 50,
+    "line_end": null,
+    "id": 66,
+    "time": 170.27,
+    "note": "Troop: Regionally organized troops (<i>emiteeko</i><i>) </i>provided military and other forms of service to the kings; a form of age-grade education brought young men to the palace for periods of training and labor.",
+    "id_ref": 66
+  },
+  {
+    "type": "note",
+    "line": 53,
+    "line_end": null,
+    "id": 69,
+    "time": 182.28,
+    "note": "Smudge fire: When they return from pasture, cattle are traditionally made to pass over a smoky fire to drive away insects; an especially brave, strong-willed bull might act out his dislike of this by stamping on the burning brush.",
+    "id_ref": 69
+  },
+  {
+    "type": "note",
+    "line": 60,
+    "line_end": null,
+    "id": 77,
+    "time": 210.53,
+    "note": "Mirth-makers: literally, &quot;He who causes all to laugh,&quot; that is, makes all (except the enemy) happy with their military exploits.",
+    "id_ref": 77
+  },
+  {
+    "type": "verse",
+    "line": 62,
+    "line_end": 65,
+    "id": 80,
+    "time": 214.87,
+    "note": "stanza in <b>abab</b> formed by contrast between lines with verb initial (<b>a</b>&#x27;s: 62, 64) and those with 0verb (<b>b</b>&#x27;s: 63, 65); note the conrast with previous figure in 0verb line begins with preposition (63) and the second verb initial is inflected to refer to King rather than followers (64); prepositional constructions and royal subject are expanded in the following stanza.",
+    "id_ref": 80
+  },
+  {
+    "type": "note",
+    "line": 63,
+    "line_end": null,
+    "id": 81,
+    "time": 217.63,
+    "note": "Kabahula: apparantly the place where announcements were made;<i>kabahule</i><i> </i>means &quot;let them hear.&quot;",
+    "id_ref": 81
+  },
+  {
+    "type": "verse",
+    "line": 66,
+    "line_end": 69,
+    "id": 85,
+    "time": 225.13,
+    "note": "stanza in <b>aa</b>a<b>b</b> by virtue of contrast between lines that include a prepositional particles and palace locations, and one that does not.",
+    "id_ref": 85
+  },
+  {
+    "type": "note",
+    "line": 67,
+    "line_end": null,
+    "id": 86,
+    "time": 228.44,
+    "note": "Fire: see note to line 53.",
+    "id_ref": 86
+  },
+  {
+    "type": "note",
+    "line": 68,
+    "line_end": null,
+    "id": 87,
+    "time": 231.52,
+    "note": "Iron bars: chimes hung on the gate to the palace forecourt to signal its movement.",
+    "id_ref": 87
+  },
+  {
+    "type": "note",
+    "line": 69,
+    "line_end": null,
+    "id": 88,
+    "time": 233.77,
+    "note": "Did not question: see note to line 18",
+    "id_ref": 88
+  },
+  {
+    "type": "verse",
+    "line": 70,
+    "line_end": 73,
+    "id": 90,
+    "time": 236.36,
+    "note": "stanza in <b>abbb</b> by virtue of contrast between lines that have bodypart initial (71-73) and one that does not (70); figure could also be <b>aabb</b> composed of couplets that cohere by enjambment (70-71) and parallelism (72-73) respactively.",
+    "id_ref": 90
+  },
+  {
+    "type": "verse",
+    "line": 74,
+    "line_end": 79,
+    "id": 95,
+    "time": 246.38,
+    "note": "compound stanza in <b>aab</b> of three couplets composed as greeting + praisename/ shared last line; the final couplet (78-79) finalizes the figure by transforming the composition: greeting is narrated rather than quoted, praisename is that of the speaker rather than that of the addressee, and the last line has added words.",
+    "id_ref": 95
+  },
+  {
+    "type": "verse",
+    "line": 80,
+    "line_end": 85,
+    "id": 102,
+    "time": 261.82,
+    "note": "compound stanza in <b>aba&#x27;</b> of three couplets; formed by contrast between couplets that cohere by enjambment (<b>a</b>&#x27;s:80-81, 84-85) and one that coheres by parallelism and repetition (82-83).",
+    "id_ref": 102
+  },
+  {
+    "type": "note",
+    "line": 84,
+    "line_end": null,
+    "id": 106,
+    "time": 269.08,
+    "note": "Sorgham: the principal ingredient for beer; the lack of land for its cultivation is said to be a problem in Kyamutwala. A major part of the hospitality expected from kings by their subjects was beer, and its absence here has prevented the regular palace attendance expected of respectful subjects.",
+    "id_ref": 106
+  },
+  {
+    "type": "note",
+    "line": 85,
+    "line_end": null,
+    "id": 107,
+    "time": 274.12,
+    "note": "Kyatulambala: the causitive form, <i>kyatulambaza</i><i>, </i>is said to be more correct here.",
+    "id_ref": 107
+  },
+  {
+    "type": "verse",
+    "line": 86,
+    "line_end": 89,
+    "id": 109,
+    "time": 276.8,
+    "note": "stanza composed, alternately, in <b>aabb</b> as two couplets that cohere by parallelism and repetition (<b>a</b>&#x27;s: 86-87) and by parallelism alone (2nd person plural verb initial) and enjambment; or in <b>aa</b>a<b>b</b> formed by contrast between lines that have a double verb (to be + main verb) in past perfect in (near) initial position (<b>a</b>&#x27;s:86-88) and a single line that begins with a single negative verb (<b>b</b>:89).",
+    "id_ref": 109
+  },
+  {
+    "type": "verse",
+    "line": 90,
+    "line_end": 93,
+    "id": 114,
+    "time": 287.84000000000003,
+    "note": "stanza in <b>abab</b> of two couplets that both cohere by chaining of an already repeated word.",
+    "id_ref": 114
+  },
+  {
+    "type": "verse",
+    "line": 94,
+    "line_end": 99,
+    "id": 119,
+    "time": 297.37,
+    "note": "stanza: <b>aa</b>a<b>bb</b>b in six lines formed by contrast between lines composed as &quot;tell&quot; + praisename (<b>a</b>&#x27;s: 94-96) and lines composed as praisename alone (<b>b</b>&#x27;s: 97-99).",
+    "id_ref": 119
+  },
+  {
+    "type": "note",
+    "line": 99,
+    "line_end": null,
+    "id": 124,
+    "time": 310.62,
+    "note": "this last line of praise is not completely clear in meaning.",
+    "id_ref": 124
+  },
+  {
+    "type": "verse",
+    "line": 100,
+    "line_end": 105,
+    "id": 126,
+    "time": 313.43,
+    "note": "compound stanza in <b>aab</b> of three couplets; formed by contrast between couplets that begin with a locutive (<b>a</b>&#x27;s:100-101, 102-103) and one that does not (<b>b</b>:104-105); the first couplet coheres by apposition, the second by parallelism and repetition, and the third by parallelism alone (3rd plural verb in near past in initial position); formed after 80-85",
+    "id_ref": 126
+  },
+  {
+    "type": "note",
+    "line": 101,
+    "line_end": null,
+    "id": 127,
+    "time": 316.12,
+    "note": "Kitekele: Kaitaba&#x27;s father and previous king of Kyamutwala. {Luyobya}: king of Kiziba at that time.",
+    "id_ref": 127
+  },
+  {
+    "type": "verse",
+    "line": 106,
+    "line_end": 119,
+    "id": 133,
+    "time": 328.83,
+    "note": "verse of mirror stanzas (106-113 and 114-119) formed by repetition; the first linegroups (106-109 and 114-115) share an initial formulaic phrase &quot;he did not ask another word&quot;; the second linegroups (110-111 and 115-116) both begin with the root <i>/</i><i>genda</i><i>/ </i>&quot;go&quot; (first position, first line) and end with &quot;Kaiyula,&quot; a woman&#x27;s name (final position, final line), and both couplets cohere by virtue of verb initial parallelism; the third linegroups (112-113 and 118-119) share initial locutives and final words.",
+    "id_ref": 133
+  },
+  {
+    "type": "note",
+    "line": 115,
+    "line_end": null,
+    "id": 143,
+    "time": 351.65999999999997,
+    "note": "The sequence of tenses suggests alacrity and its consequences: beginning with the unmarked <i>-a- </i>past, the movement is fixed in time with the<i> -ka-</i>, and then completed with the <i>-</i><i>ile</i><i> </i>perfect. The following line picks up the string of the narraitve again with the unmarked<i> -a-.</i>",
+    "id_ref": 143
+  },
+  {
+    "type": "verse",
+    "line": 120,
+    "line_end": 123,
+    "id": 149,
+    "time": 374.9,
+    "note": "stanza in <b>aabb</b> of couplets that cohere by apposition and chaining, respectively.",
+    "id_ref": 149
+  },
+  {
+    "type": "verse",
+    "line": 124,
+    "line_end": 127,
+    "id": 154,
+    "time": 384.64,
+    "note": "stanza in <b>a</b>a<b>ba</b><b>&#x27;</b> formed by contrast between lines that have verb initial (<b>a</b>&#x27;s: 124, 125, 127) and one line that has no verb (<b>b</b>: 126).",
+    "id_ref": 154
+  },
+  {
+    "type": "verse",
+    "line": 128,
+    "line_end": 131,
+    "id": 159,
+    "time": 394.65,
+    "note": "stanza in <b>abac</b> formed by contrast between lines whose final word is repeated three times (<b>a</b>&#x27;s: 128, 130) and lines that lack this feature; the stanza is composed of couplets that cohere by enjambment and apposition, respectively.",
+    "id_ref": 159
+  },
+  {
+    "type": "verse",
+    "line": 132,
+    "line_end": 135,
+    "id": 164,
+    "time": 405.15,
+    "note": "four lines of praisenames",
+    "id_ref": 164
+  },
+  {
+    "type": "verse",
+    "line": 136,
+    "line_end": 139,
+    "id": 169,
+    "time": 416.06,
+    "note": "stanza in <b>aa</b>a<b>b</b> formed by contrast between lines that begin with locutives and consist of quoted discourse (<b>a</b>&#x27;s: 136-138) and a line that does neither (<b>b</b>: 139); alternately, the stanza can be read as <b>aabb</b> formed by couplets that cohere by repetition: of &quot;my wife&quot; (<b>a</b>&#x27;s: 136-137) and of &quot;greet&quot; (<b>b</b>&#x27;s: 138-139).",
+    "id_ref": 169
+  },
+  {
+    "type": "verse",
+    "line": 140,
+    "line_end": 143,
+    "id": 174,
+    "time": 426.37,
+    "note": "stanza in <b>abab</b> formed by contrast between lines that have no verb (<b>a</b>&#x27;s: 140, 142) and lines that have one (<b>b</b>&#x27;s: 141, 143).",
+    "id_ref": 174
+  },
+  {
+    "type": "verse",
+    "line": 144,
+    "line_end": 147,
+    "id": 179,
+    "time": 436.37,
+    "note": "stanza in <b>ab</b>b<b>a&#x27;</b> formed by contrast between lines in which the verb is (near) initial and precedes its direct object (<b>a</b>&#x27;s: 144, 147) and lines in which the direct object is initial and precedes its verb, which may be present or implied (<b>b</b>&#x27;s: 145, 146).",
+    "id_ref": 179
+  },
+  {
+    "type": "verse",
+    "line": 148,
+    "line_end": 151,
+    "id": 184,
+    "time": 446.46,
+    "note": "stanza in <b>abab</b> formed by couplets that cohere by chaining and chained placenames.",
+    "id_ref": 184
+  },
+  {
+    "type": "verse",
+    "line": 152,
+    "line_end": 155,
+    "id": 189,
+    "time": 456.7,
+    "note": "stanza in <b>abab</b> formed by contrast between lines that consist of a place designation (<b>a</b>&#x27;s: 152, 154) and lines that consist of a formulaic phrase (<b>b</b>&#x27;s: 153, 155); couplets cohere by enjambment.",
+    "id_ref": 189
+  },
+  {
+    "type": "verse",
+    "line": 156,
+    "line_end": 172,
+    "id": 194,
+    "time": 466.7,
+    "note": "verse passage in <b>abab</b> of 4 stanzas formed by contrast between stanzas in <b>aab</b> (<b>a</b>&#x27;s: 156-158, 163-166) and stanzas in <b>abab</b> (<b>b</b>&#x27;s: 159-162, 167-172); in all stanzas, <b>a</b>&#x27;s are lines that include placenames but no verbs and <b>b</b>&#x27;s are lines that begin with &quot;I saw&quot; (the single exception being 168) followed by a verb inflected in 3rd person near past; in the stanzas formed as <b>aab</b> (156-158, 163-166), 2 or 3 type <b>a</b> lines are finalized by a single type <b>b</b>; in stanzas formed as <b>abab</b> (159-162, 167-172), the types alternate.",
+    "id_ref": 194
+  },
+  {
+    "type": "verse",
+    "line": 173,
+    "line_end": 177,
+    "id": 215,
+    "time": 512.0,
+    "note": "173-177.1: compound stanza in <b>ab</b>b<b>a&#x27;</b>, 1 + 2 + 2 + 1, formed by contrast between single formulaic lines (<b>a</b>&#x27;s: 173, 177.1) and couplets that cohere by apposition of praise and of description, respectively (<b>b</b>&#x27;s: 174-175 and 176-177).",
+    "id_ref": 215
+  },
+  {
+    "type": "verse",
+    "line": 178,
+    "line_end": 181,
+    "id": 222,
+    "time": 526.41,
+    "note": "stanza in <b>ab</b>b<b>a&#x27;</b> formed by contrast between lines composed as adverbial (of place or time) + main verb (<b>a</b>&#x27;s: 178, 181) and lines that end with &quot;Balongo,&quot;the officer&#x27;s name (<b>b</b>&#x27;s: 179, 180).",
+    "id_ref": 222
+  },
+  {
+    "type": "verse",
+    "line": 182,
+    "line_end": 185,
+    "id": 227,
+    "time": 536.37,
+    "note": "stanza in <b>aabb</b><b> </b>formed by couplets that cohere by repetition, respectively of /<i>luga</i>/ &quot;come from&quot;in initial position (<b>a</b>&#x27;s: 182-183) and /<i>lamya</i>/ &quot;salute royally&quot; in final position (<b>b</b>&#x27;s: 184-185).",
+    "id_ref": 227
+  },
+  {
+    "type": "verse",
+    "line": 186,
+    "line_end": 189,
+    "id": 232,
+    "time": 547.0,
+    "note": "stanza in <b>aab</b> formed by contrast between lines that have a verb initial (<b>a</b>&#x27;s: 186-188) and a single line that has no verb (<b>b</b>:189)",
+    "id_ref": 232
+  },
+  {
+    "type": "note",
+    "line": 189,
+    "line_end": null,
+    "id": 235,
+    "time": 553.19,
+    "note": "Ancient Boar: praise of Kaitaba; a boar grows ancient by defeating hunters. {Makes hunters wary}: Wild pigs are often hunted in dense, high elephant grass, so that a hunter may have to confront quite suddenly and alone a large, angry boar.",
+    "id_ref": 235
+  },
+  {
+    "type": "verse",
+    "line": 192,
+    "line_end": 197,
+    "id": 240,
+    "time": 561.35,
+    "note": "compound stanza in <b>aba&#x27;</b>, 2 + 2 + 2, formed by contrast between couplets that are composed as locutive initial.../0verb and cohere by enjambment (<b>a</b>&#x27;s: 192-193, 196-197) and a single couplet that is composed as locutive initial.../NP+VP and coheres semantically as request/ justification (<b>b</b>:194-195).",
+    "id_ref": 240
+  },
+  {
+    "type": "verse",
+    "line": 198,
+    "line_end": 201,
+    "id": 249,
+    "time": 591.27,
+    "note": "stanza in <b>aab</b> formed - after a formulaic line (198) that links the stanza to the pattern of call-and-response between king and visitors (173, 186) - by contrast between lines that begin with a 3rd person plural verb and contain two such verbs and a single line that begins similarly, but contains only one such verb.",
+    "id_ref": 249
+  },
+  {
+    "type": "verse",
+    "line": 202,
+    "line_end": 211,
+    "id": 254,
+    "time": 600.39,
+    "note": "compound stanza in <b>aab</b>, 2 + 2 + 2 + 2 + 2, formed by: contrast between couplets composed as ...placename.../ repeated phrase (&quot;Let them turn it to bare earth,&quot;<b>a</b>&#x27;s: 202-203, 204-205, 206-207, 208-209) and a single couplet composed as ...placename/ synonymous phrase (&quot;let them redden it quite red,&quot;<b>b</b>: 210-211).",
+    "id_ref": 254
+  },
+  {
+    "type": "note",
+    "line": 211,
+    "line_end": null,
+    "id": 263,
+    "time": 623.63,
+    "note": "Redden: That is, to cultivate the land for planting and reveal the red clay earth.",
+    "id_ref": 263
+  },
+  {
+    "type": "verse",
+    "line": 212,
+    "line_end": 215,
+    "id": 265,
+    "time": 626.1,
+    "note": "stanza that coheres by initial 3rd plural verbs and seems to be in <b>abab</b>, formed by contrast between lines composed of Verb + Substantive (<b>a</b>&#x27;s: 212, 214, verb + subject and verb + direct object, respectively) and lines composed as Verb + non-substative (<b>b</b>&#x27;s: 213, 215, verb + prepositional phrase and verb + infinitive, respectively).",
+    "id_ref": 265
+  },
+  {
+    "type": "verse",
+    "line": 216,
+    "line_end": 225,
+    "id": 270,
+    "time": 635.6,
+    "note": "compound stanza (2 + (2 + 2 + 2) + 2) in <b>aba&#x27;</b> formed by contrast between couplets that cohere by a chained repetition of lima &quot;cultivate&quot; (<b>a</b>&#x27;s: 216-217, 224-225) and three intervening couplets formed into a stanzaic pattern of <b>aab</b>, repeating the compositional features of 202-211 (<b>b</b>&#x27;s: 218-219, 220-221, 222-223).",
+    "id_ref": 270
+  },
+  {
+    "type": "verse",
+    "line": 226,
+    "line_end": 229,
+    "id": 281,
+    "time": 659.85,
+    "note": "stanza in <b>aab</b> formed by semantic contrast between lines that describe a customary series of events (<b>a</b>&#x27;s: 226-228, cultivate, plant, weed, ripen) and a single line that describes an unexpected outcome (<b>b</b>: 229, the cultivators steal).",
+    "id_ref": 281
+  },
+  {
+    "type": "verse",
+    "line": 230,
+    "line_end": 233,
+    "id": 286,
+    "time": 669.64,
+    "note": "stanza that coheres by enjambment.",
+    "id_ref": 286
+  },
+  {
+    "type": "verse",
+    "line": 234,
+    "line_end": 243,
+    "id": 291,
+    "time": 678.86,
+    "note": "two stanzas (234-239, 240-243) that mirror one another through repetition and paraphrase; each stanza has three parts; the first corresponding part is a couplet (a:234-235 and 240-241) associated by paraphrasing of &quot;go&quot;and &quot;summon&quot; (234, 240) and repeating the proper name (235, 241) and is doubled in the first stanza (236-237); the second corresponding part is a couplet (238-239 and 242-243) whose first lines repeat the stems &quot;come,&quot;&quot;remove,&quot;and &quot;witchcraft&quot; (238,242) and whose final lines diverge (239, 243).",
+    "id_ref": 291
+  },
+  {
+    "type": "verse",
+    "line": 244,
+    "line_end": 247,
+    "id": 303,
+    "time": 704.4,
+    "note": "after a figure that compounds repetition with double verb and chained repetition (244-245), there is a stanza in <b>abab</b> created by repetition and parallelism (245-247).",
+    "id_ref": 303
+  },
+  {
+    "type": "verse",
+    "line": 248,
+    "line_end": 251,
+    "id": 308,
+    "time": 713.98,
+    "note": "stanza in <b>abab</b> formed by contrast between lines that consist of dependant clauses beginning in Ka- &quot;when&quot; (<b>a</b>&#x27;s: 248, 250) and lines that consist of main clauses (<b>b</b>&#x27;s: 249, 251).",
+    "id_ref": 308
+  },
+  {
+    "type": "note",
+    "line": 252,
+    "line_end": null,
+    "id": 314,
+    "time": 723.44,
+    "note": "Slasher: That is, one who divides an enemy&#x27;s herd to drive it off as spoils. It appears this is a praise name made for the nonce, as the elision between noun and verb falls on the verbal ending rather than on the pre-prefix of the noun; thus, it is translated without hyphens.",
+    "id_ref": 314
+  },
+  {
+    "type": "verse",
+    "line": 252,
+    "line_end": 255,
+    "id": 314,
+    "time": 723.44,
+    "note": "stanza in <b>abab</b> by repetition and parallelism.",
+    "id_ref": 314
+  },
+  {
+    "type": "verse",
+    "line": 256,
+    "line_end": 259,
+    "id": 319,
+    "time": 734.05,
+    "note": "stanza in <b>aabb</b> with couplets coherent by parallelism and repetition",
+    "id_ref": 319
+  },
+  {
+    "type": "note",
+    "line": 257,
+    "line_end": null,
+    "id": 320,
+    "time": 736.18,
+    "note": "Bugengele: A village in Kihanja kingdom. This foreshadows events to come - he already has Kihanja on his mind.",
+    "id_ref": 320
+  },
+  {
+    "type": "verse",
+    "line": 260,
+    "line_end": 263,
+    "id": 324,
+    "time": 743.32,
+    "note": "stanza alternately in <b>abbc</b> formed by contrast between lines that begin with a verb inflected as a relative (<b>b</b>&#x27;s: 261, 262) and lines that do not, and in <b>aabb</b> formed by couplets that cohere syntactically by enjambment (260-261) and semantically by cause and effect (262-263).",
+    "id_ref": 324
+  },
+  {
+    "type": "verse",
+    "line": 264,
+    "line_end": 267,
+    "id": 329,
+    "time": 753.92,
+    "note": "stanza in <b>aa</b>a<b>b</b> formed by contrast between lines that cohere by enjambment (264-266) and a marked single line that stands alone and begins with three similarly inflected verbs and ends with an adverbial repeated three times.",
+    "id_ref": 329
+  },
+  {
+    "type": "verse",
+    "line": 267,
+    "line_end": 269,
+    "id": 332,
+    "time": 760.01,
+    "note": "note bwoli on either side of enanga solo (see 17, 21)",
+    "id_ref": 332
+  },
+  {
+    "type": "verse",
+    "line": 270,
+    "line_end": 277,
+    "id": 339,
+    "time": 782.74,
+    "note": "two stanzas (270-273, 274-277) that cohere by repetition and parallalism and are similarly formed in <b>aa</b>a<b>b</b>; the first stanza is formed in <b>aa</b>a<b>b</b> by contrast between one line that has an indicative verb (<b>b</b>: 273) and three lines that do not (<b>a</b>&#x27;s: 270-272); the second stanza is formed in <b>aa</b>a<b>b</b> by contrast between one line that repeats a line from the previous stanza (<b>b</b>: 277), and three lines that do not (<b>a</b>&#x27;s: 274-276).",
+    "id_ref": 339
+  },
+  {
+    "type": "verse",
+    "line": 278,
+    "line_end": 281,
+    "id": 349,
+    "time": 802.68,
+    "note": "stanza in <b>a</b>a<b>ba</b><b>&#x27;</b> formed by contrast between lines in which agali &quot;[the news] of&quot;is explicit (<b>a</b>&#x27;s: 278, 279, 281) and one in which it is implied (<b>b</b>: 280)",
+    "id_ref": 349
+  },
+  {
+    "type": "note",
+    "line": 283,
+    "line_end": null,
+    "id": 355,
+    "time": 814.98,
+    "note": "Muhamba: Collective name for residents of Kihanja kingdom.",
+    "id_ref": 355
+  },
+  {
+    "type": "verse",
+    "line": 284,
+    "line_end": 288,
+    "id": 357,
+    "time": 817.5,
+    "note": "stanza in <b>ab</b>a<b>ab</b> formed by contrast between lines that are composed as juma &quot;insult&quot; + personal name (or reversed, <b>a</b>&#x27;s: 284, 286, 287) and lines that are composed solely of praisenames (285, 288).",
+    "id_ref": 357
+  },
+  {
+    "type": "note",
+    "line": 287,
+    "line_end": null,
+    "id": 360,
+    "time": 827.34,
+    "note": "Kahigi: King of Kihanja kingdom.",
+    "id_ref": 360
+  },
+  {
+    "type": "note",
+    "line": 289,
+    "line_end": null,
+    "id": 363,
+    "time": 832.25,
+    "note": "Kabale: the location of Kaitaba&#x27;s palace, seat of Kyamutwala kingdom.",
+    "id_ref": 363
+  },
+  {
+    "type": "verse",
+    "line": 289,
+    "line_end": 292,
+    "id": 363,
+    "time": 832.25,
+    "note": "stanza in <b>aabb</b> formed by couplets, that both begin with locutives and cohere by enjambment; the first also coheres by repetition of twalila &quot;rule&quot; (<b>a</b>&#x27;s: 289-290) and the second by the occcurrence of praisemames (<b>b</b>&#x27;s: 291-292).",
+    "id_ref": 363
+  },
+  {
+    "type": "note",
+    "line": 290,
+    "line_end": null,
+    "id": 364,
+    "time": 835.02,
+    "note": "Mayondwe: location of Kahigi&#x27;s palace, seat of Kihanja kingdom.",
+    "id_ref": 364
+  },
+  {
+    "type": "note",
+    "line": 292,
+    "line_end": null,
+    "id": 366,
+    "time": 839.48,
+    "note": "He-who-Speaks-with-Bullish-Roar: praise name refers to Kaitaba.",
+    "id_ref": 366
+  },
+  {
+    "type": "note",
+    "line": 293,
+    "line_end": null,
+    "id": 368,
+    "time": 842.03,
+    "note": "Bwogi: Kaitaba&#x27;s grandfather.",
+    "id_ref": 368
+  },
+  {
+    "type": "verse",
+    "line": 293,
+    "line_end": 296,
+    "id": 368,
+    "time": 842.03,
+    "note": "stanza in <b>abab</b> by repetition and parallelism.",
+    "id_ref": 368
+  },
+  {
+    "type": "note",
+    "line": 295,
+    "line_end": null,
+    "id": 370,
+    "time": 847.05,
+    "note": "Ilimamoshe: Kaitaba&#x27;s grandmother.",
+    "id_ref": 370
+  },
+  {
+    "type": "note",
+    "line": 296,
+    "line_end": null,
+    "id": 371,
+    "time": 849.52,
+    "note": "Milembe: Kaitaba&#x27;s wife; her name means &quot;Peace.&quot;",
+    "id_ref": 371
+  },
+  {
+    "type": "verse",
+    "line": 297,
+    "line_end": 302,
+    "id": 375,
+    "time": 866.58,
+    "note": "compound stanza, 2 + 2 + 2, in <b>abb</b>, formed by contrast between a single couplet whose lines begin with adverbials (the subordinating particle <i>ka</i>- &quot;when&quot;and the formulaic phrase kil&#x27; ekyo) and consist of 3rd person narration (<b>a</b>:297-298) and two couplets whose initial lines begin with locutives and contain the stem <i>juma</i><i> </i>insult (<b>b</b>&#x27;s: 299-300, 301-302).",
+    "id_ref": 375
+  },
+  {
+    "type": "note",
+    "line": 300,
+    "line_end": null,
+    "id": 378,
+    "time": 875.04,
+    "note": "Plant soon to bear: see line 380 below; the terms of this abuse do not seem totally consistant with the exposition.",
+    "id_ref": 378
+  },
+  {
+    "type": "verse",
+    "line": 303,
+    "line_end": 307,
+    "id": 382,
+    "time": 882.18,
+    "note": "stanza in <b>aabb</b> formed into 3 couplets - 303-304, 304-305, 306-307 - by the unusual dual function of 304, which serves as both final line of the first couplet and the initial line of the second couplet; the couplets cohere, respectively, by an intra-line, threefold repetition of a final word or phrase (303-304), by an inter-line lexical repetition of &quot;My wife Milembe&quot; (304-305), and composition as praisenames.",
+    "id_ref": 382
+  },
+  {
+    "type": "verse",
+    "line": 308,
+    "line_end": 315,
+    "id": 389,
+    "time": 896.42,
+    "note": "verse of two stanzas (308-311, 312-315), both in <b>abab</b>, that share the same final lines; the first is formed by contrast between lines that begin with a locutive (<b>a</b>&#x27;s: 308, 310) and those that begin with the formulaic phrase <i>kil&#x27; </i><i>eki</i><i>  </i>&quot;This day&quot; (<b>b</b>&#x27;s: 309, 311); the second stanza is formed by contrast between lines that begin with a locutive and contain the stem tabala &quot;make war upon&quot; (<b>a</b>&#x27;s: 312, 314) and those that do not (<b>b</b>&#x27;s: 313, 315).",
+    "id_ref": 389
+  },
+  {
+    "type": "verse",
+    "line": 316,
+    "line_end": 325,
+    "id": 399,
+    "time": 915.86,
+    "note": "compound stanza in <b>aba&#x27;</b>, 2 + 6 + 2, formed by contrast between couplets that share the stems tabala &quot;make war&quot; + malenga &quot;foolishness&quot; /<i>zana</i>/ &quot;play&quot;in their first and second lines, respectively (<b>a</b>&#x27;s: 316-317, 324-325) and couplets formed on different compositional principles (<b>b</b>&#x27;s: 318-323); the middle six lines (the <b>b</b>&#x27;s) are formed as <b>abab</b> with the second <b>ab</b> sequence doubled, so that the figure could be represented <b>aba</b>(aa)<b>b</b>(bb) to indicate the expansions; in these six lines (318-323) <b>a</b>&#x27;s contain names of military battalions (318, 320, 321) and <b>b</b>&#x27;s contain negative verbs of using up or moving or both (319, 322, 323); to indicate the recursive expansions and embeddings, the entire compound stanza could be represented <b>ab</b>(aba(aa)b(bb))<b>a&#x27;</b>.",
+    "id_ref": 399
+  },
+  {
+    "type": "verse",
+    "line": 326,
+    "line_end": 329,
+    "id": 412,
+    "time": 960.16,
+    "note": "326-29: stanza alternately in <b>aa</b>a<b>b</b> formed by contrast between lines that contain the stem shenda &quot;depose&quot; (<b>a</b>&#x27;s:326-328) and a line that does not (<b>b</b>:329); or in <b>aabb</b> formed by contrast between lines spoken by the king (326-327) and those spoken by his wife (<b>b</b>&#x27;s: 328-329); or in <b>a</b>a<b>ba</b><b>&#x27;</b> formed by contrast between lines with verbs inflected in the 2nd person (<b>a</b>&#x27;s: 326, 327, 329) and a line inflected in the 3rd person (<b>b</b>: 328).",
+    "id_ref": 412
+  },
+  {
+    "type": "verse",
+    "line": 330,
+    "line_end": 333,
+    "id": 417,
+    "time": 970.91,
+    "note": "stanza in <b>aabb</b> composed of couplets that cohere, respectively, by enjambment and repetition.",
+    "id_ref": 417
+  },
+  {
+    "type": "verse",
+    "line": 330,
+    "line_end": 348,
+    "id": 417,
+    "time": 970.91,
+    "note": "verse passage in <b>aba</b>a<b>b</b> formed by contrast between stanzas whose initial lines are composed as &quot;he summoned&quot;.../praisename or proper name (<b>a</b>&#x27;s: 330-333, 337-340, 341-344) and stanzas whose initial line is composed as &quot;When (they divined) they saw (them) in the milking room...&quot; (<b>b</b>&#x27;s: 334-336, 345-348); the type <b>a</b> stanzas are formed in <b>aabb</b>: 330-333 in couplets that cohere, respectively, by enjambment and repetition; 337-340 in couplets that cohere, respectively, by chaining and enjambment; in 341-344 the initial couplet coheres by enjambment, while the other couplet - and the series of type <b>a</b> stanzas as a whole - is finalized by a line with an initial formulaic phrase kil&#x27; eki mbwenu and semantic, rather than syntactic, coherence with the preceeding line; this finalization creates incremental repetition, which is replicated in the two type <b>b</b> stanzas: 334-336 is formed in <b>aab</b> by contrast between initial lines that cohere by repetition and a final line that does not and that begins with a placename (as the two previous lines began with verbs); 341-344 is formed in <b>aabb</b>; a previous triplet (334-336) has been condensed to form the initial couplet (341-342) that coheres by parallelism (present continuitive verbs in final positions); the following couplet, the king&#x27;s warlike outburst, finalizes the stanza by semantic contrast and the passage as a whole by incremental repetition.",
+    "id_ref": 417
+  },
+  {
+    "type": "note",
+    "line": 333,
+    "line_end": null,
+    "id": 420,
+    "time": 978.17,
+    "note": "Enpayula: Walnut-sized fruits used when green with ritual preparation and stirred briskly in a water-filled earthenware vessel to gain knowledge made otherwise inaccessable by time, space, or personal agency.",
+    "id_ref": 420
+  },
+  {
+    "type": "note",
+    "line": 336,
+    "line_end": null,
+    "id": 424,
+    "time": 988.46,
+    "note": "Infusing the churns: part of the usual set of dairy practices; evidently no havoc is foretold: a bad sign for the would-be attackers.",
+    "id_ref": 424
+  },
+  {
+    "type": "note",
+    "line": 337,
+    "line_end": null,
+    "id": 426,
+    "time": 990.71,
+    "note": "Okyela: literally, &quot;Large White One,&quot; the name of the second <i>mufumu</i><i>,</i> fortune-teller and healer of diseases of the spirit; he is a specialist in the oracle of the chicken.",
+    "id_ref": 426
+  },
+  {
+    "type": "verse",
+    "line": 349,
+    "line_end": 371,
+    "id": 441,
+    "time": 1025.71,
+    "note": "verse passage in <b>aba&#x27;</b> formed by two pairs of stanzas (<b>a</b>&#x27;s: 349-352 + 353-359 and 364-367 + 368-371), each cohering by substantial repetition of the final two lines of the first stanza as the first two lines of the second stanza, contrasted with a single intervening stanza (<b>b</b>: 360-363) formed in <b>abab</b> by contrast between lines that begin<b> </b>with &quot;Let me tell you...&quot; (<b>a</b>&#x27;s: 360, 362) and lines that do not (<b>b</b>&#x27;s: 361, 363); lines 337-339 are appended reiterations and transformations of the previous line type, which ends in a placename.",
+    "id_ref": 441
+  },
+  {
+    "type": "verse",
+    "line": 372,
+    "line_end": 379,
+    "id": 471,
+    "time": 1115.75,
+    "note": "verse of mirror stanzas in <b>abba</b> (372-375, 376-379) that share final lines (375,379) and that are formed by repetition between middle lines (<b>b</b>&#x27;s: 373-374, 377-378) not shared with first and last lines (<b>a</b>&#x27;s: 372,375 and 377,378).",
+    "id_ref": 471
+  },
+  {
+    "type": "note",
+    "line": 377,
+    "line_end": null,
+    "id": 477,
+    "time": 1128.26,
+    "note": "Intruder: Literally, &quot;one who goes inside;&quot; the word is used equally for an adulterous male lover or for one who sleeps with a recently widowed woman.",
+    "id_ref": 477
+  },
+  {
+    "type": "verse",
+    "line": 380,
+    "line_end": 387,
+    "id": 481,
+    "time": 1134.97,
+    "note": "verse of two stanzas, both in <b>abab</b>, (380-383, 384-387) formed, respectively, by parallelism and repetition (<b>a</b>&#x27;s: 380, 382; <b>b</b>&#x27;s: 381, 383) and repetition alone (of initial locutive and final preposition, <b>a</b>&#x27;s: 384, 386; <b>b</b>&#x27;s: 385, 387).",
+    "id_ref": 481
+  },
+  {
+    "type": "note",
+    "line": 382,
+    "line_end": null,
+    "id": 483,
+    "time": 1139.43,
+    "note": "Planted-ones: praisename for <i>enkuku</i> beans, a food traditionally reserved for consumption by the ruling clans.",
+    "id_ref": 483
+  },
+  {
+    "type": "verse",
+    "line": 388,
+    "line_end": 392,
+    "id": 491,
+    "time": 1153.75,
+    "note": "stanza in <b>aba</b>a<b>b</b> formed between contrast between lines composed as verb initial + personal name (<b>a</b>&#x27;s: 388, 390, 391) and lines that lack a main verb, being composed of praisename and descriptors, respectively (<b>b</b>&#x27;s: 389, 392).",
+    "id_ref": 491
+  },
+  {
+    "type": "note",
+    "line": 403,
+    "line_end": null,
+    "id": 512,
+    "time": 1197.94,
+    "note": "Time of peace: that is, he did not set the land aflame without reason; this is possibly a pun, for Kaitaba&#x27;s wife&#x27;s name is Peace (<i>Milembe</i>).",
+    "id_ref": 512
+  },
+  {
+    "type": "verse",
+    "line": 404,
+    "line_end": 407,
+    "id": 514,
+    "time": 1200.95,
+    "note": "stanza in <b>abab</b> formed by contrast between lines with initial double verbs (<b>b</b>&#x27;s: 405, 407) and those with single initial verbs (<b>a</b>&#x27;s: 404, 406).",
+    "id_ref": 514
+  },
+  {
+    "type": "note",
+    "line": 407,
+    "line_end": null,
+    "id": 517,
+    "time": 1208.67,
+    "note": "Slaughter Mountain: the place where an earlier king of Kianja, Kalemela, executed enough men to make blood flow from the top to the base.",
+    "id_ref": 517
+  },
+  {
+    "type": "verse",
+    "line": 408,
+    "line_end": 411,
+    "id": 519,
+    "time": 1210.76,
+    "note": "stanza in <b>aabb</b> formed by contrast between lines composed as hulila &quot;heard&quot; + Kahigi... (<b>a</b>&#x27;s: 408, 409) and lines composed of praisenames alone",
+    "id_ref": 519
+  },
+  {
+    "type": "note",
+    "line": 410,
+    "line_end": null,
+    "id": 521,
+    "time": 1217.27,
+    "note": "Fall upon the launderers: That is, he brings damage and discord unexpectedly.",
+    "id_ref": 521
+  },
+  {
+    "type": "verse",
+    "line": 414,
+    "line_end": 417,
+    "id": 527,
+    "time": 1229.08,
+    "note": "stanza alternately in <b>abab</b> formed by contrast between lines lexically composed as locutive + honga &quot;pay tribute&quot; + &quot;cattle&quot;(<b>a</b>&#x27;s: 414, 416) and lines that contain &quot;pay tribute&quot; + &quot;weapons&quot; in different order (<b>b</b>&#x27;s: 415, 417); and in <b>aa</b>a<b>b</b> formed by lines syntactically composed as active, subjunctive verb + direct object (<b>a</b>&#x27;s:414-416) contrasted with with a single line composed as subject + passive, indicative verb (<b>b</b>: 417).",
+    "id_ref": 527
+  },
+  {
+    "type": "verse",
+    "line": 418,
+    "line_end": 441,
+    "id": 532,
+    "time": 1237.8,
+    "note": "verse passage in <b>aba&#x27;</b> formed by two 8-line stanzas (<b>a</b>&#x27;s: 418-425, 434-441) composed as introductory couplet (418-419, 434-435) + couplet substantially repeated from first to second stanza (420-421, 436-437) + quatrain formed in <b>abab</b> by different lexical repetitions within in each stanza (422-425, 438-441), contrasted with an 8-line stanza (<b>b</b>: 426-433) which coheres between its various lines by enjambment, parallelism and repetition.",
+    "id_ref": 532
+  },
+  {
+    "type": "note",
+    "line": 420,
+    "line_end": null,
+    "id": 534,
+    "time": 1242.12,
+    "note": "Ihangilo: kingdom on the southern border of Kihanja.",
+    "id_ref": 534
+  },
+  {
+    "type": "note",
+    "line": 421,
+    "line_end": null,
+    "id": 535,
+    "time": 1244.5,
+    "note": "Zinzaland: A state on the southern border of Ihangilo.",
+    "id_ref": 535
+  },
+  {
+    "type": "note",
+    "line": 442,
+    "line_end": null,
+    "id": 559,
+    "time": 1292.55,
+    "note": "(taikutabala): a false start.",
+    "id_ref": 559
+  },
+  {
+    "type": "verse",
+    "line": 442,
+    "line_end": 447,
+    "id": 559,
+    "time": 1292.55,
+    "note": "compound stanza in <b>aba&#x27;</b>, 2 + 2 + 2, by contrast between couplets whose lines begin second person locutive.../ &quot;this day&quot;...(<b>a</b>&#x27;s: 442-443, 446-447, although the line division is varied, as it is in the immediately preceeding passage - compare 422-423 and 424-425) and a single couplet that substantially repeats part of the preceeding passage (<b>b</b>: 444-445 repeats 420-421 and 436-437).",
+    "id_ref": 559
+  },
+  {
+    "type": "note",
+    "line": 448,
+    "line_end": null,
+    "id": 566,
+    "time": 1306.36,
+    "note": "You drank your milk: Kaitaba compares Kahigi to a spoiled child.",
+    "id_ref": 566
+  },
+  {
+    "type": "verse",
+    "line": 448,
+    "line_end": 453,
+    "id": 566,
+    "time": 1306.36,
+    "note": "compound stanza in <b>aab</b>, 2 + 2 + 2; formed by contrast between couplets whose first lines begin with the same locutive, and whose verbs - 2 in every line - are all inflected in the 2nd person singular (<b>a</b>&#x27;s: 448-449, 450-451) and a single couplet whose first line begins with the same locutive, but whose verb - a single one in the second line alone - is inflected in the 3rd person negative.",
+    "id_ref": 566
+  },
+  {
+    "type": "note",
+    "line": 451,
+    "line_end": null,
+    "id": 569,
+    "time": 1313.46,
+    "note": "Plant soon to bear: see above line 380-382.",
+    "id_ref": 569
+  },
+  {
+    "type": "verse",
+    "line": 456,
+    "line_end": 461,
+    "id": 576,
+    "time": 1324.25,
+    "note": "compound stanza in <b>aab</b>, 2 + 2 + 2; formed by cotrast between couplets that begin similarly and literally refer to cattle (<b>a</b>&#x27;s: 456-457, 458-459) and a single that begins as the others but ends with a proverb.",
+    "id_ref": 576
+  },
+  {
+    "type": "note",
+    "line": 460,
+    "line_end": null,
+    "id": 580,
+    "time": 1333.38,
+    "note": "Cut a long staff...: a common proverb that compares a long walking staff used peacefully with a short stick carried under the arm used as a weapon or as a symbol of political power.",
+    "id_ref": 580
+  },
+  {
+    "type": "verse",
+    "line": 462,
+    "line_end": 465,
+    "id": 583,
+    "time": 1338.88,
+    "note": "stanza in <b>aabb</b> formed by couplets that cohere by repetition and parallelism (<b>a</b>&#x27;s: 462-463) and chaining (<b>b</b>&#x27;s: 464-465), respectively.",
+    "id_ref": 583
+  },
+  {
+    "type": "verse",
+    "line": 466,
+    "line_end": 469,
+    "id": 588,
+    "time": 1347.48,
+    "note": "stanza in <b>abab</b> formed by repetition and parallelism.",
+    "id_ref": 588
+  },
+  {
+    "type": "verse",
+    "line": 474,
+    "line_end": 479,
+    "id": 598,
+    "time": 1365.49,
+    "note": "compound stanza in <b>aab</b>, 2 + 2 + 2, formed by contrast between couplets that constitute a question (<b>a</b>&#x27;s: 474-475, 476-477) and a single couplet that constitutes an answer (<b>b</b>: 478-479).",
+    "id_ref": 598
+  },
+  {
+    "type": "verse",
+    "line": 486,
+    "line_end": 489,
+    "id": 613,
+    "time": 1391.94,
+    "note": "stanza in <b>aab</b> formed by contrast between lines that begin with a conditional particle (<b>a</b>&#x27;s: 486-488) and a single line that begins with a negative imperative (<b>b</b>: 489). _",
+    "id_ref": 613
+  },
+  {
+    "type": "note",
+    "line": 489,
+    "line_end": null,
+    "id": 616,
+    "time": 1399.5,
+    "note": "ENANGA MELODY CHANGES AFTER THIS LINE: as does the stanzaic structure.",
+    "id_ref": 616
+  },
+  {
+    "type": "note",
+    "line": 490,
+    "line_end": null,
+    "id": 620,
+    "time": 1411.5,
+    "note": "I am the weakened one...: thus begins the <i>okwebuga</i><i>, </i>or improvised self-praise poem, of a member of the audience. {Weakened one}: this modesty signals a strategy in self-praise known as &quot;making oneself small&quot; and also refers to a chicken, the secondary totem of the Basaizi clan, with which the speaker is affiliated matrilaterally (his mother&#x27;s mother&#x27;s mother&#x27;s clan). Chicken, clan, and reciter are all associated with the profession of the <i>bafumu</i><i>, </i>healers of spiritually caused diseases. {Thunder}: has a special relationship with chicken which is alluded to here. {Sharpened points, iron hammers}: rooster spurs.",
+    "id_ref": 620
+  },
+  {
+    "type": "note",
+    "line": 491,
+    "line_end": null,
+    "id": 624,
+    "time": 1418.09,
+    "note": "Hanging on the sternpiece: said to refer to leopard, a secondary totem of the Balwani clan, to which the reciter&#x27;s mother belonged. {Bent me over}: an act associated with sorcery, as is the profession of the <i>bafumu</i><i>.</i>",
+    "id_ref": 624
+  },
+  {
+    "type": "note",
+    "line": 492,
+    "line_end": null,
+    "id": 626,
+    "time": 1422.67,
+    "note": "No fingers or claws, throwing stick, wooden crook: figurative references to the python (<i>nkolantima</i><i>,</i> a secondary totem of the Bajubu clan, according to the reciter. {Fence chimes}: a reference to the court security duties of the Balwani clan (also above, lines 13 and 261).",
+    "id_ref": 626
+  },
+  {
+    "type": "note",
+    "line": 496,
+    "line_end": null,
+    "id": 638,
+    "time": 1448.93,
+    "note": "Agitated one, White spot: praise names of the python used so that it will not answer the call of its literal name.",
+    "id_ref": 638
+  },
+  {
+    "type": "note",
+    "line": 497,
+    "line_end": null,
+    "id": 639,
+    "time": 1452.76,
+    "note": "These (spears) are yours: A self-praise poem (<i>okwebuga</i>) was traditionally performed before the king while brandishing one&#x27;s spear; the recitation signals one&#x27;s readyness for combat on the king&#x27;s behalf.",
+    "id_ref": 639
+  },
+  {
+    "type": "note",
+    "line": 498,
+    "line_end": null,
+    "id": 643,
+    "time": 1458.85,
+    "note": "Push on: This epilogue envisions the Bahyoza warriors returning from their raid.",
+    "id_ref": 643
+  },
+  {
+    "type": "note",
+    "line": 500,
+    "line_end": null,
+    "id": 646,
+    "time": 1468.09,
+    "note": "Mukotani: Closed Mouth.",
+    "id_ref": 646
+  },
+  {
+    "type": "note",
+    "line": 512,
+    "line_end": null,
+    "id": 666,
+    "time": 1522.73,
+    "note": "Kalokola, Lusanju: Rescuer, Crusher of houses.",
+    "id_ref": 666
+  },
+  {
+    "type": "note",
+    "line": 515,
+    "line_end": null,
+    "id": 673,
+    "time": 1540.62,
+    "note": ":...praise not understood.",
+    "id_ref": 673
+  },
+  {
+    "type": "note",
+    "line": 516,
+    "line_end": null,
+    "id": 674,
+    "time": 1543.42,
+    "note": "Lwendulu, Omuhinda: Of a wailing alarm, Hinda clansman.",
+    "id_ref": 674
+  },
+  {
+    "type": "note",
+    "line": 518,
+    "line_end": null,
+    "id": 677,
+    "time": 1551.78,
+    "note": "Zili Omukwoga: a personal name from its position in the poem, but an unusual one, and one whose meaning is not apparant. _",
+    "id_ref": 677
+  }
+]

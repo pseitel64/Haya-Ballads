@@ -1,0 +1,431 @@
+{
+  "title": "Poetic Forms in Haya Epic Ballads",
+  "sections": [
+    {
+      "title": "",
+      "content": [
+        "The following is an account of the poetic forms present in the epic ballads included here. Its descriptive concepts were developed by asking two analytic questions: What are the stylistic features a bard uses to create well-formed lines? And how do these lines cohere with one another stylistically to form groups that complement the semantic content of the poem and advance its themes and narrative? In answer to the first, we note that this poetry, like much (but not all) of African poetry, is not quantitative verse. A well-formed line need not have a prescribed number of accented and unaccented syllables. The composition of a line depends not on its conformity to a preconceived form, as in the poetry of Homer, say, or of the Yugoslavian epics described by Millman Parry. A line is well-formed to the extent that it creates aesthetic relationships with other lines and advances thematic articulation and narrative development.",
+        "That being said, there is often an approximate regularity in the number of accented syllables sung between a bard's breaths but I have not explored it as a systemic feature. The same must be admitted for the relationship between articulated words and sung melody. There appears to be an approximate regularity, but I have not been able to discern or define it more closely.",
+        "But by paying attention to stylistic features of groups of lines in addition to those of a single line, I was able to discover the existence of stanzas as stylistic achievements, not merely chunks of content. The poetic system thus revealed is very flexible — a critic immersed in written traditions might call it irregular. The lines that constitute a stanza through their shared or contrasted features may vary in number. And similar patterns can be created with single lines or with groups of lines. This multi-leveled, generative characteristic of the system is described and illustrated below, as is the fact that not all of the lines in a particular poem cohere in such patterns. These characteristics, in addition to the fact that the poetry depends for its form on features of syntactic parallelism, lexical repetition, and semantic contrast (rather than on poetic meter and rhyme) places Haya heroic balladry in the formal company of Biblical verse. I do not know whether this resemblance comes from formal convergence or shared ancestry. I include examples of this stanzaic system drawn from Biblical psalms to help fix the resemblance in the reader's mind.",
+        "One further note before laying out the contours of the poetic system: what I mean by “line.” Drawn from the hegemonic practices of printing, writing, and reading, the concept necessarily distorts the reality of oral performance. But, by problematizing the term in analyzing oral performance it becomes useful. A line in Haya epic ballads may sometimes be coterminous with both a bard’s phrasing and a recurrent melodic contour, as in *Kaitaba* by Abdallah Feza. Or a line may be only one segment of an unbroken recitative chanted in the style of the genre of self-praise poetry (eby’ebugo) as in the stream of lines without pauses between them that begins *Kaiyula* by Muzee. Both of these kinds of lines — bounded by pauses and not bounded — are considered “lines” because of their respective relationships to the “lines” that precede and follow them. Because lines that do not begin with pauses are essentially my own construction (based on an observed relationship between lines) I have differentiated them in the transcripts by indentation. The overall poetic system constructed by such lines — though not every single line division — has been verified in dialogues with experts in Haya poetry and language."
+      ]
+    },
+    {
+      "title": "Stanzaic Types in Haya Balladry",
+      "content": [
+        "The following principles describe the formation of stanzas in classic ballads. They specify, respectively, (1) the kinds of linguistic elements that are manipulated to create repeated, recognizable poetic figures, (2) the shapes of figures I have identified, and (3) the devices bards use that create stylistic variation within these shapes.",
+        {
+          "outline_l1": "1. Stanzas are formed by combinations of nonphonetic features."
+        },
+        {
+          "outline_l1": "2. Stanzas seem to have six principal shapes."
+        },
+        {
+          "outline_l1": "3. Stanzas vary within these shapes by virtue of three syntactic devices:"
+        },
+        {
+          "outline_l2": "1. interpolation of words"
+        },
+        {
+          "outline_l2": "2. interpolation of lines"
+        },
+        {
+          "outline_l2": "3. extrapolation of shape, which creates ascending levels of organization:"
+        },
+        {
+          "outline_l3": "1. stanza"
+        },
+        {
+          "outline_l3": "2. compound stanza"
+        },
+        {
+          "outline_l3": "3. verse"
+        },
+        {
+          "outline_l3": "4. verse passage"
+        },
+        "Examples are drawn from the epic ballad *Kachwenyanja* by Muzee."
+      ]
+    },
+    {
+      "title": "1. Combinations of Nonphonetic Features",
+      "content": [
+        "Muzee, like other bards, creates stanzas with lexical repetition, syntactic parallelism, and semantic opposition, employed singly or in combination. Moreover, in contrast to a writer of quantitative verse, who combines rhyme and meter to follow a single stanzaic type throughout an entire poem, the Haya bard creates a variety of types in a variety of ways within a single poem."
+      ]
+    },
+    {
+      "title": "2. Stanzaic Shapes",
+      "content": [
+        "Six stanzaic types are represented in this version of *Kachwenyanja*: aab, abb, aba, abab (with related shapes abac and abcb), aabb, and a “mirror” shape, in which the configuration of features in one coherent line group is replicated in another immediately or proximally following it. In stanzaic patterns of aab, abb, aba, abab, or aabb, a’s are associated with other a’s and opposed to b’s by combinations of syntactic, lexical and semantic features."
+      ]
+    },
+    {
+      "title": "3. Syntactic Devices",
+      "content": [
+        "Three syntactic devices help the bard integrate his narrative and poetic designs by adjusting stanzaic forms to strengthen story lines, to provide evocative details, and to create dramatic contours in the narrative. The devices are termed syntactic in that each of the three manipulates relationships between adjacent segments. Each device does so at a different level of textual organization — word, line, and passage. For the bard, the three devices adapt poetic figures to the narrative thrust of epic. For the critic, the devices introduce greater variation in the concrete expression of stanzaic shapes."
+      ]
+    },
+    {
+      "title": "3.1. Interpolation of Words",
+      "content": [
+        "Interpolation of words adds extra words to a poetic line beyond those necessary to form a particular stanzaic pattern. Nonquantitative verse and flexible line length make this formally possible. Interspersed among the key words and phrases that define stanzaic pattern, interpolated words may indicate affect, reveal necessary details, embellish or emphasize a topic, or even create a contrapuntal pattern.",
+        "In the following excerpt the hero’s widow expresses her consternation and grief. Using semantic contrast, lexical repetition, and syntactic parallelism, the bard creates a stanza in abab.",
+        {
+          "verse": "221 Ahi, “Bakama bange!”\n222 Ahi, “Nkas’ obulo—\n223 *Abakazi bas’ obulo,*\n223.1 Bakama bange—\n223.2 Ntula aha lwazi,\n223.3 *Ns’ amalogo*!”\n224 Ahi, *“Bekola omubazi*.\n225 Kilo ekya mbwenu *nayekola Omwabya*!"
+        },
+        {
+          "divider": true
+        },
+        {
+          "verse": "221 She said, “My kings!”\n222 She said, “I ground millet—\n223 *Women grind millet*,\n223.1 My kings—\n223.2 But I sit at the rocky outcrop,\n223.3 *I grind sorcery*!”\n224 She said, “*They ‘do’ themselves with herbs* (perfume).\n225 But today *I ‘did’ myself with the Destroyer!* (herb for sorcery)"
+        },
+        "Schematically: *Women grind millet* / *I grind sorcery* — *They ‘do’ themselves with herbs* / *I ‘did’ myself with the Destroyer*",
+        "Only the words in italics formulate the abab stanza itself. The others are interpolated to increase the richness of the figure (223.2) and the portrayal of the wife’s disturbed state. The first group of lines, 221–223.3, including the interpolated words, actually form a compound stanza; see the notes to the text."
+      ]
+    },
+    {
+      "title": "3.2. Interpolation of Lines",
+      "content": [
+        "Interpolation of lines adds poetic lines equivalent in type to those that form a stanza; it is simply the reiteration of line types. For example, aab appears as aaab in the following.",
+        {
+          "verse": "18. Mbali ekibi kigendela,\n19. Mbali omuntu akabila atahimbuuke,\n19.1 Mbali omulungi abuganganilwa ondijo,\n19.2 Mbali ohulila omu kikale bagwihya bwoli . . ."
+        },
+        {
+          "divider": true
+        },
+        {
+          "verse": "18. When evil roams,\n19. When a person faints and does not revive,\n19.1 When one lover meets another,\n19.2 When you hear them in the royal compound finally disperse . . . (18–19.2)"
+        },
+        "This stanza is formed in aab by contrast between three syntactically parallel lines, which are composed as adverbial conjunction + noun + 3rd person verb . . . (a’s: 18, 19, 19.1) and a single line which is composed as adverbial conjunction + 2nd person verb + prepositional phrase . . . (b: 19.2). The stanzaic grouping changes quantitatively but not qualitatively with the interpolation of a similar line. In a like manner, a stanza composed as aaba (354–57) can be seen as a variant of aba; a stanza in ababbbb (373–79) as a variant of abab. Stanzaic forms most frequently appear in these expanded configurations. Interpolated words and line types give oral stanzaic patterns the flexibility the bard needs to construct his epic narrative."
+      ]
+    },
+    {
+      "title": "3.3. Extrapolation of Shape",
+      "content": [
+        "Extrapolation of shape creates stanzaic patterns at more inclusive levels of organization. Groups of lines, rather than single lines, combine to form passages. Extrapolation of stanzaic shape creates local stylistic wholes larger than stanzas; these can be called compound stanzas, verses, and verse passages."
+      ]
+    },
+    {
+      "title": "3.3.1. A Stanza",
+      "content": [
+        "A stanza is composed by similarity and contrast between poetic lines. Poetic lines usually contain a complete syntactic unit; they can stand alone as sung lines, and often do. But sometimes several poetically defined lines are sung without pause; thus, one musically defined line may contain several syntactic units. To my knowledge, there is no indigenous Haya critical tradition that names a poetic line and specifies its formation.",
+        "The first five poetic lines of *Kachwenyanja* are a stanza in aab. They are a portion of the hero’s self-praise (eby’ebugo) used to introduce him.",
+        {
+          "verse": "1 Gwa Nsheshe akaluga Kailongo.\n1.1 Luhunga akaluga Mugajwaale.\n2 Luhunga, Mugajwaale,\n2.1 Kakolonto na Kabwenge.\n2.2 Oli w’ ebitalaaka by’ eilungu."
+        },
+        {
+          "divider": true
+        },
+        {
+          "verse": "1 By the road to Nsheshe, he came from Kailongo.\n1.1 In Luhunga, he came from Mugajwaale.\n2 Luhunga, Mugajwaale,\n2.1 Kakolonto and Kabwenge.\n2.2 You are of the unbroken wilderness."
+        },
+        "The contrast between lines containing two place names (a’s: 1, 1.1, 2, 2.1) and one containing a single place description (b: 2.2) creates an aab figure, actually aaaab, the basic pattern having been expanded by interpolating similar lines. The unique second-person verb in the last line, “You are . . .” intensifies the finalization syntactically. In the changes he will ring on these opening lines, the bard provides a primer on the artistic extrapolation of poetic form.",
+        "At particularly important junctures in the narrative, stylistic elaborations may flower in a rich simultaneity of stanzaic shapes and even levels of organization. These intensely wrought passages are like architectural forms that, seen from different angles, reveal contrasting symmetries, but they are really more like polyrhythmic drumming that combines contrasting patterns in a single, complex whole. In the following extract the same semantic series of the opening lines becomes embedded in syntactic parallelism of a different sort. The hero’s poetic praise uncannily begins to emerge in narrative action as royal drums summon him:",
+        {
+          "verse": "108 Mpulil’ engom’ ezayema Nsheshe.\n109 Mpulil’ ezayema Kailongo.\n110 Mpulil’ eza Luhunga.\n111 Mpulil’ eza Mugajwaale.\n112 Mpulil’ eza Kakolonto na Kabwenge.\n113 Mpulil’ ezayema omu bitalaaka by’ eilungu."
+        },
+        {
+          "divider": true
+        },
+        {
+          "verse": "108 I hear drums that start up at Nsheshe.\n109 I hear those that start up at Kailongo.\n110 I hear those of Luhunga.\n111 I hear those of Mugajwaale.\n112 I hear those of Kakoronto and Kabwenge.\n113 I hear those that start up in the unbroken wilderness."
+        },
+        "In a group of lines that all begin “I hear,” and in counterpoint to the semantic series that, as before, describes a pattern of aab in place names finalized by a place description, syntactic parallelism creates a stanza in aba. The form is realized as aabbba, having been expanded by the interpolation of equivalent, syntactically parallel lines. Each line of the type a (108, 109, 113) contains a verb inflected as a relative (eza-yema, “that start up”) in a clause that qualifies the direct object “drums.” Each line of type b (110, 111, 112) contains an inflected possessive particle (eza, “of”) that also qualifies “drums.” Alternation of syntax creates the aba pattern. In the passage that immediately follows this one, other repeated verbs inflected as relatives create another pattern of aba."
+      ]
+    },
+    {
+      "title": "3.3.2. A Compound Stanza",
+      "content": [
+        "A compound stanza is composed by similarity and contrast between groups of lines. In a compound stanza, adjacent line groups combine to form a pattern (most often aab). In this they differ from stanzas, which combine individual lines, not groups, as their smallest units. In the following passage, the hero addresses a part of his self-praise (eby’ebugo) to his prospective bride:",
+        {
+          "verse": "99 “Maawe, omwaitu ni Nsheshe.\n100 Maawe, omwaitu ni Kailongo.\n101 Nkaluga Luhunga na Mugajwaale.\n101.1 Nkaluga Kakolonto na Kabwenge.\n101.2 Ndi mwaana w’ ebitalaaka by’ eilungu."
+        },
+        {
+          "divider": true
+        },
+        {
+          "verse": "99 “Mother (polite address), our home is Nsheshe.\n100 Mother, our home is Kailongo.\n101 I come from Luhunga and Mugajwaale.\n101.1 I come from Kakolonto and Kabwenge.\n101.2 I am a child of the unbroken wilderness."
+        },
+        "The stanza that opens the ballad (the example in 3.3.1, above) has been transformed into a compound stanza formed in aab; its lines are grouped as 2 + 2 + 1. The a’s that form the aab pattern are couplets. The first one (99–100) coheres by repetition (“Mother, our home is . . .”), which creates a parallel syntactic function (predicate nominative) for the single place name in each line. The second couplet (101–101.1) also coheres by repetition (“I come from . . .”), which creates a parallel syntactic function (direct object in the Haya) for the two place names in each line. The final line (101.2) lacks place name, parallelism, and paired companion. It stands alone. In this compound stanza, the a’s contrast with b by virtue of these lexical and syntactic features."
+      ]
+    },
+    {
+      "title": "3.3.3. A Verse",
+      "content": [
+        "A verse is composed by similarity and contrast between groups of lines, some of which are stanzas in themselves. A verse resembles the compound stanza in that its smallest combinatory unit is a group of lines, but it differs in that some of its units — the recurrent ones, like the a’s in aba — are necessarily stanzas. The figure marks the beginning of the ballad:",
+        {
+          "verse": "1 Gwa Nsheshe akaluga Kailongo.\n1.1 Luhunga akaluga Mugajwaale.\n2 Luhunga, Mugajwaale,\n2.1 Kakolonto na Kabwenge.\n2.2 Oli w’ ebitalaaka by’ eilungu.\n3 Nsheshe.\n4 Eky’ amaino kwela,\n5 Engino zamwilagwile.\n6 Akaluga Nsheshe na Kailongo.\n6.1 Luhunga akaluga Mugajwaale,\n6.2 Kakolonto na Kabwenge.\n6.3 Oli mwana w’ ebitalaaka by’ eilungu."
+        },
+        {
+          "divider": true
+        },
+        {
+          "verse": "1 By the road to Nsheshe, he came from Kailongo.\n1.1 In Luhunga, he came from Mugajwaale.\n2 Luhunga, Mugajwaale,\n2.1 Kakolonto and Kabwenge.\n2.2 You are of the unbroken wilderness.\n3 Nsheshe.\n4 Of the white teeth,\n5 Dark gums.\n6 He came from Nsheshe and Kailongo.\n6.1 In Luhunga he came from Mugajwaale,\n6.2 Kakolonto and Kabwenge.\n6.3 You are a child of the unbroken wilderness."
+        },
+        "The first two sung lines, discussed previously as an example of a stanza in aab, are substantially repeated in lines 6–6.3, where they are sung in one breath instead of two. Three lines intervene between repetitions; thus the entire passage can be considered a verse in the pattern aba. The intervening lines (3–5) themselves form a stanza in abb: two lines composed (in Haya) as body part + color modifier (b’s: 4, 5) contrasted with one line that consists of a familiar place name (a: 3).",
+        "Closer examination reveals even greater complexity. The first five poetic lines can be seen as a compound stanza formed in aab and grouped as 2 + 2 + 1. Two pairs of lines (a’s: 1–1.1 and 2–2.1) — the first pair almost identically composed as place name + “he came from” + place name, the second pair as place name + place name — are contrasted with a single line (b: 2.2) that has an entirely different syntax. The bard’s mercurial talent creates involuted poetic ambiguities with the flexibility of generic stanzaic form. Initial lines of ballads are often stylistically complex."
+      ]
+    },
+    {
+      "title": "3.3.4. Verse Passages",
+      "content": [
+        "Verse passages are composed of similarity and contrast between a number of line groups that are substantially repeated and incrementally varied. The line groups are not necessarily stanzas, although they may be. The processes of repetition, variation, and alternation create stanzaic patterns.",
+        "The following excerpt illustrates the abab pattern in a verse passage. The heroine, having just learned of her husband’s death, reacts to the news, prepares to exact revenge, and travels to the site of his death. She gives orders to her domestic servant:",
+        {
+          "verse": "228 Ahi, “Mwaana wange entanda yata,”\n229 Ahi, “N’ emwani onage.”\n230 Ahi, “Naganaga”\n231 Ahi, “Naga.\n231.1 Enda yangila kwehoola.”\n232 Ati, “Omushaija wange yafa ali omoi,\n232.1 Kyonka aligitwalanis’ omwenda.\n233 Ontege ekishule.\n233.1 Mbe mwisiki.”\n234 Ahi, “Cheke Mawe wakayukile.\n235 Oleke nkuteme enkogoto.\n236 Okwate oluhimbo lwawe Kalamaijo.”\n237 Ati, “Ogesige kiizi,”\n238 Ati, “Ogesige kiizi,”\n239 Ati, “Empu zikukwate.”\n240 Ati, “Tugende Ihangiro kwehoola.”\n241 Ahi, “Yafa ali omoi.”\n242 Ati, “Omushaija alitwalana n’ omwenda.”\n[slight interruption]\n243 Ahi, “Yafa ali omoi.\n243.1 Ihangiro agitwalanise omwenda.”\n244 Kanagobile omu Lugongo,\n245 Mbali omushaija bamwitiile,\n246 Nahenda ekiti.\n247 Nasiga nakimujugunyaho.\n247.1 Nti, “Mushaija wange nasiga naziika.\n248 Kyonka wafa oli omoi,\n248.1 Ihangiro ngitwalanis’ omwendai.”"
+        },
+        {
+          "divider": true
+        },
+        {
+          "verse": "228 She said, “My child, the bundle, break it open,”\n229 She said, “And the coffee berries scatter.”\n230 She said, “Scatter, scatter them!”\n231 She said, “Scatter them.\n231.1 From inside me I am driven to revenge.”\n232 She said, “My man died as one,\n232.1 But with him he’ll send nine.\n233 Shave a line around my head.\n233.1 I’ll be a young woman.”\n234 She said, “No, Mother, you’ve matured.\n235 Let me cut a full circle.\n236 Take your walking staff, the Prattling-one.”\n237 She said, “Rub butterfat on like water,”\n238 She said, “Rub butterfat on like water,”\n239 She said, “And make your leather skirt cling.”\n240 She said, “We go to Ihangiro for revenge.”\n241 She said, “He died as one.”\n242 She said, “The man will take nine with him.”\n[slight interruption]\n243 She said, “He died as one.\n243.1 In Ihangiro may he send nine.”\n244 When I had come to Lugongo,\n245 The place they had killed my man,\n246 I broke off a twig.\n247 I cast it on him.\n247.1 I said, “My husband, I leave you buried.\n248 Although you died as one,\n248.1 In Ihangiro I’ll make nine go with you.”"
+        },
+        "This verse passage contains four stanzaic figures: one simple stanza (237–240) and three compound stanzas (228–231.1, 233–236, and 244–247.1). All are aab in form.",
+        "Lines that become the heroine’s self-praise punctuate the section three times. First (232–232.1), the lines follow the compound stanza in which the heroine destroys her dead husband’s food, symbolically breaking their worldly relationship. Second (243–243.1), they follow the stanzas in which the heroine constructs her new social persona. Third (248–248.1), they follow the heroine’s symbolic act of burial. Together the repeated line pairs shape a verse passage as abcbdb, of the general pattern abab, in which b represents the heroine’s repeated self-praise.",
+        "The four levels of stanzaic patterning — stanza, compound stanza, verse, and verse passage — involve more than three-fourths of the total number of poetically defined lines in Muzee’s *Kachwenyanja*. Most contiguous lines in this text cohere with one another, about 392 of a total 470, a number that includes lines grouped by double verb syntax and by number sequences."
+      ]
+    },
+    {
+      "title": "Appendix: Stanzaic Patterns in Psalm 1",
+      "content": [
+        "One need look no farther than Psalm One (in the Revised Standard translation) to find the stanzaic patterning described above.",
+        {
+          "psalm_text": [
+            {
+              "verse_label": "1:",
+              "text": "Blessed is the man",
+              "line": 1
+            },
+            {
+              "verse_label": "",
+              "text": "who walks not in the counsel of the wicked,",
+              "line": 2
+            },
+            {
+              "verse_label": "",
+              "text": "nor stands in the way of sinners,",
+              "line": 3
+            },
+            {
+              "verse_label": "",
+              "text": "nor sits in the seat of scoffers;",
+              "line": 4
+            },
+            {
+              "verse_label": "2:",
+              "text": "but his delight is in the law of the LORD,",
+              "line": 5
+            },
+            {
+              "verse_label": "",
+              "text": "and on his law he meditates day and night.",
+              "line": 6
+            },
+            {
+              "verse_label": "3:",
+              "text": "He is like a tree",
+              "line": 7
+            },
+            {
+              "verse_label": "",
+              "text": "planted by streams of water,",
+              "line": 8
+            },
+            {
+              "verse_label": "",
+              "text": "that yields its fruit in its season,",
+              "line": 9
+            },
+            {
+              "verse_label": "",
+              "text": "and its leaf does not wither.",
+              "line": 10
+            },
+            {
+              "verse_label": "",
+              "text": "In all that he does, he prospers.",
+              "line": 11
+            },
+            {
+              "verse_label": "4:",
+              "text": "The wicked are not so,",
+              "line": 12
+            },
+            {
+              "verse_label": "",
+              "text": "but are like chaff",
+              "line": 13
+            },
+            {
+              "verse_label": "",
+              "text": "which the wind drives away.",
+              "line": 14
+            },
+            {
+              "verse_label": "5:",
+              "text": "Therefore the wicked will not stand in the judgment,",
+              "line": 15
+            },
+            {
+              "verse_label": "",
+              "text": "nor sinners in the congregation of the righteous;",
+              "line": 16
+            },
+            {
+              "verse_label": "6:",
+              "text": "for the LORD knows the way of the righteous,",
+              "line": 17
+            },
+            {
+              "verse_label": "",
+              "text": "but the way of the wicked will perish.",
+              "line": 18
+            }
+          ]
+        },
+        "This seems to me a poem written by someone who knows and refines the oral technique under discussion. The Psalm is similar to the compound stanza described above in being composed of groups of poetic lines, with each group gathered in a numbered Verse. Verses 1–2 and 5–6 create a pattern in **abab** composed of lines (**type a**, Verses 1 and 5) that have named moral types (blessed man, wicked, sinners) who sit, stand, or move in the company of their opposite moral types; these lines are contrasted with and finalized by other lines (**type b**, Verses 2 and 6) which contain words describing interaction between these named groups and the LORD. There are variations within this overall pattern of a kind seen in the Haya poetry also: man acts toward the LORD in the first set of **b** lines (Verse 2), vice versa in the second set (Verse 6). Inserted within this **abab** and separating the two parts is a stanza (Verses 3 and 4) with the form **abba** (**aba**). Its **type-a lines** are composed as metaphorical predications (7–10, tree, and 13–14, chaff) contrasted with intervening **type-b lines** composed as literal statements that explicate the metaphors (11 and 12). This can be represented as **a** (lines 1–4) **b** (lines 5–6) [**A** (lines 7–10) **B** (line 11) **B** (line 12) **A** (lines 13–14)] **a** (lines 15–16) **b** (lines 17–18).",
+        {
+          "schematic_table": {
+            "columns": [
+              "verse",
+              "line",
+              "inner",
+              "compound",
+              "overall"
+            ],
+            "rows": [
+              {
+                "verse": "Verse 1.",
+                "line": "1.",
+                "inner": "a",
+                "compound": "a",
+                "overall": "A"
+              },
+              {
+                "verse": "",
+                "line": "2.",
+                "inner": "a",
+                "compound": "",
+                "overall": ""
+              },
+              {
+                "verse": "",
+                "line": "3.",
+                "inner": "a",
+                "compound": "",
+                "overall": ""
+              },
+              {
+                "verse": "",
+                "line": "4.",
+                "inner": "a",
+                "compound": "",
+                "overall": ""
+              },
+              {
+                "verse": "Verse 2.",
+                "line": "5.",
+                "inner": "b",
+                "compound": "b",
+                "overall": ""
+              },
+              {
+                "verse": "",
+                "line": "6.",
+                "inner": "b",
+                "compound": "",
+                "overall": ""
+              },
+              {
+                "verse": "Verse 3.",
+                "line": "7.",
+                "inner": "A",
+                "compound": "A",
+                "overall": "B"
+              },
+              {
+                "verse": "",
+                "line": "8.",
+                "inner": "A",
+                "compound": "",
+                "overall": ""
+              },
+              {
+                "verse": "",
+                "line": "9.",
+                "inner": "A",
+                "compound": "",
+                "overall": ""
+              },
+              {
+                "verse": "",
+                "line": "10.",
+                "inner": "A",
+                "compound": "",
+                "overall": ""
+              },
+              {
+                "verse": "",
+                "line": "11.",
+                "inner": "B",
+                "compound": "B",
+                "overall": ""
+              },
+              {
+                "verse": "Verse 4.",
+                "line": "12.",
+                "inner": "B",
+                "compound": "B",
+                "overall": ""
+              },
+              {
+                "verse": "",
+                "line": "13.",
+                "inner": "A",
+                "compound": "A",
+                "overall": ""
+              },
+              {
+                "verse": "",
+                "line": "14.",
+                "inner": "A",
+                "compound": "",
+                "overall": ""
+              },
+              {
+                "verse": "Verse 5.",
+                "line": "15.",
+                "inner": "a",
+                "compound": "a",
+                "overall": "A"
+              },
+              {
+                "verse": "",
+                "line": "16.",
+                "inner": "a",
+                "compound": "",
+                "overall": ""
+              },
+              {
+                "verse": "Verse 6.",
+                "line": "17.",
+                "inner": "b",
+                "compound": "b",
+                "overall": ""
+              },
+              {
+                "verse": "",
+                "line": "18.",
+                "inner": "b",
+                "compound": "",
+                "overall": ""
+              }
+            ]
+          }
+        },
+        "Note the expandable nature of the verse form: Verses 1 and 3 could each have been two lines shorter and retained the same pattern and sense. The additional lines add richness and they contrast rhythmically with their finalizing pairs, which in comparison seem cut short. There is more that could be said of these lines, much of it generated by the thematic contrasts foregrounded by its patterned style.",
+        "The overall form of the Psalm resonates with that of the metaphoric kernel that lies at its heart. The overall form is the pattern in **aba** writ large, composed of two type-a line groups, each of which is composed as **ab** (Verses 1–2 and 5–6, defined as above), contrasted with a single type-b line group composed as **aba** (Verses 3–4, defined as above). This is surely not the only place such finalized patterns of parallel lines occur in the Bible."
+      ]
+    }
+  ]
+}

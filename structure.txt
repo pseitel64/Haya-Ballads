@@ -1,0 +1,163 @@
+Folder PATH listing for volume OS
+Volume serial number is 32D7-6B08
+C:.
+¦   aaStart-Range-Server-and-Open-Chrome.bat
+¦   library.html
+¦   structure.txt
+¦   
++---essays
+¦       bards_voices.html
+¦       call_episode.html
+¦       enanga_tradition.html
+¦       haya_people.html
+¦       heroic_age.html
+¦       poetic_forms.html
+¦       recording_methodology.html
+¦       
++---Feza - Kaitaba
+¦       annotations.json
+¦       index.html
+¦       intro.html
+¦       Kaitaba.m4a
+¦       kaitaba_full_text.pdf
+¦       kaitaba_plot.json
+¦       sync.json
+¦       transcription.json
+¦       translation.json
+¦       
++---Fezza - Kitekele
+¦       annotations.json
+¦       index.html
+¦       intro.html
+¦       kitekele_full_text.pdf
+¦       kitekele_plot.json
+¦       kitekere.m4a
+¦       sync.json
+¦       transcription.json
+¦       translation.json
+¦       
++---Habib - Mugasha I
+¦       annotations.json
+¦       index.html
+¦       intro.html
+¦       mugasha1.m4a
+¦       mugasha_I_full_text.pdf
+¦       mugasha_i_plot.json
+¦       sync.json
+¦       transcription.json
+¦       translation.json
+¦       
++---Habib - Mugasha II
+¦       annotations.json
+¦       index.html
+¦       intro.html
+¦       mugasha2.m4a
+¦       mugasha_II_full_text.pdf
+¦       sync.json
+¦       transcription.json
+¦       translation.json
+¦       
++---images
+¦       0018-15Olwesho1.jpg
+¦       0054-4FezaTunes.jpg
+¦       0054-8Enanga.jpg
+¦       010-31aRojaboEnanga.jpg
+¦       016-30Enoch.jpg
+¦       cattlecountry.jpg
+¦       DioniesMsonge.jpg
+¦       Elias_Kashula_and_Winifred_Kisiraga_at_work_on_this_project_in_1969.jpg
+¦       Joeli1.jpg
+¦       
++---Mugasha - Mbali
+¦       annotations.json
+¦       index.html
+¦       intro.html
+¦       MbaliOluga.m4a
+¦       mbali_full_text.pdf
+¦       mbali_plot.json
+¦       sync.json
+¦       transcription.json
+¦       translation.json
+¦       
++---Mugasha - Rukiza
+¦       annotations.json
+¦       index.html
+¦       intro.html
+¦       rukiza.m4a
+¦       rukiza_full_text.pdf
+¦       rukiza_plot.json
+¦       sync.json
+¦       transcription.json
+¦       translation.json
+¦       
++---Muzee - Kachwenyanja
+¦       annotations.json
+¦       index.html
+¦       intro.html
+¦       kachwenyanja.m4a
+¦       kachwenyanja_full_text.pdf
+¦       kachwenyanja_plot.json
+¦       sync.json
+¦       transcription.json
+¦       translation.json
+¦       
++---Muzee - Kaiyula
+¦       annotations.json
+¦       index.html
+¦       intro.html
+¦       kaiyula.m4a
+¦       kaiyula_full_text.pdf
+¦       kaiyula_plot.json
+¦       sync.json
+¦       transcription.json
+¦       translation.json
+¦       
++---Muzee - Kajango
+¦   ¦   annotations.json
+¦   ¦   index.html
+¦   ¦   intro.html
+¦   ¦   kajango.m4a
+¦   ¦   kajango_full_text.pdf
+¦   ¦   kajango_plot.json
+¦   ¦   sync.json
+¦   ¦   transcription.json
+¦   ¦   translation.json
+¦   ¦   
+¦   +---images
+¦           bananabastbundle76small.jpg
+¦           beercanoe21-a.jpg
+¦           beercanoefunnelladleclose007A-7.jpg
+¦           beercanoefunnelladleKato007A-8.jpg
+¦           beercanoemashmedium007A-1.jpg
+¦           beercanoemashmediumrope007A-2.jpg
+¦           beercanoesievemash007A-16.jpg
+¦           beercanoesievemashmedium007A-6.jpg
+¦           beercanoesieverope007A-12.jpg
+¦           beercanoeuse007A-23-edit 1 (1).jpg
+¦           beercanoeuse007A-23-edit 1 (2).jpg
+¦           beercanoeuse007A-23-edit 1.jpg
+¦           beercanoeuse007A-23.jpg
+¦           cookingpotonhearth19small.jpg
+¦           engemeko.jpg
+¦           KajangobyMuzee.jpg
+¦           spearandhaftedknife.jpg
+¦           unnamed.jpg
+¦           
++---Muzee - The Tree Mwata
+¦       annotations.json
+¦       index.html
+¦       intro.html
+¦       Mwata.m4a
+¦       sync.json
+¦       The_Tree_Mwata_full_text.pdf
+¦       the_tree_mwata_plot.json
+¦       transcription.json
+¦       translation.json
+¦       
++---viewer
+        library.css
+        navigation.js
+        poetic_forms.json
+        script.js
+        styles.css
+        

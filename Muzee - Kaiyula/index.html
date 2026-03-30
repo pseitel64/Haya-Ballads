@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Kaiyula — Muzee of Kanazi</title>
+  <link rel="stylesheet" href="../viewer/styles.css" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <audio id="audio" src="https://archive.org/download/kajango/kaiyula.m4a" preload="metadata"></audio>
+
+  <div id="transport">
+    <div id="transportLeft">
+      <button id="playPause">&#9654;</button>
+      <span id="timeDisplay">0:00 / 0:00</span>
+      <span class="range-label">Seek</span>
+      <input id="seek" type="range" min="0" max="0" step="0.01">
+      <div id="line-nav" class="line-nav-box">
+        <span id="lineLabel">1</span>
+        <input type="text" id="lineInput" class="hidden">
+      </div>
+      <span class="range-label">Vol.</span>
+      <input id="vol" type="range" min="0" max="1" step="0.01" value="1">
+      <span class="range-label">Speed</span>
+      <div id="speedControl">
+        <button class="speed-btn active" data-rate="1">100%</button>
+        <button class="speed-btn" data-rate="0.8">80%</button>
+      </div>
+    </div>
+    <div id="transportRight">
+      <span id="infoText"><em>Kaiyula</em> — Muzee of Kanazi</span>
+      <button id="menuBtn" class="hamburger-btn" aria-label="Menu">
+        <span class="hamburger-icon">&#9776;</span>
+      </button>
+      <div id="menuPanel" class="menu-panel hidden">
+        <button class="menu-item" data-action="controls">Player Controls</button>
+        <button class="menu-item" data-action="plot">Plot Summary</button>
+        <button class="menu-item" data-action="verse">Poetic Verse Forms</button>
+        <button class="menu-item" data-action="pdf">Full Text &amp; Annotations PDF</button>
+        <button class="menu-item" data-action="search">Search</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Intro Modal -->
+  <div id="introOverlay">
+    <div id="introModal">
+      <div id="introModalHeader">
+        <span id="introModalTitle"><em>Kaiyula</em> &mdash; Muzee of Kanazi</span>
+        <div id="introModalBtns">
+          <button id="introClose">Close</button>
+          <button id="introClosePlay">Close &amp; Play</button>
+          <button id="introBackLib">Back to Library</button>
+        </div>
+      </div>
+      <div id="introModalBody">
+        <p>Kaiyula is a woman's name. It is also the distant thunder that accompanies the first sprinklings of rain after the long, parched, and sometimes hungry dry season.</p>
+    <p>The ballad of Kaiyula is a poetic evocation of human passion: the supernatural heat that melts together lovers created only for each other; and a lover's crazy, aesthetic, mind-altering embrace of the other's beauty. That is, the ballad is about attraction between youths, on one hand, and between adults, on the other.</p>
+    <p>Comparing this ballad with The Place You Come From reveals similar episodes based on particular speech interactions: seduction, pillow talk, and post-coital exchange. Kaiyula also has several other kinds of episodes and includes two seductions not one; The Place You Come From gives more emphasis to the post-coital exchange and its consequences. Seeing the episodes as types assists understanding of the many poetic figures and the rhetorical functions they serve.</p>
+    <p>Muzee sang this ballad on August 22, 1969, to an audience gathered at the traditional house (msonge) of Dionies Lutabanzibwa.</p>
+      </div>
+    </div>
+  </div>
+
+  <div id="rows"></div>
+  <section id="annoPanel" class="anno"></section>
+  <div id="imagePanel" class="image-modal"></div>
+
+  <script src="../viewer/script.js"></script>
+  <script>
+    const audio = document.getElementById('audio');
+    document.querySelectorAll('.speed-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        audio.playbackRate = parseFloat(btn.dataset.rate);
+        document.querySelectorAll('.speed-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+      });
+    });
+  </script>
+
+</body>
+</html>

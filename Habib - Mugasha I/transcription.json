@@ -1,0 +1,3536 @@
+[
+  {
+    "id": 1,
+    "kind": "poem",
+    "line": "1",
+    "text": "Bahyoza hulila enanga ya <i>Bitankwama</i>,"
+  },
+  {
+    "id": 2,
+    "kind": "poem",
+    "line": "1.1",
+    "text": " <i>Ya </i><i>Bugulu</i><i> bwa Kafunzi</i>,"
+  },
+  {
+    "id": 3,
+    "kind": "poem",
+    "line": "1.2",
+    "text": " <i>Nyabuleza</i><i> ka </i><i>Techuba</i>,"
+  },
+  {
+    "id": 4,
+    "kind": "poem",
+    "line": "1.3",
+    "text": " <i>Kashasila</i><i> Nkom' </i><i>ekibanda</i>,"
+  },
+  {
+    "id": 5,
+    "kind": "poem",
+    "line": "1.4",
+    "text": " <i>Malinzi</i><i> gait' </i><i>emihanda</i><i>,</i><i></i>"
+  },
+  {
+    "id": 6,
+    "kind": "poem",
+    "line": "1.5",
+    "text": "<i>Lwa</i><i> </i><i>kyetabila</i><i>,</i><i></i>"
+  },
+  {
+    "id": 7,
+    "kind": "poem",
+    "line": "1.6",
+    "text": " <i>Ngundu </i><i>Majambwe</i><i> Bashahila-</i><i>mwoyo</i>,"
+  },
+  {
+    "id": 8,
+    "kind": "poem",
+    "line": "2",
+    "text": "<i>Kagambila-nda</i>,"
+  },
+  {
+    "id": 9,
+    "kind": "poem",
+    "line": "2.1",
+    "text": " <i>Aluga</i><i> </i><i>omwa</i><i> </i><i>Mutoizi</i><i>,</i><i></i>"
+  },
+  {
+    "id": 10,
+    "kind": "poem",
+    "line": "2.2",
+    "text": " <i>Ekilema-ihanuula</i><i>,</i><i></i>"
+  },
+  {
+    "id": 11,
+    "kind": "poem",
+    "line": "2.3",
+    "text": " <i>Lujagambya</i><i> </i><i>Lwanyakaata</i>,"
+  },
+  {
+    "id": 12,
+    "kind": "poem",
+    "line": "2.4",
+    "text": " <i>Ajagamby</i><i>' </i><i>omu</i><i> </i><i>ntunga</i>,"
+  },
+  {
+    "id": 13,
+    "kind": "poem",
+    "line": "2.5",
+    "text": "<i>Ekya</i><i> </i><i>kabili</i><i></i>"
+  },
+  {
+    "id": 14,
+    "kind": "poem",
+    "line": "2.6",
+    "text": " <i>Ajagamby</i><i>' </i><i>omu</i><i> ngege</i>,"
+  },
+  {
+    "id": 15,
+    "kind": "poem",
+    "line": "3",
+    "text": "<i>Ajugutil</i><i>' </i><i>omu</i><i> </i><i>nyanja</i><i> </i><i>empango</i><i> </i><i>nka</i><i> Lwelu.</i><i></i>"
+  },
+  {
+    "id": 16,
+    "kind": "poem",
+    "line": "3.1",
+    "text": " <i>Akanga</i><i> ahi, \"</i><i>Tindijugutil</i><i>' </i><i>omukyalo</i><i>.\"</i><i></i>"
+  },
+  {
+    "id": 17,
+    "kind": "poem",
+    "line": "3.2",
+    "text": " <i>Wehunde</i><i> </i><i>majambwe</i><i> </i><i>engundu</i><i> </i><i>ya</i> <i>Bashahila-mwoyo</i>."
+  },
+  {
+    "id": 18,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 19,
+    "kind": "poem",
+    "line": "4",
+    "text": "Omu kil' ekyo nkabona."
+  },
+  {
+    "id": 20,
+    "kind": "poem",
+    "line": "4.1",
+    "text": " Yagambila Nyambubi,"
+  },
+  {
+    "id": 21,
+    "kind": "poem",
+    "line": "4.2",
+    "text": " Ati,\"Mae sindikil' onzaile."
+  },
+  {
+    "id": 22,
+    "kind": "poem",
+    "line": "4.3",
+    "text": " Kolatina ndakubalukila omu itundu"
+  },
+  {
+    "id": 23,
+    "kind": "poem",
+    "line": "4.4",
+    "text": " <i>Ekilema-ihanula</i>.\""
+  },
+  {
+    "id": 24,
+    "kind": "poem",
+    "line": "5",
+    "text": "Nyambubi akasindikila. "
+  },
+  {
+    "id": 25,
+    "kind": "poem",
+    "line": "5.1",
+    "text": " Byabula nshai."
+  },
+  {
+    "id": 26,
+    "kind": "poem",
+    "line": "5.2",
+    "text": " Yatel' oku n' oku."
+  },
+  {
+    "id": 27,
+    "kind": "poem",
+    "line": "5.3",
+    "text": " Nyambubi yalamaijwa."
+  },
+  {
+    "id": 28,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 29,
+    "kind": "poem",
+    "line": "6",
+    "text": "Ababaile bali 'ho bati, \"Hondel' abazaza.\""
+  },
+  {
+    "id": 30,
+    "kind": "poem",
+    "line": "6.1",
+    "text": " Baleta Galengaine,"
+  },
+  {
+    "id": 31,
+    "kind": "poem",
+    "line": "6.2",
+    "text": " <i>Mutana </i><i>Lusheke</i> <i>owa</i><i> </i><i>Mugunda</i><i>.</i><i></i>"
+  },
+  {
+    "id": 32,
+    "kind": "poem",
+    "line": "6.3",
+    "text": " Omukaikulu omu ilembo yagutul' olweza n' olugoshoola."
+  },
+  {
+    "id": 33,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 34,
+    "kind": "poem",
+    "line": "7",
+    "text": "Yagambila Nyambubi"
+  },
+  {
+    "id": 35,
+    "kind": "poem",
+    "line": "7.1",
+    "text": " Ati, \"Mwana wange gum' omuzale"
+  },
+  {
+    "id": 36,
+    "kind": "poem",
+    "line": "7.2",
+    "text": " Omwan' omo yakukumalila obugumba Mugasha.\""
+  },
+  {
+    "id": 37,
+    "kind": "poem",
+    "line": "8",
+    "text": "Kil' ekyo Nyambubi akasindikila. "
+  },
+  {
+    "id": 38,
+    "kind": "poem",
+    "line": "8.1",
+    "text": " Byabula nshai."
+  },
+  {
+    "id": 39,
+    "kind": "poem",
+    "line": "9",
+    "text": "Yatel' oku n' oku."
+  },
+  {
+    "id": 40,
+    "kind": "poem",
+    "line": "9.1",
+    "text": " Kil' ekyo yalamaijwa."
+  },
+  {
+    "id": 41,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 42,
+    "kind": "poem",
+    "line": "10",
+    "text": "Kil' ekyo nkabona."
+  },
+  {
+    "id": 43,
+    "kind": "poem",
+    "line": "10.1",
+    "text": " Omukaikulu yaluga aha mwanya."
+  },
+  {
+    "id": 44,
+    "kind": "poem",
+    "line": "10.2",
+    "text": " Mukono ogwa bulyo akaija akwete enyungu y' etaba."
+  },
+  {
+    "id": 45,
+    "kind": "poem",
+    "line": "10.3",
+    "text": " Ogwa bumosho natagaita, nka akamula kilangi."
+  },
+  {
+    "id": 46,
+    "kind": "poem",
+    "line": "11",
+    "text": "Omukaikulu yashobelwa,"
+  },
+  {
+    "id": 47,
+    "kind": "poem",
+    "line": "11.1",
+    "text": " Ati, \"Ngilenta mwana wange?\""
+  },
+  {
+    "id": 48,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 49,
+    "kind": "poem",
+    "line": "12",
+    "text": "Ahi, \"Wegumisilize.\""
+  },
+  {
+    "id": 50,
+    "kind": "poem",
+    "line": "12.1",
+    "text": " Bataho enshamba zona "
+  },
+  {
+    "id": 51,
+    "kind": "poem",
+    "line": "12.2",
+    "text": " Byabula nshai."
+  },
+  {
+    "id": 52,
+    "kind": "poem",
+    "line": "12.3",
+    "text": " Eyokulamba n' ogwokunukiliza,"
+  },
+  {
+    "id": 53,
+    "kind": "poem",
+    "line": "12.4",
+    "text": " Ogwokuhulutula mbanaga omu kyoto, "
+  },
+  {
+    "id": 54,
+    "kind": "poem",
+    "line": "12.5",
+    "text": "<i></i><i>Abanyakalembe</i><i>.</i><i></i>"
+  },
+  {
+    "id": 55,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 56,
+    "kind": "poem",
+    "line": "13",
+    "text": "Kil' ekyo bagila"
+  },
+  {
+    "id": 57,
+    "kind": "poem",
+    "line": "13.1",
+    "text": " Byabula nshai."
+  },
+  {
+    "id": 58,
+    "kind": "poem",
+    "line": "14",
+    "text": "Omukaikulu yashobelwa,"
+  },
+  {
+    "id": 59,
+    "kind": "poem",
+    "line": "14.1",
+    "text": " Ati, \"Ngilenta mwana wange?\""
+  },
+  {
+    "id": 60,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 61,
+    "kind": "poem",
+    "line": "15",
+    "text": "Nkabona kil' ekyo."
+  },
+  {
+    "id": 62,
+    "kind": "poem",
+    "line": "15.1",
+    "text": " Yaluga aha mwanya."
+  },
+  {
+    "id": 63,
+    "kind": "poem",
+    "line": "15.2",
+    "text": " Mukono ogwa bulyo akaija akwete enyungu y' etaba."
+  },
+  {
+    "id": 64,
+    "kind": "poem",
+    "line": "15.3",
+    "text": " Ogwa bumosho natagaita nka akamula kilangi."
+  },
+  {
+    "id": 65,
+    "kind": "poem",
+    "line": "16",
+    "text": "Ati, \"Amani gange!"
+  },
+  {
+    "id": 66,
+    "kind": "poem",
+    "line": "17",
+    "text": "Amani gange! Amani gange!\""
+  },
+  {
+    "id": 67,
+    "kind": "poem",
+    "line": "18",
+    "text": "Kil' ekyo omukaikulu yaikala ashobeilwe,"
+  },
+  {
+    "id": 68,
+    "kind": "poem",
+    "line": "18.1",
+    "text": " Ati \"Ngilenta? Amani gange!\""
+  },
+  {
+    "id": 69,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 70,
+    "kind": "poem",
+    "line": "19",
+    "text": "Tuti, \"Byaba bita mukaile?\""
+  },
+  {
+    "id": 71,
+    "kind": "poem",
+    "line": "19.1",
+    "text": " Ati, \"Bana bange iluka bwangu bwangu!"
+  },
+  {
+    "id": 72,
+    "kind": "poem",
+    "line": "19.2",
+    "text": " Mutakile omu byanga bana bange."
+  },
+  {
+    "id": 73,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 74,
+    "kind": "poem",
+    "line": "20",
+    "text": "Mugy' omwa Wamala,"
+  },
+  {
+    "id": 75,
+    "kind": "poem",
+    "line": "20.1",
+    "text": " <i>Luyongo</i><i> </i><i>lwa</i><i> Nyante</i>,"
+  },
+  {
+    "id": 76,
+    "kind": "poem",
+    "line": "20.2",
+    "text": " <i>Kakyai</i><i> Kagoobe</i>,"
+  },
+  {
+    "id": 77,
+    "kind": "poem",
+    "line": "20.3",
+    "text": " <i>Omugololwa-mpongano</i>,"
+  },
+  {
+    "id": 78,
+    "kind": "poem",
+    "line": "20.4",
+    "text": " <i>Ly' </i><i>endisa</i><i>,</i><i></i>"
+  },
+  {
+    "id": 79,
+    "kind": "poem",
+    "line": "20.5",
+    "text": "<i>Akaluga</i><i> </i><i>Buzinja</i><i>.</i><i></i>"
+  },
+  {
+    "id": 80,
+    "kind": "poem",
+    "line": "21",
+    "text": "Muteege <i>Talemwa</i><i> </i><i>bili</i><i> </i><i>halai</i>,"
+  },
+  {
+    "id": 81,
+    "kind": "poem",
+    "line": "21.1",
+    "text": " <i>Ndemwa</i><i> </i><i>mugongo</i>,"
+  },
+  {
+    "id": 82,
+    "kind": "poem",
+    "line": "21.2",
+    "text": " <i>Gwahekile</i><i> </i><i>abatatonye</i>,"
+  },
+  {
+    "id": 83,
+    "kind": "poem",
+    "line": "21.3",
+    "text": " <i>Lwanga </i><i>kubonda</i>,"
+  },
+  {
+    "id": 84,
+    "kind": "poem",
+    "line": "22",
+    "text": "<i>Entama</i><i> </i><i>ya</i><i> </i><i>Bwela</i>, bana bange.\""
+  },
+  {
+    "id": 85,
+    "kind": "poem",
+    "line": "23",
+    "text": "Ahi, \"Mugy' omwa <i>Luyongo</i><i> </i><i>lwa</i><i> Nyante</i>,"
+  },
+  {
+    "id": 86,
+    "kind": "poem",
+    "line": "23.1",
+    "text": " <i>Kakyai</i><i> </i><i>kagoobe</i>.\""
+  },
+  {
+    "id": 87,
+    "kind": "poem",
+    "line": "23.2",
+    "text": " Twatwala ebisa n' ebitanga."
+  },
+  {
+    "id": 88,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 89,
+    "kind": "poem",
+    "line": "23.3",
+    "text": " Kil' ekyo twabihonga omwa Wamala,"
+  },
+  {
+    "id": 90,
+    "kind": "poem",
+    "line": "23.4",
+    "text": " <i>Luyongo</i><i> </i><i>lwa</i><i> Nyante</i>,"
+  },
+  {
+    "id": 91,
+    "kind": "poem",
+    "line": "23.5",
+    "text": "<i>Kakyai</i><i> </i><i>Kagoobe</i>."
+  },
+  {
+    "id": 92,
+    "kind": "poem",
+    "line": "23.6",
+    "text": " <i>Omugololwa-mpongano</i><i></i>"
+  },
+  {
+    "id": 93,
+    "kind": "poem",
+    "line": "24",
+    "text": "Twabihonga omwa <i>Kinyanya</i><i> Abahinda(</i><i>kazi</i><i>)</i>,"
+  },
+  {
+    "id": 94,
+    "kind": "poem",
+    "line": "24.1",
+    "text": " <i>Mukono </i><i>gwa</i><i> </i><i>kilema</i>,"
+  },
+  {
+    "id": 95,
+    "kind": "poem",
+    "line": "24.2",
+    "text": " <i>Afumbata</i><i> </i><i>emanzi</i>,"
+  },
+  {
+    "id": 96,
+    "kind": "poem",
+    "line": "24.3",
+    "text": " <i>Manyugunyu</i><i> </i><i>gajwile</i><i> </i><i>omulamba</i>,"
+  },
+  {
+    "id": 97,
+    "kind": "poem",
+    "line": "24.4",
+    "text": " <i>Mpindu</i><i> </i><i>ibazila</i>."
+  },
+  {
+    "id": 98,
+    "kind": "poem",
+    "line": "25",
+    "text": "Kil' ekyo omukaikulu yashobelwa,"
+  },
+  {
+    "id": 99,
+    "kind": "poem",
+    "line": "25.1",
+    "text": " Ati, \"Ngilenta? Amani gange!\""
+  },
+  {
+    "id": 100,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 101,
+    "kind": "poem",
+    "line": "26",
+    "text": "Nkabona kil' ekyo. "
+  },
+  {
+    "id": 102,
+    "kind": "poem",
+    "line": "27",
+    "text": "<i>Luyongo</i><i> </i><i>lwa</i><i> Nyante</i> ahi, \"Bana bange!\""
+  },
+  {
+    "id": 103,
+    "kind": "poem",
+    "line": "27.1",
+    "text": " Yasindika Lwebembela olwa Kayango,"
+  },
+  {
+    "id": 104,
+    "kind": "poem",
+    "line": "27.2",
+    "text": " <i>Entegwa</i><i> </i><i>biyengo</i>."
+  },
+  {
+    "id": 105,
+    "kind": "poem",
+    "line": "28",
+    "text": "Ahi, \"Mugye mutem' omushambya omwinunula."
+  },
+  {
+    "id": 106,
+    "kind": "poem",
+    "line": "28.1",
+    "text": " Mubaije akagai mwenda."
+  },
+  {
+    "id": 107,
+    "kind": "poem",
+    "line": "28.2",
+    "text": " Muteme <i>omuteeko</i> omulinzi."
+  },
+  {
+    "id": 108,
+    "kind": "poem",
+    "line": "28.3",
+    "text": " Mubaije akato."
+  },
+  {
+    "id": 109,
+    "kind": "poem",
+    "line": "28.4",
+    "text": " Mubite omu kikalo.\""
+  },
+  {
+    "id": 110,
+    "kind": "poem",
+    "line": "29",
+    "text": "Ati, \"Omwana mujubi omwa Ishulaine Bugunda.\""
+  },
+  {
+    "id": 111,
+    "kind": "poem",
+    "line": "30",
+    "text": "Omukaikulu kil' ekyo yabileta bwangu bwangu."
+  },
+  {
+    "id": 112,
+    "kind": "poem",
+    "line": "30.1",
+    "text": " Babihonga."
+  },
+  {
+    "id": 113,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 114,
+    "kind": "poem",
+    "line": "31",
+    "text": "Nkabona"
+  },
+  {
+    "id": 115,
+    "kind": "poem",
+    "line": "31.1",
+    "text": " Yazalwa Nyatende. Yaija aha nsi."
+  },
+  {
+    "id": 116,
+    "kind": "poem",
+    "line": "31.2",
+    "text": " Yebuga. Yekologota."
+  },
+  {
+    "id": 117,
+    "kind": "poem",
+    "line": "32",
+    "text": "Ahi, \"Iluka mugye Kishanje kya Kalasha omwa Mutailenge."
+  },
+  {
+    "id": 118,
+    "kind": "poem",
+    "line": "32.1",
+    "text": " Mugye omwa Ibebe Bweza."
+  },
+  {
+    "id": 119,
+    "kind": "poem",
+    "line": "33",
+    "text": "Mugende mugambile Menshaija Katanda Katahika"
+  },
+  {
+    "id": 120,
+    "kind": "poem",
+    "line": "33.1",
+    "text": " Ayanguhe bwangu bwangu "
+  },
+  {
+    "id": 121,
+    "kind": "poem",
+    "line": "33.2",
+    "text": " Nyatende Mugasha.\" "
+  },
+  {
+    "id": 122,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 123,
+    "kind": "poem",
+    "line": "33.3",
+    "text": " Stop for tape change"
+  },
+  {
+    "id": 124,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 125,
+    "kind": "poem",
+    "line": "34",
+    "text": "Ati, \"Menshaija Katanda Katahika"
+  },
+  {
+    "id": 126,
+    "kind": "poem",
+    "line": "34.1",
+    "text": " Iluka bwangu bwangu"
+  },
+  {
+    "id": 127,
+    "kind": "poem",
+    "line": "34.2",
+    "text": " Nkutume Kiziba."
+  },
+  {
+    "id": 128,
+    "kind": "poem",
+    "line": "34.3",
+    "text": " Ntumwa Magembe ongobele omwa Nipelasho Kaigoma.\""
+  },
+  {
+    "id": 129,
+    "kind": "poem",
+    "line": "35",
+    "text": "Ahi, \"Bagende bantwekele obwato bw' entebe munana."
+  },
+  {
+    "id": 130,
+    "kind": "poem",
+    "line": "35.1",
+    "text": " Eihembe lya mwenda.\""
+  },
+  {
+    "id": 131,
+    "kind": "poem",
+    "line": "35.2",
+    "text": " Bagenda babuhumuza omu mwalo Nyakilembeka."
+  },
+  {
+    "id": 132,
+    "kind": "poem",
+    "line": "36",
+    "text": "Olwo bakabuhumwize omu mwalo Nyakilembeka -"
+  },
+  {
+    "id": 133,
+    "kind": "poem",
+    "line": "36.1",
+    "text": " Nkabona kil' ekyo -"
+  },
+  {
+    "id": 134,
+    "kind": "poem",
+    "line": "36.2",
+    "text": " Ati, \"Menshaija, iluka bwangu bwangu.\""
+  },
+  {
+    "id": 135,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 136,
+    "kind": "poem",
+    "line": "37",
+    "text": "Nyinalumi yagya yabimugambila omwana aha bulago."
+  },
+  {
+    "id": 137,
+    "kind": "poem",
+    "line": "37.1",
+    "text": " Yalugaho. "
+  },
+  {
+    "id": 138,
+    "kind": "poem",
+    "line": "37.2",
+    "text": " Kagya kashuntama omu nyomyo z' omu ibanga."
+  },
+  {
+    "id": 139,
+    "kind": "poem",
+    "line": "37.3",
+    "text": " Kaimuky' omukono."
+  },
+  {
+    "id": 140,
+    "kind": "poem",
+    "line": "37.4",
+    "text": " Nkabona kil' ekyo <i>Njwenge</i>."
+  },
+  {
+    "id": 141,
+    "kind": "poem",
+    "line": "38",
+    "text": "Olwo yaimukiz' omukono "
+  },
+  {
+    "id": 142,
+    "kind": "poem",
+    "line": "38.1",
+    "text": " Nkabona abantu bona bashobelwa."
+  },
+  {
+    "id": 143,
+    "kind": "poem",
+    "line": "38.2",
+    "text": " Ati, \"Mp' engai zange ezobabaizile ninzalwa, engai mwenda.\""
+  },
+  {
+    "id": 144,
+    "kind": "poem",
+    "line": "38.3",
+    "text": " Baleta engai mwenda."
+  },
+  {
+    "id": 145,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 146,
+    "kind": "poem",
+    "line": "39",
+    "text": "Yakwata engai emoi,"
+  },
+  {
+    "id": 147,
+    "kind": "poem",
+    "line": "39.1",
+    "text": " Ati, \"Engai yange. Ninshabula.\""
+  },
+  {
+    "id": 148,
+    "kind": "poem",
+    "line": "39.2",
+    "text": " Yashohola omu kibuga,"
+  },
+  {
+    "id": 149,
+    "kind": "poem",
+    "line": "39.3",
+    "text": " Bati, \"Kalagwa.\""
+  },
+  {
+    "id": 150,
+    "kind": "poem",
+    "line": "39.4",
+    "text": " Babona kagendagenda."
+  },
+  {
+    "id": 151,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 152,
+    "kind": "poem",
+    "line": "40",
+    "text": "Omwana kil' ekyo yagoba omu kihongolelo."
+  },
+  {
+    "id": 153,
+    "kind": "poem",
+    "line": "40.1",
+    "text": " Nyambubi nyina yashohola kil' ekyo."
+  },
+  {
+    "id": 154,
+    "kind": "poem",
+    "line": "40.2",
+    "text": " Yaikala ashobeilwe."
+  },
+  {
+    "id": 155,
+    "kind": "poem",
+    "line": "41",
+    "text": "Abantu omu kyalo bahwayo."
+  },
+  {
+    "id": 156,
+    "kind": "poem",
+    "line": "41.1",
+    "text": " Bagenda mbatel' empundu n' ebiina,"
+  },
+  {
+    "id": 157,
+    "kind": "poem",
+    "line": "41.2",
+    "text": " Nilwitika <i>Abanyakalembe</i> "
+  },
+  {
+    "id": 158,
+    "kind": "poem",
+    "line": "41.3",
+    "text": " Bati, \"Kanyawela yela.\""
+  },
+  {
+    "id": 159,
+    "kind": "poem",
+    "line": "41.4",
+    "text": " Bati, \"Kayel' omu ngoma.\""
+  },
+  {
+    "id": 160,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 161,
+    "kind": "poem",
+    "line": "42",
+    "text": "Kabamugobize omu mwalo Nyakilembeka,"
+  },
+  {
+    "id": 162,
+    "kind": "poem",
+    "line": "42.1",
+    "text": " Omwana yabilikila Mushoke gwa nyanja,"
+  },
+  {
+    "id": 163,
+    "kind": "poem",
+    "line": "42.2",
+    "text": " <i>Izilinga</i><i> </i><i>lya</i><i> </i><i>nyakamyoka</i>."
+  },
+  {
+    "id": 164,
+    "kind": "poem",
+    "line": "43",
+    "text": "Ahi, \"Kiwiwisi <i>Ekihutilizi-</i><i>mbeho</i><i>,</i> <i>Tinsiga-mulyango</i>,"
+  },
+  {
+    "id": 165,
+    "kind": "poem",
+    "line": "43.1",
+    "text": " <i>Kachwaichwaita</i> Kimyanso.\""
+  },
+  {
+    "id": 166,
+    "kind": "poem",
+    "line": "43.2",
+    "text": " Abilikila Kaiyula."
+  },
+  {
+    "id": 167,
+    "kind": "poem",
+    "line": "44",
+    "text": "Yayeta Nshungu <i>kapapa</i><i> ka </i><i>Lwabulungu</i>,"
+  },
+  {
+    "id": 168,
+    "kind": "poem",
+    "line": "44.1",
+    "text": " <i>Bikulembe</i><i> </i><i>bilalile</i><i> </i><i>mabega</i>,"
+  },
+  {
+    "id": 169,
+    "kind": "poem",
+    "line": "44.2",
+    "text": " <i>Nkulumbi</i><i> </i><i>etwalwa</i><i> </i><i>mugenzi</i>,"
+  },
+  {
+    "id": 170,
+    "kind": "poem",
+    "line": "44.3",
+    "text": " <i>Isika-</i><i>migonjo</i>."
+  },
+  {
+    "id": 171,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 172,
+    "kind": "poem",
+    "line": "45",
+    "text": "Ahi, \"Kilo ekya mbwenu ningonza ninkyalile."
+  },
+  {
+    "id": 173,
+    "kind": "poem",
+    "line": "45.1",
+    "text": " Kil' eki omu nyanja mpango nka Lwelu,"
+  },
+  {
+    "id": 174,
+    "kind": "poem",
+    "line": "45.2",
+    "text": " Ngende njube enkuyu, <i>Bilali </i><i>bya</i><i> </i><i>kahunga</i>.\""
+  },
+  {
+    "id": 175,
+    "kind": "poem",
+    "line": "46",
+    "text": "Ati, \"Empala, <i>Luhembe</i><i> </i><i>enkoma</i><i> </i><i>mujungwizi</i>,"
+  },
+  {
+    "id": 176,
+    "kind": "poem",
+    "line": "46.1",
+    "text": " Nyite kilo ekya mbwenu."
+  },
+  {
+    "id": 177,
+    "kind": "poem",
+    "line": "46.2",
+    "text": " Nyite obukeije n' obukokalongo.\""
+  },
+  {
+    "id": 178,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 179,
+    "kind": "poem",
+    "line": "47",
+    "text": "Nkabona kil' ekyo <i>Njwenge</i>."
+  },
+  {
+    "id": 180,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 181,
+    "kind": "poem",
+    "line": "48",
+    "text": "Nkabona obwato bwailila obuziba."
+  },
+  {
+    "id": 182,
+    "kind": "poem",
+    "line": "48.1",
+    "text": " Nyambubi nyina yatela omu mikono."
+  },
+  {
+    "id": 183,
+    "kind": "poem",
+    "line": "48.2",
+    "text": " Yayala ebiganja."
+  },
+  {
+    "id": 184,
+    "kind": "poem",
+    "line": "49",
+    "text": "Yabilikila Kazoba aka Ntangaile na Kazoba aka Nyamuhanga."
+  },
+  {
+    "id": 185,
+    "kind": "poem",
+    "line": "49.1",
+    "text": " Ahi, \"Kai omwana nagenda, ndategela ekilija amaino ga lugulu.\""
+  },
+  {
+    "id": 186,
+    "kind": "poem",
+    "line": "50",
+    "text": "Nkabona obwato bwaluga omu mwalo Nyakilembeka."
+  },
+  {
+    "id": 187,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 188,
+    "kind": "poem",
+    "line": "51",
+    "text": "Mugasha obuziba akamalayo ebyanda munana."
+  },
+  {
+    "id": 189,
+    "kind": "poem",
+    "line": "51.1",
+    "text": " Ekya mwenda yabilika Mushoke."
+  },
+  {
+    "id": 190,
+    "kind": "poem",
+    "line": "52",
+    "text": "Ahi, \"Gwa nyanja, <i>Isika-</i><i>migonjo</i> ningonza"
+  },
+  {
+    "id": 191,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 192,
+    "kind": "poem",
+    "line": "52.1",
+    "text": " Ngobe mbali nsaabile,"
+  },
+  {
+    "id": 193,
+    "kind": "poem",
+    "line": "52.2",
+    "text": " Ngende mbone mawe ayanzaile,"
+  },
+  {
+    "id": 194,
+    "kind": "poem",
+    "line": "52.3",
+    "text": " Mbone ayansindikiile.\""
+  },
+  {
+    "id": 195,
+    "kind": "poem",
+    "line": "53",
+    "text": "Olwo bakabukile kil' ekyo, <i>Njwenge</i>,"
+  },
+  {
+    "id": 196,
+    "kind": "poem",
+    "line": "54",
+    "text": "Ahi, \"Ngye mbone mawe ayanzaile."
+  },
+  {
+    "id": 197,
+    "kind": "poem",
+    "line": "54.1",
+    "text": " Mbone ayansindikiile.\""
+  },
+  {
+    "id": 198,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 199,
+    "kind": "poem",
+    "line": "55",
+    "text": "Akema obuziba yabona abakazi mwenda."
+  },
+  {
+    "id": 200,
+    "kind": "poem",
+    "line": "55.1",
+    "text": " Mbataha amaizi omu mwalo Nyakilembeka."
+  },
+  {
+    "id": 201,
+    "kind": "poem",
+    "line": "56",
+    "text": "Ati, \"Aha abakazi abo,"
+  },
+  {
+    "id": 202,
+    "kind": "poem",
+    "line": "56.1",
+    "text": " Tinkumanya ayanzaile."
+  },
+  {
+    "id": 203,
+    "kind": "poem",
+    "line": "56.2",
+    "text": " Tinakumanya ayansindikiile, Mugasha.\""
+  },
+  {
+    "id": 204,
+    "kind": "poem",
+    "line": "57",
+    "text": "Yashobelwa kil' ekyo omukaikulu."
+  },
+  {
+    "id": 205,
+    "kind": "poem",
+    "line": "57.1",
+    "text": " Yaikala ashobeilwe."
+  },
+  {
+    "id": 206,
+    "kind": "poem",
+    "line": "58",
+    "text": "Olwo yaboine abakazi mwenda,"
+  },
+  {
+    "id": 207,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 208,
+    "kind": "poem",
+    "line": "58.1",
+    "text": " Yakola magezi ga bashaija."
+  },
+  {
+    "id": 209,
+    "kind": "poem",
+    "line": "58.2",
+    "text": " Yaluga omu bwato."
+  },
+  {
+    "id": 210,
+    "kind": "poem",
+    "line": "58.3",
+    "text": " Yenaga omu nyanja Mugasha."
+  },
+  {
+    "id": 211,
+    "kind": "poem",
+    "line": "59",
+    "text": "Yanag' omukono."
+  },
+  {
+    "id": 212,
+    "kind": "poem",
+    "line": "59.1",
+    "text": " Ati, \"Mwije munkwate. Amaizi gandya!\""
+  },
+  {
+    "id": 213,
+    "kind": "poem",
+    "line": "59.2",
+    "text": " Kil' ekyo bashobelwa."
+  },
+  {
+    "id": 214,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 215,
+    "kind": "poem",
+    "line": "60",
+    "text": "Nkabona abakazi bona bagwa omu bitangalo."
+  },
+  {
+    "id": 216,
+    "kind": "poem",
+    "line": "60.1",
+    "text": " Nyinento Mugasha ahi, \"Kanchumite Mugasha, mwite."
+  },
+  {
+    "id": 217,
+    "kind": "poem",
+    "line": "60.2",
+    "text": " Balampa abana mwenda."
+  },
+  {
+    "id": 218,
+    "kind": "poem",
+    "line": "60.3",
+    "text": " Tibalikwigana mwan' omoi wa Nyambubi.\""
+  },
+  {
+    "id": 219,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 220,
+    "kind": "poem",
+    "line": "61",
+    "text": "Kayalyetwekile Nyambubi yaluga aha nsi yamukwata. "
+  },
+  {
+    "id": 221,
+    "kind": "poem",
+    "line": "61.1",
+    "text": " Ahi, \"Kitanyitila mwana!"
+  },
+  {
+    "id": 222,
+    "kind": "poem",
+    "line": "61.2",
+    "text": " Tinye nakileteile bugumba.\""
+  },
+  {
+    "id": 223,
+    "kind": "poem",
+    "line": "62",
+    "text": "Kil' ekyo yashobelwa <i>Majambwe</i><i> Njwenge</i>."
+  },
+  {
+    "id": 224,
+    "kind": "poem",
+    "line": "63",
+    "text": "Nkabona ababaile bali 'ho "
+  },
+  {
+    "id": 225,
+    "kind": "poem",
+    "line": "63.1",
+    "text": " Bati, \"Nyambubi nosinga omushango."
+  },
+  {
+    "id": 226,
+    "kind": "poem",
+    "line": "63.2",
+    "text": " Taliho mukazi alaisile mwana amuzaile."
+  },
+  {
+    "id": 227,
+    "kind": "poem",
+    "line": "63.3",
+    "text": " Nyambubi, omwana wawe.\""
+  },
+  {
+    "id": 228,
+    "kind": "poem",
+    "line": "64",
+    "text": "Bamuha enkuyu, <i>Bilali </i><i>bya</i><i> </i><i>kahunga</i>."
+  },
+  {
+    "id": 229,
+    "kind": "poem",
+    "line": "65",
+    "text": "Bahi, \"Banyinento muntu tibalugaho busha.\""
+  },
+  {
+    "id": 230,
+    "kind": "poem",
+    "line": "65.1",
+    "text": " Nkabona bamuha obukeije n' obukena."
+  },
+  {
+    "id": 231,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 232,
+    "kind": "poem",
+    "line": "66",
+    "text": "Kil' ekyo <i>Nyatende</i>,"
+  },
+  {
+    "id": 233,
+    "kind": "poem",
+    "line": "66.1",
+    "text": " <i>Njwenge</i>,"
+  },
+  {
+    "id": 234,
+    "kind": "poem",
+    "line": "66.2",
+    "text": " <i>Ky' </i><i>omu</i><i> </i><i>maizi</i>,"
+  },
+  {
+    "id": 235,
+    "kind": "poem",
+    "line": "66.3",
+    "text": " Mugasha."
+  },
+  {
+    "id": 236,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 237,
+    "kind": "cue",
+    "line": "0",
+    "text": "Stop for tape change"
+  },
+  {
+    "id": 238,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 239,
+    "kind": "poem",
+    "line": "67",
+    "text": "Olwo yakasigile yabona nyina alikumuzala,  <i>Njwenge</i>,"
+  },
+  {
+    "id": 240,
+    "kind": "poem",
+    "line": "67.1",
+    "text": " Yashuba omu nyanja mpango nka Lwelu."
+  },
+  {
+    "id": 241,
+    "kind": "poem",
+    "line": "67.2",
+    "text": " Yakwata obwato."
+  },
+  {
+    "id": 242,
+    "kind": "poem",
+    "line": "67.3",
+    "text": " Yezinga Kishanje kya Kalasha omwa Mutailenge."
+  },
+  {
+    "id": 243,
+    "kind": "poem",
+    "line": "67.4",
+    "text": " Yatonya omwa Ibebe Bweza."
+  },
+  {
+    "id": 244,
+    "kind": "poem",
+    "line": "67.5",
+    "text": "Nkabona yezinga Rubafu omuga Nyamataba."
+  },
+  {
+    "id": 245,
+    "kind": "poem",
+    "line": "68",
+    "text": "Aha munwa gwa Kanyabagwa, <i>Nyatende</i><i> Njwenge.</i><i></i>"
+  },
+  {
+    "id": 246,
+    "kind": "poem",
+    "line": "69",
+    "text": "Nkabona yezinga Kyahu kya Nyakwezi."
+  },
+  {
+    "id": 247,
+    "kind": "poem",
+    "line": "69.1",
+    "text": " Yanaga amaisho omu izinga Bushungu, Mugasha."
+  },
+  {
+    "id": 248,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 249,
+    "kind": "poem",
+    "line": "70",
+    "text": "Nilwo yaboine abaisiki munana."
+  },
+  {
+    "id": 250,
+    "kind": "poem",
+    "line": "70.1",
+    "text": " Owa mwenda akaba ali Lwanyaibungo,"
+  },
+  {
+    "id": 251,
+    "kind": "poem",
+    "line": "70.2",
+    "text": " <i>Engundu</i><i> y' </i><i>akakalaito</i>."
+  },
+  {
+    "id": 252,
+    "kind": "poem",
+    "line": "70.3",
+    "text": " Omwisiki ogwo abali muhala wa Wamala,"
+  },
+  {
+    "id": 253,
+    "kind": "poem",
+    "line": "70.4",
+    "text": " <i>Luyongo</i><i> </i><i>lwa</i><i> Nyante</i>,"
+  },
+  {
+    "id": 254,
+    "kind": "poem",
+    "line": "70.5",
+    "text": "<i>Kakyai</i><i> </i><i>Kagobe</i>,"
+  },
+  {
+    "id": 255,
+    "kind": "poem",
+    "line": "70.6",
+    "text": " <i>Omugolowa</i><i> </i><i>mpongano</i>."
+  },
+  {
+    "id": 256,
+    "kind": "poem",
+    "line": "71",
+    "text": "Akaba yaiya obunyasi emiganda ena munana;"
+  },
+  {
+    "id": 257,
+    "kind": "poem",
+    "line": "71.1",
+    "text": " Ogwa mwenda agukwete omu byala;"
+  },
+  {
+    "id": 258,
+    "kind": "poem",
+    "line": "71.2",
+    "text": " Ogwa ikumi akashangwa agulibatile."
+  },
+  {
+    "id": 259,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 260,
+    "kind": "poem",
+    "line": "72",
+    "text": "Omwana akechula Kiwiwisi, "
+  },
+  {
+    "id": 261,
+    "kind": "cue",
+    "line": "0",
+    "text": "<i> </i><i>Ekihutilizi-mbeho</i><i>, </i><i>Tinsiga</i><i> </i><i>mulyango</i>"
+  },
+  {
+    "id": 262,
+    "kind": "poem",
+    "line": "73",
+    "text": "Obunyasi omuyaga gwabunaganaga."
+  },
+  {
+    "id": 263,
+    "kind": "poem",
+    "line": "73.1",
+    "text": " Yabumbabumba n' akashenshe "
+  },
+  {
+    "id": 264,
+    "kind": "poem",
+    "line": "73.2",
+    "text": " Byabula nshai."
+  },
+  {
+    "id": 265,
+    "kind": "poem",
+    "line": "74",
+    "text": "Yashuntama aha nsi."
+  },
+  {
+    "id": 266,
+    "kind": "poem",
+    "line": "74.1",
+    "text": " Yanahila ati, \"Iwe tata!"
+  },
+  {
+    "id": 267,
+    "kind": "poem",
+    "line": "74.2",
+    "text": " <i>Luyongo</i><i> </i><i>lwa</i><i> Nyante</i>.\""
+  },
+  {
+    "id": 268,
+    "kind": "poem",
+    "line": "75",
+    "text": "Omwisiki kil' ekyo yashobelwa."
+  },
+  {
+    "id": 269,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 270,
+    "kind": "poem",
+    "line": "76",
+    "text": "Batahibe bailuka bamusiga."
+  },
+  {
+    "id": 271,
+    "kind": "poem",
+    "line": "76.1",
+    "text": " Yaikala ashobeilwe."
+  },
+  {
+    "id": 272,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 273,
+    "kind": "poem",
+    "line": "76.2",
+    "text": " Akaba atakakihil' omu kanwa "
+  },
+  {
+    "id": 274,
+    "kind": "poem",
+    "line": "76.3",
+    "text": " Lyamuleeta <i>Nyatende</i>,"
+  },
+  {
+    "id": 275,
+    "kind": "poem",
+    "line": "76.4",
+    "text": " <i>Ngundu </i><i>ya</i><i> </i><i>Bashahila-mwoyo</i>."
+  },
+  {
+    "id": 276,
+    "kind": "poem",
+    "line": "77",
+    "text": "<i>Kagambila-nda</i>,"
+  },
+  {
+    "id": 277,
+    "kind": "poem",
+    "line": "77.1",
+    "text": " <i>Naluga </i><i>omwa</i><i> </i><i>Mutoizi</i>,"
+  },
+  {
+    "id": 278,
+    "kind": "poem",
+    "line": "77.2",
+    "text": " <i>Ekilema-ihanuula</i>."
+  },
+  {
+    "id": 279,
+    "kind": "poem",
+    "line": "78",
+    "text": "Ahi, \"<i>Inye</i><i> </i><i>ndi</i><i> </i><i>mwana</i><i> </i><i>omoi</i><i>. </i><i></i>"
+  },
+  {
+    "id": 280,
+    "kind": "poem",
+    "line": "78.1",
+    "text": " <i></i><i>Nkamalila</i><i> </i><i>mawe</i><i> </i><i>obugumba</i>."
+  },
+  {
+    "id": 281,
+    "kind": "poem",
+    "line": "78.2",
+    "text": " Mwisiki nkushelele nkushwele.\""
+  },
+  {
+    "id": 282,
+    "kind": "poem",
+    "line": "78.3",
+    "text": " Omwisiki kil' ekyo akaikala ashobeilwe."
+  },
+  {
+    "id": 283,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 284,
+    "kind": "poem",
+    "line": "79",
+    "text": "Nkabona. "
+  },
+  {
+    "id": 285,
+    "kind": "poem",
+    "line": "79.1",
+    "text": " Ahi, \"Toina kunshwela,"
+  },
+  {
+    "id": 286,
+    "kind": "poem",
+    "line": "79.2",
+    "text": " Akajubu k' omwa Ishulaine Bugunda.\""
+  },
+  {
+    "id": 287,
+    "kind": "poem",
+    "line": "80",
+    "text": "Ahi, \"Chwekamu! Nonuka!\""
+  },
+  {
+    "id": 288,
+    "kind": "poem",
+    "line": "80.1",
+    "text": " Kil' ekyo Mugasha akaba ashumukile ebeebo y' obukanda."
+  },
+  {
+    "id": 289,
+    "kind": "poem",
+    "line": "81",
+    "text": "Nkabona kil' ekyo."
+  },
+  {
+    "id": 290,
+    "kind": "poem",
+    "line": "81.1",
+    "text": " Omwisiki yachw' enyili."
+  },
+  {
+    "id": 291,
+    "kind": "poem",
+    "line": "81.2",
+    "text": " Zatalaka."
+  },
+  {
+    "id": 292,
+    "kind": "poem",
+    "line": "81.3",
+    "text": " Ahi, \"Nkwenahilile Mugasha"
+  },
+  {
+    "id": 293,
+    "kind": "poem",
+    "line": "81.4",
+    "text": " Nangu kawakunshwela,"
+  },
+  {
+    "id": 294,
+    "kind": "poem",
+    "line": "81.5",
+    "text": "Ninkanyiame n' omwana wa mawe, Kagolo.\""
+  },
+  {
+    "id": 295,
+    "kind": "poem",
+    "line": "82",
+    "text": "Ati, \"<i>Akomu</i><i> </i><i>lwanga</i>,"
+  },
+  {
+    "id": 296,
+    "kind": "poem",
+    "line": "82.1",
+    "text": " <i>Ka </i><i>Byantabuzi</i>,"
+  },
+  {
+    "id": 297,
+    "kind": "poem",
+    "line": "82.2",
+    "text": " <i>Luhuba</i><i> </i><i>lwa</i><i> </i><i>kachubya</i>,"
+  },
+  {
+    "id": 298,
+    "kind": "poem",
+    "line": "82.3",
+    "text": " <i>Butoto bwa Kyomya</i>,"
+  },
+  {
+    "id": 299,
+    "kind": "poem",
+    "line": "82.4",
+    "text": " <i>Nkokola</i><i> </i><i>zabaile</i><i> </i><i>igandami</i>.\""
+  },
+  {
+    "id": 300,
+    "kind": "poem",
+    "line": "83",
+    "text": "Ahi, \"<i>Buhunzile</i><i> </i><i>bwona</i><i> </i><i>busigaize</i><i> </i><i>akaganja</i>,"
+  },
+  {
+    "id": 301,
+    "kind": "poem",
+    "line": "83.1",
+    "text": " <i>Bwa </i><i>nyin</i><i>' </i><i>emosho</i>,"
+  },
+  {
+    "id": 302,
+    "kind": "poem",
+    "line": "83.2",
+    "text": " <i>Ka </i><i>Byantabuzi</i>.\""
+  },
+  {
+    "id": 303,
+    "kind": "poem",
+    "line": "84",
+    "text": "Omwisiki kil' ekyo yaikala ashobeilwe."
+  },
+  {
+    "id": 304,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 305,
+    "kind": "poem",
+    "line": "85",
+    "text": "Nkabona kil' ekyo."
+  },
+  {
+    "id": 306,
+    "kind": "poem",
+    "line": "85.1",
+    "text": " Nagamba <i>Nyatende</i>,"
+  },
+  {
+    "id": 307,
+    "kind": "poem",
+    "line": "85.2",
+    "text": " <i>Bugulu</i><i> bwa Kafunzi</i>."
+  },
+  {
+    "id": 308,
+    "kind": "poem",
+    "line": "86",
+    "text": "Ahi, \"Mwisiki, kilo ekya mbenu,"
+  },
+  {
+    "id": 309,
+    "kind": "poem",
+    "line": "86.1",
+    "text": " Kanakuba ntakushweile,"
+  },
+  {
+    "id": 310,
+    "kind": "poem",
+    "line": "86.2",
+    "text": " Ninkalale na mawe, Nyambubi.\""
+  },
+  {
+    "id": 311,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 312,
+    "kind": "poem",
+    "line": "86.3",
+    "text": " Yabilika Mushoke."
+  },
+  {
+    "id": 313,
+    "kind": "poem",
+    "line": "87",
+    "text": "Ati, \"Mushoke gwa nyanja,"
+  },
+  {
+    "id": 314,
+    "kind": "poem",
+    "line": "87.1",
+    "text": " <i>Izilinga</i><i> </i><i>lya</i><i> </i><i>nyakamyoka</i>,\""
+  },
+  {
+    "id": 315,
+    "kind": "poem",
+    "line": "87.2",
+    "text": " Ati, \"Ogende omu kyazi ekya Mugoma."
+  },
+  {
+    "id": 316,
+    "kind": "poem",
+    "line": "87.3",
+    "text": " Ogy' otagalule engoma yange mpango - <i>Bafa</i><i> Bagambilwe</i>.\""
+  },
+  {
+    "id": 317,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 318,
+    "kind": "poem",
+    "line": "88",
+    "text": "Yagya yagitagalula <i>Bafa</i><i> Bagambilwe</i>,"
+  },
+  {
+    "id": 319,
+    "kind": "poem",
+    "line": "88.1",
+    "text": " Ngu Di-di-di"
+  },
+  {
+    "id": 320,
+    "kind": "poem",
+    "line": "88.2",
+    "text": " Ngu De-de-de."
+  },
+  {
+    "id": 321,
+    "kind": "poem",
+    "line": "89",
+    "text": "Ngu Di-di-di,"
+  },
+  {
+    "id": 322,
+    "kind": "poem",
+    "line": "89.1",
+    "text": " Ngu De-de-de."
+  },
+  {
+    "id": 323,
+    "kind": "poem",
+    "line": "90",
+    "text": "Nkabona kil' ekyo<i> </i><i>Bafa</i><i> Bagambilwe</i>,"
+  },
+  {
+    "id": 324,
+    "kind": "poem",
+    "line": "90.1",
+    "text": " Ngu Di-di-di,"
+  },
+  {
+    "id": 325,
+    "kind": "poem",
+    "line": "90.2",
+    "text": " Ngu De-de-de."
+  },
+  {
+    "id": 326,
+    "kind": "poem",
+    "line": "91",
+    "text": "Nkabona yalaha <i>Bafa</i><i> Bagambilwe</i>,"
+  },
+  {
+    "id": 327,
+    "kind": "poem",
+    "line": "91.1",
+    "text": " Ngu Di-di-di."
+  },
+  {
+    "id": 328,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 329,
+    "kind": "poem",
+    "line": "91.2",
+    "text": " Lyahulula kil' ekyo Nkuyu,"
+  },
+  {
+    "id": 330,
+    "kind": "poem",
+    "line": "91.3",
+    "text": " <i>Bulali</i><i> </i><i>bya</i><i> </i><i>kahunga</i>."
+  },
+  {
+    "id": 331,
+    "kind": "poem",
+    "line": "91.4",
+    "text": " Ati, \"Nomushwela Mugasha!\""
+  },
+  {
+    "id": 332,
+    "kind": "poem",
+    "line": "92",
+    "text": "Yahulula Enshonzi."
+  },
+  {
+    "id": 333,
+    "kind": "poem",
+    "line": "92.1",
+    "text": " Eti, \"Nomushela Mugasha!\""
+  },
+  {
+    "id": 334,
+    "kind": "poem",
+    "line": "92.2",
+    "text": " Nkabona kil' ekyo."
+  },
+  {
+    "id": 335,
+    "kind": "poem",
+    "line": "92.3",
+    "text": " Nkabona empala."
+  },
+  {
+    "id": 336,
+    "kind": "poem",
+    "line": "92.4",
+    "text": " <i>Luhembe</i><i> </i><i>enkoma</i><i> </i><i>mujungwizi</i>."
+  },
+  {
+    "id": 337,
+    "kind": "poem",
+    "line": "92.5",
+    "text": "Eti, \"Nomushwela <i>Njwenge</i>!\""
+  },
+  {
+    "id": 338,
+    "kind": "poem",
+    "line": "93",
+    "text": "Enjubu,"
+  },
+  {
+    "id": 339,
+    "kind": "poem",
+    "line": "93.1",
+    "text": " <i>Kyata</i><i> </i><i>mato</i>,"
+  },
+  {
+    "id": 340,
+    "kind": "poem",
+    "line": "93.2",
+    "text": " <i>Mukulu w' </i><i>amayengo</i>,"
+  },
+  {
+    "id": 341,
+    "kind": "poem",
+    "line": "93.3",
+    "text": " Eti, \"Nomushwela Mugasha!\""
+  },
+  {
+    "id": 342,
+    "kind": "poem",
+    "line": "94",
+    "text": "Nkabona Ebikele n' Obukena."
+  },
+  {
+    "id": 343,
+    "kind": "poem",
+    "line": "94.1",
+    "text": " Biti, \"Nomushwela <i>Njwenge</i>!\""
+  },
+  {
+    "id": 344,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 345,
+    "kind": "poem",
+    "line": "95",
+    "text": "Yaimuka yagamba Nsenene,"
+  },
+  {
+    "id": 346,
+    "kind": "poem",
+    "line": "95.1",
+    "text": " Ati, \"Ndi <i>Lwakyenge</i><i> </i><i>na</i><i> </i><i>Lagaza</i><i></i>"
+  },
+  {
+    "id": 347,
+    "kind": "poem",
+    "line": "95.2",
+    "text": " <i>Akatwe</i><i> </i><i>misheke</i><i>; </i><i>akagulu</i><i> </i><i>njulujunga</i>."
+  },
+  {
+    "id": 348,
+    "kind": "poem",
+    "line": "96",
+    "text": "\"<i>Ndagwa</i><i> </i><i>ebilo</i><i> </i><i>binai</i><i> </i><i>na</i><i> </i><i>bina</i><i> </i><i>munana</i><i> </i><i>Kyamutwala</i><i></i>"
+  },
+  {
+    "id": 349,
+    "kind": "poem",
+    "line": "96.1",
+    "text": " <i>Ekya</i><i> </i><i>mwenda</i><i> </i><i>kulaba</i><i> </i><i>kuhunga</i><i>.</i><i></i>"
+  },
+  {
+    "id": 350,
+    "kind": "poem",
+    "line": "96.2",
+    "text": " Nomushwela <i>Njwenge</i>!\""
+  },
+  {
+    "id": 351,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 352,
+    "kind": "poem",
+    "line": "97",
+    "text": "Nkuba <i>Kanyalumanzi</i> "
+  },
+  {
+    "id": 353,
+    "kind": "poem",
+    "line": "97.1",
+    "text": " Ati, \"Nomushwela Mugasha!\""
+  },
+  {
+    "id": 354,
+    "kind": "poem",
+    "line": "98",
+    "text": "Ati, \"Otashwele Lyanyaibungo, Mugasha,"
+  },
+  {
+    "id": 355,
+    "kind": "poem",
+    "line": "98.1",
+    "text": " Twakugy' ahai <i>Njwenge</i><i>?</i>\""
+  },
+  {
+    "id": 356,
+    "kind": "poem",
+    "line": "98.2",
+    "text": " Nkabona kil' ekyo."
+  },
+  {
+    "id": 357,
+    "kind": "poem",
+    "line": "98.3",
+    "text": " Yashobelwa Mugasha."
+  },
+  {
+    "id": 358,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 359,
+    "kind": "poem",
+    "line": "99",
+    "text": "Nkabona kil' ekyo."
+  },
+  {
+    "id": 360,
+    "kind": "poem",
+    "line": "99.1",
+    "text": " Yaleba Empala,"
+  },
+  {
+    "id": 361,
+    "kind": "poem",
+    "line": "99.2",
+    "text": " <i>Luhembe</i><i> </i><i>enkoma</i><i> </i><i>mujungwizi</i>,"
+  },
+  {
+    "id": 362,
+    "kind": "poem",
+    "line": "99.3",
+    "text": " N' obukena."
+  },
+  {
+    "id": 363,
+    "kind": "poem",
+    "line": "100",
+    "text": "Nkabona kil' ekyo."
+  },
+  {
+    "id": 364,
+    "kind": "poem",
+    "line": "100.1",
+    "text": " N' Enkolongo,"
+  },
+  {
+    "id": 365,
+    "kind": "poem",
+    "line": "101",
+    "text": "Eti, \"Nomushwela Mugasha!\""
+  },
+  {
+    "id": 366,
+    "kind": "poem",
+    "line": "101.1",
+    "text": " Nkabona kil' ekyo."
+  },
+  {
+    "id": 367,
+    "kind": "poem",
+    "line": "101.2",
+    "text": " Yaimuka yagamba Nzige,"
+  },
+  {
+    "id": 368,
+    "kind": "poem",
+    "line": "102",
+    "text": "Ahi, \"<i>Inye</i><i> </i><i>ndi</i><i> </i><i>lwa</i><i> </i><i>kamahyolo</i>,"
+  },
+  {
+    "id": 369,
+    "kind": "poem",
+    "line": "102.1",
+    "text": " <i>Lugonza</i><i> </i><i>empalo</i>...\""
+  },
+  {
+    "id": 370,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 371,
+    "kind": "cue",
+    "line": "0",
+    "text": "Stop for tape change"
+  },
+  {
+    "id": 372,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 373,
+    "kind": "poem",
+    "line": "103",
+    "text": "Kil' ekyo nkabona."
+  },
+  {
+    "id": 374,
+    "kind": "poem",
+    "line": "103.1",
+    "text": " Yababaza ati..."
+  },
+  {
+    "id": 375,
+    "kind": "poem",
+    "line": "103.2",
+    "text": " Nkabona kil' ekyo"
+  },
+  {
+    "id": 376,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 377,
+    "kind": "poem",
+    "line": "103.3",
+    "text": " Ati, \"Inywe abaija kushwela omwa <i>Luyongo</i><i> </i><i>lwa</i><i> Nyante</i>, bajugaki?\""
+  },
+  {
+    "id": 378,
+    "kind": "poem",
+    "line": "103.4",
+    "text": " Kil' ekyo bamugambila bati, "
+  },
+  {
+    "id": 379,
+    "kind": "poem",
+    "line": "103.5",
+    "text": "\"Waitu, bajuga ente.\""
+  },
+  {
+    "id": 380,
+    "kind": "poem",
+    "line": "103.6",
+    "text": " Ahi, \"Mutwale Enjubu.\""
+  },
+  {
+    "id": 381,
+    "kind": "poem",
+    "line": "103.7",
+    "text": " Bati, \"Bojo si, embuzi y' Entama?"
+  },
+  {
+    "id": 382,
+    "kind": "poem",
+    "line": "103.8",
+    "text": " Ahi, \"Mukwate Enshambi.\""
+  },
+  {
+    "id": 383,
+    "kind": "poem",
+    "line": "103.9",
+    "text": " Kil' ekyo Mugasha."
+  },
+  {
+    "id": 384,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 385,
+    "kind": "poem",
+    "line": "104",
+    "text": "Nkabona ati, \"Bojo si, mbagile' ntai?\""
+  },
+  {
+    "id": 386,
+    "kind": "poem",
+    "line": "104.1",
+    "text": " Kil' ekyo bati, \"Amajuta g' omugole.\""
+  },
+  {
+    "id": 387,
+    "kind": "poem",
+    "line": "104.2",
+    "text": " Ahi, \"Mukwate amakamba g' obukena. Mwijuze akashogoto.\""
+  },
+  {
+    "id": 388,
+    "kind": "poem",
+    "line": "104.3",
+    "text": " Bati, \"Twal' eishuka lya nyinento.\""
+  },
+  {
+    "id": 389,
+    "kind": "poem",
+    "line": "104.4",
+    "text": " Ati, \"Ekitundu ky' obukanda.\""
+  },
+  {
+    "id": 390,
+    "kind": "poem",
+    "line": "105",
+    "text": "Nkabona kil' ekyo."
+  },
+  {
+    "id": 391,
+    "kind": "poem",
+    "line": "105.1",
+    "text": " Bati, \"Ebihosho?\""
+  },
+  {
+    "id": 392,
+    "kind": "poem",
+    "line": "105.2",
+    "text": " Ahi, \"Mutwale ebigege.\""
+  },
+  {
+    "id": 393,
+    "kind": "poem",
+    "line": "105.3",
+    "text": " Nkabona kil' ekyo, Mugasha."
+  },
+  {
+    "id": 394,
+    "kind": "poem",
+    "line": "105.4",
+    "text": " Bati, \"Ente?\""
+  },
+  {
+    "id": 395,
+    "kind": "poem",
+    "line": "105.5",
+    "text": "Ati, \"Mutwale enjubu.\""
+  },
+  {
+    "id": 396,
+    "kind": "poem",
+    "line": "106",
+    "text": "Bati, \"Embuzi y' entama?\""
+  },
+  {
+    "id": 397,
+    "kind": "poem",
+    "line": "106.1",
+    "text": " Ahi, \"Mukwate enshambi.\""
+  },
+  {
+    "id": 398,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 399,
+    "kind": "poem",
+    "line": "106.2",
+    "text": " Kil' ekyo yaikala ashobeilwe, <i>Nyatende</i><i></i>"
+  },
+  {
+    "id": 400,
+    "kind": "poem",
+    "line": "106.3",
+    "text": " <i>Engundu</i><i> </i><i>ya</i><i> </i><i>bashahila</i><i> </i><i>mwoyo</i>."
+  },
+  {
+    "id": 401,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 402,
+    "kind": "poem",
+    "line": "106.4",
+    "text": " Kil' ekyo <i>Luyongo</i><i> </i><i>lwa</i><i> Nyante</i> akechula ebikele, mbichokachoka."
+  },
+  {
+    "id": 403,
+    "kind": "poem",
+    "line": "106.5",
+    "text": "Bikwete, \"Balikagana.\""
+  },
+  {
+    "id": 404,
+    "kind": "poem",
+    "line": "107",
+    "text": "Biti, \"Balikagana"
+  },
+  {
+    "id": 405,
+    "kind": "poem",
+    "line": "107.1",
+    "text": " Balikagana"
+  },
+  {
+    "id": 406,
+    "kind": "poem",
+    "line": "107.2",
+    "text": " Balikagana.\""
+  },
+  {
+    "id": 407,
+    "kind": "poem",
+    "line": "108",
+    "text": "Biti, \"Nkakugambilaki Ishe Lukimbila?"
+  },
+  {
+    "id": 408,
+    "kind": "poem",
+    "line": "108.1",
+    "text": " Nti, 'Ntegulula ndikutegulula.'"
+  },
+  {
+    "id": 409,
+    "kind": "poem",
+    "line": "108.2",
+    "text": " Nkakugambilaki munywani wange?"
+  },
+  {
+    "id": 410,
+    "kind": "poem",
+    "line": "109",
+    "text": "Nti, 'Ntegulula ndikutegulula.'\" "
+  },
+  {
+    "id": 411,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 412,
+    "kind": "poem",
+    "line": "110",
+    "text": "Kil' ekyo kanagile kuleba omu ibanga,"
+  },
+  {
+    "id": 413,
+    "kind": "poem",
+    "line": "110.1",
+    "text": " Nkashanga enkolongo netela omushango."
+  },
+  {
+    "id": 414,
+    "kind": "poem",
+    "line": "110.2",
+    "text": " Nkolongo eichumu 'lyoyabaile ataile aha ibega,"
+  },
+  {
+    "id": 415,
+    "kind": "poem",
+    "line": "110.3",
+    "text": " Nilyo ihwa lyagikwete aha mugongo."
+  },
+  {
+    "id": 416,
+    "kind": "poem",
+    "line": "111",
+    "text": "Omwisiki w' omuholo akaba ali nshonzi."
+  },
+  {
+    "id": 417,
+    "kind": "poem",
+    "line": "111.1",
+    "text": " Amajuta 'gayabaile ayesigile okutelela,"
+  },
+  {
+    "id": 418,
+    "kind": "poem",
+    "line": "111.2",
+    "text": " Na mambwenu koija kukwat' enshonzi, okalakal' akashabo."
+  },
+  {
+    "id": 419,
+    "kind": "poem",
+    "line": "112",
+    "text": "Omugulusi w' okutela omushango akaba ali Nkolongo."
+  },
+  {
+    "id": 420,
+    "kind": "poem",
+    "line": "112.1",
+    "text": " Eichumu 'lyoyabaile ataile aha ibega"
+  },
+  {
+    "id": 421,
+    "kind": "poem",
+    "line": "112.2",
+    "text": " Nilyo ihwa 'lyagikwete aha mugongo."
+  },
+  {
+    "id": 422,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 423,
+    "kind": "poem",
+    "line": "113",
+    "text": "Nkabona kil' ekyo"
+  },
+  {
+    "id": 424,
+    "kind": "poem",
+    "line": "113.1",
+    "text": " <i>Luyongo</i><i> </i><i>lwa</i><i> Nyante</i> "
+  },
+  {
+    "id": 425,
+    "kind": "poem",
+    "line": "113.2",
+    "text": " Ahi, \"Kanakusigila Mugasha,"
+  },
+  {
+    "id": 426,
+    "kind": "poem",
+    "line": "113.3",
+    "text": " Nakuganywa aha lubango lwa Ndekezi.\""
+  },
+  {
+    "id": 427,
+    "kind": "poem",
+    "line": "114",
+    "text": "Yasindikila ebintu byona "
+  },
+  {
+    "id": 428,
+    "kind": "poem",
+    "line": "114.1",
+    "text": " Byabula nshai."
+  },
+  {
+    "id": 429,
+    "kind": "poem",
+    "line": "114.2",
+    "text": " Nkabona Mugasha kil' ekyo."
+  },
+  {
+    "id": 430,
+    "kind": "poem",
+    "line": "114.3",
+    "text": " Yasindika Lubale olwa Misisi."
+  },
+  {
+    "id": 431,
+    "kind": "poem",
+    "line": "114.4",
+    "text": " Kil' ekyo nkabona Wamala,"
+  },
+  {
+    "id": 432,
+    "kind": "poem",
+    "line": "114.5",
+    "text": "<i>Luyongo</i><i> </i><i>lwa</i><i> Nyante</i><i></i>"
+  },
+  {
+    "id": 433,
+    "kind": "poem",
+    "line": "114.6",
+    "text": " Ahi, \"Mumuhe."
+  },
+  {
+    "id": 434,
+    "kind": "poem",
+    "line": "114.7",
+    "text": " Agye amushwele,"
+  },
+  {
+    "id": 435,
+    "kind": "poem",
+    "line": "114.8",
+    "text": " <i>Engundu</i><i> </i><i>ya</i><i> </i><i>Nyambubi</i>.\""
+  },
+  {
+    "id": 436,
+    "kind": "poem",
+    "line": "115",
+    "text": "Olwo bakamuheleza,"
+  },
+  {
+    "id": 437,
+    "kind": "poem",
+    "line": "115.1",
+    "text": " Bamuhumuza omu mwalo Nyakilembeka."
+  },
+  {
+    "id": 438,
+    "kind": "poem",
+    "line": "116",
+    "text": "Bamushangaho Nyatende Mugasha."
+  },
+  {
+    "id": 439,
+    "kind": "cue",
+    "line": "0",
+    "text": "<i> Spoken</i>"
+  },
+  {
+    "id": 440,
+    "kind": "poem",
+    "line": "117",
+    "text": "Ati, \"Na iwe welata,"
+  },
+  {
+    "id": 441,
+    "kind": "poem",
+    "line": "117.1",
+    "text": " Emisoke nyanja <i>ly</i><i>' </i><i>emigongo</i>,\""
+  },
+  {
+    "id": 442,
+    "kind": "poem",
+    "line": "118",
+    "text": "Eti, \"<i>Ezilinga</i><i> </i><i>Kamengo</i><i> </i><i>lya</i><i> </i><i>Nyakamyoka</i><i> Kabantende</i>,"
+  },
+  {
+    "id": 443,
+    "kind": "poem",
+    "line": "118.1",
+    "text": " Mwaihyukayo welata\""
+  },
+  {
+    "id": 444,
+    "kind": "poem",
+    "line": "118.2",
+    "text": " Bati, \"Eho.\""
+  },
+  {
+    "id": 445,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 446,
+    "kind": "poem",
+    "line": "119",
+    "text": "Ati, \"Nawe bwe mwatuka mwamala mwamusangamu Ekagolo,"
+  },
+  {
+    "id": 447,
+    "kind": "poem",
+    "line": "119.1",
+    "text": " <i>Ak' </i><i>omu</i><i> </i><i>lwanga</i>, "
+  },
+  {
+    "id": 448,
+    "kind": "poem",
+    "line": "119.2",
+    "text": " <i>Ka </i><i>Byantabuzi</i>, Welata?\""
+  },
+  {
+    "id": 449,
+    "kind": "poem",
+    "line": "120",
+    "text": "Bahi, \"Titwamushangamu waitu.\""
+  },
+  {
+    "id": 450,
+    "kind": "poem",
+    "line": "120.1",
+    "text": " Ahi, \"Buga bwangu."
+  },
+  {
+    "id": 451,
+    "kind": "poem",
+    "line": "120.2",
+    "text": " Timumanyile Kagolo naija kufulungula enyanja,"
+  },
+  {
+    "id": 452,
+    "kind": "poem",
+    "line": "120.3",
+    "text": " Abana bali aha buziba, Welata.\""
+  },
+  {
+    "id": 453,
+    "kind": "cue",
+    "line": "0",
+    "text": "Return to singing"
+  },
+  {
+    "id": 454,
+    "kind": "poem",
+    "line": "121",
+    "text": "Ya-ya Ya-ya Ya-ya Ya-ya Ya-ya Ya-ya"
+  },
+  {
+    "id": 455,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 456,
+    "kind": "poem",
+    "line": "122",
+    "text": "Yagenda yamushwela."
+  },
+  {
+    "id": 457,
+    "kind": "poem",
+    "line": "122.1",
+    "text": " Yamumazamu ebilo binai na bina munana."
+  },
+  {
+    "id": 458,
+    "kind": "poem",
+    "line": "122.2",
+    "text": " Lyamuleeta Kagolo,"
+  },
+  {
+    "id": 459,
+    "kind": "poem",
+    "line": "122.3",
+    "text": " <i>K' </i><i>omu</i><i> </i><i>lwanga</i>,"
+  },
+  {
+    "id": 460,
+    "kind": "poem",
+    "line": "122.4",
+    "text": " <i>Ka </i><i>Byantabuzi</i>,"
+  },
+  {
+    "id": 461,
+    "kind": "poem",
+    "line": "122.5",
+    "text": "<i>Luhuba</i><i> </i><i>lwa</i><i> </i><i>kachubibya</i>,"
+  },
+  {
+    "id": 462,
+    "kind": "poem",
+    "line": "122.6",
+    "text": " <i>Butoto bwa </i><i>kyomya</i>,"
+  },
+  {
+    "id": 463,
+    "kind": "poem",
+    "line": "122.7",
+    "text": " <i>Ow' </i><i>enkokola</i><i> </i><i>zabaile</i><i> </i><i>igandami</i>."
+  },
+  {
+    "id": 464,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 465,
+    "kind": "poem",
+    "line": "122.8",
+    "text": " Kil' ekyo olwo yakaizile,"
+  },
+  {
+    "id": 466,
+    "kind": "poem",
+    "line": "122.9",
+    "text": " Ati, \"Alinkaha omwana waitu Lyanaibungo?\""
+  },
+  {
+    "id": 467,
+    "kind": "poem",
+    "line": "122.10",
+    "text": " .10 Ishe ati, \"Akamutwala <i>Njwenge</i>.\""
+  },
+  {
+    "id": 468,
+    "kind": "poem",
+    "line": "123",
+    "text": "Nkabona ishe yashobelwa kil' ekyo."
+  },
+  {
+    "id": 469,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 470,
+    "kind": "poem",
+    "line": "124",
+    "text": "Ati, \"Mwana wange tinyina,"
+  },
+  {
+    "id": 471,
+    "kind": "poem",
+    "line": "124.1",
+    "text": " Tinyina kya kulenga.\""
+  },
+  {
+    "id": 472,
+    "kind": "poem",
+    "line": "124.2",
+    "text": " Kagolo ahi, \"Mpa Obutai bwange.\""
+  },
+  {
+    "id": 473,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 474,
+    "kind": "poem",
+    "line": "124.3",
+    "text": " Bamuha obw' omushambya <i>omwinunula</i>."
+  },
+  {
+    "id": 475,
+    "kind": "poem",
+    "line": "124.4",
+    "text": " Bamuha obw' omumwani."
+  },
+  {
+    "id": 476,
+    "kind": "poem",
+    "line": "124.5",
+    "text": "Yakwata. Yalega."
+  },
+  {
+    "id": 477,
+    "kind": "poem",
+    "line": "124.6",
+    "text": " Yakwat' obw' omukanshe."
+  },
+  {
+    "id": 478,
+    "kind": "poem",
+    "line": "124.7",
+    "text": " Yagenda n' emihambi munana."
+  },
+  {
+    "id": 479,
+    "kind": "poem",
+    "line": "124.8",
+    "text": " Ogwa mwenda gwamugenda omu byala, ngugamba ejenjenje."
+  },
+  {
+    "id": 480,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 481,
+    "kind": "poem",
+    "line": "125",
+    "text": "Mbali yatwetwe zili ngemu."
+  },
+  {
+    "id": 482,
+    "kind": "poem",
+    "line": "125.1",
+    "text": " Zahinduk' emihunge."
+  },
+  {
+    "id": 483,
+    "kind": "poem",
+    "line": "125.2",
+    "text": " Kayagobile omu kihongolelo,"
+  },
+  {
+    "id": 484,
+    "kind": "poem",
+    "line": "125.3",
+    "text": " Emishunshu yahinduk' ebijeela."
+  },
+  {
+    "id": 485,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 486,
+    "kind": "poem",
+    "line": "126",
+    "text": "Kil' ekyo nkabona"
+  },
+  {
+    "id": 487,
+    "kind": "poem",
+    "line": "126.1",
+    "text": " Kagolo yagoba anyanja empango nka Lwelu."
+  },
+  {
+    "id": 488,
+    "kind": "poem",
+    "line": "126.2",
+    "text": " Ati, \"Mugasha, ij' ontwale."
+  },
+  {
+    "id": 489,
+    "kind": "poem",
+    "line": "126.3",
+    "text": " Ngye ndebe omwana waitu Lyanyaibungo,"
+  },
+  {
+    "id": 490,
+    "kind": "poem",
+    "line": "126.4",
+    "text": " <i>Engundu</i><i> y' </i><i>akakalaito</i>.\""
+  },
+  {
+    "id": 491,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 492,
+    "kind": "poem",
+    "line": "127",
+    "text": "Mugasha akalebayo limoi."
+  },
+  {
+    "id": 493,
+    "kind": "poem",
+    "line": "127.1",
+    "text": " Ati, \"Olinya ni Kagolo <i>K' </i><i>omu</i><i> </i><i>lwanga</i>.\""
+  },
+  {
+    "id": 494,
+    "kind": "poem",
+    "line": "127.2",
+    "text": " Yaleta eishami yesikiliza."
+  },
+  {
+    "id": 495,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 496,
+    "kind": "poem",
+    "line": "127.3",
+    "text": " Kagolo akataishula emihambi munana."
+  },
+  {
+    "id": 497,
+    "kind": "poem",
+    "line": "127.4",
+    "text": " Negwa omu nyanja."
+  },
+  {
+    "id": 498,
+    "kind": "poem",
+    "line": "128",
+    "text": "Ogwa mwenda gwamukwata okugulu."
+  },
+  {
+    "id": 499,
+    "kind": "poem",
+    "line": "128.1",
+    "text": " Yechula ahi, \"Nakozibwa eihwa ly' enkologo.\""
+  },
+  {
+    "id": 500,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 501,
+    "kind": "poem",
+    "line": "129",
+    "text": "Nkabona kil' ekyo Kagolo."
+  },
+  {
+    "id": 502,
+    "kind": "poem",
+    "line": "130",
+    "text": "Yashobelwa,"
+  },
+  {
+    "id": 503,
+    "kind": "poem",
+    "line": "130.1",
+    "text": " <i>K' </i><i>omu</i><i> </i><i>lwanga</i>,"
+  },
+  {
+    "id": 504,
+    "kind": "poem",
+    "line": "130.2",
+    "text": " <i>Ka </i><i>Byantabuzi</i>."
+  },
+  {
+    "id": 505,
+    "kind": "poem",
+    "line": "131",
+    "text": "Nkabona kil' ekyo"
+  },
+  {
+    "id": 506,
+    "kind": "poem",
+    "line": "131.1",
+    "text": " Yashobelwa Kagolo,"
+  },
+  {
+    "id": 507,
+    "kind": "poem",
+    "line": "131.2",
+    "text": " <i>K' </i><i>omu</i><i> </i><i>lwanga</i>,"
+  },
+  {
+    "id": 508,
+    "kind": "poem",
+    "line": "131.3",
+    "text": " <i>Ka </i><i>Byantabuzi</i>."
+  },
+  {
+    "id": 509,
+    "kind": "poem",
+    "line": "132",
+    "text": "<i>Luhuba</i><i> </i><i>lwa</i><i> </i><i>kachubya</i>,"
+  },
+  {
+    "id": 510,
+    "kind": "poem",
+    "line": "132.1",
+    "text": " <i>Butoto bwa </i><i>kyomya</i>,"
+  },
+  {
+    "id": 511,
+    "kind": "poem",
+    "line": "132.2",
+    "text": " <i>Ow' </i><i>enkokola</i><i> </i><i>zabaile</i><i> </i><i>igandami</i>."
+  },
+  {
+    "id": 512,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 513,
+    "kind": "cue",
+    "line": "0",
+    "text": "Stop for tape change"
+  },
+  {
+    "id": 514,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 515,
+    "kind": "poem",
+    "line": "133",
+    "text": "Nkabona kil' ekyo"
+  },
+  {
+    "id": 516,
+    "kind": "poem",
+    "line": "133.1",
+    "text": " Okugulu <i>Njwenge</i> yegutula."
+  },
+  {
+    "id": 517,
+    "kind": "poem",
+    "line": "133.2",
+    "text": " Yanaga omu nyanja."
+  },
+  {
+    "id": 518,
+    "kind": "poem",
+    "line": "133.3",
+    "text": " Yataha omu kyazi ekya Mugoma."
+  },
+  {
+    "id": 519,
+    "kind": "poem",
+    "line": "133.4",
+    "text": " Yamwihyamu Lyanyaibungo,"
+  },
+  {
+    "id": 520,
+    "kind": "poem",
+    "line": "133.5",
+    "text": "<i>Engundu</i><i> y' </i><i>akakalaito</i><i>.</i><i></i>"
+  },
+  {
+    "id": 521,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 522,
+    "kind": "poem",
+    "line": "133.6",
+    "text": " Ahi, \"Ija nkutwale."
+  },
+  {
+    "id": 523,
+    "kind": "poem",
+    "line": "133.7",
+    "text": " Ab' owanu bakuhondile."
+  },
+  {
+    "id": 524,
+    "kind": "poem",
+    "line": "133.8",
+    "text": " Tinakushwela."
+  },
+  {
+    "id": 525,
+    "kind": "poem",
+    "line": "133.9",
+    "text": " Ndemaile kugulu, <i>Nyatende</i>,"
+  },
+  {
+    "id": 526,
+    "kind": "poem",
+    "line": "133.10",
+    "text": " .10 <i>Bashahila</i><i> </i><i>mwoyo</i>.\""
+  },
+  {
+    "id": 527,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 528,
+    "kind": "poem",
+    "line": "134",
+    "text": "Nkabona kil' ekyo"
+  },
+  {
+    "id": 529,
+    "kind": "poem",
+    "line": "134.1",
+    "text": " Mugasha akabuga."
+  },
+  {
+    "id": 530,
+    "kind": "poem",
+    "line": "134.2",
+    "text": " Kil' ekyo bwangu bwangu."
+  },
+  {
+    "id": 531,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 532,
+    "kind": "poem",
+    "line": "134.3",
+    "text": " Kayabugilemu emaili nka ibili "
+  },
+  {
+    "id": 533,
+    "kind": "poem",
+    "line": "134.4",
+    "text": " Yabona kil' ekyo "
+  },
+  {
+    "id": 534,
+    "kind": "poem",
+    "line": "134.5",
+    "text": "Yaikala ashobeilwe."
+  },
+  {
+    "id": 535,
+    "kind": "poem",
+    "line": "134.6",
+    "text": " Yashalililwa."
+  },
+  {
+    "id": 536,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 537,
+    "kind": "poem",
+    "line": "134.7",
+    "text": " Nkabona kil' ekyo"
+  },
+  {
+    "id": 538,
+    "kind": "poem",
+    "line": "134.8",
+    "text": " Okugulu <i>Njwenge</i> -"
+  },
+  {
+    "id": 539,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 540,
+    "kind": "poem",
+    "line": "135",
+    "text": "Yabilikila Nkuba <i>Kanyalumanzi</i> kil' ekyo"
+  },
+  {
+    "id": 541,
+    "kind": "poem",
+    "line": "135.1",
+    "text": " Ati, \"Yanguha bwangu."
+  },
+  {
+    "id": 542,
+    "kind": "poem",
+    "line": "135.2",
+    "text": " Nshange Kagolo aha mwalo."
+  },
+  {
+    "id": 543,
+    "kind": "poem",
+    "line": "135.3",
+    "text": " Ataina kyakulenga.\""
+  },
+  {
+    "id": 544,
+    "kind": "poem",
+    "line": "136",
+    "text": "[Kayaihyamu olulabyo lumoi kil' ekyo"
+  },
+  {
+    "id": 545,
+    "kind": "poem",
+    "line": "136.1",
+    "text": " Yamutela engahi omu mutwe]"
+  },
+  {
+    "id": 546,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 547,
+    "kind": "poem",
+    "line": "136.2",
+    "text": " Kil' ekyo yaihyamu olulabyo lumoi."
+  },
+  {
+    "id": 548,
+    "kind": "poem",
+    "line": "136.3",
+    "text": " Yatobela omu lwazi Kabyantabuzi."
+  },
+  {
+    "id": 549,
+    "kind": "poem",
+    "line": "137",
+    "text": "Nkabona yatobela amagulu n' enyio kil' ekyo."
+  },
+  {
+    "id": 550,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 551,
+    "kind": "poem",
+    "line": "137.1",
+    "text": " Kayasigaize omutwe aha lwazi eigulu,"
+  },
+  {
+    "id": 552,
+    "kind": "poem",
+    "line": "137.2",
+    "text": " Kayaizile Mugasha, "
+  },
+  {
+    "id": 553,
+    "kind": "poem",
+    "line": "137.3",
+    "text": " Ati, \"Iwe Kagolo,\""
+  },
+  {
+    "id": 554,
+    "kind": "poem",
+    "line": "138",
+    "text": "Ahi, \"Naizile Nyatende,"
+  },
+  {
+    "id": 555,
+    "kind": "poem",
+    "line": "138.1",
+    "text": " <i>Omwana</i><i> </i><i>omo</i><i> </i><i>nkamalila</i><i> </i><i>mawe</i><i> </i><i>obugumba</i><i>.\"</i><i></i>"
+  },
+  {
+    "id": 556,
+    "kind": "poem",
+    "line": "139",
+    "text": "Ahi, \"Naizile <i>Lukujuju</i>,"
+  },
+  {
+    "id": 557,
+    "kind": "poem",
+    "line": "139.1",
+    "text": " <i>Lutambuka</i><i> </i><i>na</i><i> </i><i>msheba</i>.\""
+  },
+  {
+    "id": 558,
+    "kind": "poem",
+    "line": "139.2",
+    "text": " Ahi, \"Naizile Kagolo,"
+  },
+  {
+    "id": 559,
+    "kind": "poem",
+    "line": "139.3",
+    "text": " <i>K' </i><i>omu</i><i> </i><i>lwanga</i>,"
+  },
+  {
+    "id": 560,
+    "kind": "poem",
+    "line": "139.4",
+    "text": " <i>Ka </i><i>Byantabuzi</i>,"
+  },
+  {
+    "id": 561,
+    "kind": "poem",
+    "line": "140",
+    "text": "<i>Owa </i><i>Luhuba</i><i> </i><i>lwa</i><i> </i><i>kachubya</i>,"
+  },
+  {
+    "id": 562,
+    "kind": "poem",
+    "line": "140.1",
+    "text": " <i>Butoto bwa </i><i>kyomya</i>,"
+  },
+  {
+    "id": 563,
+    "kind": "poem",
+    "line": "140.2",
+    "text": " <i>Nkokola</i><i> </i><i>zabaile</i><i> </i><i>igandami</i>,"
+  },
+  {
+    "id": 564,
+    "kind": "poem",
+    "line": "141",
+    "text": "<i>Buhunzile</i><i> </i><i>bwona</i><i> </i><i>busigaize</i><i> </i><i>akaganja</i>,"
+  },
+  {
+    "id": 565,
+    "kind": "poem",
+    "line": "141.1",
+    "text": " <i>Bwa </i><i>nyin</i><i>' </i><i>emosho</i>,"
+  },
+  {
+    "id": 566,
+    "kind": "poem",
+    "line": "141.2",
+    "text": " <i>Ka </i><i>Byantabuzi</i>.\""
+  },
+  {
+    "id": 567,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 568,
+    "kind": "poem",
+    "line": "142",
+    "text": "Nkabona kil' ekyo."
+  },
+  {
+    "id": 569,
+    "kind": "poem",
+    "line": "143",
+    "text": "Kagolo akaba ataina kyakulenga."
+  },
+  {
+    "id": 570,
+    "kind": "poem",
+    "line": "143.1",
+    "text": " Ati, \"Iwe Kagolo! Imuka, tulwane.\""
+  },
+  {
+    "id": 571,
+    "kind": "poem",
+    "line": "143.2",
+    "text": " Yayanga "
+  },
+  {
+    "id": 572,
+    "kind": "poem",
+    "line": "143.3",
+    "text": " Ati, \"Ti ti ti ti ti ti ti ti.\""
+  },
+  {
+    "id": 573,
+    "kind": "poem",
+    "line": "144",
+    "text": "Yamutela engahi omu mutwe Kagolo."
+  },
+  {
+    "id": 574,
+    "kind": "poem",
+    "line": "144.1",
+    "text": " Ati, \"Lugamu, tulwane."
+  },
+  {
+    "id": 575,
+    "kind": "poem",
+    "line": "144.2",
+    "text": " Naizile <i>Njwenge</i>.\""
+  },
+  {
+    "id": 576,
+    "kind": "poem",
+    "line": "144.3",
+    "text": " Ahi, \"Ti ti ti ti ti ti ti ti.\""
+  },
+  {
+    "id": 577,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 578,
+    "kind": "poem",
+    "line": "145",
+    "text": "Nkabona kil' ekyo."
+  },
+  {
+    "id": 579,
+    "kind": "poem",
+    "line": "145.1",
+    "text": " <i>Majambwe</i><i> </i><i>Engundu</i><i> </i><i>ya</i><i> </i><i>bashahila</i><i> </i><i>mwoyo</i>,"
+  },
+  {
+    "id": 580,
+    "kind": "poem",
+    "line": "145.2",
+    "text": " <i>Kagambila-nda</i>,"
+  },
+  {
+    "id": 581,
+    "kind": "poem",
+    "line": "145.3",
+    "text": " <i>Aluga</i><i> </i><i>omwa</i><i> </i><i>mutoizi</i>,"
+  },
+  {
+    "id": 582,
+    "kind": "poem",
+    "line": "145.4",
+    "text": " <i>Njwenge</i>."
+  },
+  {
+    "id": 583,
+    "kind": "poem",
+    "line": "146",
+    "text": "Yamutela engahi omu mutwe Kagolo."
+  },
+  {
+    "id": 584,
+    "kind": "poem",
+    "line": "146.1",
+    "text": " Yaluga omu lwazi Kabyantabuzi."
+  },
+  {
+    "id": 585,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 586,
+    "kind": "poem",
+    "line": "147",
+    "text": "Akamugambila ati, \"Akutela elisho -- Omutela enyindo.\""
+  },
+  {
+    "id": 587,
+    "kind": "poem",
+    "line": "147.1",
+    "text": " Mugasha akemeleza okugulu kumo."
+  },
+  {
+    "id": 588,
+    "kind": "poem",
+    "line": "147.2",
+    "text": " Na mambwenu Kagolo takabonaga kyakugamba."
+  },
+  {
+    "id": 589,
+    "kind": "poem",
+    "line": "147.3",
+    "text": " <i>Nyatende</i> Mugasha."
+  }
+]

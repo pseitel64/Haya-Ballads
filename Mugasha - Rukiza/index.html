@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Rukiza — Justinian Mugasha</title>
+  <link rel="stylesheet" href="../viewer/styles.css" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <audio id="audio" src="https://archive.org/download/kajango/rukiza.m4a" preload="metadata"></audio>
+
+  <div id="transport">
+    <div id="transportLeft">
+      <button id="playPause">&#9654;</button>
+      <span id="timeDisplay">0:00 / 0:00</span>
+      <span class="range-label">Seek</span>
+      <input id="seek" type="range" min="0" max="0" step="0.01">
+      <div id="line-nav" class="line-nav-box">
+        <span id="lineLabel">1</span>
+        <input type="text" id="lineInput" class="hidden">
+      </div>
+      <span class="range-label">Vol.</span>
+      <input id="vol" type="range" min="0" max="1" step="0.01" value="1">
+      <span class="range-label">Speed</span>
+      <div id="speedControl">
+        <button class="speed-btn active" data-rate="1">100%</button>
+        <button class="speed-btn" data-rate="0.8">80%</button>
+      </div>
+    </div>
+    <div id="transportRight">
+      <span id="infoText"><em>Rukiza</em> — Justinian Mugasha</span>
+      <button id="menuBtn" class="hamburger-btn" aria-label="Menu">
+        <span class="hamburger-icon">&#9776;</span>
+      </button>
+      <div id="menuPanel" class="menu-panel hidden">
+        <button class="menu-item" data-action="controls">Player Controls</button>
+        <button class="menu-item" data-action="plot">Plot Summary</button>
+        <button class="menu-item" data-action="verse">Poetic Verse Forms</button>
+        <button class="menu-item" data-action="pdf">Full Text &amp; Annotations PDF</button>
+        <button class="menu-item" data-action="search">Search</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Intro Modal -->
+  <div id="introOverlay">
+    <div id="introModal">
+      <div id="introModalHeader">
+        <span id="introModalTitle"><em>Rukiza</em> &mdash; Justinian Mugasha</span>
+        <div id="introModalBtns">
+          <button id="introClose">Close</button>
+          <button id="introClosePlay">Close &amp; Play</button>
+          <button id="introBackLib">Back to Library</button>
+        </div>
+      </div>
+      <div id="introModalBody">
+        <p>Justinian Mugasha's performance of Rukiza is a series of poetic vignettes that depicts how one-time cattle-holding haves became have-nots. A familiar thematic opposition motivates that sequence and emerges with stark contrast in an armed conflict between the forces of a king and those of a clan patriarch. This ultimately tragic struggle (as it is portrayed) develops equally within military, supernatural, and domestic dimensions. It is set in motion and framed with the two protagonists' quickly aroused loyalties, their contrasting sentiments regarding cattle, and an elaborate poetics of subordination. The scenes that precede the pair's first battle are key thematic moments. King Ruhinda reacts in hot anger at the report that the patriarch Rukiza has treated his own cattle in a manner that implies disrespect and devaluation (but the audience knows the accusation is false). In the next scene, the clan leader is quick to honor the most tenuous of kin relationships, the fictive kinship of blood brotherhood, to grant audience and aid to a poorly dressed fellow who appears one morning in his cattle kraal (even though the poor man's claim of blood brotherhood with the patriarch is never substantiated). The king's instant concern with a perceived insult to cattle contrasts with the patriarch's concern for his herd's well being, which earlier caused him to bid farewell to his mother and migrate from his ancestral home. The same kin-like, caring sentiment informed his decision to receive his poor, putative, blood brother. The singer's proverb at the end of the ballad completes a string of figures, composed mostly in the form of personal names, that speak of subordination. His final comment, made after the patriarch has been killed, his cattle confiscated, and his clan left to wander, "Shoju grass pricks the foot when short. When it grows, it thatches a house," proverbially asserts the power of the downtrodden to eventually rise. Justinian Mugasha sang this version of Rukiza to an audience of three persons (two of them native Haya speakers) in the afternoon of January 13, 1969, by my request in the small wattle-and-daub house of Haruna Batonde in Katome village, Kihanja, in Kagera Region of Tanzania.</p>
+      </div>
+    </div>
+  </div>
+
+  <div id="rows"></div>
+  <section id="annoPanel" class="anno"></section>
+  <div id="imagePanel" class="image-modal"></div>
+
+  <script src="../viewer/script.js"></script>
+  <script>
+    const audio = document.getElementById('audio');
+    document.querySelectorAll('.speed-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        audio.playbackRate = parseFloat(btn.dataset.rate);
+        document.querySelectorAll('.speed-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+      });
+    });
+  </script>
+
+</body>
+</html>

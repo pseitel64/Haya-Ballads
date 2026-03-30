@@ -1,0 +1,713 @@
+[
+  {
+    "type": "verse",
+    "line": 1,
+    "line_end": 2,
+    "id": 1,
+    "time": 10.5,
+    "note": "couplet repeated 3-14: verse composed of three stanzas (3-6, 7-10, 11-14) all sharing the same final couplet, and all formed in <b>aabb</b>; their initial couplets cohere by repetition (3-4), semantic (proverbial) reference (7-8), and parallelism.",
+    "id_ref": 1
+  },
+  {
+    "type": "note",
+    "line": 1,
+    "line_end": null,
+    "id": 1,
+    "time": 10.5,
+    "note": "The first two lines seem to announce the identity of the piece. Like some other epics, <i>The Place You Come From I Was Born</i> begins <i>in medias res</i> with an important rhetorical encounter. Here it is a seduction, and its themes of familiarity and of praise foreshadow the events to come.",
+    "id_ref": 1
+  },
+  {
+    "type": "note",
+    "line": 8,
+    "line_end": null,
+    "id": 10,
+    "time": 37.31,
+    "note": "Children of sisters: This sentence is used proverbially to suggest that familiarity is a basis for sexual activity, the tenor of other parts of this verbal seduction as well. To my knowledge, the sentence is not used proverbially in conversation.",
+    "id_ref": 10
+  },
+  {
+    "type": "verse",
+    "line": 15,
+    "line_end": 18,
+    "id": 19,
+    "time": null,
+    "note": "stanza in <b>aabb</b>; both couplets cohere by repetition and parallelism.",
+    "id_ref": 19
+  },
+  {
+    "type": "verse",
+    "line": 19,
+    "line_end": 23,
+    "id": 24,
+    "time": 68.52,
+    "note": "stanza in <b>aa</b>x<b>bb</b>; both couplets cohere by repetition and parallelism and are divided by an inserted line (21)",
+    "id_ref": 24
+  },
+  {
+    "type": "note",
+    "line": 19,
+    "line_end": null,
+    "id": 24,
+    "time": 68.52,
+    "note": "Bigwanemba: not known.",
+    "id_ref": 24
+  },
+  {
+    "type": "note",
+    "line": 20,
+    "line_end": null,
+    "id": 25,
+    "time": 71.27,
+    "note": "Bellowers: This is a reference to the emamba, the lungfish, whose symbolic associations with women are rich. Lungfish do not bellow when impaled with a fishing spear (even though they make a low barking noise when out of water). They are in a sense a role model for women whose bravery is to remain silent on their wedding night and in giving birth. The latter occasion is the only time when the flesh of the lungfish is not forbidden to women. Men eat lungfish freely.",
+    "id_ref": 25
+  },
+  {
+    "type": "note",
+    "line": 21,
+    "line_end": null,
+    "id": 26,
+    "time": null,
+    "note": "I felled a tree in Ngalama: This is a common element of men's self-praise <i>(ebyebugo)</i>, but cutting a tree here also has a sexual connotation which has to do with the practice of pre-coital clitoral stimulation known as <i>oku-telatela</i>. Associated with the Haya in general (by themselves) and with the cult of the Bachwezi in particular (see Cory__), the practice is said to distinguish human from animal procreation. It involves rubbing or lightly tapping the penis on the clitoral region to prepare for entry. In the poetic imagination, vaginal fluids stimulated splash on thighs like branches striking a house when the great tree falls.",
+    "id_ref": 26
+  },
+  {
+    "type": "verse",
+    "line": 24,
+    "line_end": 28,
+    "id": 30,
+    "time": 97.11,
+    "note": "stanza in <b>aa</b>x<b>bb</b>; couplets cohere by repetition (24-25) and semantic inference (27-28) and are divided by an inserted line (26).",
+    "id_ref": 30
+  },
+  {
+    "type": "note",
+    "line": 26,
+    "line_end": null,
+    "id": 32,
+    "time": 99.51,
+    "note": "<i>Ma</i> is the respectful title of a married woman.",
+    "id_ref": 32
+  },
+  {
+    "type": "note",
+    "line": 27,
+    "line_end": null,
+    "id": 33,
+    "time": 101.51,
+    "note": "Have how you slept: a morning greeting, which, when said between status equals, connotes intimacy like that between siblings or lovers.",
+    "id_ref": 33
+  },
+  {
+    "type": "verse",
+    "line": 29,
+    "line_end": 35,
+    "id": 36,
+    "time": null,
+    "note": "alternately a stanza in annular structure - <b>abcba</b> - formed by pairs of repeated lines (<b>a</b>'s: 29-30, 34-35) contrasted with single lines of interrogative syntax (<b>b</b>'s: 31, 33) contrasted with a single line of indicative syntax (the placement of locutives in 30 and 34 supports this construction); and a compound stanza in <b>aab</b>, 2 + 2 + 3, formed by two couplets whose lines cohere, respectively, by repetition alone and parallelism + repetition (<b>a</b>'s: 29-30, 31-32) contrasted with one triplet (<b>b</b>: 33-35) whose lines cohere both by repetition + parallelism (33-34) and by repetition alone (34-35).",
+    "id_ref": 36
+  },
+  {
+    "type": "note",
+    "line": 29,
+    "line_end": null,
+    "id": 36,
+    "time": null,
+    "note": "Play with a thin switch is a traditional form of dalliance. Also, the double entendre here partakes of the same associations as those in line 21.",
+    "id_ref": 36
+  },
+  {
+    "type": "note",
+    "line": 30,
+    "line_end": null,
+    "id": 37,
+    "time": 113.31,
+    "note": "Four-twigged: Four, <i>ina</i>, is sometimes employed in punning reference to desire, the verbal form for which is <i>okw-ina</i>.",
+    "id_ref": 37
+  },
+  {
+    "type": "verse",
+    "line": 36,
+    "line_end": 39,
+    "id": 44,
+    "time": 129.83,
+    "note": "stanza in <b>a</b>a<b>ba</b> formed by contrast between lines that repeat <i>nkagamba </i>\"I said\" + <i>katunywana </i>\"let us swear a blood brotherhood\" (<b>a</b>'s: 36, 37, 39) and one composed of praisenames (<b>b</b>: 38).",
+    "id_ref": 44
+  },
+  {
+    "type": "note",
+    "line": 36,
+    "line_end": null,
+    "id": 44,
+    "time": 129.83,
+    "note": "Drink a brotherhood: Blood brotherhoods were the exclusive prerogative of men. The term is used here to refer generally once more to a form of familiarity and more particularly, to the region just below the navel from which a drop of blood was traditionlly drawn to enact the pact. The drop was placed on a coffee berry and eaten by one's opposite partner in the relationship.",
+    "id_ref": 44
+  },
+  {
+    "type": "note",
+    "line": 38,
+    "line_end": null,
+    "id": 46,
+    "time": null,
+    "note": "Black snakes: This is said to be a praise for the blackness and smoothness of her body. Snakes are also the animating agent of desire; each person has one within.",
+    "id_ref": 46
+  },
+  {
+    "type": "verse",
+    "line": 40,
+    "line_end": 44,
+    "id": 49,
+    "time": 143.89,
+    "note": "stanza in <b>aa</b>a<b>bb</b> composed of linegroups that cohere respectively, by repetition of \"stand\" (inflected in the subjunctive) + \"Ngono\" (<b>a</b>'s: 40-42) and by enjambment (clause in apposition, <b>b</b>'s: 43-44).",
+    "id_ref": 49
+  },
+  {
+    "type": "verse",
+    "line": 45,
+    "line_end": 49,
+    "id": 55,
+    "time": 155.42,
+    "note": "stanza in <b>aa</b>x<b>bb</b> formed by contrast between couplets that cohere, respectively, by repetition (<b>a</b>'s: 45-46) and semantics (<b>b</b>'s: 48-49) separated by a distinct line type (x: 47).",
+    "id_ref": 55
+  },
+  {
+    "type": "note",
+    "line": 47,
+    "line_end": null,
+    "id": 57,
+    "time": 162.8,
+    "note": "Something: the referent is love.",
+    "id_ref": 57
+  },
+  {
+    "type": "note",
+    "line": 50,
+    "line_end": null,
+    "id": 61,
+    "time": 167.05,
+    "note": "My love: <i>Baba</i>, from <i>iba</i> \"husband,\" a Haya term of address that signifies intimacy, is used in a unmarked way by a woman to her husband and between women agemates; its use from man to woman signifies an unusual degree of intimacy and undifferentiated affection (see also Kachwenyanja, lines 146, 368).",
+    "id_ref": 61
+  },
+  {
+    "type": "verse",
+    "line": 51,
+    "line_end": 53,
+    "id": 63,
+    "time": 169.23,
+    "note": "stanza in <b>aba</b> formed by contrast between lines composed as 0verb + praisename (<b>a</b>'s: 51, 53) and a single line containing an adverbial past perfect (<b>b</b>: 52).",
+    "id_ref": 63
+  },
+  {
+    "type": "note",
+    "line": 51,
+    "line_end": null,
+    "id": 63,
+    "time": 169.23,
+    "note": "Slippery: praise for the smoothness of her body.",
+    "id_ref": 63
+  },
+  {
+    "type": "verse",
+    "line": 54,
+    "line_end": 56,
+    "id": 67,
+    "time": 183.89,
+    "note": "stanza in <b>aab</b> formed by contrast between lines that repeat <i>lya</i> \"eat\" (<b>a</b>'s: 54,55) and a finalizing line that shifts domain of reference and is inflected in the negative.",
+    "id_ref": 67
+  },
+  {
+    "type": "note",
+    "line": 54,
+    "line_end": null,
+    "id": 67,
+    "time": 183.89,
+    "note": "Rather than eat: .",
+    "id_ref": 67
+  },
+  {
+    "type": "verse",
+    "line": 57,
+    "line_end": 61,
+    "id": 71,
+    "time": null,
+    "note": "stanza in <b>aa</b>a<b>bb</b> formed by contrast between a linegroup that coheres by composition as praisenames (<b>a</b>'s: 57-59) and a couplet that coheres by semantics (statement and exigesis, <b>b</b>'s: 60-61).",
+    "id_ref": 71
+  },
+  {
+    "type": "note",
+    "line": 57,
+    "line_end": null,
+    "id": 71,
+    "time": null,
+    "note": "Mother: <i>Mawe</i> literally \"my mother,\" is the respectful term of address for an adult woman. The corresponding term for a man is Father (<i>Tata</i>).",
+    "id_ref": 71
+  },
+  {
+    "type": "note",
+    "line": 59,
+    "line_end": null,
+    "id": 73,
+    "time": 204.19,
+    "note": "Kabagala: a short handled hoe with a relatively small, heartshaped head. It is said to be the indigenous form of hoe and is sacred to Nyakalembe, the spirit associated with women per se.",
+    "id_ref": 73
+  },
+  {
+    "type": "verse",
+    "line": 62,
+    "line_end": 65,
+    "id": 77,
+    "time": null,
+    "note": "stanza in <b>ab</b>a<b>a</b> formed by contrast between lines that are composed as double verbs (<b>a</b>'s: 62, 64, 65) and one line whose verb is an adverbial past perfect.",
+    "id_ref": 77
+  },
+  {
+    "type": "verse",
+    "line": 66,
+    "line_end": 69,
+    "id": 82,
+    "time": null,
+    "note": "stanza in <b>aa</b>a<b>b</b> formed by contrast between lines that contain simple praisenames (<b>a</b>'s: 66, composed as noun or 67, noun + verbal noun phrase or 68, verbal noun phrase alone) and a single line that contains a praisename composed by parallelism (<b>b</b>: 69, noun + adjective; noun + adjective).",
+    "id_ref": 82
+  },
+  {
+    "type": "note",
+    "line": 67,
+    "line_end": null,
+    "id": 83,
+    "time": 222.93,
+    "note": "Sleeping-sickness: This and the praise in the next line will be explicated as part of the story line, below.",
+    "id_ref": 83
+  },
+  {
+    "type": "note",
+    "line": 69,
+    "line_end": null,
+    "id": 85,
+    "time": 227.51,
+    "note": "Short face, Long nose: Vulva and clitoris, respectively, account for this praise name for the female genetalia.",
+    "id_ref": 85
+  },
+  {
+    "type": "verse",
+    "line": 70,
+    "line_end": 72,
+    "id": 87,
+    "time": 236.93,
+    "note": "stanza in <b>aabb</b> formed by contrast between lines that cohere by initial adverbial past perfect verbs (<b>a</b>'s: 70-71) and lines that cohere by parallelism: preposition + banana beer constituent + reflexive verb in present continuitive tense (<b>b</b>'s: 71.1-72)",
+    "id_ref": 87
+  },
+  {
+    "type": "note",
+    "line": 70,
+    "line_end": null,
+    "id": 87,
+    "time": 236.93,
+    "note": "Folding: a lovemaking position in which man and woman sit facing one another; they are 'folded' rather than lying down straight. This is said to be the position characteristic of lovers rather than married people.",
+    "id_ref": 87
+  },
+  {
+    "type": "verse",
+    "line": 73,
+    "line_end": 98,
+    "id": 92,
+    "time": 241.53,
+    "note": "passage composed of two verses (conversational turns: 73-84 and 85-98) with mirror structure; both verses have three linegroups: an initial three lines of address and praise, patterened by repetition (73-74) or enjambment (85-86.1); and two longer linegroups, containing vows of affection and a rhetorical question - 5-line compound stanza and stanza in the first verse, and 6-line compound stanzas in the second; in the first verse, the compound stanza (75-79) in <b>aab</b>, 2 + 2 + 1, is formed by couplets (<b>a</b>'s: 75-76, 77-78) internally coherent by syntactical parallelism and contrasted with a single line (<b>b</b>: 79); the stanza (80-84) in <b>aa</b>a<b>bb</b> ia formed by contrast betweeen lines composed as praise (<b>a</b>'s: 80-82) and lines that repeat \"possess\" (<b>b</b>'s: 83-84)); in the second verse, both compound stanzas (87-92, 93-98) begin with 3 lines of conditional clauses cohering internally as <b>aab</b> (87-89, 93-95); these are followed by 2 lines of subjunctive verbs with imperative force (90-91, 96-97) and finalized by single lines, one that begins with a conditional (92) and one that repeats a rehetorical question (96).",
+    "id_ref": 92
+  },
+  {
+    "type": "note",
+    "line": 73,
+    "line_end": null,
+    "id": 92,
+    "time": 241.53,
+    "note": "Dappled cow: Of the many named colors and markings of cows, this is said to be the most beautiful.",
+    "id_ref": 92
+  },
+  {
+    "type": "note",
+    "line": 74,
+    "line_end": null,
+    "id": 93,
+    "time": 243.72,
+    "note": "Spears: Love and desire for a woman can be said to pierce a man inside, and can prove a danger to him, as this and other stories attest.",
+    "id_ref": 93
+  },
+  {
+    "type": "note",
+    "line": 98,
+    "line_end": null,
+    "id": 122,
+    "time": null,
+    "note": "Have you slept?: The greeting here echos that in line 27 and indicates, perhaps, a momentary nap.",
+    "id_ref": 122
+  },
+  {
+    "type": "verse",
+    "line": 99,
+    "line_end": 101,
+    "id": 124,
+    "time": 340.27,
+    "note": "stanza in <b>aab</b> formed by contrast between lines composed as double verbs (<b>a</b>'s: 99-100) and a single line which is composed identically, but to which a prepositional phrase has been added (<b>b</b>: 101).",
+    "id_ref": 124
+  },
+  {
+    "type": "verse",
+    "line": 102,
+    "line_end": 105,
+    "id": 128,
+    "time": 346.5,
+    "note": "stanza in <b>aab</b> formed by semantic contrast between syntactically parallel lines that involve one actor (<b>a</b>'s: 102-104) and a line that involves two actors (<b>b</b>: 105).",
+    "id_ref": 128
+  },
+  {
+    "type": "verse",
+    "line": 106,
+    "line_end": 111,
+    "id": 133,
+    "time": 352.25,
+    "note": "compound stanza in <b>abab</b>, 1 + 2 + 1 + 2, formed by contrast between single lines composed as adverbial past perfect + infinitive (<b>a</b>'s: 106, 109) and couplets that cohere by enjambment and parallelism, respectively (<b>b</b>'s: 107-108, 110-111).",
+    "id_ref": 133
+  },
+  {
+    "type": "note",
+    "line": 108,
+    "line_end": null,
+    "id": 135,
+    "time": 365.03,
+    "note": "Impure: The taking of food in this situation might be considered impure because they have not washed their hands after making love.",
+    "id_ref": 135
+  },
+  {
+    "type": "verse",
+    "line": 113,
+    "line_end": 115,
+    "id": 142,
+    "time": 379.06,
+    "note": "stanza in <b>aab</b> formed by contrast in speakers.",
+    "id_ref": 142
+  },
+  {
+    "type": "verse",
+    "line": 116,
+    "line_end": 120,
+    "id": 146,
+    "time": 383.06,
+    "note": "stanza in <b>aa</b>a<b>bb</b> formed by linegroups that cohere by enjambment.",
+    "id_ref": 146
+  },
+  {
+    "type": "verse",
+    "line": 121,
+    "line_end": 123,
+    "id": 152,
+    "time": null,
+    "note": "stanza in <b>abb</b> formed by contrast between a single line of narrative and two lines of quoted speech marked by repetition.",
+    "id_ref": 152
+  },
+  {
+    "type": "verse",
+    "line": 124,
+    "line_end": 127,
+    "id": 156,
+    "time": 409.36,
+    "note": "stanza in <b>ab</b>b<b>a</b> formed by contrast between lines composed as 2nd singular verb initial + praisename (<b>a</b>'s: 124, 127) and those composed as praisenames alone (<b>b</b>'s:125, 126).",
+    "id_ref": 156
+  },
+  {
+    "type": "note",
+    "line": 124,
+    "line_end": null,
+    "id": 156,
+    "time": 409.36,
+    "note": "Drum: another vehicle for alluding to the sexual practice noted above, line 21.",
+    "id_ref": 156
+  },
+  {
+    "type": "verse",
+    "line": 128,
+    "line_end": 134,
+    "id": 161,
+    "time": 414.86,
+    "note": "compound stanza in <b>aba</b>, 2 + 3 + 2, formed by contrast between couplets formed by repetition and parallelism (<b>a</b>'s: 127-128, 133-134) and a triplet that coheres by enjambment (130-132).",
+    "id_ref": 161
+  },
+  {
+    "type": "note",
+    "line": 132,
+    "line_end": null,
+    "id": 165,
+    "time": 426.25,
+    "note": "Split: Ma Kilondo's definition of a broken-mouth vessel is correct. These two lines repeat a saying that may be used conversationally to attack a loud or long-winded argument: \"Nojuga nk' olushusi lw' enanga nilwo lujuga lwatikiile!\" \"You boom like the calabash of an enanga that booms though it's been split!\" i.e., your words, although loud or many, lack substance, are hollow, have no meaning inside. For more Haya metaphorical evaluations of speech, see Seitel 197 .",
+    "id_ref": 165
+  },
+  {
+    "type": "verse",
+    "line": 135,
+    "line_end": 141,
+    "id": 169,
+    "time": 435.02,
+    "note": "stanza in <b>aa</b>aaaa<b>b</b> formed by contrast between lines composed as 3rd singular verb initial (<b>a</b>'s: 135-140) and a single line with an initial direct object.",
+    "id_ref": 169
+  },
+  {
+    "type": "verse",
+    "line": 142,
+    "line_end": 147,
+    "id": 177,
+    "time": 453.34,
+    "note": "compound stanza in <b>abab</b>, 1 + 2 + 1 + 2, formed by contrast between single lines beginning with double verbs (<b>a</b>'s: 142, 145) and couplets (<b>b</b>'s: 143-44, 146-47) formed by parallelism and repetition, respectively (similar to 106-11).",
+    "id_ref": 177
+  },
+  {
+    "type": "verse",
+    "line": 148,
+    "line_end": 151,
+    "id": 184,
+    "time": 466.58,
+    "note": "stanza in <b>aabb</b> formed by couplets that cohere by repetition and parallelism.",
+    "id_ref": 184
+  },
+  {
+    "type": "verse",
+    "line": 152,
+    "line_end": 155,
+    "id": 189,
+    "time": 480.25,
+    "note": "see note for 124-127",
+    "id_ref": 189
+  },
+  {
+    "type": "verse",
+    "line": 156,
+    "line_end": 162,
+    "id": 194,
+    "time": 489.25,
+    "note": "see note for 128-134",
+    "id_ref": 194
+  },
+  {
+    "type": "verse",
+    "line": 163,
+    "line_end": 176,
+    "id": 202,
+    "time": null,
+    "note": "two stanzas repeated incrementally, composed of initial couplet (163-164, 170-171) that coheres by parallelism (verbs in every line in both initial and final positions); then follows a stanza <b>a</b>a<b>bab</b> formed by contrast between lines composed as noun + modifier + verb (<b>a</b>'s: 165, 166, 168 and 172, 173, 175) and lines that repeat one another (<b>b</b>'s: 167, 169 and 174, 176).",
+    "id_ref": 202
+  },
+  {
+    "type": "verse",
+    "line": 182,
+    "line_end": 183,
+    "id": 224,
+    "time": 563.01,
+    "note": "stanza in <b>abab</b> formed by contrast between lines that begin with a locutive (<b>a</b>'s: 182, 183) and lines marked by internal parallelism that restate the previous line (<b>b</b>'s: 182.1, 183.1).",
+    "id_ref": 224
+  },
+  {
+    "type": "verse",
+    "line": 184,
+    "line_end": 186,
+    "id": 229,
+    "time": 567.76,
+    "note": "stanza alternately in <b>abab</b> formed by lexical contrast between lines that begin in \"He comes from\" (<b>a</b>'s: 184, 185) and those that begin in \"I come from\" (<b>b</b>'s: 184.1, 186); and in <b>aabb</b> formed by contrast between lines composed as \"come from\" + placename (<b>a</b>'s: 184, 184.1) and those composed as \"come from\" + placename + praise (<b>b</b>'s: 185, 186).",
+    "id_ref": 229
+  },
+  {
+    "type": "verse",
+    "line": 187,
+    "line_end": 189,
+    "id": 233,
+    "time": 576.73,
+    "note": "stanza in <b>aab</b> formed by contrast between lines that are composed as locutive + adverbial particle +: \"grow up\" (<b>a</b>'s: 187-188) and a single line composed differently, that finalizes with \"betroth\" (<b>b</b>: 189).",
+    "id_ref": 233
+  },
+  {
+    "type": "verse",
+    "line": 190,
+    "line_end": 193,
+    "id": 237,
+    "time": 581.38,
+    "note": "similar to 148-151.",
+    "id_ref": 237
+  },
+  {
+    "type": "note",
+    "line": 190,
+    "line_end": null,
+    "id": 237,
+    "time": 581.38,
+    "note": "Come out: Traditionally, a bride is secluded for a period of time ranging from a few days, in the case of a previously married woman, to several months, in the case of a family who can afford to live without her productive labor.",
+    "id_ref": 237
+  },
+  {
+    "type": "verse",
+    "line": 194,
+    "line_end": 197,
+    "id": 242,
+    "time": 594.66,
+    "note": "see note to 124-127.",
+    "id_ref": 242
+  },
+  {
+    "type": "verse",
+    "line": 198,
+    "line_end": 203,
+    "id": 247,
+    "time": 606.1,
+    "note": "see note to 128-134 (shortened by one line here).",
+    "id_ref": 247
+  },
+  {
+    "type": "verse",
+    "line": 204,
+    "line_end": 214,
+    "id": 254,
+    "time": 619.85,
+    "note": "mirror stanzas: introductory lines associated by repetition (204,205 and 210) followed by a stanza in <b>abab</b> (<b>a</b>'s: 206, 208 and 211, 213; <b>b</b>'s: 207, 209; 212, 214) formed as in 163-176, q.v.",
+    "id_ref": 254
+  },
+  {
+    "type": "verse",
+    "line": 215,
+    "line_end": 219,
+    "id": 267,
+    "time": null,
+    "note": "stanza in <b>aa</b>a<b>bb</b> formed by contrast between lines that cohere either by repetition of locutive + <i>mala</i> \"And\" (emphatic) <i>or</i> as 1st person future verb initial (<b>a</b>'s: 215-217) and lines that cohere by parallelism, verb initial + praisename (<b>b</b>'s: 218-219).",
+    "id_ref": 267
+  },
+  {
+    "type": "verse",
+    "line": 222,
+    "line_end": 246,
+    "id": 276,
+    "time": null,
+    "note": "verse passage of two verses (222-235.2, 236-246) whose 5 constituent units are all composed as introductory line (222, 229, 234, 236, 243) + stanzaic pattern (223-228, 230-233, 235-235.2, 237-242, 244-246), described immediately below.",
+    "id_ref": 276
+  },
+  {
+    "type": "note",
+    "line": 227,
+    "line_end": null,
+    "id": 281,
+    "time": null,
+    "note": "Went inside: that is, died, in royal vocabulary.",
+    "id_ref": 281
+  },
+  {
+    "type": "note",
+    "line": 232,
+    "line_end": null,
+    "id": 287,
+    "time": 690.38,
+    "note": "White sheep: a sacrifice that is part of the ritual requirements of a traditional Haya marriage.",
+    "id_ref": 287
+  },
+  {
+    "type": "note",
+    "line": 233,
+    "line_end": null,
+    "id": 288,
+    "time": null,
+    "note": "Nines: cowrie shells strung nine to a string and tied to the neck of an animal to be sacrificed.",
+    "id_ref": 288
+  },
+  {
+    "type": "verse",
+    "line": 236,
+    "line_end": 246,
+    "id": 295,
+    "time": 702.19,
+    "note": "verse formed by a compound stanza and a stanza which are introduced by parallel first lines (236, 243) and cohere semantically as a judicial sentence; the compound stanza in <b>aab</b>, 2 + 2 + 2, is formed by contrast between couplets that cohere by repetition and parallelism (<b>a</b>'s: 237-238, 239-240) and a single couplet whose coherence internally between its lines and externally with the other couplets is solely semantic (<b>b</b>: 241-242); the stanza in <b>abab</b> is formed by contrast between lines composed as locutive + \"elder\" + [verb] + number (<b>a</b>'s: 244, 245) and lines composed as \"prime minister\" + [verb] + number (<b>b</b>'s: 244.1, 246); (the same stanza is alternately <b>aabb</b> by contrast between lines composed as judicial role + number &lt;11 (<b>a</b>'s:244, 244.1) and lines composed as judicial role + subjunctive verb + number &gt; 10).",
+    "id_ref": 295
+  },
+  {
+    "type": "note",
+    "line": 242,
+    "line_end": null,
+    "id": 301,
+    "time": 717.36,
+    "note": "Folding: see note to line 70",
+    "id_ref": 301
+  },
+  {
+    "type": "verse",
+    "line": 247,
+    "line_end": 251,
+    "id": 308,
+    "time": 728.61,
+    "note": "stanza in <b>aabb</b> formed by a couplet that coheres by initial locutive and enjambment (<b>a</b>'s: 247-248) contrasted with a couplet that coheres by repetition of \"hit 25\" (<b>b</b>'s:249-250); the final line coheres with the preceding one by syntactic parallelism of a 3rd person singular near past verb in initial position and by semantic contrast betweeen these verbs, \"lie down\" and \"arise\"; line 250 is thus a swing line, as is 237, 216",
+    "id_ref": 308
+  },
+  {
+    "type": "verse",
+    "line": 253,
+    "line_end": 258,
+    "id": 316,
+    "time": 740.6,
+    "note": "stanza in <b>aba</b> formed by contrast between single lines that cohere by repetition (<b>a</b>'s: 253, 258) and a quatrain (<b>b</b>'s: 254-257) that itself coheres as a stanza in <b>abab</b>; its pattern is formed by contrast between lines composed as locutive + 3rd person plural subjunctive verb + direct object (<b>a</b>'s: 254, 256) and lines that begin \"And\" + direct object (<b>b</b>'s: 255, 257).",
+    "id_ref": 316
+  },
+  {
+    "type": "verse",
+    "line": 260,
+    "line_end": 263,
+    "id": 325,
+    "time": 754.85,
+    "note": "see note to lines 66-69.",
+    "id_ref": 325
+  },
+  {
+    "type": "verse",
+    "line": 265,
+    "line_end": 268,
+    "id": 332,
+    "time": 768.63,
+    "note": "stanza in <b>abab</b> similarly formed to that of lines 254-257.",
+    "id_ref": 332
+  },
+  {
+    "type": "note",
+    "line": 268,
+    "line_end": null,
+    "id": 335,
+    "time": 784.1,
+    "note": "Dear one: The term <i>baba</i> is used here as an exclamation.",
+    "id_ref": 335
+  },
+  {
+    "type": "verse",
+    "line": 269,
+    "line_end": 273,
+    "id": 337,
+    "time": null,
+    "note": "compound stanza, 2 + 2 + 1, in <b>aab</b> formed by couplets (<b>a</b>'s: 269-270, 271-272) that cohere by internal repetition (269-270) by enjambment (271-272) and by shared final lines (270, 272) contrasted with a single line which puns to finalize the figure.",
+    "id_ref": 337
+  },
+  {
+    "type": "note",
+    "line": 270,
+    "line_end": null,
+    "id": 338,
+    "time": 788.63,
+    "note": "Plantains: <i>Enshansha</i> bananas are a fitting reward, for they punningly refer becoming happy <i>oku-shanshamuka</i>.",
+    "id_ref": 338
+  },
+  {
+    "type": "verse",
+    "line": 278,
+    "line_end": 281,
+    "id": 348,
+    "time": null,
+    "note": "stanza in <b>abab</b> formed by contrast between lines that begin with conditional verbal inflections (<b>a</b>'s: 278-280) and lines that do not (<b>b</b>'s:279-281).<b> </b>",
+    "id_ref": 348
+  },
+  {
+    "type": "note",
+    "line": 281,
+    "line_end": null,
+    "id": 351,
+    "time": 815.17,
+    "note": "Its call: This final image is based on the sexual practice alluded to before (see note to line 21). The sound signified by the drum's call is the liquid sound that in turn signifies the vagina is ready to be entered. Audience reaction at the end of the song includes laughter.",
+    "id_ref": 351
+  }
+]

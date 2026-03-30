@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Mugasha I — Habib Suliman</title>
+  <link rel="stylesheet" href="../viewer/styles.css" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <audio id="audio" src="https://archive.org/download/kajango/mugasha1.m4a" preload="metadata"></audio>
+
+  <div id="transport">
+    <div id="transportLeft">
+      <button id="playPause">&#9654;</button>
+      <span id="timeDisplay">0:00 / 0:00</span>
+      <span class="range-label">Seek</span>
+      <input id="seek" type="range" min="0" max="0" step="0.01">
+      <div id="line-nav" class="line-nav-box">
+        <span id="lineLabel">1</span>
+        <input type="text" id="lineInput" class="hidden">
+      </div>
+      <span class="range-label">Vol.</span>
+      <input id="vol" type="range" min="0" max="1" step="0.01" value="1">
+      <span class="range-label">Speed</span>
+      <div id="speedControl">
+        <button class="speed-btn active" data-rate="1">100%</button>
+        <button class="speed-btn" data-rate="0.8">80%</button>
+      </div>
+    </div>
+    <div id="transportRight">
+      <span id="infoText"><em>Mugasha I</em> — Habib Suliman</span>
+      <button id="menuBtn" class="hamburger-btn" aria-label="Menu">
+        <span class="hamburger-icon">&#9776;</span>
+      </button>
+      <div id="menuPanel" class="menu-panel hidden">
+        <button class="menu-item" data-action="controls">Player Controls</button>
+        <button class="menu-item" data-action="plot">Plot Summary</button>
+        <button class="menu-item" data-action="verse">Poetic Verse Forms</button>
+        <button class="menu-item" data-action="pdf">Full Text &amp; Annotations PDF</button>
+        <button class="menu-item" data-action="search">Search</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Intro Modal -->
+  <div id="introOverlay">
+    <div id="introModal">
+      <div id="introModalHeader">
+        <span id="introModalTitle"><em>Mugasha I</em> &mdash; Habib Suliman</span>
+        <div id="introModalBtns">
+          <button id="introClose">Close</button>
+          <button id="introClosePlay">Close &amp; Play</button>
+          <button id="introBackLib">Back to Library</button>
+        </div>
+      </div>
+      <div id="introModalBody">
+        <p>Mugasha is surely the most well-known Haya heroic ballad, and Habib Suliman's many recorded versions of it have traveled far. Its story concerns a courtship and marriage between two supernatural beings of markedly different social standings: Mugasha, the lowly fisher-god, controller of the spirits of Lake Victoria, and Lyanyaibungo, beautiful daughter of the god-king Wamara. Mugasha is a beloved spirit, a controller of the rain and lake species that provide human sustenance, a friend of ironsmiths and potters, and a social grotesque who flouts the high-born, sophisticated ways of the royal court. Wamara, the god-king whose royal court provides one setting for the action, is often associated with death. The match between Lyanyaibungo and Mugasha is anti-romantic, based not in shared affection (as in Kachwenyanja) but in matchmaking as a discourse and an exchange between social groups. After the fisher-god's miraculous birth, which is formed in an equally remarkable 84-line poetic figure created by parallelism, the themes point to equalities and inequalities and to comparison as a public act involving status. The examples of this kind of theme are legion, beginning with Mugasha's mother's sister's decision to accept Wamara's contract, and ending with the proverbial commentary in the last lines of the ballad. The bard's elaborate comparisons serve his wit, his social commentary, and his poetic creativity. This recording of Habib's Mugasha (Mugasha I) was made in 1950 at the royal court of the then ruler of Kyamutwala kingdom, Gabriel Rugabandana, at Kabale, by Hugh Tracy, the renowned ethnomusicologist. In this otherwise remarkable and excellent performance, the singer truncates and merges the two trials devised to reveal Mugasha's true mother. This is set straight at the beginning of another recording of Habib made at the same place by Gabriel Rugabandana himself in 1980 and included in the Haya Epic Ballad Library as Mugasha II.</p>
+      </div>
+    </div>
+  </div>
+
+  <div id="rows"></div>
+  <section id="annoPanel" class="anno"></section>
+  <div id="imagePanel" class="image-modal"></div>
+
+  <script src="../viewer/script.js"></script>
+  <script>
+    const audio = document.getElementById('audio');
+    document.querySelectorAll('.speed-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        audio.playbackRate = parseFloat(btn.dataset.rate);
+        document.querySelectorAll('.speed-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+      });
+    });
+  </script>
+
+</body>
+</html>

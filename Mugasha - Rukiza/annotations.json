@@ -1,0 +1,848 @@
+[
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "1",
+    "id": 1,
+    "time": 2.75,
+    "id_ref": 1,
+    "note": "The introductory passage consists of three line groups marked by repetition throughout; in the first line group (1-2) substitution of names associated with the epic proceeds from the hero's (1) to a composite of the hero's and the bard's (1.1) to the bard's Haya name (1.2) and finally to the bard's full, Christian plus Haya name (2); the second line group (3-3.3) is a stanza in <b>aab</b>b formed by a repeated initial verb that introduces proper nouns (<b>a</b>'s: 3, 3.1) and then, to finalize the figure, introduces a verb instead (<b>b</b>: 3.2); the figure is then refinalized by changing the inflection of the same initial verb from imperative to subjunctive (3.3); the third linegroup (4-5) is a stanza in <b>aab</b> formed by lines that cohere by chaining of the subjunctive aside \"let me tell you\" (<b>a</b>'s: 4-4.1) contrasted with a single line composed of praise (5).",
+    "line_end": "5"
+  },
+  {
+    "type": "note",
+    "line": "4.1",
+    "id": 11,
+    "time": 28.51,
+    "id_ref": 11,
+    "note": "<i>Mbibi </i>is the name of the hero’s mother or his father’s mother according to singers and many critics. The name often accompanies or substitutes for Rukiza’s name. According to Cory and Hartnoll 1945, it is the name of the (male) founder of the Baganga clan."
+  },
+  {
+    "type": "note",
+    "line": "5",
+    "id": 12,
+    "time": 31.26,
+    "id_ref": 12,
+    "note": "<i>Mukoni </i>wood is used in walking sticks (<i>enkoni</i>) and implies strength and violence."
+  },
+  {
+    "type": "note",
+    "line": "6",
+    "id": 14,
+    "time": 38.5,
+    "id_ref": 14,
+    "note": "The hero’s identity takes shape within a matrix of kinship. We learn of his father, his mother, the other children of his lineage, and in another version, his grandfather as well. Kin attachments also introduce the fisher god Mugasha, who, like Rukiza in another version, miraculously speaks to his mother from inside her womb. This initial emphasis on kin contrasts with the opening of <i>Kachwenyanja</i>(ll. 1–6), in which the hero is described territorially, using placenames and descriptions. Divergent ways of qualifying heros place them in disparate ethical spheres and create different expectations and rationales of action."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "6",
+    "id": 14,
+    "time": 38.5,
+    "id_ref": 14,
+    "note": "Passage whose semantic structure depends on an expected cultural sequence - father, mother, conception, gestation, birth, nursing, weaning and childhood; the first line pair treats, respectively, father and mother (6-7); the following linegroup (7.1-8.1) is formed as <b>aab</b>b by lines composed according to the formula /verb initial + subject final/ contrasted with a single line whose similar syntax is augmented by a double verb formula (8); the following line (8.1) refinalizes the passage by varying the verb initial formula with a concluding prepositional phrase; like the refinalization directly above (3.3) this line creates an incremental repetition that drives the narrative forward.",
+    "line_end": "8.1"
+  },
+  {
+    "type": "note",
+    "line": "7.2",
+    "id": 17,
+    "time": 46.56,
+    "id_ref": 17,
+    "note": "<i>Muganga </i>(pl. <i>Baganga</i>) is Rukiza’s clan."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "9.1",
+    "id": 22,
+    "time": 67.03,
+    "id_ref": 22,
+    "note": "stanza in <b>aa</b>x<b>bb</b> formed by lines that begin with marked adverbial uses of the near past (<b>a</b>'s: 9.1, 10) contrasted with lines that end with past perfect verbs (<b>b</b>'s: 11, 11.1); the couplets are separated by an interpolated line (10.1).",
+    "line_end": "11.1"
+  },
+  {
+    "type": "note",
+    "line": "11",
+    "id": 25,
+    "time": 74.42,
+    "id_ref": 25,
+    "note": "Cattle appear within a matrix of kin: the hero inherits herds from his father —contrary to actual practice in the traditional Haya state. His concern for their needs in land and food echoes kinship principles, which regulated the distribution of these linked resources through the institution of the patrilineal clan. The king’s ethics of cattle are portrayed quite differently (l. 86) and are consonant with the structures of the state.\n\tThe symbolic combination of kin and cattle continues in Rukiza’s generous bequest to his mother and his continued care for the herds still in his charge. "
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "12",
+    "id": 28,
+    "time": 81.1,
+    "id_ref": 28,
+    "note": "stanza in <b>abb</b> formed by parallelism.",
+    "line_end": "12.2"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "13",
+    "id": 32,
+    "time": 87.67,
+    "id_ref": 32,
+    "note": "verse in <b>aba</b>, 2 + 3 + 2; initial and final linegroups (<b>a</b>'s: 13-13.1, 15-15.1) are double verb formations followed by initial verbs; the middle linegroup (<b>b</b>: 13.2-14) is internally structured as a stanza in <b>aab</b> formed by two lines that have initial locutives and are comprised of quoted utterances by Lukiza (13.2, 13.3) contrasted with a single line that has a non-initial locutive and is comprised of a quoted utterance by Lukiza'a mother (14).",
+    "line_end": "15.1"
+  },
+  {
+    "type": "note",
+    "line": "14",
+    "id": 36,
+    "time": 94.86,
+    "id_ref": 36,
+    "note": "<i>Long-lifed-one</i>: <i>Nyakutununta</i>, related to <i>entununsi</i>, a beating heart (see below l. 151), epithet for a living person who sustains and is sustained by family."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "16",
+    "id": 40,
+    "time": 105.12,
+    "id_ref": 40,
+    "note": "compound stanza in <b>aab</b>, 2 + 2 + 1; initial line pairs cohere by initial adverbial particles and initial locutives, respectively (<b>a</b>'s: 16-16.1, 17-17.1); the stanza is finalized by Lukiza's mother's single line response (<b>b</b>: 17.2).",
+    "line_end": "17.2"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "18",
+    "id": 46,
+    "time": 115.9,
+    "id_ref": 46,
+    "note": "stanza in <b>aa</b>a<b>b</b> formed by repetition of verb \"leave\" in applied form (<b>a</b>'s: 18-20) contrasted with its absence (<b>b</b>: 21); note elaborated word order: <b>a</b>'s: verb + direct object, direct object + verb, verb + direct object; <b>b</b>: verb + subject",
+    "line_end": "21"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "22",
+    "id": 51,
+    "time": 129.35,
+    "id_ref": 51,
+    "note": "Three lines of incremental repetition.",
+    "line_end": "23"
+  },
+  {
+    "type": "note",
+    "line": "24",
+    "id": 55,
+    "time": 134.82,
+    "id_ref": 55,
+    "note": "Clansmen’s names evoke aspects of home and family. <i>Honey-bee</i>(l. 24) insect society represents domestic unity, as in a folktale in which bees rescue a woman who has been driven from her home by wild animals (Seitel 1980: 219-224). <i>Elephant-grass</i>(l. 26), a type of bamboo, and <i>yojwe </i>grass (28.1) are used in house construction, the former in framing, the latter as periodically changed carpeting. The magical connection between person, house, and family later becomes central to the plot (149ff.). Private family matters are revealed in <i>Impotence </i>(l. 30.2), with his cohorts, <i>Does-not-penetrate </i>(l. 30.1) and <i>Water-of-yam-leaves</i>(l. 30), which is food eaten to stave off starvation. Proclaiming them as personal names seems a strategic form of self-presentation known as “making oneself small.” Such a public stance implies that the speaker represents an unexpected but powerful threat to anyone who would contend with him. This is the posture of subjugated clans in a royal state, and it is also reflected in the figurative comment at the end of the ballad, “<i>Shoju</i>grass sticks the foot when short./ When it grows, it thatches a house...”(ll. 202-202.1). <i>Water </i>(32) can likewise be a symbol of weakness, but is also powerful (as in <i>Mugasha</i>), and like clans, is associated with agriculture and reproduction, and is ubiquitous, a theme also articulated in concluding commentary (l. 194-195). <i>Squash plant</i>(l. 34) evokes associations of fertility and bodily desire (as in the ballad <i>Kaiyula,</i>l.1.3) and seems another expression of unpretentious strength. I am unable to supply associations for <i>Stinging-flies </i>(l. 28.1)."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "24",
+    "id": 55,
+    "time": 134.82,
+    "id_ref": 55,
+    "note": "verse passage divided in two parts (24-28.1, 30-34.1) by a single line (29); in both linegroups, the same three elements - unusual personal names, and the phrases \"departed Ilundu of Lukaile\" and \"Muganga woman of Ilundu\" - combine to form two different formulas: personal names + \"departed Ilundu of Lukaile\" (<b>a</b>'s: 24-25, 25-26, 30-31.1, 34-34.1) and \"my friend\" + personal names + \"Muganga woman of Ilundu\" (<b>b</b>'s: 28-28.2, 32-33); these formulas, in turn, comprise two compound stanzas, one in <b>aab</b>, 2 + 2 + 3, (24-25, 25-26, 28-28.2) and one in <b>aba</b>, 5 + 2 + 2, (30-31.1, 32-33, 34-34.1) separated by a single line (29) that recapitulates the immediately preceding linegroup (22-23)",
+    "line_end": "34.1"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "35",
+    "id": 74,
+    "time": 182.32,
+    "id_ref": 74,
+    "note": "Passage in two sections formed according to the formula: placename (35.1, 38.1)/ \"he finds\" + noun + verb (36, 38.2-39)/ expansion of discovery (37-37.1, 40)/...\"he wandered on\" (38,41); note that the marked word order, verb + subject, finalizes the passage.",
+    "line_end": "41"
+  },
+  {
+    "type": "note",
+    "line": "41",
+    "id": 86,
+    "time": 201.79,
+    "id_ref": 86,
+    "note": "<i>Mbibi </i>refers to Rukiza; see note to 4.1."
+  },
+  {
+    "type": "note",
+    "line": "41.1",
+    "id": 88,
+    "time": 204.28,
+    "id_ref": 88,
+    "note": "<i>Ihangilo of Nkumbya</i>. In epics a placename is sometimes made more specific by appending the name of its founder."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "41.1",
+    "id": 88,
+    "time": 204.28,
+    "id_ref": 88,
+    "note": "Pattern of incremental repetition begun in previous passage started here (placename/ \"he finds\" + noun + verb) but shifts and propels action into new phase.",
+    "line_end": "42"
+  },
+  {
+    "type": "note",
+    "line": "44.2",
+    "id": 93,
+    "time": 221.07999999999998,
+    "id_ref": 93,
+    "note": "<i>Ruhinda</i>. The Bahinda dynasty ruled a majority of precolonial Haya kingdoms. This King Ruhinda may represent its founder in the kingdom of Ihangilo."
+  },
+  {
+    "type": "note",
+    "line": "45",
+    "id": 94,
+    "time": 223.01,
+    "id_ref": 94,
+    "note": "<i>Mounds-for-him-raised </i>is a praisename that refers to great amounts of royal tribute."
+  },
+  {
+    "type": "note",
+    "line": "46",
+    "id": 95,
+    "time": 224.29,
+    "id_ref": 95,
+    "note": "<i>Spits...wash all night</i>. This praise is said to represent adulation evoked by the king, as do mounds of tribute. Horns are said to have been used as royal water vessels held by servants. Royal saliva would be protected to prevent its use by sorcerers. The sign of spitting conveys a status relationship here, as it does in <i>MugashaI </i> (81.1), there with an insulting meaning. <i>Semi-royal</i>status (<i>obu-fula</i>) accrues to the members of a sub-clan that gives a bride to the king. Semi-royalty could practice forms of etiquette and self-display denied other commoners.",
+    "line_end": "47"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "48",
+    "id": 98,
+    "time": 231.82,
+    "id_ref": 98,
+    "note": "Stanza in <b>aab</b> formed by repetition and variation of initial verb.",
+    "line_end": "49"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "50.1",
+    "id": 103,
+    "time": 240.46,
+    "id_ref": 103,
+    "note": "Stanza in <b>ab</b>bb<b>a</b>' formed by lines composed according to the formula, locutive + verb (<b>a</b>'s: 50.1, 53), contrasted with lines that have no verb (51, 51.1, 52).",
+    "line_end": "53"
+  },
+  {
+    "type": "note",
+    "line": "52",
+    "id": 106,
+    "time": 244.55,
+    "id_ref": 106,
+    "note": "<i>Cures-others cures not himself </i>is a proverb used to praise the ethic of care embodied by Rukiza. It turns on the pun <i>oku-ganga </i>“to treat (for illness)” and <i>Ba-ganga</i>, the name of Rukiza’s clan. Rukiza’s name itself may be a pun on <i>oku-kiza </i>“to cure or make well.”"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "54",
+    "id": 109,
+    "time": 253.55,
+    "id_ref": 109,
+    "note": "Double verb formation doubled to form a couplet.",
+    "line_end": "54.1"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "55",
+    "id": 112,
+    "time": 257.58,
+    "id_ref": 112,
+    "note": "Stanza in <b>aabb</b> formed by a couplet with verbs in the indicative composed of a question and answer exchange (<b>a</b>'s: 55, 55.1) contrasted with a couplet with verbs in the subjunctive composed of orders (<b>b</b>'s: 56-57).",
+    "line_end": "57"
+  },
+  {
+    "type": "note",
+    "line": "57",
+    "id": 115,
+    "time": 264.07,
+    "id_ref": 115,
+    "note": "<i>Cutting banana leaves</i>is a metonym for domestic life based on the many homely uses the leaves serve —plates, platters, cups, cooking vessels and others."
+  },
+  {
+    "type": "note",
+    "line": "58",
+    "id": 117,
+    "time": 266.7,
+    "id_ref": 117,
+    "note": "<i>Calling-place</i>. Ihangilo’s royal drums were sounded at the <i>Lubungo</i>, literally, “dung heap,” the same word used to describe the place of Rukiza’s imaginary transgression, l. 84ff."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "58",
+    "id": 117,
+    "time": 266.7,
+    "id_ref": 117,
+    "note": "Concatenated stanza alternately in <b>aab</b> formed by contrast between lines that contain verb phrases (<b>a</b>'s: 58, 59, 59.1) and one line that does not (<b>b</b>: 60), and in <b>aabb</b> formed by contrast between a couplet composed of a call and response unit (<b>a</b>'s: 59-59) and a couplet composed of orders (<b>b</b>'s: 59.1-60).",
+    "line_end": "60"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "60.1",
+    "id": 121,
+    "time": 274.79,
+    "id_ref": 121,
+    "note": "Stanza in <b>aabb</b> composed of couplets that cohere by chaining (<b>a</b>'s: 60.1-61) and by parallelism (reversed syntax: verb + direct object/ direct object + verb, <b>b</b>'s: 62-62.1).",
+    "line_end": "62.1"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "63",
+    "id": 126,
+    "time": 287.51,
+    "id_ref": 126,
+    "note": "Stanza in <b>aab</b> formed by repetition; double verb confirms finalization.",
+    "line_end": "63.2"
+  },
+  {
+    "type": "note",
+    "line": "66.4",
+    "id": 138,
+    "time": 306.11,
+    "id_ref": 138,
+    "note": "<i>Only as the sun! </i>is a hyperbole that reveals the irony in the previous line."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "69",
+    "id": 143,
+    "time": 319.01,
+    "id_ref": 143,
+    "note": "Stanza in <b>aab</b>(b) formed by contrast between multiple lines beginning with Agile, \"Let him bring\" (<b>a</b>'s: 69, 70) and a single line beginning with Ateho, \"Let him add\" (<b>b</b>: 70.1); the figure is then refinalized with a line beginning with a verb in the indicative mood, which contrasts to the subjunctive of all the preceding verbs in the stanza.",
+    "line_end": "71"
+  },
+  {
+    "type": "note",
+    "line": "70",
+    "id": 144,
+    "time": 320.12,
+    "id_ref": 144,
+    "note": "<i>Mede </i>is beer made from honey. In requiring beer and cattle in bridewealth and then more beer for the pre-nuptual fete (<i>kasiki</i>) Rukiza enacts his status of clan patriarch."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "72",
+    "id": 147,
+    "time": 327.51,
+    "id_ref": 147,
+    "note": "Stanza in <b>aab</b>(b) formed by contrast between multiple lines beginning with verbs inflected in the subjunctive mood (<b>a</b>'s: 72, 72.1, 73) and a single line beginning with a verb in the indicative mood (<b>b</b>: 74); the figure is then refinalized with a line beginning with a verb inflected in the third person (74.1), which contrasts to the second person of all preceding verbs in the stanza; all verbs in this stanza are doubled.",
+    "line_end": "74.1"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "76",
+    "id": 155,
+    "time": 339.87,
+    "id_ref": 155,
+    "note": "Compound stanza in <b>aab</b>, 2 + 2 + 3, formed syntactically and lexically; the initial pairs of couplets (<b>a</b>'s: 76-77, 77.1-77.2) are formed as initial subjunctive verb + direct object/ number formula; and the final couplet (<b>b</b>: 78-78.1) turns on parallelism between initial subjunctive verbs in each line \"let them come, let them stay the night...\" and \"let it dawn, let me come\"; a final line (78.2) confirms the finalization with a initial subjunctive verb and a formula that will become thematic \"All you Baganga!\"",
+    "line_end": "78.2"
+  },
+  {
+    "type": "note",
+    "line": "78",
+    "id": 159,
+    "time": 345.6,
+    "id_ref": 159,
+    "note": "Rukiza’s zeal in enacting clan-regulated wedding ceremonials represents the concerns of a clan patriarch. It is surpassed only by the careful preparation of the qrotesque wedding party in the marriage of Wamala’s daughter in <i>Mugasha</i>. Both heros represent and defend the ethics of clan.",
+    "line_end": "78.2"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "80",
+    "id": 168,
+    "time": 359.84000000000003,
+    "id_ref": 168,
+    "note": "Stanza in <b>aab</b> formed syntactically by contrast of past perfect tenses (<b>a</b>'s: 80, 81) with near past double verb formation (81.1).",
+    "line_end": "81.1"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "81.2",
+    "id": 172,
+    "time": 369.54,
+    "id_ref": 172,
+    "note": "Three stanzas in <b>abb</b> (81.2-82.1, 83-85, 86.1-87) formed lexically and syntactically; note the important interpolated line (86) and the fact that the final stanza (86.1-87) is formed both as <b>abb</b> (by syntactic parallelism) and as <b>aab</b> (by lexical repetition of \"father\"); the final two lines cohere by virtue of a syntactic device used also in lines 62-62.1, in which paired sentences reverse the word order of verb and direct object, VB+DO becomes DO+VB.",
+    "line_end": "87"
+  },
+  {
+    "type": "note",
+    "line": "82",
+    "id": 173,
+    "time": 373.76,
+    "id_ref": 173,
+    "note": "The actions that Rukiza is wrongfully accused of offend royal ethics of cattle holding. His profligate acts deny symbolic, exchange, and use values of cattle and their products, which support patronage and, in some degree, the state itself. Note the ethical and linguistic parallelism: the (false) report of Rukiza’s exceeding the bounds evokes the king’s defense of the royal ethics of cattle ownership; while Rukiza’s observation of cattle exceeding the bounds (12.2) evokes the patriarch’s kin-like ethical concern for their welfare. Both are calls to action; they motivate and frame the events that follow.",
+    "line_end": "87"
+  },
+  {
+    "type": "note",
+    "line": "88",
+    "id": 185,
+    "time": 400.59000000000003,
+    "id_ref": 185,
+    "note": "<i>Calling-place </i>is the same word as dungheap (<i>lubungo</i>); I am not sure how these closely juxtaposed uses are associated; perhaps they are as royal assets (manure and drum) that proclaim themselves from afar (by smell and sound)."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "88",
+    "id": 185,
+    "time": 400.59000000000003,
+    "id_ref": 185,
+    "note": "Stanza in <b>aabb</b> formed by a couplet that coheres by the formula, initial locutive + subjunctive verb, contrasted with a couplet that coheres by the formula, 0verb + cattle descriptors; note interpolated one word line (88.1).",
+    "line_end": "91"
+  },
+  {
+    "type": "note",
+    "line": "90",
+    "id": 188,
+    "time": 406.1,
+    "id_ref": 188,
+    "note": "<i>Long-horns</i>,<i>spotted ones</i>... are part of an extensive set of terms for describing cattle.",
+    "line_end": "91"
+  },
+  {
+    "type": "note",
+    "line": "93.2",
+    "id": 196,
+    "time": 420.83,
+    "id_ref": 196,
+    "note": "<i>Cattle fire</i>i s a campfire whose smoke is used to fumigate the animals, reducing the number of their insect pests."
+  },
+  {
+    "type": "note",
+    "line": "94",
+    "id": 198,
+    "time": 422.84,
+    "id_ref": 198,
+    "note": "This episode is the second part of epic’s principal Call. Rukiza grants the man’s request to see him, although the his claim is never verified. His assertion of blood brotherhood, a voluntary, socially created form of kinship, is sufficient to touch the patriarch’s ethical sense. In some versions of Rukiza, the man’s presence is announced by laughter of children, for whom nakedness elicits amusement. As an instrument of the ethical appeal, children embody kin-based, clan ethics, as the drum that summons a warrior to a king’s service embodies the royal state in <i>Kachwenyanja</i>."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "94",
+    "id": 198,
+    "time": 422.84,
+    "id_ref": 198,
+    "note": "Stanza in <b>aab</b> formed by two lines that cohere as subject + verb (94,95) contrasted with a line formulated as direct object + verb (95.1).",
+    "line_end": "95.1"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "96",
+    "id": 201,
+    "time": 429.58,
+    "id_ref": 201,
+    "note": "Compound stanza, 2 + 2 + 2, concatenated in <b>aab</b> and <b>aba</b>; as <b>aab</b> pairs that cohere by lexical repetition (96-96.1: \"going\"; 97-97.1: \"Lukiza\") are contrasted with a pair that does not cohere in this way (97-97.1: the latter is the only pair whose first line is chained with the second line of the preceding pair (via /nywa/ \"drink,\" the root of \"blood brother\") and the only pair that has a line with no verb; as <b>aba</b>, pairs in which the answer is introduced by a locutive (96-96.1, 98-98.1) are contrasted with a pair in which the question is so introduced (97-97.1).",
+    "line_end": "98.1"
+  },
+  {
+    "type": "note",
+    "line": "99",
+    "id": 208,
+    "time": 443.97,
+    "id_ref": 208,
+    "note": "Rukiza’s clansmen cannot resolve the contradiction between the man’s apparant low status, which argues against letting him see Rukiza, and his claimed blood-brotherhood, which argues for it. The patriarch upholds the precepts of kin without question. Note that Rukiza leaves the embrace of his praisworthy wife to answer the call, as does the royal warrior in <i>Kachwenyanja</i>(ll. 108-118), testimonies to the strength of their ethical committment."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "99",
+    "id": 208,
+    "time": 443.97,
+    "id_ref": 208,
+    "note": "Stanza concatenated in <b>aab</b> and in <b>abb</b>; as <b>aab</b>, lines that begin with single verbs (99, 99.1) contrast with a line that begins with double initial verbs (99.2); as <b>abb</b>, an initial line with verbs inflected in a 3rd person plural subject (99) contrasts with two following lines in a 3rd person singular subject (99.2, 99.2).",
+    "line_end": "99.2"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "100",
+    "id": 212,
+    "time": 449.35,
+    "id_ref": 212,
+    "note": "Stanza in <b>aab</b> formed by contrast between two narrative lines that cohere by virtue of past perfect principal verbs (100, 100.1) and a single line of praise (100.2)",
+    "line_end": "100.2"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "101",
+    "id": 216,
+    "time": 460.51,
+    "id_ref": 216,
+    "note": "Stanza concatenated in <b>aab</b> and <b>aba</b>; following an expletive of address (101) an <b>aba</b> pattern is formed by alternating lines with 3rd person plural verbal inflections (101.1, 101.3) with a single line with a 3rd person singular verbal inflection (101.2); <b>abb</b> is formed by a line that begins with a single verb (101.1) contrasted with two lines that begin with double verb formations (101.2, 101.3); note the similarity with the concatenation and finalization in 99-99.2).",
+    "line_end": "101.3"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "102",
+    "id": 221,
+    "time": 465.6,
+    "id_ref": 221,
+    "note": "Stanza in <b>aba</b> formed by contrast between lines with similarly inflected verbs, one of them repeated (102, 103) and a single intervening line marked by a 3rd person narrative verb in the adverbial past perfect (102.1).",
+    "line_end": "103"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "104",
+    "id": 225,
+    "time": 471.25,
+    "id_ref": 225,
+    "note": "Compound stanza, 2 + 3 + 2, in <b>aab</b> formed by an initial pair (104-104.1) that coheres by reversed parallelism according to the formula, address + verb with interrogative particle -ki / verb with -ki + address, followed by three lines that also cohere by forms of parallelism (syntactic, evident in the repetition of the quoted locutive ngu, 104.2-104.3 and in the formulaic, repeated word order, direct object + verb phrase, 104.3- 105); these linegroups that cohere by parallelism are contrasted with and finalized by a pair (106-106.1) that contains one line with no verb and coheres by virtue of enjambment.",
+    "line_end": "106.1"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "107",
+    "id": 233,
+    "time": 486.1,
+    "id_ref": 233,
+    "note": "Verse passage in <b>aab</b> formed by three linegroups (107-110.2, 111-113.2, 114-116) that cohere with one another by virtue of three mirrored component parts; first, Lukiza addresses a named kinsman (107-108, 111, 114; note that enjambment of the first instance mirrors that in previous line pair, 106-106.1); second, Lukiza gives two part orders, introduced by a locutive and framed in the subjunctive or the near future (108.1-109.1, 113-113.1, 115-116); the first two linegroups (<b>a</b>'s) contrast with the third (<b>b</b>') by the inclusion of an additional line, \"He said, 'If [he is/ you are] a Muganga,'\"(109, 112); note also that the first linegroup (107-110.2) coheres internally by mirror structure: \"set aflame\" (108.1, 110), adverbial clause (109, 110.1), \"grow\" (109.1, 110.2).",
+    "line_end": "116"
+  },
+  {
+    "type": "note",
+    "line": "108.1",
+    "id": 235,
+    "time": 490.11,
+    "id_ref": 235,
+    "note": "<i>Set the shoju grass aflame</i>. After being burnt in seasonal fires that control vegetation on intervillage lands, <i>shoju </i>grass begins to grow again and pricks the foot (see l. 202)."
+  },
+  {
+    "type": "note",
+    "line": "117.1",
+    "id": 252,
+    "time": 522.59,
+    "id_ref": 252,
+    "note": "<i>Himba </i>are clans whose occupational specialty is cattle-herding. They are allied with ruling Hinda clans in several interlacustrine kingdoms."
+  },
+  {
+    "type": "note",
+    "line": "118.1",
+    "id": 256,
+    "time": 528.59,
+    "id_ref": 256,
+    "note": "<i>Shoju grass </i>covers their legs, lacerates them and impedes their march."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "121",
+    "id": 261,
+    "time": 535.87,
+    "id_ref": 261,
+    "note": "Stanza cohering by virtue of the repeated word \"killed\", and formed in <b>aab</b> by contrast between lines in a number sequence (121-123) and a single line that substitutes a named person for numbered arrows(124).",
+    "line_end": "124"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "125",
+    "id": 267,
+    "time": 550.45,
+    "id_ref": 267,
+    "note": "Verse passage in <b>abab</b>; four linegroups (125-127, 129-131, 132-133.1, 134-134.1 - 125.2 is apparently a mistake) that contrast compound stanzas (<b>a</b>'s: 125-127, 132-133.1, formed internally as <b>aab</b>, 2 + 2 + 1, two lines with verbs inflected in 3rd person singular indicative (125-125.1, 132-132.1) + two lines with verbs inflected in 2nd person singular subjunctive (126-126.1, 132.2-133) + a single line of mixed person and number (127, 133.1); alternating with these compound stanzas are couplets (<b>b</b>'s in the overall pattern of <b>abab</b>, 129-129.1 + 130-131(doubled), 134-134.1) that are formed according to the syntactic formula, double verb + praisename/ single verb.",
+    "line_end": "134.1"
+  },
+  {
+    "type": "note",
+    "line": "125.1",
+    "id": 268,
+    "time": 552.13,
+    "id_ref": 268,
+    "note": "Rukiza’s mutilation of the remaining royal warrior is a statement couched in a violent discourse of the body. Sparing the enemy’s life, he inscribes him with a defiant message to the king. A similar message framed in the somatic discourse of clans, but seen from the opposite side of the institutional battleground, appears reprehensible and ethically foreign in <i>Kachwenyanja</i>: ll. 184-184.1, 216-217)."
+  },
+  {
+    "type": "note",
+    "line": "135",
+    "id": 290,
+    "time": 593.95,
+    "id_ref": 290,
+    "note": "The king’s advisers at the court, the <i>balamata</i>, were drawn from commoner clans. In clan-accented discourse here, as in Haya folktales, they appear as voices of moderation. Separating the control of land from the control of people articulates a division between clan and state. The state is founded on the control of capital in land and cattle. Clans regulate behavior that maintains properly balanced relationships between groups of people, between living and dead, and between society and the natural environment. The advisers remind the king of the focus of his institutional practice."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "135",
+    "id": 290,
+    "time": 593.95,
+    "id_ref": 290,
+    "note": "Compound stanza in <b>aab</b>, 2 + 2 + 2; each of the three couplets (135-135.1, 136-136.1, 137-137.1) has ensi, \"land,\" in the first line in final position; the first couplet coheres internally by virtue of repetition of the question, \"do you want to rule...?\"; the second couplet coheres by virtue of repetition of initial locutives; the third couplet coheres by 3rd singular inflection of verbs (a marked 4 of them in 2 lines); contrasts in the verbal inflections of the quoted speech create the <b>aab</b> pattern: 1st and 2nd persons in the first two couplets(<b>a</b>'s), 3rd person in the final couplet(<b>b</b>).",
+    "line_end": "137.1"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "138",
+    "id": 297,
+    "time": 607.08,
+    "id_ref": 297,
+    "note": "Stanza in <b>abb</b> formed by contrast between one line formed as verb + subject (138) and two lines formed as subject + verb (138.1-138.2).",
+    "line_end": "138.2"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "139",
+    "id": 301,
+    "time": 611.9,
+    "id_ref": 301,
+    "note": "Stanza in <b>aab</b>(a') formed by number sequence (139-139.1) finalized (139.2) by omission of an initial verb, \"She bore\"; the figure is refinalized by restoring the initial verb but substituting social rank for numerical order (140).",
+    "line_end": "140"
+  },
+  {
+    "type": "note",
+    "line": "140",
+    "id": 304,
+    "time": 615.69,
+    "id_ref": 304,
+    "note": "Exogamy and patriliny sometimes cast women as dangerous mediators of clan boundaries, producing children for potential rivals and conveying “inside” information that could later bring harm to the clans of their fathers. This inter-clan concern appears in a context defined by clan and state"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "142",
+    "id": 308,
+    "time": 619.59,
+    "id_ref": 308,
+    "note": "Compound stanza in <b>ab</b>b<b>a</b>', 3 + 2 + 2 + 3, formed by contrast between husband's conversational utterances (<b>a</b>'s: 142-143, 147-147.2) and those of wife (<b>b</b>'s: 144-145, 146-146.1); husband's utterances cohere by repetition of the address, \"my wife,\": in final position of their first lines (142, 147) and of the interrogative particle (-ki) suffixed to the verb (143, 147.2); wife's utterances cohere internally as <b>ab</b>b<b>a</b>'~ by contrast between lines with a verb in final position (<b>a</b>'s: 144, 146.1) and lines with \"...kill(s) Lukiza\" in final position (<b>b</b>'s: 145, 146).",
+    "line_end": "147.2"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "148",
+    "id": 319,
+    "time": 648.59,
+    "id_ref": 319,
+    "note": "Verse passage composed of 4 pairs of stanzas (148-151 and 152-153.1, 155-156 and 157-158, 160-161.1 and 162-163.1) finalized by single lines or pairs of lines (154, 159-159.1, 164); all stanzas repeat the lexical formula \"...in the roofpeak of the house/ ...in the fire of the spotted bull\" but each pair of stanzas differs in its deployment; in the first pair the lines are the middle of a quatrain; in the second pair they are the final lines of a triplet; in the third pair they are the final lines of a quatrain; each pair coheres semantically as well.",
+    "line_end": "164"
+  },
+  {
+    "type": "note",
+    "line": "149",
+    "id": 320,
+    "time": 653.34,
+    "id_ref": 320,
+    "note": "Rukiza’s magical hearts are located in places that proclaim the association of home, cattle, and body within the unity of clan. The roof peak of an old-style Haya house (<i>msonge</i>) is formed by the top of the central pillar of the round dwelling, the apex of its conical or onion-shaped roof. At the base of the pillar is the hearth and central living space, the most interior space in family life (Seitel 1980:1). Rukiza’s heart lies at the core of family. His other magical heart lies in the cattle kraal in the fire that warms the herdsmen before sunrise (l. 93.2) and keeps the cattle healthy and free of insect pests."
+  },
+  {
+    "type": "note",
+    "line": "154",
+    "id": 328,
+    "time": 672.38,
+    "id_ref": 328,
+    "note": "<i>Betrayers</i>. This proverbial statement articulates a male view of a result of the contradiction between exogamy and patriarchy. It is used as an aside here."
+  },
+  {
+    "type": "note",
+    "line": "155",
+    "id": 330,
+    "time": 676.39,
+    "id_ref": 330,
+    "note": "Augury was one of the duties performed by particular clans at court. Here chicken entrails are consulted."
+  },
+  {
+    "type": "note",
+    "line": "165",
+    "id": 352,
+    "time": 722.36,
+    "id_ref": 352,
+    "note": "In another version of this epic, one sung by the bard Kishwa, the clan patriarch recognizes the imminence of his death and orders his followers: “Spread my leather cloak for me in the forecourt,/ Lest they pierce me and I spill out upon the ground./ Bring fresh milk for me,/ Lest they pierce me and I spill out blood.” He enriches the social and symbolic embodiment of non-royal cattle ownership."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "165",
+    "id": 352,
+    "time": 722.36,
+    "id_ref": 352,
+    "note": "Stanza cohering by enjambment formed in <b>aab</b> by contrast between dependent adverbial clauses (<b>a</b>'s: 165,166) and a main clause formulated as a double verb (<b>b</b>: 166.1).",
+    "line_end": "166.1"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "167",
+    "id": 356,
+    "time": 729.37,
+    "id_ref": 356,
+    "note": "Verse in <b>aab</b> composed of three stanzas that cohere semantically as: Lukiza lets fly his arrow (167-168.1); enemy lets fly his arrow (169-170.1); result - Lukiza dies (171-172); the first two stanzas mirror each other: their initial lines include an expletive of address in medial position preceded by a locative (aha) and no main verb; the following unit consists of verbs in the past perfect that have adverbial force (167.1-168 and 170); the verb in the final line in each stanza is inflected with a subject infix /gu/ (gw) that refers to arrow; the final stanza coheres internally as <b>aab</b> formed by contrast between lines that begin with the same verb \"It fell...\" and a single line whose verb is in final position, a finalizing transformation of word order emphasized by the direct object's preceding of that final verb;: the three lines of the final stanza marked, respectively, by chained repetition (\"it fell\" from 170.1 to 171), double verb formation and reversed word order give the feeling of successive refinalization of the two mirror stanzas; all three stanzas are knit together by repetition from last line of preceding to first line of succeeding stanza.",
+    "line_end": "172"
+  },
+  {
+    "type": "note",
+    "line": "171.1",
+    "id": 366,
+    "time": 742.33,
+    "id_ref": 366,
+    "note": "The word for <i>life serpent</i>is <i>enkorantima</i>, which also refers to a black, poisonous snake. An individual’s spiritual essence or soul is envisioned as a snake (<i>enjoka</i>), which is an agency of thought (<i>Kitekele</i>: l. 209) and desire (<i>Kitekele</i>: l. 210.1, <i>Kaiyula</i>: 284) and feeling (<i>Kaiyula</i>: l. 379). Snakes are associated with spirits and may be used as vehicles for praise of another (<i>Mbali Oluga</i>: l. 38) or of oneself (<i>Kaitaba</i>: l. 496). A snake is born in each individual person, dwells within, motivates feeling and action, and dies with him or her or separates from the mortal body as an immortal spirit, according to some. It is often called <i>lugondo </i>“spotted one” (<i>Kaiyula</i>: ll. 284, 383), which is the same word for “spotted bull.” These meanings converge in <i>Rukiza </i>(ll. 150, 153, 156, 158, 161, 163) when the “Fire of the Spotted Bull” becomes the dwelling place for the hero’s heart."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "173",
+    "id": 369,
+    "time": 753.13,
+    "id_ref": 369,
+    "note": "Stanza in which all three lines are marked by double verb in final position, formed as <b>aab</b> by virtue of contrast between two lines that begin with a noun (<b>a</b>'s: 173, 173.1) and a single line that begins with (an additional) verb (<b>b</b>:174).",
+    "line_end": "174"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "175",
+    "id": 373,
+    "time": 761.81,
+    "id_ref": 373,
+    "note": "Stanza in <b>aa</b>a<b>b</b> formed by lines that consist of adverbial clauses (<b>a</b>'s: 175-175.2) contrasted with a line composed of the main clause (<b>b</b>: 175.3), which is also contrastingly framed as a double verb.",
+    "line_end": "175.3"
+  },
+  {
+    "type": "note",
+    "line": "175.3",
+    "id": 376,
+    "time": 767.7,
+    "id_ref": 376,
+    "note": "<i>She saw the grays</i>. Seeing Rukiza’s cattle mixed in among the king’s, the woman infers the events that brought them there. The cattle, like the woman herself, have become vehicles for information, public and private. Cattle and women move through society in symbolically rich exchanges of productive value. The virtues they embody can construct, alter, and ultimately destroy ties between social groups. The orbit of this woman’s life, like Rukiza’s, is defined by cattle.\n181.1ff Rukiza’s sister lures the king into a vulnerable position. She entices him with the magical means to rule more land. Her identity as a clanswoman has been reestablished by her brother’s murder and her decision to pursue revenge through blood feud. Note that she influences the king through his desire for land, similar to the way the clan advisers (<i>balamata</i>) influence him to stop sending men to their death (l. 135ff). In a contrasting set of events, the widow of a state warrior lures clansmen to their doom through their desire not for land but for sexual pleasure (<i>Kachwenyanja</i>: l. 304ff). Seen through the eyes of clans, kings are land-hungry. Seen through the eyes of the state-builders, clansmen are ruled by base appetites for pleasure and reproduction (this is an underlying theme in the ballad <i>Mbali Oluga</i>). These ethical judgements seem to be based on conflicting institutional practices governing land tenure and marriage."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "176",
+    "id": 378,
+    "time": 769.66,
+    "id_ref": 378,
+    "note": "Stanza in <b>aabb</b> formed by lines with negative, initial verbs used narratively (<b>a</b>'s: 176, 176.1) contrasted with quoted speech (<b>b</b>'s: 176.2, 177).",
+    "line_end": "177"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "179",
+    "id": 386,
+    "time": 783.36,
+    "id_ref": 386,
+    "note": "Stanza in <b>aa</b>a<b>b</b> formed syntactically: disordered sentence components (<b>a</b>'s: 179-180) contrast with the orderly, verb + direct object (<b>b</b>: 181).",
+    "line_end": "181"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "181.1",
+    "id": 392,
+    "time": 790.92,
+    "id_ref": 392,
+    "note": "Compound stanza in <b>aab</b>, 2 + 2 + 1, formed by couplets (<b>a</b>'s: 181.1-182, 182.1-182.2) that cohere internally by virtue of double verb syntax and repeated initial verb, respectively, contrasted with a single, finalizing line (<b>b</b>: 183) marked by unusual syntax, direct object + verb + direct object.",
+    "line_end": "183"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "184",
+    "id": 398,
+    "time": 798.39,
+    "id_ref": 398,
+    "note": "Compound stanza in <b>aba</b>, 3 + 2 + 2, formed by contrast between linegroups comprised of narration (<b>a</b>'s: 184-185, 186.1-186.2) and a single linegroup comprised of quoted speech (<b>b</b>: 185.2-186); lines in the first linegroup cohere by virtue of initial verbs with similar inflections and create a pattern in <b>aab</b> by contrast between the implied subject of the first two verbs (he agreed, he went), which is the king, and that of the final one (she cut him) which is his wife (verbal inflection does not indicate gender in Luhaya, increasing the contrast between syntactic sameness and semantic difference).",
+    "line_end": "186.2"
+  },
+  {
+    "type": "note",
+    "line": "186.2",
+    "id": 404,
+    "time": 809.31,
+    "id_ref": 404,
+    "note": "<i>Voicebox</i>. Slashing or cutting out the larynx (<i>amalaka</i>, plural of <i>eilaka</i>—voice) seems to be a formulaic way of slitting the throat. See <i>Kachwenyanja</i>: ll. 312.1, 331.1, 351.1, 353."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "187",
+    "id": 406,
+    "time": 811.3,
+    "id_ref": 406,
+    "note": "Stanza in <b>aab</b> formed by as contrast between narrative (<b>a</b>'s: 187, 187.1) and quoted speech (<b>b</b>: 188).",
+    "line_end": "188"
+  },
+  {
+    "type": "note",
+    "line": "188",
+    "id": 408,
+    "time": 815.79,
+    "id_ref": 408,
+    "note": "This rhetorical quandry about bringing bad news echoes the words of the near-naked messinger to Rukiza (l. 104.1)."
+  },
+  {
+    "type": "note",
+    "line": "189",
+    "id": 410,
+    "time": 818.65,
+    "id_ref": 410,
+    "note": "Rukiza’s sister made good her promise to exact revenge before sunset on the day of his death (ll. 146–146.1). The Baganga engage in ritual lamentation all night.",
+    "line_end": "191.1"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "189.2",
+    "id": 413,
+    "time": 822.6,
+    "id_ref": 413,
+    "note": "Annular structure formed lexically: outer ring comprised of \"wander\" and \"Baganga\" (189.2 and 192), inner ring composed of \"kill\" (190 and 191.1), and center composed of the thematically marked \"child of my father.\"",
+    "line_end": "192"
+  },
+  {
+    "type": "note",
+    "line": "194",
+    "id": 420,
+    "time": 835.27,
+    "id_ref": 420,
+    "note": "<i>Shoju grass, elephant grass, honey bees</i>are symbols of house, family, ubiquitousness, and strength of the downtrodden.",
+    "line_end": "196.2"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "194",
+    "id": 420,
+    "time": 835.27,
+    "id_ref": 420,
+    "note": "Verse passage in <b>aab</b> composed of three linegroups (194-194.2, 195-195.1, 196-196.2) that mirror one another lexically; the first linegroup sets the pattern: natural category-kinsman/ \"wander\"/ \"Baganga\"; the second linegroup (195-195.1) is shortened by one line; the third (196-196.1) is shorter in the enunciation of each line; the shortening, particularly in the first line, creates an overall pattern of <b>aab</b> for the passage.",
+    "line_end": "196.2"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "197",
+    "id": 429,
+    "time": 847.8,
+    "id_ref": 429,
+    "note": "Stanza in <b>aabb</b> formed by contrast between a couplet (<b>a</b>'s: 197-197.1) that coheres by virtue of repeated infinitives used adverbially and a second couplet (<b>b</b>'s: 198, 198.1) that coheres by lexical repetition.",
+    "line_end": "198.1"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "199",
+    "id": 434,
+    "time": 856.35,
+    "id_ref": 434,
+    "note": "Stanza in <b>abb</b> formed by repetition.",
+    "line_end": "201"
+  }
+]

@@ -1,0 +1,582 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Haya Epic Ballad Library</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="viewer/library.css" />
+  <style>
+    /* ── Two-column layout ── */
+    .two-col {
+      display: grid;
+      grid-template-columns: 2fr 3fr;
+      gap: 2em;
+      align-items: start;
+      margin-top: 2.5em;
+    }
+
+    /* ── Left column: essays + gallery ── */
+    .col-left {}
+
+    /* Both section headings use identical margins so rules match */
+    .section-heading {
+      margin-bottom: 0 !important;
+    }
+    /* Space below the rules — equal in both columns */
+    .essays-grid,
+    .ballads-list {
+      margin-top: 1.5em;
+    }
+    .essays-grid {
+      margin-bottom: 2.5em;
+    }
+
+    .essay-entry {
+      padding: 0.45em 0;
+      border: none;
+    }
+    .essay-entry-title {
+      font-size: 0.92em;
+      line-height: 1.35;
+    }
+    .essay-nav-item {
+      color: #1a1a18;
+      font-family: var(--sans);
+      font-weight: 400;
+      cursor: pointer;
+      text-decoration: none;
+      display: block;
+    }
+    .essay-nav-item:hover { color: #2a5c3a; }
+
+    /* hide the "Read →" links in left column — title itself is the link */
+    .essay-entry-read { display: none; }
+
+    /* ── Photo gallery ── */
+    .photo-gallery {
+      display: flex;
+      flex-direction: column;
+      gap: 1.4em;
+    }
+
+    .photo-item img {
+      width: 100%;
+      height: auto;
+      display: block;
+      filter: grayscale(100%);
+    }
+
+    .photo-caption {
+      font-family: var(--sans);
+      font-size: 0.72em;
+      line-height: 1.35;
+      color: var(--muted);
+      margin-top: 0.35em;
+    }
+
+    /* ── Right column: ballads ── */
+    .col-right {}
+
+    .ballads-list {
+      margin-bottom: 0;
+    }
+
+    .ballad-entry {
+      padding: 1em 0;
+      border-bottom: 1px solid var(--border);
+      display: block;   /* single column — no side links column */
+    }
+    .ballad-entry:first-child { border-top: 1px solid var(--border); }
+
+    .ballad-entry-links {
+      display: flex;
+      flex-direction: row;
+      gap: 2.5em;
+      margin: 0.35em 0 0.5em 0;
+    }
+
+    .ballad-link-intro,
+    .ballad-link-listen {
+      font-family: var(--sans);
+      font-size: 0.85em;
+      color: var(--link);
+      text-decoration: underline;
+      text-underline-offset: 3px;
+      background: none;
+      padding: 0;
+    }
+    .ballad-link-intro:hover,
+    .ballad-link-listen:hover { color: var(--accent-hover); }
+
+    /* ── Responsive ── */
+    @media (max-width: 720px) {
+      .two-col {
+        grid-template-columns: 1fr;
+      }
+      .photo-gallery {
+        grid-template-columns: 1fr 1fr;
+      }
+    }
+  </style>
+  <link rel="manifest" href="manifest.json">
+</head>
+<body>
+
+<div class="page-wrapper">
+
+  <header class="page-header">
+    <div class="page-header-inner">
+      <span class="site-title">Haya Epic Ballad Library</span>
+      <nav class="nav-menu" aria-label="Main navigation">
+        <a href="#essays">Essays</a>
+        <a href="#ballads">Ballads</a>
+      </nav>
+      <div class="nav-relative">
+        <button class="nav-hamburger" data-target="nav-mobile" aria-label="Menu">☰</button>
+        <div class="nav-dropdown" id="nav-mobile">
+          <button onclick="openLibraryModal('welcome')">Welcome</button>
+          <button onclick="openLibraryModal('about')">About This Collection</button>
+          <button onclick="openLibraryModal('search')">Search</button>
+          <button onclick="openLibraryModal('acknowledgements')">Acknowledgements</button>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="main-content">
+
+    <!-- Welcome -->
+    <section class="library-hero">
+      <h1 style="text-align:center;">Haya Epic Ballad Collection<br>Library</h1>
+      <p class="subtitle">Ten performances recorded in Tanzania, mid to late 20th century</p>
+    </section>
+
+    <!-- Two-column body -->
+    <div class="two-col">
+
+      <!-- LEFT: Essays + Photos -->
+      <div class="col-left">
+
+        <section id="essays" aria-labelledby="essays-heading">
+          <h2 class="section-heading" id="essays-heading">Introductory Essays</h2>
+          <div class="essays-grid">
+
+            <div class="essay-entry">
+              <div class="essay-entry-title"><span class="essay-nav-item" data-href="essays/haya_people.html">The Haya People</span></div>
+            </div>
+
+            <div class="essay-entry">
+              <div class="essay-entry-title"><span class="essay-nav-item" data-href="essays/enanga_tradition.html">The Enanga Epic Ballad Tradition</span></div>
+            </div>
+
+            <div class="essay-entry">
+              <div class="essay-entry-title"><span class="essay-nav-item" data-href="essays/heroic_age.html">The Heroic Age in Epic Ballads</span></div>
+            </div>
+
+            <div class="essay-entry">
+              <div class="essay-entry-title"><span class="essay-nav-item" data-href="essays/call_episode.html">The &#8220;Call&#8221; Episode in Ballads: Narrative Logic and Principal Themes</span></div>
+            </div>
+
+            <div class="essay-entry">
+              <div class="essay-entry-title"><span class="essay-nav-item" data-href="essays/recording_methodology.html">Recording These Performances</span></div>
+            </div>
+
+            <div class="essay-entry">
+              <div class="essay-entry-title"><span class="essay-nav-item" data-href="essays/bards_voices.html">Four Bards, Four Distinct Voices</span></div>
+            </div>
+
+            <div class="essay-entry">
+              <div class="essay-entry-title"><span class="essay-nav-item" data-href="essays/poetic_forms.html">Poetic Forms in Haya Epic Ballads</span></div>
+            </div>
+
+          </div>
+        </section>
+
+        <!-- Photo gallery -->
+        <div class="photo-gallery">
+
+          <div class="photo-item">
+            <img src="images/010-31aRojaboEnanga.jpg" alt="Rojabo playing the enanga" />
+            <p class="photo-caption">Rojabo, who performed at a royal court in the past and served as the muezzin at a mosque, demonstrates enanga playing outside his home in Kihanja, 1969.</p>
+          </div>
+
+          <div class="photo-item">
+            <img src="images/0054-4FezaTunes.jpg" alt="Feza tuning his enanga" />
+            <p class="photo-caption">Abdallah &#8220;Feza&#8221; Kaluandila tunes his enanga instrument as his wife and I look on.</p>
+          </div>
+
+          <div class="photo-item">
+            <img src="images/0054-8Enanga.jpg" alt="The enanga instrument" />
+            <p class="photo-caption">Feza&#8217;s enanga.</p>
+          </div>
+
+          <div class="photo-item">
+            <img src="images/Elias_Kashula_and_Winifred_Kisiraga_at_work_on_this_project_in_1969.jpg" alt="Elias and Winifred transcribing" />
+            <p class="photo-caption">Elias Kashula and Winifred Kisiraga preserve cultural heritage by transcribing and editing tape recorded performances.</p>
+          </div>
+
+          <div class="photo-item">
+            <img src="images/DioniesMsonge.jpg" alt="Group outside the msonge" />
+            <p class="photo-caption">Dionies Lutanzibwa and members of his clan outside the traditional building where he invited Muzee to perform and be recorded.</p>
+          </div>
+
+          <div class="photo-item">
+            <img src="images/0018-15Olwesho1.jpg" alt="Olwesho mankala game" />
+            <p class="photo-caption">Haji Abdallah (lower right) observes a game of olwesho outside his butchery, 1969. The game of kings and men, it has 4 rows of 8 cells, twice as many as mankala.</p>
+          </div>
+
+          <div class="photo-item">
+            <img src="images/016-30Enoch.jpg" alt="Mzee Enoch with Ankole cattle" />
+            <p class="photo-caption">Mzee Enoch herds Ankole cattle in Kihanja, 1969.</p>
+          </div>
+
+          <div class="photo-item">
+            <img src="images/cattlecountry.jpg" alt="Cattle in the Kagera landscape" />
+            <p class="photo-caption">Cattle in the interlacustrine landscape of Kagera, 1969.</p>
+          </div>
+
+          <div class="photo-item">
+            <img src="images/Joeli1.jpg" alt="Joeli Bake and his son" />
+            <p class="photo-caption">Joeli Bake proudly poses with his son just outside his village of Bugengele at the escarpment. In the distance Lake Victoria can be seen, and Uganda, I am told.</p>
+          </div>
+
+        </div>
+        <!-- end photo gallery -->
+
+      </div>
+      <!-- end col-left -->
+
+      <!-- RIGHT: Ballads -->
+      <div class="col-right">
+
+        <section id="ballads" aria-labelledby="ballads-heading">
+          <h2 class="section-heading" id="ballads-heading">The Ballads</h2>
+          <div class="ballads-list">
+
+            <div class="ballad-entry">
+              <div class="ballad-entry-left">
+                <div class="ballad-entry-title"><a href="Habib - Mugasha I/index.html?intro=1" target="_blank">Mugasha I</a></div>
+                <div class="ballad-entry-performer">Habib Suliman (recorded 1950 by Hugh Tracey, published by the International Library of African Music)</div>
+                <div class="ballad-entry-links">
+                <a class="ballad-link-intro" href="Habib - Mugasha I/index.html?intro=1" target="_blank">Read the introduction</a>
+                <a class="ballad-link-listen" href="Habib - Mugasha I/index.html" target="_blank">Listen</a>
+              </div>
+                <div class="ballad-entry-blurb">Mugasha I is about a courtship and marriage between two supernatural beings imbued with markedly different social standings: Mugasha, the lowly fisher-god, controller of the spirits of Lake Victoria, and Lyanyaibungo, daughter of the god-king Wamara. It is an anti-romantic marriage, based not in shared affection but in matchmaking as a discourse and an exchange between social groups. Mugasha&#8217;s proposal and Lyanyaibungo&#8217;s refusal stirs up a war of the gods.</div>
+              
+              </div>
+            </div>
+
+            <div class="ballad-entry">
+              <div class="ballad-entry-left">
+                <div class="ballad-entry-title"><a href="Muzee - Kajango/index.html?intro=1" target="_blank">Kajango</a></div>
+                <div class="ballad-entry-performer">Muzee of Kanazi</div>
+                <div class="ballad-entry-links">
+                <a class="ballad-link-intro" href="Muzee - Kajango/index.html?intro=1" target="_blank">Read the introduction</a>
+                <a class="ballad-link-listen" href="Muzee - Kajango/index.html" target="_blank">Listen</a>
+              </div>
+                <div class="ballad-entry-blurb">The love in Kajango is that of a marriage after eight or ten years, when the issue of property has emerged, like a child, to become part of the relationship. The bard elaborates this theme in ways alternately humorous, heroic, mysterious, and grotesque, but always humanely focused on the domestic pair. Cultural ideas of property, obligation, and debt underlie this natural and supernatural narrative.</div>
+              
+              </div>
+            </div>
+
+            <div class="ballad-entry">
+              <div class="ballad-entry-left">
+                <div class="ballad-entry-title"><a href="Fezza - Kitekele/index.html?intro=1" target="_blank">King Kitekere</a></div>
+                <div class="ballad-entry-performer">Abdallah &#8220;Feza&#8221; Kaluandila</div>
+                <div class="ballad-entry-links">
+                <a class="ballad-link-intro" href="Fezza - Kitekele/index.html?intro=1" target="_blank">Read the introduction</a>
+                <a class="ballad-link-listen" href="Fezza - Kitekele/index.html" target="_blank">Listen</a>
+              </div>
+                <div class="ballad-entry-blurb">Abdallah Feza&#8217;s Kitekere is a richly detailed tableau of the royal court of one of the most famous kings of Hayaland, a man who established his own dynasty. Within its frame appear courtly activities, roles, institutions, ideologies and, of course, language arts. Kitekere&#8217;s portrait is embellished with the trappings of power, in his appearance, his gestures, his speech, and in the ways others speak to and about him.</div>
+              
+              </div>
+            </div>
+
+            <div class="ballad-entry">
+              <div class="ballad-entry-left">
+                <div class="ballad-entry-title"><a href="Muzee - Kachwenyanja/index.html?intro=1" target="_blank">Kachwenyanja</a></div>
+                <div class="ballad-entry-performer">Muzee of Kanazi</div>
+                <div class="ballad-entry-links">
+                <a class="ballad-link-intro" href="Muzee - Kachwenyanja/index.html?intro=1" target="_blank">Read the introduction</a>
+                <a class="ballad-link-listen" href="Muzee - Kachwenyanja/index.html" target="_blank">Listen</a>
+              </div>
+                <div class="ballad-entry-blurb">Kachwenyanja is about love, death, and the power and transcendence of poetry. Exploding outward from a loving pair &#8212; a royal warrior and his new bride &#8212; the constellation of themes takes shape within a particular Haya cultural world of romantic attachment, military action, and poetic expression.</div>
+              
+              </div>
+            </div>
+
+            <div class="ballad-entry">
+              <div class="ballad-entry-left">
+                <div class="ballad-entry-title"><a href="Mugasha - Rukiza/index.html?intro=1" target="_blank">Rukiza</a></div>
+                <div class="ballad-entry-performer">Justinian Mugasha</div>
+                <div class="ballad-entry-links">
+                <a class="ballad-link-intro" href="Mugasha - Rukiza/index.html?intro=1" target="_blank">Read the introduction</a>
+                <a class="ballad-link-listen" href="Mugasha - Rukiza/index.html" target="_blank">Listen</a>
+              </div>
+                <div class="ballad-entry-blurb">Justinian Mugasha&#8217;s performance of Rukiza is a series of poetic vignettes that depicts how one-time cattle-holding haves became have-nots. A familiar thematic opposition underlies that sequence and emerges with stark contrast in an armed conflict between a king and a clan patriarch. This ultimately tragic struggle develops equally along military, supernatural, and domestic dimensions.</div>
+              
+              </div>
+            </div>
+
+            <div class="ballad-entry">
+              <div class="ballad-entry-left">
+                <div class="ballad-entry-title"><a href="Feza - Kaitaba/index.html?intro=1" target="_blank">King Kaitaba</a></div>
+                <div class="ballad-entry-performer">Abdallah &#8220;Feza&#8221; Kaluandila</div>
+                <div class="ballad-entry-links">
+                <a class="ballad-link-intro" href="Feza - Kaitaba/index.html?intro=1" target="_blank">Read the introduction</a>
+                <a class="ballad-link-listen" href="Feza - Kaitaba/index.html" target="_blank">Listen</a>
+              </div>
+                <div class="ballad-entry-blurb">King Kaitaba ruled the central Haya Kingdom of Kyamtwara in the middle of the 19th century. Son of Kitekere, the founder of the Bankango dynasty, Kaitaba appears heroically amidst the symbols and prerogatives of royal rule, and he responds to a grave provocation by thoroughly defeating the armies of a neighboring king &#8212; even though that provocation is fabricated by his own men.</div>
+              
+              </div>
+            </div>
+
+            <div class="ballad-entry">
+              <div class="ballad-entry-left">
+                <div class="ballad-entry-title"><a href="Habib - Mugasha II/index.html?intro=1" target="_blank">Mugasha II</a></div>
+                <div class="ballad-entry-performer">Habib Suliman (recorded 1980 by Mukama Gabriel Rugabandama)</div>
+                <div class="ballad-entry-links">
+                <a class="ballad-link-intro" href="Habib - Mugasha II/index.html?intro=1" target="_blank">Read the introduction</a>
+                <a class="ballad-link-listen" href="Habib - Mugasha II/index.html" target="_blank">Listen</a>
+              </div>
+                <div class="ballad-entry-blurb">This second version of Mugasha by Habib Suliman is no less a remarkable performance than that recorded by the bard 30 years earlier. Habib&#8217;s 1980 version represents the evolution of the bard&#8217;s art toward a more mimetic and theatrical style.</div>
+              
+              </div>
+            </div>
+
+            <div class="ballad-entry">
+              <div class="ballad-entry-left">
+                <div class="ballad-entry-title"><a href="Muzee - The Tree Mwata/index.html?intro=1" target="_blank">The Tree Mwata</a></div>
+                <div class="ballad-entry-performer">Muzee of Kanazi</div>
+                <div class="ballad-entry-links">
+                <a class="ballad-link-intro" href="Muzee - The Tree Mwata/index.html?intro=1" target="_blank">Read the introduction</a>
+                <a class="ballad-link-listen" href="Muzee - The Tree Mwata/index.html" target="_blank">Listen</a>
+              </div>
+                <div class="ballad-entry-blurb">The Tree Mwata presents the further colorful exploits of the lake god Mugasha. In this story, his friendly alliance with the famous 17th-century ruler of Kyamutwala kingdom, Rugomora Mahe, presents an opportunity for adventure that has him literally stomping all over Hayaland. At the outset, the king is deeply troubled and sends emissaries to Mugasha, who solves the king&#8217;s problem with his characteristic humorous, rollicking, and world-altering style.</div>
+              
+              </div>
+            </div>
+
+            <div class="ballad-entry">
+              <div class="ballad-entry-left">
+                <div class="ballad-entry-title"><a href="Muzee - Kaiyula/index.html?intro=1" target="_blank">Kaiyula</a></div>
+                <div class="ballad-entry-performer">Muzee of Kanazi</div>
+                <div class="ballad-entry-links">
+                <a class="ballad-link-intro" href="Muzee - Kaiyula/index.html?intro=1" target="_blank">Read the introduction</a>
+                <a class="ballad-link-listen" href="Muzee - Kaiyula/index.html" target="_blank">Listen</a>
+              </div>
+                <div class="ballad-entry-blurb">Kaiyula is a poetic evocation of human passion: both the supernatural heat that melts together lovers created only for each other, and a lover&#8217;s crazy, aesthetic, mind-altering embrace of the other&#8217;s beauty. A problem for them both, as the bard unfolds it, is that neither form of love fits very well into the institutions of Haya heroic society and the social contracts that maintain them.</div>
+              
+              </div>
+            </div>
+
+            <div class="ballad-entry">
+              <div class="ballad-entry-left">
+                <div class="ballad-entry-title"><a href="Mugasha - Mbali/index.html?intro=1" target="_blank">The Place You Come From</a></div>
+                <div class="ballad-entry-performer">Justinian Mugasha</div>
+                <div class="ballad-entry-links">
+                <a class="ballad-link-intro" href="Mugasha - Mbali/index.html?intro=1" target="_blank">Read the introduction</a>
+                <a class="ballad-link-listen" href="Mugasha - Mbali/index.html" target="_blank">Listen</a>
+              </div>
+                <div class="ballad-entry-blurb">The Place You Come From is rich in poetic imagery. Indeed, the proper use and interpretation of metaphor is the pivot on which the action turns. As in the ballads King Kaitaba and Mugasha, the dramatic energy that drives the plot forward begins with a controlled verbal insult. Narrative action includes sex, accusation, judicial judgment, and explications of poetic imagery.</div>
+              
+              </div>
+            </div>
+
+          </div>
+        </section>
+
+      </div>
+      <!-- end col-right -->
+
+    </div>
+    <!-- end two-col -->
+
+  </main>
+
+  <footer class="page-footer">
+    Haya Epic Ballad Library &mdash; from an archive of field recordings made in Kagera Region, Tanzania, mid to late 20th century
+  </footer>
+
+</div>
+
+<!-- Welcome Modal -->
+<div id="welcomeOverlay" class="welcome-overlay">
+  <div class="welcome-modal">
+    <div class="welcome-modal-header">
+      <span class="welcome-modal-title">Haya Epic Ballad Collection Library</span>
+      <button id="welcomeCloseBtn" class="welcome-close-btn">Continue &#8594;</button>
+    </div>
+    <div class="welcome-modal-body">
+      <p>Welcome to the collection. In it you will find presentations of 10 recorded performances from a centuries-old tradition of narrative poetry. The poems were created, curated, and re-created by epic bards who sing and accompany themselves on the enanga, a small harp-like instrument technically referred to as a trough zither. In each presentation you hear the bard's voice singing and his fingers plucking enanga strings and see a synchronized, scrolling transcription in Haya and translation in English, accompanied by occasional links to annotations that explicate cultural and historical dimensions of the poem and reveal its stanzaic versification.</p>
+      <p>Other forms of commentary are also designed to ease your access to the art: plot summaries, an overview of the verse system, and a search function. This helping apparatus is respectfully backgrounded, so as to keep foremost the sound and meaning of the bard's words. Almost all of the thematic commentary was developed in interviews with many Haya teachers. I hope I have understood them well. Experts in Haya language, including the bard Abdallah Feza, have confirmed my understanding of the poetic structure.</p>
+    </div>
+  </div>
+</div>
+
+<style>
+.welcome-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.55);
+  z-index: 300;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 6vh;
+}
+.welcome-overlay.open { display: flex; }
+
+.welcome-modal {
+  background: #faf8f4;
+  color: #1a1a18;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  width: 58%;
+  max-height: 70vh;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.25);
+}
+
+.welcome-modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.8em 1.2em;
+  border-bottom: 1px solid #ccc;
+  background: #faf8f4;
+  border-radius: 6px 6px 0 0;
+  flex-shrink: 0;
+}
+
+.welcome-modal-title {
+  font-family: 'Libre Baskerville', Georgia, serif;
+  font-size: 1.05em;
+  font-style: italic;
+}
+
+.welcome-close-btn {
+  background: none;
+  border: 1px solid #aaa;
+  color: #1a1a18;
+  font-family: sans-serif;
+  font-size: 0.82em;
+  padding: 0.3em 0.8em;
+  border-radius: 3px;
+  cursor: pointer;
+}
+.welcome-close-btn:hover { background: #2a5c3a; color: #fff; border-color: #2a5c3a; }
+
+.welcome-modal-body {
+  overflow-y: auto;
+  padding: 1.3em 1.6em;
+  font-family: 'Libre Baskerville', Georgia, serif;
+  font-size: 1em;
+  line-height: 1.75;
+  color: #1a1a18;
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+(function() {
+  // ── Hamburger toggle ──
+  document.querySelector('.nav-hamburger').addEventListener('click', function(e) {
+    e.stopPropagation();
+    document.getElementById('nav-mobile').classList.toggle('open');
+  });
+  document.addEventListener('click', function() {
+    document.getElementById('nav-mobile').classList.remove('open');
+  });
+
+  // ── Welcome modal: show on first visit ──
+  var welcomeOverlay = document.getElementById('welcomeOverlay');
+  document.getElementById('welcomeCloseBtn').addEventListener('click', function() {
+    welcomeOverlay.classList.remove('open');
+    sessionStorage.setItem('welcomeSeen', '1');
+  });
+  welcomeOverlay.addEventListener('click', function(e) {
+    if (e.target === welcomeOverlay) {
+      welcomeOverlay.classList.remove('open');
+      sessionStorage.setItem('welcomeSeen', '1');
+    }
+  });
+  if (!sessionStorage.getItem('welcomeSeen')) {
+    welcomeOverlay.classList.add('open');
+  }
+
+  // ── Stub modals ──
+  var stubOverlay = document.getElementById('stubOverlay');
+  var stubTitle   = document.getElementById('stubTitle');
+  var stubBody    = document.getElementById('stubBody');
+  document.getElementById('stubCloseBtn').addEventListener('click', function() {
+    stubOverlay.classList.remove('open');
+  });
+  stubOverlay.addEventListener('click', function(e) {
+    if (e.target === stubOverlay) stubOverlay.classList.remove('open');
+  });
+
+  // ── Modal dispatcher ──
+  window.openLibraryModal = function(which) {
+    document.getElementById('nav-mobile').classList.remove('open');
+    if (which === 'welcome') {
+      welcomeOverlay.classList.add('open');
+      return;
+    }
+    var titles = {
+      about: 'About This Collection',
+      search: 'Search',
+      acknowledgements: 'Acknowledgements'
+    };
+    var bodies = {
+      about: '<p><em>About This Collection</em> — content to be added.</p>',
+      search: '<p><em>Search</em> — search functionality to be added.</p>',
+      acknowledgements: '<p><em>Acknowledgements</em> — content to be added.</p>'
+    };
+    stubTitle.textContent = titles[which];
+    stubBody.innerHTML = bodies[which];
+    stubOverlay.classList.add('open');
+  };
+
+  // ── Essay nav items ──
+  document.querySelectorAll('.essay-nav-item').forEach(function(el) {
+    el.addEventListener('click', function() {
+      window.location.href = el.getAttribute('data-href');
+    });
+  });
+
+  // ── Close modals on Escape ──
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') {
+      welcomeOverlay.classList.remove('open');
+      stubOverlay.classList.remove('open');
+    }
+  });
+})();
+}); // DOMContentLoaded
+</script>
+<!-- Stub modal for About, Search, Acknowledgements -->
+<div id="stubOverlay" class="welcome-overlay">
+  <div class="welcome-modal">
+    <div class="welcome-modal-header">
+      <span class="welcome-modal-title" id="stubTitle"></span>
+      <button id="stubCloseBtn" class="welcome-close-btn">Close ✕</button>
+    </div>
+    <div class="welcome-modal-body" id="stubBody"></div>
+  </div>
+</div>
+
+<script>
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', function() {
+      navigator.serviceWorker.register('/service-worker.js')
+        .then(reg => console.log('[SW] Registered:', reg.scope))
+        .catch(err => console.warn('[SW] Registration failed:', err));
+    });
+  }
+</script>
+</body>
+</html>

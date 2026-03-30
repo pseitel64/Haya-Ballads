@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Kitekere — Abdallah "Feza" Kaluandila</title>
+  <link rel="stylesheet" href="../viewer/styles.css" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <audio id="audio" src="https://archive.org/download/kajango/kitekere.m4a" preload="metadata"></audio>
+
+  <div id="transport">
+    <div id="transportLeft">
+      <button id="playPause">&#9654;</button>
+      <span id="timeDisplay">0:00 / 0:00</span>
+      <span class="range-label">Seek</span>
+      <input id="seek" type="range" min="0" max="0" step="0.01">
+      <div id="line-nav" class="line-nav-box">
+        <span id="lineLabel">1</span>
+        <input type="text" id="lineInput" class="hidden">
+      </div>
+      <span class="range-label">Vol.</span>
+      <input id="vol" type="range" min="0" max="1" step="0.01" value="1">
+      <span class="range-label">Speed</span>
+      <div id="speedControl">
+        <button class="speed-btn active" data-rate="1">100%</button>
+        <button class="speed-btn" data-rate="0.8">80%</button>
+      </div>
+    </div>
+    <div id="transportRight">
+      <span id="infoText"><em>Kitekere</em> — Abdallah &#8220;Feza&#8221; Kaluandila</span>
+      <button id="menuBtn" class="hamburger-btn" aria-label="Menu">
+        <span class="hamburger-icon">&#9776;</span>
+      </button>
+      <div id="menuPanel" class="menu-panel hidden">
+        <button class="menu-item" data-action="controls">Player Controls</button>
+        <button class="menu-item" data-action="plot">Plot Summary</button>
+        <button class="menu-item" data-action="verse">Poetic Verse Forms</button>
+        <button class="menu-item" data-action="pdf">Full Text &amp; Annotations PDF</button>
+        <button class="menu-item" data-action="search">Search</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Intro Modal -->
+  <div id="introOverlay">
+    <div id="introModal">
+      <div id="introModalHeader">
+        <span id="introModalTitle"><em>King Kitekere</em> &mdash; Abdallah "Feza" Kaluandila</span>
+        <div id="introModalBtns">
+          <button id="introClose">Close</button>
+          <button id="introClosePlay">Close &amp; Play</button>
+          <button id="introBackLib">Back to Library</button>
+        </div>
+      </div>
+      <div id="introModalBody">
+        <p>Abdallah Feza's Kitekere is a richly detailed tableau of the royal court of one of the most famous kings of Hayaland. Within its frame appear courtly activities, roles, institutions, ideologies and, of course, language arts. At the center is Kitekere himself, a famous nineteenth-century King of Kyamtwara Kingdom, drawn not so much naturalistically, perhaps, as according to general perceptions about the Haya kingship and about the particular significance of his reign. His reign is significant because King Kitekere was not born to a ruling family. His father, Rushuma, was a regent who, at the behest of the dying King Kalemera IV, protected the latter's young son and designated heir, Kajurunga, until he was old enough to rule. In an attempt to attain the kingship, Kajurunga's half-brother, Kinyonyi, killed Rushuma. Kitekere avenged his father's death by driving Kinyonyi into exile. Kitekere established Kajurunga as the titular ruler and ritual king and himself as the head of state, thus creating the Bankango clan's dynasty in Kyamtwara. Kaitaba (the ballad about him is also found in this collection), was Kitekere's son, and enjoyed the same kind of relationship with Kajurunga's son, Kimiro - called Bwogi (IV) in King Kaitaba. (History from Fredrick J. Kaijage. 1971. "Kyamutwara," Journal of World History 13(3):542-574) The personal power of Kitekere - the man who established his own dynasty - is often referred to in the ballad. To be sure, all protagonist kings are portrayed as powerful; kings were the embodiments of the state, the legitimate controllers of the institutions that could organize and direct the greatest numbers of people - the judiciary, the army, the educational system, and to some extent the religion. But Kitekere's portrait seems especially embellished with the trappings of power, in his appearance, his gestures, his words, and in the ways others refer to him. All the more astounding, therefore, that Kitekere, in the key episode in the ballad, does not answer the verbal abuse he suffers from the impassioned speech of a lowly cowherd. The rhetorical form of this abuse, moreover, clearly echoes that of the scolding given a young wife near the beginning of the ballad. The king holds his tongue, as the young wife did. This almost unimaginable forbearance on the part of the volcanic monarch is a sign of great virtue, of strong allegiance to an important ethical value of Kitekere's royal state. Abdallah "Feza" Kaluandila performed the ballad at the house of his friend Kagombola, a mufumu, or healer of spiritually caused diseases, on June 19, 1980. It was an act of great artistic concentration, as the performance context was very informal, to say the least.</p>
+      </div>
+    </div>
+  </div>
+
+  <div id="rows"></div>
+  <section id="annoPanel" class="anno"></section>
+  <div id="imagePanel" class="image-modal"></div>
+
+  <script src="../viewer/script.js"></script>
+  <script>
+    const audio = document.getElementById('audio');
+    document.querySelectorAll('.speed-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        audio.playbackRate = parseFloat(btn.dataset.rate);
+        document.querySelectorAll('.speed-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+      });
+    });
+  </script>
+
+</body>
+</html>

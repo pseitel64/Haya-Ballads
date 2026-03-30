@@ -1,0 +1,2642 @@
+[
+  {
+    "id": 1,
+    "kind": "poem",
+    "line": "1",
+    "text": "I begin to play the epic of Rukiza."
+  },
+  {
+    "id": 2,
+    "kind": "poem",
+    "line": "1.1",
+    "text": "\tMugasha Ibibi."
+  },
+  {
+    "id": 3,
+    "kind": "poem",
+    "line": "1.2",
+    "text": "\tI am Mugasha,"
+  },
+  {
+    "id": 4,
+    "kind": "poem",
+    "line": "2",
+    "text": "Justinian Mugasha."
+  },
+  {
+    "id": 5,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 6,
+    "kind": "poem",
+    "line": "3",
+    "text": "Listen to Ibibi."
+  },
+  {
+    "id": 7,
+    "kind": "poem",
+    "line": "3.1",
+    "text": "\tListen to Mugasha."
+  },
+  {
+    "id": 8,
+    "kind": "poem",
+    "line": "3.2",
+    "text": "\tListen, let me tell you."
+  },
+  {
+    "id": 9,
+    "kind": "poem",
+    "line": "3.3",
+    "text": "\tBe listening, let me tell you."
+  },
+  {
+    "id": 10,
+    "kind": "poem",
+    "line": "4",
+    "text": "Be listening, let me tell you."
+  },
+  {
+    "id": 11,
+    "kind": "poem",
+    "line": "4.1",
+    "text": "\tLet me tell you of Rukiza Mbibi,"
+  },
+  {
+    "id": 12,
+    "kind": "poem",
+    "line": "5",
+    "text": "<i>Splitter of mukoni wood; it dries.</i>"
+  },
+  {
+    "id": 13,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 14,
+    "kind": "poem",
+    "line": "6",
+    "text": "Rukiza's father orphaned him still in the womb."
+  },
+  {
+    "id": 15,
+    "kind": "poem",
+    "line": "7",
+    "text": "His mother carried him within."
+  },
+  {
+    "id": 16,
+    "kind": "poem",
+    "line": "7.1",
+    "text": "\tHe developed, Rukiza."
+  },
+  {
+    "id": 17,
+    "kind": "poem",
+    "line": "7.2",
+    "text": "\tHe was born, the Muganga."
+  },
+  {
+    "id": 18,
+    "kind": "poem",
+    "line": "8",
+    "text": "He nursed and he was weaned, the Muganga."
+  },
+  {
+    "id": 19,
+    "kind": "poem",
+    "line": "8.1",
+    "text": "\tHe played with the children."
+  },
+  {
+    "id": 20,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 21,
+    "kind": "poem",
+    "line": "9",
+    "text": "My friend, my friend, my friend, my friend,"
+  },
+  {
+    "id": 22,
+    "kind": "poem",
+    "line": "9.1",
+    "text": "\tAs he played with the children, Mbibi,"
+  },
+  {
+    "id": 23,
+    "kind": "poem",
+    "line": "10",
+    "text": "As he grew, he began to think, "
+  },
+  {
+    "id": 24,
+    "kind": "poem",
+    "line": "10.1",
+    "text": "\t\"I'd like to go and see"
+  },
+  {
+    "id": 25,
+    "kind": "poem",
+    "line": "11",
+    "text": "The cattle that my father left me and"
+  },
+  {
+    "id": 26,
+    "kind": "poem",
+    "line": "11.1",
+    "text": "\tThe place that they were pastured.\""
+  },
+  {
+    "id": 27,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 28,
+    "kind": "poem",
+    "line": "12",
+    "text": "Coming to the fallow fields he found "
+  },
+  {
+    "id": 29,
+    "kind": "poem",
+    "line": "12.1",
+    "text": "\tThe fields pressed in "
+  },
+  {
+    "id": 30,
+    "kind": "poem",
+    "line": "12.2",
+    "text": "\tAnd the cattle overstepped their bounds."
+  },
+  {
+    "id": 31,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 32,
+    "kind": "poem",
+    "line": "13",
+    "text": "He turned homeward; he returned. "
+  },
+  {
+    "id": 33,
+    "kind": "poem",
+    "line": "13.1",
+    "text": "\tHe spoke to his mother."
+  },
+  {
+    "id": 34,
+    "kind": "poem",
+    "line": "13.2",
+    "text": "\tHe said, \"Mother I must emigrate. "
+  },
+  {
+    "id": 35,
+    "kind": "poem",
+    "line": "13.3",
+    "text": "\tHe said, \"I found my cattle lack a proper pasture.\""
+  },
+  {
+    "id": 36,
+    "kind": "poem",
+    "line": "14",
+    "text": "His mother said, \"You should not go before you've married, <i>Long-lived-one</i>.\""
+  },
+  {
+    "id": 37,
+    "kind": "poem",
+    "line": "15",
+    "text": "They were done; they made a marriage pact."
+  },
+  {
+    "id": 38,
+    "kind": "poem",
+    "line": "15.1",
+    "text": "\tHe married, the Muganga."
+  },
+  {
+    "id": 39,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 40,
+    "kind": "poem",
+    "line": "16",
+    "text": "When he had completed the marriage ceremonies,"
+  },
+  {
+    "id": 41,
+    "kind": "poem",
+    "line": "16.1",
+    "text": "\tAnd when the wife had emerged from seclusion, the <i>Long-lived-one</i>, "
+  },
+  {
+    "id": 42,
+    "kind": "poem",
+    "line": "17",
+    "text": "He said, \"Mother, I spoke of emigrating.\""
+  },
+  {
+    "id": 43,
+    "kind": "poem",
+    "line": "17.1",
+    "text": "\tHe said, \"Let us emigrate and go.\""
+  },
+  {
+    "id": 44,
+    "kind": "poem",
+    "line": "17.2",
+    "text": "\tHis mother refused."
+  },
+  {
+    "id": 45,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 46,
+    "kind": "poem",
+    "line": "18",
+    "text": "He left her eight hundred cattle."
+  },
+  {
+    "id": 47,
+    "kind": "poem",
+    "line": "19",
+    "text": "Bulls, he left her one whole hundred."
+  },
+  {
+    "id": 48,
+    "kind": "poem",
+    "line": "20",
+    "text": "He left her herders too."
+  },
+  {
+    "id": 49,
+    "kind": "poem",
+    "line": "21",
+    "text": "He emigrated, the Muganga of Ilundu."
+  },
+  {
+    "id": 50,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 51,
+    "kind": "poem",
+    "line": "22",
+    "text": "He came with Baganga, "
+  },
+  {
+    "id": 52,
+    "kind": "poem",
+    "line": "22.1",
+    "text": "\tAnd the Baganga were many,"
+  },
+  {
+    "id": 53,
+    "kind": "poem",
+    "line": "23",
+    "text": "The Baganga of Ilundu."
+  },
+  {
+    "id": 54,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 55,
+    "kind": "poem",
+    "line": "24",
+    "text": "With Honey-bee, a Muganga,"
+  },
+  {
+    "id": 56,
+    "kind": "poem",
+    "line": "25",
+    "text": "He departed Ilundu of Lukaile."
+  },
+  {
+    "id": 57,
+    "kind": "poem",
+    "line": "26",
+    "text": "With Elephant-grass <i>Nyakilika</i>, himself a Muganga,"
+  },
+  {
+    "id": 58,
+    "kind": "poem",
+    "line": "27",
+    "text": "He departed Ilundu of Lukaile."
+  },
+  {
+    "id": 59,
+    "kind": "poem",
+    "line": "28",
+    "text": "My friend, my friend,"
+  },
+  {
+    "id": 60,
+    "kind": "poem",
+    "line": "28.1",
+    "text": "\tWith Yojwe grass <i>Ilolwa</i> and Stinging-flies of Buhunga, "
+  },
+  {
+    "id": 61,
+    "kind": "poem",
+    "line": "28.2",
+    "text": "\tHerself a Muganga woman of Ilundu."
+  },
+  {
+    "id": 62,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 63,
+    "kind": "poem",
+    "line": "29",
+    "text": "He came with many Baganga."
+  },
+  {
+    "id": 64,
+    "kind": "poem",
+    "line": "30",
+    "text": "With Water-of-yam-leaves,"
+  },
+  {
+    "id": 65,
+    "kind": "poem",
+    "line": "30.1",
+    "text": "\tWith Does-not-penetrate,"
+  },
+  {
+    "id": 66,
+    "kind": "poem",
+    "line": "30.2",
+    "text": "\tWith Impotence,"
+  },
+  {
+    "id": 67,
+    "kind": "poem",
+    "line": "31",
+    "text": "Themselves Baganga."
+  },
+  {
+    "id": 68,
+    "kind": "poem",
+    "line": "31.1",
+    "text": "\tThey departed Ilundu of Lukaile."
+  },
+  {
+    "id": 69,
+    "kind": "poem",
+    "line": "32",
+    "text": "My friend, and with Water,"
+  },
+  {
+    "id": 70,
+    "kind": "poem",
+    "line": "33",
+    "text": "Herself a Muganga woman of Ilundu,"
+  },
+  {
+    "id": 71,
+    "kind": "poem",
+    "line": "34",
+    "text": "With Squash plant, a Muganga woman,"
+  },
+  {
+    "id": 72,
+    "kind": "poem",
+    "line": "34.1",
+    "text": "\tHe departed Ilundu of Lukaile."
+  },
+  {
+    "id": 73,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 74,
+    "kind": "poem",
+    "line": "35",
+    "text": "My friend, my friend,"
+  },
+  {
+    "id": 75,
+    "kind": "poem",
+    "line": "35.1",
+    "text": "\tHe came to Karagwe."
+  },
+  {
+    "id": 76,
+    "kind": "poem",
+    "line": "35.2",
+    "text": "\tHe found wilderness spread before him;"
+  },
+  {
+    "id": 77,
+    "kind": "poem",
+    "line": "36",
+    "text": "He finds lions roar."
+  },
+  {
+    "id": 78,
+    "kind": "poem",
+    "line": "37",
+    "text": "He says, \"I'll not build here"
+  },
+  {
+    "id": 79,
+    "kind": "poem",
+    "line": "37.1",
+    "text": "\tLest lions eat my cattle.\""
+  },
+  {
+    "id": 80,
+    "kind": "poem",
+    "line": "38",
+    "text": "Pressing on, he migrated."
+  },
+  {
+    "id": 81,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 82,
+    "kind": "poem",
+    "line": "38.1",
+    "text": "\tIn Ruhija in Kihanja"
+  },
+  {
+    "id": 83,
+    "kind": "poem",
+    "line": "38.2",
+    "text": "\tHe finds. . ."
+  },
+  {
+    "id": 84,
+    "kind": "poem",
+    "line": "39",
+    "text": "Villages push against each other."
+  },
+  {
+    "id": 85,
+    "kind": "poem",
+    "line": "40",
+    "text": "He lacked a place to pasture cattle."
+  },
+  {
+    "id": 86,
+    "kind": "poem",
+    "line": "41",
+    "text": "He migrated on, Mbibi."
+  },
+  {
+    "id": 87,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 88,
+    "kind": "poem",
+    "line": "41.1",
+    "text": "\tWhen he reached Ihangiro of Nkumbya,"
+  },
+  {
+    "id": 89,
+    "kind": "poem",
+    "line": "42",
+    "text": "He finds pastures unfold and multiply."
+  },
+  {
+    "id": 90,
+    "kind": "poem",
+    "line": "43",
+    "text": "My lord, my father,"
+  },
+  {
+    "id": 91,
+    "kind": "poem",
+    "line": "44",
+    "text": "When he reached Kabaale he inquired."
+  },
+  {
+    "id": 92,
+    "kind": "poem",
+    "line": "44.1",
+    "text": "\tHe said, \"By whom is this land ruled?\""
+  },
+  {
+    "id": 93,
+    "kind": "poem",
+    "line": "44.2",
+    "text": "\tThey said, \"It's ruled by Ruhinda.\""
+  },
+  {
+    "id": 94,
+    "kind": "poem",
+    "line": "45",
+    "text": "<i>Mounds-for-him-raised, the Elder,</i>"
+  },
+  {
+    "id": 95,
+    "kind": "poem",
+    "line": "46",
+    "text": "<i>Spits in a bull's horn,</i>"
+  },
+  {
+    "id": 96,
+    "kind": "poem",
+    "line": "47",
+    "text": "<i>And Semiroyal ones of Ihangiro wash all night.</i>"
+  },
+  {
+    "id": 97,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 98,
+    "kind": "poem",
+    "line": "48",
+    "text": "He then took cattle."
+  },
+  {
+    "id": 99,
+    "kind": "poem",
+    "line": "48.1",
+    "text": "\tHe then took four-and-four, eight bulls."
+  },
+  {
+    "id": 100,
+    "kind": "poem",
+    "line": "49",
+    "text": "He added two milking cows. "
+  },
+  {
+    "id": 101,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 102,
+    "kind": "poem",
+    "line": "50",
+    "text": "He said, \"Go on my behalf, salute Ruhinda, <i>Mounds-for-him-raised</i>."
+  },
+  {
+    "id": 103,
+    "kind": "poem",
+    "line": "50.1",
+    "text": "\tSay, 'He has emigrated,"
+  },
+  {
+    "id": 104,
+    "kind": "poem",
+    "line": "51",
+    "text": "Rukiza of Kilomba"
+  },
+  {
+    "id": 105,
+    "kind": "poem",
+    "line": "51.1",
+    "text": "\t<i>Lion of the Muganga,</i>"
+  },
+  {
+    "id": 106,
+    "kind": "poem",
+    "line": "52",
+    "text": "<i>Cures-others cures not himself.</i>'"
+  },
+  {
+    "id": 107,
+    "kind": "poem",
+    "line": "53",
+    "text": "Say, 'He seeks a place to settle.'\""
+  },
+  {
+    "id": 108,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 109,
+    "kind": "poem",
+    "line": "54",
+    "text": "They came and they brought those words."
+  },
+  {
+    "id": 110,
+    "kind": "poem",
+    "line": "54.1",
+    "text": "\tThey greeted his presence with them and they spoke them truly."
+  },
+  {
+    "id": 111,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 112,
+    "kind": "poem",
+    "line": "55",
+    "text": "He asked them, \"Where is he?\""
+  },
+  {
+    "id": 113,
+    "kind": "poem",
+    "line": "55.1",
+    "text": "\tThey said, \"My lord, he is in Kabaale.\""
+  },
+  {
+    "id": 114,
+    "kind": "poem",
+    "line": "56",
+    "text": "He said, \"Let him dwell at Kabaale in Mubunda."
+  },
+  {
+    "id": 115,
+    "kind": "poem",
+    "line": "57",
+    "text": "Be that place his for cutting banana leaves.\""
+  },
+  {
+    "id": 116,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 117,
+    "kind": "poem",
+    "line": "58",
+    "text": "My friend, drums sounded from the Calling-place."
+  },
+  {
+    "id": 118,
+    "kind": "poem",
+    "line": "59",
+    "text": "People gathered. "
+  },
+  {
+    "id": 119,
+    "kind": "poem",
+    "line": "59.1",
+    "text": "\tHe said, \"Go, and return when you have built cow-byres "
+  },
+  {
+    "id": 120,
+    "kind": "poem",
+    "line": "60",
+    "text": "And dwellings for the <i>Long-lived-one</i>\""
+  },
+  {
+    "id": 121,
+    "kind": "poem",
+    "line": "60.1",
+    "text": "\tThey came to Rukiza,"
+  },
+  {
+    "id": 122,
+    "kind": "poem",
+    "line": "61",
+    "text": "Rukiza Mbibi."
+  },
+  {
+    "id": 123,
+    "kind": "poem",
+    "line": "62",
+    "text": "They constructed houses for the <i>Long-lived-one</i>."
+  },
+  {
+    "id": 124,
+    "kind": "poem",
+    "line": "62.1",
+    "text": "\tCattle-byres they built. The work was done."
+  },
+  {
+    "id": 125,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 126,
+    "kind": "poem",
+    "line": "63",
+    "text": "When they happened to go and cast their eyes–"
+  },
+  {
+    "id": 127,
+    "kind": "poem",
+    "line": "63.1",
+    "text": "\tOne happened to go and cast his eyes–"
+  },
+  {
+    "id": 128,
+    "kind": "poem",
+    "line": "63.2",
+    "text": "\tHe went and he saw Rukiza's sister."
+  },
+  {
+    "id": 129,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 130,
+    "kind": "poem",
+    "line": "64",
+    "text": "My friend, my friend,"
+  },
+  {
+    "id": 131,
+    "kind": "poem",
+    "line": "64.1",
+    "text": "\tThey traveled and they went,"
+  },
+  {
+    "id": 132,
+    "kind": "poem",
+    "line": "64.2",
+    "text": "\tThey reported to King Ruhinda."
+  },
+  {
+    "id": 133,
+    "kind": "poem",
+    "line": "65",
+    "text": "They said, \"But at Rukiza's"
+  },
+  {
+    "id": 134,
+    "kind": "poem",
+    "line": "66",
+    "text": "We saw a maiden–"
+  },
+  {
+    "id": 135,
+    "kind": "poem",
+    "line": "66.1",
+    "text": "\tPerhaps his daughter"
+  },
+  {
+    "id": 136,
+    "kind": "poem",
+    "line": "66.2",
+    "text": "\tPerhaps his sister–"
+  },
+  {
+    "id": 137,
+    "kind": "poem",
+    "line": "66.3",
+    "text": "\tBut she was not beautiful–"
+  },
+  {
+    "id": 138,
+    "kind": "poem",
+    "line": "66.4",
+    "text": "\tOnly as the sun!\""
+  },
+  {
+    "id": 139,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 140,
+    "kind": "poem",
+    "line": "67",
+    "text": "King Ruhinda, <i>Mounds-for-him-raised</i>, sent matchmakers."
+  },
+  {
+    "id": 141,
+    "kind": "poem",
+    "line": "68",
+    "text": "Rukiza addressed them, saying, \"She is my sister."
+  },
+  {
+    "id": 142,
+    "kind": "poem",
+    "line": "68.1",
+    "text": "\tIf he wants to marry her,"
+  },
+  {
+    "id": 143,
+    "kind": "poem",
+    "line": "69",
+    "text": "Let him furnish cattle."
+  },
+  {
+    "id": 144,
+    "kind": "poem",
+    "line": "70",
+    "text": "Let him furnish calabashes of beer: four-and-four, eight of them"
+  },
+  {
+    "id": 145,
+    "kind": "poem",
+    "line": "70.1",
+    "text": "\tLet him present mead: two pots.\""
+  },
+  {
+    "id": 146,
+    "kind": "poem",
+    "line": "71",
+    "text": "They brought them to the <i>Long-lived-one</i>."
+  },
+  {
+    "id": 147,
+    "kind": "poem",
+    "line": "72",
+    "text": "He said, \"Return and tell him this:"
+  },
+  {
+    "id": 148,
+    "kind": "poem",
+    "line": "72.1",
+    "text": "\tAddress him, say, 'Go and give four cows in milk."
+  },
+  {
+    "id": 149,
+    "kind": "poem",
+    "line": "73",
+    "text": "Return and present two steers."
+  },
+  {
+    "id": 150,
+    "kind": "poem",
+    "line": "74",
+    "text": "My friend, then you've made the bridal payment, then you've completed it.'\""
+  },
+  {
+    "id": 151,
+    "kind": "poem",
+    "line": "74.1",
+    "text": "\tHe made the bridal payment, he completed it."
+  },
+  {
+    "id": 152,
+    "kind": "poem",
+    "line": "75",
+    "text": "But he returned to this, Rukiza; "
+  },
+  {
+    "id": 153,
+    "kind": "poem",
+    "line": "75.1",
+    "text": "\tHe said, \"When the moon is new,"
+  },
+  {
+    "id": 154,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 155,
+    "kind": "poem",
+    "line": "76",
+    "text": "Let him bring beer,"
+  },
+  {
+    "id": 156,
+    "kind": "poem",
+    "line": "77",
+    "text": "Four-and-four, eight calabashes.\""
+  },
+  {
+    "id": 157,
+    "kind": "poem",
+    "line": "77.1",
+    "text": "\tHe said, \"Let him present mead, "
+  },
+  {
+    "id": 158,
+    "kind": "poem",
+    "line": "77.2",
+    "text": "\tFour-and-four, eight pots.\""
+  },
+  {
+    "id": 159,
+    "kind": "poem",
+    "line": "78",
+    "text": "He said, \"Let them come and stay the night at the prenuptial fete."
+  },
+  {
+    "id": 160,
+    "kind": "poem",
+    "line": "78.1",
+    "text": "\tAt sunrise let me come and bestow my sister "
+  },
+  {
+    "id": 161,
+    "kind": "poem",
+    "line": "78.2",
+    "text": "\tAnd let him marry her, all you Baganga!\""
+  },
+  {
+    "id": 162,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 163,
+    "kind": "poem",
+    "line": "79",
+    "text": "They went and they ripened it."
+  },
+  {
+    "id": 164,
+    "kind": "poem",
+    "line": "79.1",
+    "text": "\tIt fermented, and they brought it."
+  },
+  {
+    "id": 165,
+    "kind": "poem",
+    "line": "79.2",
+    "text": "\tThey stayed the night at the prenuptial fete."
+  },
+  {
+    "id": 166,
+    "kind": "poem",
+    "line": "79.3",
+    "text": "\tThe sun rose and he married her."
+  },
+  {
+    "id": 167,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 168,
+    "kind": "poem",
+    "line": "80",
+    "text": "It had been one year since the bride was married."
+  },
+  {
+    "id": 169,
+    "kind": "poem",
+    "line": "81",
+    "text": "My lord, my father, she emerged from her seclusion."
+  },
+  {
+    "id": 170,
+    "kind": "poem",
+    "line": "81.1",
+    "text": "\tThey came and accused him behind his back."
+  },
+  {
+    "id": 171,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 172,
+    "kind": "poem",
+    "line": "81.2",
+    "text": "\tThey said, \"But father, King Ruhinda, <i>Mounds-for-him-raised</i>,"
+  },
+  {
+    "id": 173,
+    "kind": "poem",
+    "line": "82",
+    "text": "Rukiza oversteps the bounds. "
+  },
+  {
+    "id": 174,
+    "kind": "poem",
+    "line": "82.1",
+    "text": "\tRukiza oversteps the bounds."
+  },
+  {
+    "id": 175,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 176,
+    "kind": "poem",
+    "line": "83",
+    "text": "To show how he oversteps the bounds, Rukiza–"
+  },
+  {
+    "id": 177,
+    "kind": "poem",
+    "line": "84",
+    "text": "Milk, he pours on the dungheap."
+  },
+  {
+    "id": 178,
+    "kind": "poem",
+    "line": "85",
+    "text": "Butter, he plasters on the walls.\""
+  },
+  {
+    "id": 179,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 180,
+    "kind": "poem",
+    "line": "86",
+    "text": "Ruhinda grew angry."
+  },
+  {
+    "id": 181,
+    "kind": "poem",
+    "line": "86.1",
+    "text": "\tHe said, \"And those, the ones my father left me!"
+  },
+  {
+    "id": 182,
+    "kind": "poem",
+    "line": "86.2",
+    "text": "\tAnd father never poured milk on the dungheap."
+  },
+  {
+    "id": 183,
+    "kind": "poem",
+    "line": "87",
+    "text": "Butter, he never plastered on the walls.\""
+  },
+  {
+    "id": 184,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 185,
+    "kind": "poem",
+    "line": "88",
+    "text": "He said, \"Go sound the drum at the Calling-place.\" "
+  },
+  {
+    "id": 186,
+    "kind": "poem",
+    "line": "88.1",
+    "text": "\tIt spoke."
+  },
+  {
+    "id": 187,
+    "kind": "poem",
+    "line": "89",
+    "text": "He said, \"Tomorrow seize them all,"
+  },
+  {
+    "id": 188,
+    "kind": "poem",
+    "line": "90",
+    "text": "The long-horns and the spotted ones,"
+  },
+  {
+    "id": 189,
+    "kind": "poem",
+    "line": "91",
+    "text": "The blacks and the grays.\""
+  },
+  {
+    "id": 190,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 191,
+    "kind": "poem",
+    "line": "92",
+    "text": "My mother, my mother, "
+  },
+  {
+    "id": 192,
+    "kind": "poem",
+    "line": "92.1",
+    "text": "\tOne man went out from among them "
+  },
+  {
+    "id": 193,
+    "kind": "poem",
+    "line": "92.2",
+    "text": "\tHe traveled in the night."
+  },
+  {
+    "id": 194,
+    "kind": "poem",
+    "line": "93",
+    "text": "Before dawn, my lord, my father,"
+  },
+  {
+    "id": 195,
+    "kind": "poem",
+    "line": "93.1",
+    "text": "\tHe found them milking."
+  },
+  {
+    "id": 196,
+    "kind": "poem",
+    "line": "93.2",
+    "text": "\tThey were at the cattle fire."
+  },
+  {
+    "id": 197,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 198,
+    "kind": "poem",
+    "line": "94",
+    "text": "The little man was poorly dressed."
+  },
+  {
+    "id": 199,
+    "kind": "poem",
+    "line": "95",
+    "text": "My lord, his leather cloak was badly tattered."
+  },
+  {
+    "id": 200,
+    "kind": "poem",
+    "line": "95.1",
+    "text": "\tHis penis, he covered with his fingers."
+  },
+  {
+    "id": 201,
+    "kind": "poem",
+    "line": "96",
+    "text": "\"You man, where are you going?\""
+  },
+  {
+    "id": 202,
+    "kind": "poem",
+    "line": "96.1",
+    "text": "\tHe said, \"I'm going to see Rukiza.\""
+  },
+  {
+    "id": 203,
+    "kind": "poem",
+    "line": "97",
+    "text": "They said, \"Rukiza has some tie with you?\""
+  },
+  {
+    "id": 204,
+    "kind": "poem",
+    "line": "97.1",
+    "text": "\t\"Rukiza is my blood brother.\""
+  },
+  {
+    "id": 205,
+    "kind": "poem",
+    "line": "98",
+    "text": "\"A blood brotherhood! Where did you pledge it?\""
+  },
+  {
+    "id": 206,
+    "kind": "poem",
+    "line": "98.1",
+    "text": "\tHe said, \"At Lukokwa and Lulambili.\""
+  },
+  {
+    "id": 207,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 208,
+    "kind": "poem",
+    "line": "99",
+    "text": "They tried to think of what to do with him but couldn't. "
+  },
+  {
+    "id": 209,
+    "kind": "poem",
+    "line": "99.1",
+    "text": "\tOne among them left."
+  },
+  {
+    "id": 210,
+    "kind": "poem",
+    "line": "99.2",
+    "text": "\tHe went and told Rukiza."
+  },
+  {
+    "id": 211,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 212,
+    "kind": "poem",
+    "line": "100",
+    "text": "Rukiza had not yet risen."
+  },
+  {
+    "id": 213,
+    "kind": "poem",
+    "line": "100.1",
+    "text": "\tHe slept with his wife Luhunge, <i>Forbids-the-hafted-knife</i>"
+  },
+  {
+    "id": 214,
+    "kind": "poem",
+    "line": "100.2",
+    "text": "\t<i>Arm that embraces undaunted warriors.</i>"
+  },
+  {
+    "id": 215,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 216,
+    "kind": "poem",
+    "line": "101",
+    "text": "My lord, my father, "
+  },
+  {
+    "id": 217,
+    "kind": "poem",
+    "line": "101.1",
+    "text": "\tThey told him."
+  },
+  {
+    "id": 218,
+    "kind": "poem",
+    "line": "101.2",
+    "text": "\tHe arose and he stood outside under the eaves."
+  },
+  {
+    "id": 219,
+    "kind": "poem",
+    "line": "101.3",
+    "text": "\tThey brought water to wash and they left. "
+  },
+  {
+    "id": 220,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 221,
+    "kind": "poem",
+    "line": "102",
+    "text": "He said, \"Quickly, go and bring him to me.\""
+  },
+  {
+    "id": 222,
+    "kind": "poem",
+    "line": "102.1",
+    "text": "\tWhen he saw him at the gateposts,"
+  },
+  {
+    "id": 223,
+    "kind": "poem",
+    "line": "103",
+    "text": "He said, \"Bring a leather kilt and cloak and dress him.\""
+  },
+  {
+    "id": 224,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 225,
+    "kind": "poem",
+    "line": "104",
+    "text": "\"You sir, how came you?\""
+  },
+  {
+    "id": 226,
+    "kind": "poem",
+    "line": "104.1",
+    "text": "\tHe said, \"How to tell you, Father Rukiza?\""
+  },
+  {
+    "id": 227,
+    "kind": "poem",
+    "line": "104.2",
+    "text": "\tHe said, \"I left them saying you overstepped the bounds,\""
+  },
+  {
+    "id": 228,
+    "kind": "poem",
+    "line": "104.3",
+    "text": "\tHe said, \"saying butterfat, you plaster on walls."
+  },
+  {
+    "id": 229,
+    "kind": "poem",
+    "line": "105",
+    "text": "Milk, you pour on the dungheap."
+  },
+  {
+    "id": 230,
+    "kind": "poem",
+    "line": "106",
+    "text": "He said, \"Ruhinda <i>Mounds-for-him-raised</i>"
+  },
+  {
+    "id": 231,
+    "kind": "poem",
+    "line": "106.1",
+    "text": "\tHe said, \"has ordered all the drums to sound.\""
+  },
+  {
+    "id": 232,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 233,
+    "kind": "poem",
+    "line": "107",
+    "text": "Rukiza Mbibi"
+  },
+  {
+    "id": 234,
+    "kind": "poem",
+    "line": "108",
+    "text": "Took Water-of-yam-leaves,"
+  },
+  {
+    "id": 235,
+    "kind": "poem",
+    "line": "108.1",
+    "text": "\tHe said, \"Go and set the <i>shoju</i> grass aflame.\""
+  },
+  {
+    "id": 236,
+    "kind": "poem",
+    "line": "109",
+    "text": "He said, \"If he is a Muganga "
+  },
+  {
+    "id": 237,
+    "kind": "poem",
+    "line": "109.1",
+    "text": "\tLet him grow today.\""
+  },
+  {
+    "id": 238,
+    "kind": "poem",
+    "line": "110",
+    "text": "He set the flames, my lord."
+  },
+  {
+    "id": 239,
+    "kind": "poem",
+    "line": "110.1",
+    "text": "\tWherever fire passed, my lord,"
+  },
+  {
+    "id": 240,
+    "kind": "poem",
+    "line": "110.2",
+    "text": "\tThe shoju grass was growing."
+  },
+  {
+    "id": 241,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 242,
+    "kind": "poem",
+    "line": "111",
+    "text": "My friend, he took Honey Bee, <i>The Whizzer</i>,"
+  },
+  {
+    "id": 243,
+    "kind": "poem",
+    "line": "112",
+    "text": "He said, \"If you are a Muganga,\""
+  },
+  {
+    "id": 244,
+    "kind": "poem",
+    "line": "113",
+    "text": "He said, \"If they strike you, bite them.\""
+  },
+  {
+    "id": 245,
+    "kind": "poem",
+    "line": "113.1",
+    "text": "\tHe said, \"If they flee you, buzz them, all you Baganga.\""
+  },
+  {
+    "id": 246,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 247,
+    "kind": "poem",
+    "line": "114",
+    "text": "He took Water-of-yam-leaves and Does-not-penetrate and Impotence,"
+  },
+  {
+    "id": 248,
+    "kind": "poem",
+    "line": "115",
+    "text": "He said, \"Surround them on each flank.\""
+  },
+  {
+    "id": 249,
+    "kind": "poem",
+    "line": "116",
+    "text": "He said, \"Be it there you intercept the cattle of the <i>Long-lived-one</i>.\""
+  },
+  {
+    "id": 250,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 251,
+    "kind": "poem",
+    "line": "117",
+    "text": "Cattle went to pasture and they returned."
+  },
+  {
+    "id": 252,
+    "kind": "poem",
+    "line": "117.1",
+    "text": "\tHimba appeared on the opposite river bank."
+  },
+  {
+    "id": 253,
+    "kind": "poem",
+    "line": "117.2",
+    "text": "\tThey watched the cattle descend."
+  },
+  {
+    "id": 254,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 255,
+    "kind": "poem",
+    "line": "118",
+    "text": "The invaders came to seize Rukiza's cattle. "
+  },
+  {
+    "id": 256,
+    "kind": "poem",
+    "line": "118.1",
+    "text": "\t<i>Shoju</i> grass covered their legs."
+  },
+  {
+    "id": 257,
+    "kind": "poem",
+    "line": "119",
+    "text": "My friend, Honey Bees buzzed and killed them."
+  },
+  {
+    "id": 258,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 259,
+    "kind": "poem",
+    "line": "120",
+    "text": "He himself stood on a hilltop, Mbibi."
+  },
+  {
+    "id": 260,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 261,
+    "kind": "poem",
+    "line": "121",
+    "text": "When he put one arrow to the string, "
+  },
+  {
+    "id": 262,
+    "kind": "poem",
+    "line": "121.1",
+    "text": "\tIt killed four hundred and ninety-eight."
+  },
+  {
+    "id": 263,
+    "kind": "poem",
+    "line": "122",
+    "text": "The second killed three hundred and seventy-two."
+  },
+  {
+    "id": 264,
+    "kind": "poem",
+    "line": "123",
+    "text": "The fourth killed one hundred and five."
+  },
+  {
+    "id": 265,
+    "kind": "poem",
+    "line": "124",
+    "text": "And Water-of-yam-leaves' men were also killing."
+  },
+  {
+    "id": 266,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 267,
+    "kind": "poem",
+    "line": "125",
+    "text": "There remained one man."
+  },
+  {
+    "id": 268,
+    "kind": "poem",
+    "line": "125.1",
+    "text": "\tFrom that man he took an eye."
+  },
+  {
+    "id": 269,
+    "kind": "poem",
+    "line": "125.2",
+    "text": "\tHe said, \"Go and tell Ruhinda."
+  },
+  {
+    "id": 270,
+    "kind": "poem",
+    "line": "126",
+    "text": "Go and tell Ruhinda, <i>Mounds-for-him-raised</i>"
+  },
+  {
+    "id": 271,
+    "kind": "poem",
+    "line": "126.1",
+    "text": "\tSay, 'Send a few, and he'll kill them."
+  },
+  {
+    "id": 272,
+    "kind": "poem",
+    "line": "127",
+    "text": "When you send many, then we'll fight!' All you Baganga!\""
+  },
+  {
+    "id": 273,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 274,
+    "kind": "poem",
+    "line": "128",
+    "text": "Sh-sh-sh-sh-sh"
+  },
+  {
+    "id": 275,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 276,
+    "kind": "poem",
+    "line": "129",
+    "text": "He went and he told Ruhinda, <i>Mounds-for-him-raised</i>."
+  },
+  {
+    "id": 277,
+    "kind": "poem",
+    "line": "129.1",
+    "text": "\tRuhinda sounded the drum at the Calling-place."
+  },
+  {
+    "id": 278,
+    "kind": "poem",
+    "line": "130",
+    "text": "They also returned, and they made drums speak, the men of the <i>Long-lived-one</i>."
+  },
+  {
+    "id": 279,
+    "kind": "poem",
+    "line": "131",
+    "text": "My lord, they truly made the spears and arrows fly."
+  },
+  {
+    "id": 280,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 281,
+    "kind": "poem",
+    "line": "132",
+    "text": "There remained one. "
+  },
+  {
+    "id": 282,
+    "kind": "poem",
+    "line": "132.1",
+    "text": "\tHe cut off his hand."
+  },
+  {
+    "id": 283,
+    "kind": "poem",
+    "line": "132.2",
+    "text": "\tHe said, \"Go tell Ruhinda, <i>Mounds-for-him-raised</i>,"
+  },
+  {
+    "id": 284,
+    "kind": "poem",
+    "line": "133",
+    "text": "Say, 'Send a few, he'll kill them."
+  },
+  {
+    "id": 285,
+    "kind": "poem",
+    "line": "133.1",
+    "text": "\tWhen you send many, then we'll fight!' All you Baganga!\""
+  },
+  {
+    "id": 286,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 287,
+    "kind": "poem",
+    "line": "134",
+    "text": "They went and told <i>Mounds-for-him-raised</i>."
+  },
+  {
+    "id": 288,
+    "kind": "poem",
+    "line": "134.1",
+    "text": "\tOne man stepped forward, an elder."
+  },
+  {
+    "id": 289,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 290,
+    "kind": "poem",
+    "line": "135",
+    "text": "He said, \"Oh king, do you wish to rule the land,"
+  },
+  {
+    "id": 291,
+    "kind": "poem",
+    "line": "135.1",
+    "text": "\tOr do you wish to rule its people?\""
+  },
+  {
+    "id": 292,
+    "kind": "poem",
+    "line": "136",
+    "text": "He said, \"I wish to rule the land.\""
+  },
+  {
+    "id": 293,
+    "kind": "poem",
+    "line": "136.1",
+    "text": "\tHe said, \"Then let Rukiza of Kilomba be,"
+  },
+  {
+    "id": 294,
+    "kind": "poem",
+    "line": "137",
+    "text": "Lest he finish off the land"
+  },
+  {
+    "id": 295,
+    "kind": "poem",
+    "line": "137.1",
+    "text": "\tAnd finally come and kill you as well.\""
+  },
+  {
+    "id": 296,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 297,
+    "kind": "poem",
+    "line": "138",
+    "text": "He let him be, Ruhinda did, <i>Mounds-for-him-raised</i>."
+  },
+  {
+    "id": 298,
+    "kind": "poem",
+    "line": "138.1",
+    "text": "\tA year passed."
+  },
+  {
+    "id": 299,
+    "kind": "poem",
+    "line": "138.2",
+    "text": "\tThe woman became pregnant."
+  },
+  {
+    "id": 300,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 301,
+    "kind": "poem",
+    "line": "139",
+    "text": "She bore a child."
+  },
+  {
+    "id": 302,
+    "kind": "poem",
+    "line": "139.1",
+    "text": "\tShe bore a second child."
+  },
+  {
+    "id": 303,
+    "kind": "poem",
+    "line": "139.2",
+    "text": "\tA third child"
+  },
+  {
+    "id": 304,
+    "kind": "poem",
+    "line": "140",
+    "text": "She bore–the royal heir."
+  },
+  {
+    "id": 305,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 306,
+    "kind": "poem",
+    "line": "141",
+    "text": "That one child,"
+  },
+  {
+    "id": 307,
+    "kind": "poem",
+    "line": "141.1",
+    "text": "\tWhen he was weaned,"
+  },
+  {
+    "id": 308,
+    "kind": "poem",
+    "line": "142",
+    "text": "Ruhinda said, \"Now tell me truthfully, my wife: "
+  },
+  {
+    "id": 309,
+    "kind": "poem",
+    "line": "142.1",
+    "text": "\tThat Rukiza,"
+  },
+  {
+    "id": 310,
+    "kind": "poem",
+    "line": "143",
+    "text": "My men–how was he killing them?\""
+  },
+  {
+    "id": 311,
+    "kind": "poem",
+    "line": "144",
+    "text": "The woman said, \"Now, I would tell you,\""
+  },
+  {
+    "id": 312,
+    "kind": "poem",
+    "line": "145",
+    "text": "\"But I refuse to tell, lest you kill Rukiza.\""
+  },
+  {
+    "id": 313,
+    "kind": "poem",
+    "line": "146",
+    "text": "She said, \"And on him who kills Rukiza,"
+  },
+  {
+    "id": 314,
+    "kind": "poem",
+    "line": "146.1",
+    "text": "\tBefore twilight of that day will I take revenge.\""
+  },
+  {
+    "id": 315,
+    "kind": "poem",
+    "line": "147",
+    "text": "He answered, \"But we two have children, my wife."
+  },
+  {
+    "id": 316,
+    "kind": "poem",
+    "line": "147.1",
+    "text": "\tRukiza–why would I kill him?"
+  },
+  {
+    "id": 317,
+    "kind": "poem",
+    "line": "147.2",
+    "text": "\tNow that so many years have passed.\""
+  },
+  {
+    "id": 318,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 319,
+    "kind": "poem",
+    "line": "148",
+    "text": "She said, \"That Rukiza, Rukiza Mbibi,"
+  },
+  {
+    "id": 320,
+    "kind": "poem",
+    "line": "149",
+    "text": "My friend, Rukiza's heart is in the roof peak of the house."
+  },
+  {
+    "id": 321,
+    "kind": "poem",
+    "line": "150",
+    "text": "The other is in the fire of the Spotted bull."
+  },
+  {
+    "id": 322,
+    "kind": "poem",
+    "line": "151",
+    "text": "The beating flesh alone dwells in Rukiza's breast.\""
+  },
+  {
+    "id": 323,
+    "kind": "poem",
+    "line": "152",
+    "text": "She said, \"If they would let an arrow fly,"
+  },
+  {
+    "id": 324,
+    "kind": "poem",
+    "line": "152.1",
+    "text": "\tAnd it fall into the roof peak of the house,"
+  },
+  {
+    "id": 325,
+    "kind": "poem",
+    "line": "153",
+    "text": "And another fall into the fire of the Spotted bull"
+  },
+  {
+    "id": 326,
+    "kind": "poem",
+    "line": "153.1",
+    "text": "\tThen Rukiza you have killed.\""
+  },
+  {
+    "id": 327,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 328,
+    "kind": "poem",
+    "line": "154",
+    "text": "Women, women are betrayers."
+  },
+  {
+    "id": 329,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 330,
+    "kind": "poem",
+    "line": "155",
+    "text": "When dawn's first rays appeared, "
+  },
+  {
+    "id": 331,
+    "kind": "poem",
+    "line": "155.1",
+    "text": "\tThey opened chickens, and they found it's in the roof peak of the house."
+  },
+  {
+    "id": 332,
+    "kind": "poem",
+    "line": "156",
+    "text": "The other is in the fire of the Spotted bull."
+  },
+  {
+    "id": 333,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 334,
+    "kind": "poem",
+    "line": "157",
+    "text": "My lord, my father, they augured hard."
+  },
+  {
+    "id": 335,
+    "kind": "poem",
+    "line": "157.1",
+    "text": "\tThey studied entrails and they found it's in the roof peak of the house."
+  },
+  {
+    "id": 336,
+    "kind": "poem",
+    "line": "158",
+    "text": "The other is in the fire of the Spotted bull."
+  },
+  {
+    "id": 337,
+    "kind": "poem",
+    "line": "159",
+    "text": "My lord, my father, he did not sound the drum."
+  },
+  {
+    "id": 338,
+    "kind": "poem",
+    "line": "159.1",
+    "text": "\tThey sent the message by word of mouth, oh <i>Long-lived-one</i>."
+  },
+  {
+    "id": 339,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 340,
+    "kind": "poem",
+    "line": "160",
+    "text": "He said, \"You two,"
+  },
+  {
+    "id": 341,
+    "kind": "poem",
+    "line": "160.1",
+    "text": "\tGo, arrive there in the early morning before they've unlocked the doors."
+  },
+  {
+    "id": 342,
+    "kind": "poem",
+    "line": "161",
+    "text": "Let fly and let it fall into the fire of the Spotted bull,"
+  },
+  {
+    "id": 343,
+    "kind": "poem",
+    "line": "161.1",
+    "text": "\tThe other let fall into the roof peak of the house.\""
+  },
+  {
+    "id": 344,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 345,
+    "kind": "poem",
+    "line": "162",
+    "text": "My friend, they came early."
+  },
+  {
+    "id": 346,
+    "kind": "poem",
+    "line": "162.1",
+    "text": "\tBehind them were many others."
+  },
+  {
+    "id": 347,
+    "kind": "poem",
+    "line": "163",
+    "text": "They let fly and it fell into the roof peak of the house."
+  },
+  {
+    "id": 348,
+    "kind": "poem",
+    "line": "163.1",
+    "text": "\tThe other fell into the fire of the Spotted bull."
+  },
+  {
+    "id": 349,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 350,
+    "kind": "poem",
+    "line": "164",
+    "text": "My friend, they stood at the fence. They called him."
+  },
+  {
+    "id": 351,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 352,
+    "kind": "poem",
+    "line": "165",
+    "text": "When he did arise, Mbibi,"
+  },
+  {
+    "id": 353,
+    "kind": "poem",
+    "line": "166",
+    "text": "My lord, and come into the hearth room,"
+  },
+  {
+    "id": 354,
+    "kind": "poem",
+    "line": "166.1",
+    "text": "\tHe collapsed and fell."
+  },
+  {
+    "id": 355,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 356,
+    "kind": "poem",
+    "line": "167",
+    "text": "There, under the eaves, my father, with his bow,"
+  },
+  {
+    "id": 357,
+    "kind": "poem",
+    "line": "167.1",
+    "text": "\tPutting arrow to string,"
+  },
+  {
+    "id": 358,
+    "kind": "poem",
+    "line": "168",
+    "text": "Letting fly– "
+  },
+  {
+    "id": 359,
+    "kind": "poem",
+    "line": "168.1",
+    "text": "\tIt did not reach the gateposts of the forecourt."
+  },
+  {
+    "id": 360,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 361,
+    "kind": "poem",
+    "line": "169",
+    "text": "One standing there, my friend, at the gateposts of the forecourt"
+  },
+  {
+    "id": 362,
+    "kind": "poem",
+    "line": "170",
+    "text": "Shooting an arrow–"
+  },
+  {
+    "id": 363,
+    "kind": "poem",
+    "line": "170.1",
+    "text": "\tMy father, and it fell."
+  },
+  {
+    "id": 364,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 365,
+    "kind": "poem",
+    "line": "171",
+    "text": "My friend, it fell into his chest,"
+  },
+  {
+    "id": 366,
+    "kind": "poem",
+    "line": "171.1",
+    "text": "\tIt fell and severed his life serpent,"
+  },
+  {
+    "id": 367,
+    "kind": "poem",
+    "line": "172",
+    "text": "My friend, and his heart it split."
+  },
+  {
+    "id": 368,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 369,
+    "kind": "poem",
+    "line": "173",
+    "text": "Rukiza Mbibi collapsed and he fell."
+  },
+  {
+    "id": 370,
+    "kind": "poem",
+    "line": "173.1",
+    "text": "\tHis cattle they seized and they brought."
+  },
+  {
+    "id": 371,
+    "kind": "poem",
+    "line": "174",
+    "text": "They found those of king already pastured, already settled down."
+  },
+  {
+    "id": 372,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 373,
+    "kind": "poem",
+    "line": "175",
+    "text": "The wife, my father, as she stood there,"
+  },
+  {
+    "id": 374,
+    "kind": "poem",
+    "line": "175.1",
+    "text": "\tAnd happened to cast her eyes,"
+  },
+  {
+    "id": 375,
+    "kind": "poem",
+    "line": "175.2",
+    "text": "\tPassing beyond the fence,"
+  },
+  {
+    "id": 376,
+    "kind": "poem",
+    "line": "175.3",
+    "text": "\tShe went and she saw the grays."
+  },
+  {
+    "id": 377,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 378,
+    "kind": "poem",
+    "line": "176",
+    "text": "She did not cry a lot."
+  },
+  {
+    "id": 379,
+    "kind": "poem",
+    "line": "176.1",
+    "text": "\tShe did not speak. She was still."
+  },
+  {
+    "id": 380,
+    "kind": "poem",
+    "line": "176.2",
+    "text": "\tShe thought, \"Truly, I spoke"
+  },
+  {
+    "id": 381,
+    "kind": "poem",
+    "line": "177",
+    "text": "And the king killed my father's child.\""
+  },
+  {
+    "id": 382,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 383,
+    "kind": "poem",
+    "line": "178",
+    "text": "She made the bed and she lay down."
+  },
+  {
+    "id": 384,
+    "kind": "poem",
+    "line": "178.1",
+    "text": "\tThe moon had reached its fullest phase."
+  },
+  {
+    "id": 385,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 386,
+    "kind": "poem",
+    "line": "179",
+    "text": "She thought, \"Now . . .\""
+  },
+  {
+    "id": 387,
+    "kind": "poem",
+    "line": "179.1",
+    "text": "\tShe thought, \"my husband . . . Rukiza . . ."
+  },
+  {
+    "id": 388,
+    "kind": "poem",
+    "line": "179.2",
+    "text": "\tRuhinda, <i>Mounds-for-him-raised</i>–\""
+  },
+  {
+    "id": 389,
+    "kind": "poem",
+    "line": "180",
+    "text": "She thought, \"let me tell you–\""
+  },
+  {
+    "id": 390,
+    "kind": "poem",
+    "line": "181",
+    "text": "She thought, \"he killed my father's child.\""
+  },
+  {
+    "id": 391,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 392,
+    "kind": "poem",
+    "line": "181.1",
+    "text": "\t\"Now I would go and would incise you magically."
+  },
+  {
+    "id": 393,
+    "kind": "poem",
+    "line": "182",
+    "text": "Come, rule Kihanja,"
+  },
+  {
+    "id": 394,
+    "kind": "poem",
+    "line": "182.1",
+    "text": "\tRule Zinzaland,"
+  },
+  {
+    "id": 395,
+    "kind": "poem",
+    "line": "182.2",
+    "text": "\tRule Karagwe. "
+  },
+  {
+    "id": 396,
+    "kind": "poem",
+    "line": "183",
+    "text": "And Bugabo will you rule, and Kiziba.\""
+  },
+  {
+    "id": 397,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 398,
+    "kind": "poem",
+    "line": "184",
+    "text": "He agreed Ruhinda, <i>Mounds-for-him-raised</i>"
+  },
+  {
+    "id": 399,
+    "kind": "poem",
+    "line": "185",
+    "text": "He walked out to the bath enclosure, <i>Long-lived-one</i>."
+  },
+  {
+    "id": 400,
+    "kind": "poem",
+    "line": "185.1",
+    "text": "\tShe cut him all over, on every segment. "
+  },
+  {
+    "id": 401,
+    "kind": "poem",
+    "line": "185.2",
+    "text": "\tShe said, \"Lie back,"
+  },
+  {
+    "id": 402,
+    "kind": "poem",
+    "line": "186",
+    "text": "I would also cut you on the throat.\""
+  },
+  {
+    "id": 403,
+    "kind": "poem",
+    "line": "186.1",
+    "text": "\tWhen he'd lain back"
+  },
+  {
+    "id": 404,
+    "kind": "poem",
+    "line": "186.2",
+    "text": "\tHis voice box she took from him whole."
+  },
+  {
+    "id": 405,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 406,
+    "kind": "poem",
+    "line": "187",
+    "text": "She slipped through the fence."
+  },
+  {
+    "id": 407,
+    "kind": "poem",
+    "line": "187.1",
+    "text": "\tShe came to Rukiza's dwelling."
+  },
+  {
+    "id": 408,
+    "kind": "poem",
+    "line": "188",
+    "text": "She said, \"How shall I tell them?\""
+  },
+  {
+    "id": 409,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 410,
+    "kind": "poem",
+    "line": "189",
+    "text": "She found him, Rukiza, not yet buried."
+  },
+  {
+    "id": 411,
+    "kind": "poem",
+    "line": "189.1",
+    "text": "\tThey buried him the entire night."
+  },
+  {
+    "id": 412,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 413,
+    "kind": "poem",
+    "line": "189.2",
+    "text": "\tShe said, \"Wander, O Baganga.\""
+  },
+  {
+    "id": 414,
+    "kind": "poem",
+    "line": "190",
+    "text": "She said, \"King Ruhinda murdered"
+  },
+  {
+    "id": 415,
+    "kind": "poem",
+    "line": "191",
+    "text": "My father's child."
+  },
+  {
+    "id": 416,
+    "kind": "poem",
+    "line": "191.1",
+    "text": "\tAnd I in revenge I left him murdered.\""
+  },
+  {
+    "id": 417,
+    "kind": "poem",
+    "line": "192",
+    "text": "My friend, the Baganga wandered."
+  },
+  {
+    "id": 418,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 419,
+    "kind": "poem",
+    "line": "193",
+    "text": "On the river, and today . . ."
+  },
+  {
+    "id": 420,
+    "kind": "poem",
+    "line": "194",
+    "text": "There's no place where the <i>shoju</i> grass won't grow,"
+  },
+  {
+    "id": 421,
+    "kind": "poem",
+    "line": "194.1",
+    "text": "\tAnd still it wanders, "
+  },
+  {
+    "id": 422,
+    "kind": "poem",
+    "line": "194.2",
+    "text": "\tAll you Baganga."
+  },
+  {
+    "id": 423,
+    "kind": "poem",
+    "line": "195",
+    "text": "There's no place where the elephant-grass won't dwell"
+  },
+  {
+    "id": 424,
+    "kind": "poem",
+    "line": "195.1",
+    "text": "\tAnd still it wanders."
+  },
+  {
+    "id": 425,
+    "kind": "poem",
+    "line": "196",
+    "text": "Honey-bees,"
+  },
+  {
+    "id": 426,
+    "kind": "poem",
+    "line": "196.1",
+    "text": "\tAnd still they wander, "
+  },
+  {
+    "id": 427,
+    "kind": "poem",
+    "line": "196.2",
+    "text": "\tBaganga."
+  },
+  {
+    "id": 428,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 429,
+    "kind": "poem",
+    "line": "197",
+    "text": "Their wandering so,"
+  },
+  {
+    "id": 430,
+    "kind": "poem",
+    "line": "197.1",
+    "text": "\tAnd the king's killing Rukiza–"
+  },
+  {
+    "id": 431,
+    "kind": "poem",
+    "line": "198",
+    "text": "Happened because of women."
+  },
+  {
+    "id": 432,
+    "kind": "poem",
+    "line": "198.1",
+    "text": "\tHappened because of his sister."
+  },
+  {
+    "id": 433,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 434,
+    "kind": "poem",
+    "line": "199",
+    "text": "For women are betrayers."
+  },
+  {
+    "id": 435,
+    "kind": "poem",
+    "line": "200",
+    "text": "It was one who killed Rukiza Mbibi."
+  },
+  {
+    "id": 436,
+    "kind": "poem",
+    "line": "201",
+    "text": "It was one he used to kill <i>the Splitter of mukoni wood; it dries</i>."
+  },
+  {
+    "id": 437,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 438,
+    "kind": "poem",
+    "line": "202",
+    "text": "<i>Shoju</i> grass pricks the foot when short."
+  },
+  {
+    "id": 439,
+    "kind": "poem",
+    "line": "202.1",
+    "text": "\tWhen it grows, it thatches a house."
+  },
+  {
+    "id": 440,
+    "kind": "poem",
+    "line": "202.2",
+    "text": "\tAll you Baganga!"
+  }
+]

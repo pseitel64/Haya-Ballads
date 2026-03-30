@@ -1,0 +1,864 @@
+[
+  {
+    "type": "note",
+    "line": "1",
+    "id": 1,
+    "time": 2.75,
+    "id_ref": 1,
+    "note": "Part of the hero's <i>eby'ebugo</i>, or self-praise recitation.\n\nThe bard quickly establishes the identity of the royal warrior-hero by naming his place of origin, Nsheshe, a group of islands in Lake Victoria, and by describing his physical appearance. In contrast, the identity of the clan warrior-hero in <i>Rukiza</i>, is created with kin relationships. Place of origin and individual identity were important principles in state warriorhood, as recruitment into battalions was done by locality, and rewards accrued to conspicuous individual warriors. Epic bards deftly place their heroes within classic, intentionally archaic, opposing ethical systems of the heroic age. \n\nIn the presence of royalty, a warrior would declare his identity with a spirited recitation of his self-praise or boast, <i>eby'ebugo. </i>The series of placenames in Kachwenyanja's self-praise (1-2.2) recurs throughout the epic, emphasizing the force this poetic genre exerts on the composition and theme of the epic narrative."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "1",
+    "id": 1,
+    "time": 2.75,
+    "id_ref": 1,
+    "note": "verse in aba formed by contrast between near identical stanzas (a's: 1-2.2, 6-6.3) and an intervening stanza (b: 3-5); the identical stanzas are formed in <b>aa</b>a<b>b</b> by contrast between lines that include placenames (a's: 1, 1.1, 2, 2.1 and 6, 6.1, 6.2) and lines that include a place description (b's: 2.2 and 6.3); the intervening stanza is formed in abb by contrast between two lines composed as body part + color description (b's: 4, 5) and a single line that echoes a previous one (a: 3).",
+    "line_end": "6.3"
+  },
+  {
+    "type": "note",
+    "line": "11",
+    "id": 20,
+    "time": 0.0,
+    "id_ref": 20,
+    "note": "Differences between the hero's cranky wives anticipates their collective contrast with the ideal dream of the feminine that is about to emerge. Thematic comparisons create rhetorical power in bardic discourse."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "12",
+    "id": 22,
+    "time": 67.03,
+    "id_ref": 22,
+    "note": "mirror verse of two stanzas (12 -13, 14-15) each formed in <b>aba</b> by contrast between lines composed as personal name + uxoral status and lines composed as \"she put her faith in\" + domestic strategy; the repeating line type in the first stanza (a's: 12, 13) becomes the intervening line type in the second stanza (b: 14.1), and the intervening line type in the first stanza (b: 12.1) becomes the repeated line type in the second stanza (a's: 14, 15).",
+    "line_end": "15"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "18",
+    "id": 34,
+    "time": 90.31,
+    "id_ref": 34,
+    "note": "stanza in <b>aa</b>a<b>b</b> formed contrast between lines composed as adverbial conjunction + noun ... (a's: 18, 19, 19.1) and a line composed as adverbial conjunction + prepositional phrase (b: 19.2).",
+    "line_end": "19.2"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "24",
+    "id": 44,
+    "time": 113.78999999999999,
+    "id_ref": 44,
+    "note": "stanza in <b>a</b>a<b>ba</b> formed by contrast between lines with an initial term of address (a's: 24, 24.1, 26) and a line without one (b: 25).",
+    "line_end": "26"
+  },
+  {
+    "type": "note",
+    "line": "28",
+    "id": 50,
+    "time": 0.0,
+    "id_ref": 50,
+    "note": "Crested crane, with her tufted head feathers and long, graceful neck, embodies an ideal of beauty associated with royalty, which is stereotypically tall and thin, with slow, loose-jointed, graceful movements. The crane gives her name to the hairstyle worn by brides. Her literary opposite is <i>akaiba</i>, the word for both \"ring-necked dove.\" and \"co-wife's conflict\" (above 12.1). In contrast with this negative vision of clan domesticity, there is female, clan-centered Haya folktale about how the common dove bested the royal crane in knowing how to treat a husband right (Seitel 1980: 168-170)."
+  },
+  {
+    "type": "note",
+    "line": "30",
+    "id": 53,
+    "time": 132.63,
+    "id_ref": 53,
+    "note": "A show of domestic resistance in the form of an over-scoured calabash and over-scented clothes gives way to the provision of at least a moderate portion of beer. Of rich symbolic importance, the giving, sharing or denying of beer defines social solidarity or marks social division. The flow of beer from to wives to husbands, from kings to warriors, from hosts to guests, between in-laws, and among other statuses in Hayaland witnesses interdependence and solidarity (Carlson 1991). A healthy flow symbolically confirms shared ethics. Beer is a metaphorical vehicle in several proverbs that comment on social division; for example, \"Speaks-not-with-children brews beer by himself (i.e., without help)\" and \"Brewed by the tattered, drunk by the well-dressed.\" In epic ballads beer is also a pregnant image."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "30",
+    "id": 53,
+    "time": 132.63,
+    "id_ref": 53,
+    "note": "mirror verse of two stanzas (30-32, 33-36) composed with lines comprised of adverbial clauses (30 and 35), lines of parallel syntax (31 and 34), and substanitally the same final lines (32 and 36).",
+    "line_end": "36"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "37",
+    "id": 63,
+    "time": 157.26,
+    "id_ref": 63,
+    "note": "stanza in <b>aab</b> formed by contrast between lines composed as direct object + \"I took\" + left or right (a's: 37, 38) and a line that begins with a subject (b: 39).",
+    "line_end": "39"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "40",
+    "id": 67,
+    "time": 164.28,
+    "id_ref": 67,
+    "note": "stanza in <b>aa</b>a<b>b</b> formed by contrast between lines composed as [place name] + \"I came\" + placename (a's: 40, 41, 42) and a single line composed as \"I took\" + place description (b: 43).",
+    "line_end": "43"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "45",
+    "id": 74,
+    "time": 182.32,
+    "id_ref": 74,
+    "note": "verse in <b>aba</b> of mirror stanzas (a's: 45-47 and 50-52) composed of lines with parllel syntax (45 and 50 : verb initial; 46 and 51: verb final, or almost final) and with the same initial words (47 and 52 \"By the low road I ascended to ...\"); a pair of lines (b: 48, 49) intervenes between the stanzas to create the aba pattern.",
+    "line_end": "52"
+  },
+  {
+    "type": "note",
+    "line": "52",
+    "id": 83,
+    "time": 196.28,
+    "id_ref": 83,
+    "note": "He-who-hasn't-his: this personal name echoes a common proverb, <i>atainake tazinduka, </i>\"He-who hasn't his doesn't-travel,\" which can be used to curtly refuse a request."
+  },
+  {
+    "type": "note",
+    "line": "54",
+    "id": 87,
+    "time": 0.0,
+    "id_ref": 87,
+    "note": "This second part of the hero's self-praise recurs several times. Blackened grass can be found between villages on fallow land burnt annually to keep it clear of unwanted fauna and flora. The understood direct object of the verb \"rolls\" is enemy corpses."
+  },
+  {
+    "type": "note",
+    "line": "57",
+    "id": 91,
+    "time": 216.51,
+    "id_ref": 91,
+    "note": "Kayango represents an archaic, indigenous kingship. The name derives from the Bayango, a pre-Hinda dynasty in Ihangilo kingdom, where the epic is set (Cory n.d. :35)."
+  },
+  {
+    "type": "note",
+    "line": "58",
+    "id": 93,
+    "time": 221.07999999999998,
+    "id_ref": 93,
+    "note": "Dispute-ender is the name given to the third child, if male, born after twins."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "58",
+    "id": 93,
+    "time": 221.07999999999998,
+    "id_ref": 93,
+    "note": "stanza in <b>aa</b>aa<b>b</b> formed by contrast between lines of praisenames that cohere by linking the last word of one line repeated as first word of next (a's: 58, 59, 60, 61) and a final line of praisenames not so linked (b: 62).",
+    "line_end": "62"
+  },
+  {
+    "type": "note",
+    "line": "62",
+    "id": 97,
+    "time": 0.0,
+    "id_ref": 97,
+    "note": "Literally, \"hawks died-without-male-issue, breasts, of (a possessive refering to hawks) Hayaland.\" Hawks may refer to royalty, as they do for the non-Hinda Bankango rulers of Kyamutwala kingdom, whose <i>mulumuna,</i> or totemic \"clan brother,\" is the hawk. Hawks are distinguished from non-carnivorous birds by their diet, the same manner in which rulers and their affiliated clans were distinguished from commoners. Childlessness may signify that Kayango's dynasty did not reproduce itself, but was succeeded by the Hinda. Kaijaige (19 ) relates a similar story about the way the rule passed from an indigenous clan to the invading Hinda in Kymutwala kingdom. The feminine image of breasts may refer to the inferior status of the indigenous clan under Hinda rule."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "69",
+    "id": 109,
+    "time": 253.55,
+    "id_ref": 109,
+    "note": "stanza in <b>aa</b>aa<b>b</b> formed by contrast between lines comprised of the quoted speech of the warrior (a's: 69, 69.1, 69.2, 70) and a line comprised of the narrated response of the king (b: 71).",
+    "line_end": "71"
+  },
+  {
+    "type": "note",
+    "line": "71",
+    "id": 113,
+    "time": 259.06,
+    "id_ref": 113,
+    "note": "This episode, completed with a generous pouring of beer, introduces the royal institutional setting of the narrative. The warrior is a well-spoken, well-regarded supporter of an authentic king."
+  },
+  {
+    "type": "note",
+    "line": "71",
+    "id": 113,
+    "time": 259.06,
+    "id_ref": 113,
+    "note": "These anachronisms-Kamachumu is now a relatively large town; George is a Christian name-assist the audience in following the route taken by the traveller."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "76",
+    "id": 122,
+    "time": 278.6,
+    "id_ref": 122,
+    "note": "stanza in <b>abab</b> formed by contrast betweeen lines composed as zero verb + preposition + placename (a's: 76, 77.1) and lines composed as verb initial + placename (b's: 77, 77.2).",
+    "line_end": "77.2"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "78",
+    "id": 127,
+    "time": 289.51,
+    "id_ref": 127,
+    "note": "stanza formed in three overlapping structures: in <b>abab</b> by contrast between lines whose initial verb is in the distant past (a's: 78, 80) and lines whose initial verb is in the narrative present (b's: 78, 81); in aabb by contrast between lines in which the verbs are in the first person (a's: 78, 79) and lines in which the verbs are in the third person (b's: 80, 81); in <b>aa</b>ab by contrast between lines composed as transitive verb phrase + direct object (a's: 78, 79, 80) and a single line composed as verb \"to be\" + prepositional phrase (b: 81); the last reading foregrounds the uniqueness of the final line, which thematically fulfills a dream promise (29).",
+    "line_end": "81"
+  },
+  {
+    "type": "note",
+    "line": "82",
+    "id": 132,
+    "time": 297.82,
+    "id_ref": 132,
+    "note": "These salutations communicate status. In general, greetings refer to and confirm aspects of social relationships. Being first to greet is a way of conferring status on the addressee. The warrior's opening statement of observation (82) is not a greeting but is the kind of utterance sometimes used to induce an addressee to greet first - and thus admit lower status. But when the women \"agree\" to greet (83), by straightening up from their back-bending work and even providing the warrior a clean place to sit, he greets first (86), giving the women almost the same greeting he gave to the king himself (67)."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "82",
+    "id": 132,
+    "time": 297.82,
+    "id_ref": 132,
+    "note": "compound stanza of three couplets, each comprising an action-reaction sequence, formed in <b>aab</b> by contrast between couplets that depict pre-greeting exchanges and are marked by double verb constructions in their second lines (a's: 82-83, 84-85), and a final couplet that quotes the exchange of greetings (b: 86-87).",
+    "line_end": "87"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "88",
+    "id": 139,
+    "time": 0.0,
+    "id_ref": 139,
+    "note": "compound stanza, 2 + 2 + 1, formed in <b>aab</b> by semantic contrast between line pairs that request and refuse (a's: 88-89, 90-91) and a single line that explains (b: 92).",
+    "line_end": "92"
+  },
+  {
+    "type": "note",
+    "line": "92",
+    "id": 143,
+    "time": 319.01,
+    "id_ref": 143,
+    "note": "Nyakandaalo's assertion about this somewhat obscure rule governing the marriage of sisters is correct. She shows herself an expert in clan affairs but outside them, since she can be married without negotiations or payment of bridewealth. Her mastery of clan affairs is repeatedly demonstrated over the course of the narrative."
+  },
+  {
+    "type": "note",
+    "line": "98",
+    "id": 152,
+    "time": 336.3,
+    "id_ref": 152,
+    "note": "Hinda and Munkango are the ruling clans in their respective kingdoms, Kihanja and Kyamtwala.. The latter's royal dwelling is in Kabale. She praises the warrior's regal appearance."
+  },
+  {
+    "type": "note",
+    "line": "99",
+    "id": 156,
+    "time": 341.05,
+    "id_ref": 156,
+    "note": "Praise becomes more and more central to the plot and character\n\nmotivations. Here it wins Nyakandaalo's admiration and consent. The two recurring parts of Kachwenyanja's praise appear together, joined by another detail about his distinctive appearance. The warrior's hairyness is a conventional sign of strength and easily aroused anger."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "99",
+    "id": 156,
+    "time": 341.05,
+    "id_ref": 156,
+    "note": "compound stanza, 2 + 2 + 1, formed in <b>aab</b><b> </b>by couplets (a's: 99-100, 101-101.1) whose lines cohere internally by parallel composition as \"mother, our home is in\" + placename, and as \"I come from\" + placename + \"and\" + placename, respectively, contrasted with a final line that has a distinct composition (b: 101.2).",
+    "line_end": "101.2"
+  },
+  {
+    "type": "note",
+    "line": "107",
+    "id": 171,
+    "time": 0.0,
+    "id_ref": 171,
+    "note": "As the phrase, \"on the fifth...\" suggests, a divorced woman is secluded only four days."
+  },
+  {
+    "type": "note",
+    "line": "108",
+    "id": 174,
+    "time": 376.55,
+    "id_ref": 174,
+    "note": "In this episode the warrior receives a call to uphold the ethics of his social standing by acting with its virtues. He must choose between his king and his dream-sent wife. This Call episode provides a thematic paradigm that structures most of the action depicted in this epic. Ethical knowledge associated with particular institutions motivates and is articulated by events. The warrior's self-knowledge makes his body an instrument of the state as it reverberates with the king's drummed summons (117.1). Nyakandaalo uses wifely knowledge to try to keep him home, he suspects (136.1). The status of the couple's union outside clan is underlined by Nyakandaalo's lack of \"storage sack and seeds\" (121), which accompany a clan-sanctioned bride to her new home. It is also underlined by their symmetrical address of one another, \"dear one\" answered by \"yes, dear one\" (146). These constitute the thematic building blocks of the epic:\n\n-two kinds of knowledge: that of the self (<i>okw'-emanya</i>), which binds one to the ethics of a role (the warrior's intuition of his duty); and that of the other (<i>oku-manya</i>), which empowers one to understand and/or manipulate (Nyakandaalo's augury/ artifice); \n\n-institutional bases for knowledge: state (the king's summons), clan (by negative implication), and a romantic place outside of clan (marked by symmetrical address); \n\n-richly symbolic speech: symmetrical endearments and poetic praise; \n\n-richly symbolic codes: the royal drums; \n\n-bodies inscribed with institutional meanings: the warrior's resonant response. \n\nThese thematic dimensions underlie most episodes, creating coherent and recurring patterns of significance in the work as a whole."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "108",
+    "id": 174,
+    "time": 376.55,
+    "id_ref": 174,
+    "note": "stanza formed alternately in <b>aa</b>aaa<b>b</b> by contrast between lines that end with a placename (a's:108-112) and a single line that ends with a place description (b: 113) and in <b>a</b>a<b>b</b>bb<b>a</b> by contrast between lines that contain a relative verb (a's: 108, 109, 113) and lines that substitute a possessive particle for it (b's: 110, 111, 112).\n114.1-118: compound stanza in aba formed by contrast between couplets composed of independent clauses (a's: 114.1-115, 117.1-118) and a couplet of relative verbs (b: 116-117); the passage can also be seen as an annular structure abccba: locutive + quoted speech (114.1)/ [drum] + verb (115)/ relative verb (116)/relative verb (117)/ [drum] + verb (117.1)/ locutive + quoted speech (118).",
+    "line_end": "113"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "119",
+    "id": 189,
+    "time": 408.31,
+    "id_ref": 189,
+    "note": "compound stanza in <b>aa</b>aaaaa<b>b</b> formed by contrast between conversational exchanges begun by the warrior (a's: 119-121, 122-123, 124-125.1, 126-127, 128-130, 131-132, 133-135) and a single exchange begun by his wife (b: 136-136.1).",
+    "line_end": "136.1"
+  },
+  {
+    "type": "note",
+    "line": "141",
+    "id": 217,
+    "time": 461.25,
+    "id_ref": 217,
+    "note": "Banana bast makes a poor bowstring, and its use seems to express the warrior's determination to answer the call at any cost, even if he must go poorly equipped. The same banana bast on Littleman's bow (166.6) is a sign of low status."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "144",
+    "id": 223,
+    "time": 467.76,
+    "id_ref": 223,
+    "note": "stanza in <b>a</b>a<b>ba</b> formed by contrast between lines with positive verbs in an unmarked word order (a's: 144, 145, 146.1) and a line with a negative verb preceded by its direct object (b: 146).",
+    "line_end": "146.1"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "144",
+    "id": 223,
+    "time": 467.76,
+    "id_ref": 223,
+    "note": "verse passage of four sets of line groups. Each set is finalized by a formulaic line composed as initial verb + praise name; the sets are patterned as <b>aa</b>a<b>b</b><b>:</b> three sets, each one comprised of two line groups + a formulaic line in which the praisename is \"buffalo\" (a's: 144-146.1 + 147-149 + 150; 151-154 + 155-157 + 158; 159 -162 + 163 -163.1 + 164) are finalized by a single set comprised of three line groups + single line formula in which the praisename is \"spear of warriors\" (b: 164.1-166.1 + 167-169.1 + 170-172 + 173). Seven of these ten line groups are composed as stanzas.",
+    "line_end": "173"
+  },
+  {
+    "type": "note",
+    "line": "148",
+    "id": 229,
+    "time": 478.01,
+    "id_ref": 229,
+    "note": "A small leaf seems to be an omen of death, but the following line shows the warrior thinks only of triumph."
+  },
+  {
+    "type": "note",
+    "line": "149",
+    "id": 230,
+    "time": 480.08,
+    "id_ref": 230,
+    "note": "A first strike occurs when a hunting party kills a large animal. Two hunters are rewarded with special portions: the one who strikes first and the one whose thrust follows his and makes the kill certain. The warrior's self-praise recitation creates poetic associations between hunting, war, praise, and reward that will reverberate throughout the epic."
+  },
+  {
+    "type": "note",
+    "line": "155",
+    "id": 240,
+    "time": 498.66,
+    "id_ref": 240,
+    "note": "In this interchange, the first and last quoted lines (155.1, 157) are spoken by the enemy warrior, the middle two (156 -156.1) by the hero. Kachwenyanja rejects the desired blood-brotherhood (155), a kin-based bond so markedly respected by the clan hero in <i>Rukiza (96-98.1)</i>. Kachwenyanja receives the very same deference in greeting he bestowed upon his bride-to-be (86) and his king (67), but he twists the salutation to an insult and hurls it back. Unlike his enemy, the hero has cast aside all kin-like caring on the battlefield."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "159",
+    "id": 247,
+    "time": 511.27,
+    "id_ref": 247,
+    "note": "stanza in <b>aa</b>a<b>b</b> formed by contrast between lines that end in \"boasted of him\" (a's: 159, 160, 161) and one line that ends in \"sat down upon him\" (b: 162).",
+    "line_end": "162"
+  },
+  {
+    "type": "note",
+    "line": "162",
+    "id": 250,
+    "time": 0.0,
+    "id_ref": 250,
+    "note": "The warrior sits upon an enemy corpse as one would a stool in an act of personal display, thus beginning a series of meaningful exchanges wrought with human bodies, like the mutilations in <i>Rukiza (126, 132.1)</i>."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "163",
+    "id": 252,
+    "time": 522.59,
+    "id_ref": 252,
+    "note": "stanza in <b>ab</b>b<b>a</b> formed by contrast between lines whose verb is \"to get up\" (a's: 163, 164) and lines whose verb is \"he used\" (b's: 163.1-163.2).",
+    "line_end": "164"
+  },
+  {
+    "type": "note",
+    "line": "164",
+    "id": 255,
+    "time": 526.84,
+    "id_ref": 255,
+    "note": "\"Little man,\" <i>aka-shaija, </i>is derived from <i>omu-shaija,</i> \"man,\" as <i>aka-mwana, </i>\"cute little child\" is derived from <i>o(mu)-mwana,</i> \"child.\""
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "168",
+    "id": 263,
+    "time": 539.59,
+    "id_ref": 263,
+    "note": "two stanzas in <b>abb</b> formed, respectively, by contrast between lines composed as placename + verb \"to be\" + clan name (b's: 169, 169.1) and a line of address that begins and ends with \"you\" (a: 168), and by contrast between duplicate lines with initial subjunctive verbs (b's: 171, 172) and a single line with an initial future indicative verb that has subjunctive force (a: 170).",
+    "line_end": "172"
+  },
+  {
+    "type": "note",
+    "line": "170",
+    "id": 266,
+    "time": 0.0,
+    "id_ref": 266,
+    "note": "\"Flee my bow... sire a misfortune\" are weak words, like those of the would-be blood-brother (155.1). They thematize clan values of caring and reproduction, weak responses his clansmen's deaths, which call for vengeance."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "174",
+    "id": 272,
+    "time": 560.9,
+    "id_ref": 272,
+    "note": "stanza in <b>a</b>a<b>ba</b> formed by contrast between lines whose verbs initiate or continue double verb patterns in the near past tense (a's: 174, 175, 176.1) and one line whose initial verb is inflected in the distant past tense (b: 176).",
+    "line_end": "176.1"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "179",
+    "id": 279,
+    "time": 574.76,
+    "id_ref": 279,
+    "note": "compound stanza of four line pairs, formed in <b>ab</b>b<b>a </b>by conrast between pairs that repeat the word \"cut\" (a's: 179-180, 184-184.1; the latter pair includes an aside) and repeated pairs whose constituent lines are composed as verb + preposition + color term (b's: 181-182, 183-183.1).",
+    "line_end": "184.1"
+  },
+  {
+    "type": "note",
+    "line": "181",
+    "id": 281,
+    "time": 578.44,
+    "id_ref": 281,
+    "note": "The sequence of white and black thematizes the hero's dishonor. The lines echo his boast (55-56), but their sense has been reversed: what he said he would do to another has been done to him, just as his more recent boast was reversed (177-180)."
+  },
+  {
+    "type": "note",
+    "line": "184",
+    "id": 285,
+    "time": 585.48,
+    "id_ref": 285,
+    "note": "The taking of the \"right hand\" as trophy later turns out to have been his penis, a mutilation that answers the hero's use of enemy dead for self-display. The clansman's act inscribes (reproductive) weakness on the warrior's body."
+  },
+  {
+    "type": "note",
+    "line": "184",
+    "id": 285,
+    "time": 585.48,
+    "id_ref": 285,
+    "note": "A Muhamba is a native of Kihanja kingdom. Buganguzi is a village in Ihangilo kingdom renown for the fierceness of its fighters."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "186",
+    "id": 289,
+    "time": 0.0,
+    "id_ref": 289,
+    "note": "stanza in <b>aa</b>a<b>b</b> formed by contrast between narration (a's: 186-188) and quoted discourse (b: 188.1).",
+    "line_end": "188.1"
+  },
+  {
+    "type": "note",
+    "line": "187",
+    "id": 290,
+    "time": 593.95,
+    "id_ref": 290,
+    "note": "The bard says \"child,\" but the maidservant referred to is a <i>muzana, </i>a female domestic slave or courtesan. One could become a <i>muzana</i> when her father died without male issue or sent her to the king as payment for a fine, for an allotment of land, or for food in time of famine. Although of low social status, courtesans were famous for their mastery of verbal art and other stylized practices of the palace. A king might bestow a courtesan on a follower as a wife or a domestic servant in reward for service. A <i>muzana </i>was summoned and had to answer according to the whim of her superior; the exchange might allude to a memorable situation at the court or at home. The bard assumes the <i>muzana</i>'s point of view, answering in the first person (188.1), perhaps assuming the mantle of her verbal artistry."
+  },
+  {
+    "type": "note",
+    "line": "189",
+    "id": 294,
+    "time": 603.67,
+    "id_ref": 294,
+    "note": "Banana mash, fire, and coffee berries are signs of knowing domesticity."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "191",
+    "id": 301,
+    "time": 611.9,
+    "id_ref": 301,
+    "note": "verse passage in <b>aab</b> formed by contrast between two similar linegroups (a's: 191-196.1, 197-199.1) and one that begins similarly but diverges(b: 200-209.1).",
+    "line_end": "209.1"
+  },
+  {
+    "type": "note",
+    "line": "196",
+    "id": 306,
+    "time": 617.84,
+    "id_ref": 306,
+    "badge": "NOTE",
+    "note": "The plunder of war refers to cattle."
+  },
+  {
+    "type": "note",
+    "line": "200",
+    "id": 315,
+    "time": null,
+    "id_ref": 315,
+    "badge": "NOTE",
+    "note": "This saying signifies by contrast that close kin will not tell the truth, being afraid to bring disorder. Only a stranger will dare."
+  },
+  {
+    "type": "note",
+    "line": "201",
+    "id": 316,
+    "time": 644.59,
+    "id_ref": 316,
+    "note": "A Muziba is a native of a northern kingdom of Hayaland.."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "210",
+    "id": 332,
+    "time": 681.89,
+    "id_ref": 332,
+    "note": "verse passage in abac formed by contrast between repeated couplets (a's: 210-211.1, 214-215) and linegroups that advance the narrative (b and c: 212-213, 216-217).",
+    "line_end": "217"
+  },
+  {
+    "type": "note",
+    "line": "219",
+    "id": 344,
+    "time": 0.0,
+    "id_ref": 344,
+    "note": "Nyakandaalo wailed only once, but a traditional wife would have wailed many more times. Lamentations announce a death to a village and mark the arrival of each relative to the house of mourning. The heroine acts outside of clan practice."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "221",
+    "id": 347,
+    "time": 714.35,
+    "id_ref": 347,
+    "note": "compound stanza, 2 + 2 + 2, formed in <b>aab</b> by contrast between two couplets composed as \"my kings\"/ \"...grind millet\" (a's: 221-222, 223-223.1 lines reversed in second) and a single couplet whose second line concludes \"...grind sorcery\" (b: 223.2-223.3).",
+    "line_end": "223.3"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "221",
+    "id": 347,
+    "time": 714.35,
+    "id_ref": 347,
+    "note": "stanza in <b>abab</b> formed by adding another pair of lines to the previous figure (221-223.3), thus contrasting lines composed as \"they\"[women] + verb + 'usual' direct object (a's: 223, 224) with lines composed as \"I\" + verb + 'unusual' direct object (b's: 223.3, 225).",
+    "line_end": "225"
+  },
+  {
+    "type": "note",
+    "line": "224",
+    "id": 353,
+    "time": 724.67,
+    "id_ref": 353,
+    "note": "They 'do' themselves with herbs, that is, women use sweet smelling herbs in preparation for lovemaking."
+  },
+  {
+    "type": "note",
+    "line": "226",
+    "id": 356,
+    "time": 729.37,
+    "id_ref": 356,
+    "note": "She invokes the praise of the hero (54-56), reclaiming it from its reversal in the episode of his death and restoring it as a poetic evocation of his warrior ethic."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "226",
+    "id": 356,
+    "time": 729.37,
+    "id_ref": 356,
+    "note": "stanza in <b>aab</b> formed by contrast between lines that begin with the imperative \"Hear!\" (a's: 226, 227) and a single line that does not (b: 227.1).",
+    "line_end": "227.1"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "228",
+    "id": 360,
+    "time": 0.0,
+    "id_ref": 360,
+    "note": "compound stanza, 2 + 2 + 1, formed in <b>aab</b> by couplets with locutives and with commanding verbs (subjunctive or imperative) that stand alone or markedly follow their direct objects (a's: 228-229, 230-231) contrasted with a single line that has a verb in the indicative mood and an umarked word order of subject, verb, object (b: 231.1).",
+    "line_end": "231.1"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "228",
+    "id": 360,
+    "time": 0.0,
+    "id_ref": 360,
+    "note": "verse passage in abcbdb formed by contrast between paired lines of Nyakandalo's praise (b's: 232-232.1, 241-243.1, 248-248.1) and stanzas or compound stanzas that further the narrative (a: 228-231.1; c: 233-236, 237-240; d: 244-247.1).",
+    "line_end": "248.1"
+  },
+  {
+    "type": "note",
+    "line": "232",
+    "id": 366,
+    "time": 742.33,
+    "id_ref": 366,
+    "note": "Nine (<i>omwenda</i>) is the number the heroine uses for her self-praise, a pun on <i>okw-enda, </i>\"love.\" It is an abiding love, like a mother's for her child, a wife's for her husband. It is also a number specified in ritual sacrifices (Schmidt 1978: 99)."
+  },
+  {
+    "type": "note",
+    "line": "233",
+    "id": 369,
+    "time": 753.13,
+    "id_ref": 369,
+    "note": "Changes in hairstyle once marked transitions in life cycle. Today only the bride's \"crested-crane\" and shaving the head in mourning are widely practiced."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "233",
+    "id": 369,
+    "time": 753.13,
+    "id_ref": 369,
+    "note": "compound stanza, 2 + 2 + 1, formed in <b>aab</b> by couplets composed semantically as hairstyle / age group (a's: 233-233.1, 234-235 with the order reversed in the latter) contrasted with a single line that completes a style of self presentation.",
+    "line_end": "236"
+  },
+  {
+    "type": "note",
+    "line": "236",
+    "id": 373,
+    "time": 761.81,
+    "id_ref": 373,
+    "note": "The Prattling-one, <i>Kalamaijo,</i> is a walking staff used on celebratory occasions; from <i>oku-lamaija,</i> \"to act in frenzy.\" (see <i>Mugasha</i>: 5.3)."
+  },
+  {
+    "type": "note",
+    "line": "237",
+    "id": 375,
+    "time": 765.06,
+    "id_ref": 375,
+    "note": "Butterfat was traditionally used to make the skin glisten beautifully."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "237",
+    "id": 375,
+    "time": 765.06,
+    "id_ref": 375,
+    "note": "stanza in <b>a</b>a<b>ba</b> formed by contrast between lines with an initial verb (a's: 237, 238, 240) and a line with a final verb (b: 239).",
+    "line_end": "240"
+  },
+  {
+    "type": "note",
+    "line": "239",
+    "id": 377,
+    "time": 0.0,
+    "id_ref": 377,
+    "note": "A leather skirt was a sign of prestige, indicating the warer's access to cattle."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "244",
+    "id": 388,
+    "time": 785.62,
+    "id_ref": 388,
+    "note": "compound stanza, 2 + 2 + 1, formed in <b>aab</b> by couplets of narration that cohere as lines of adverbial clauses in the past perfect and as verb initial lines in the near past, respectively (a's: 244-245, 246-247) and one line of quoted speech (b: 247.1).",
+    "line_end": "247.1"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "249",
+    "id": 397,
+    "time": 0.0,
+    "id_ref": 397,
+    "note": "verse passage in <b>aa</b>a<b>b</b> formed by three repeated passages (a's: 249-254, 255-260, 261-267) and a single passage that shares some line types (268, 274, 276, 277) but furthers the narrative (b: 268-283.1).",
+    "line_end": "283.1"
+  },
+  {
+    "type": "note",
+    "line": "251",
+    "id": 400,
+    "time": 804.31,
+    "id_ref": 400,
+    "note": "ff.: The women's courtly artifice proceeds by strategic use of female surfaces. Their canny speech manipulates symbolic forms with equal cunning to identify the enemy and penetrate his home. Self-praise (<i>ebyebugo</i>) - which began the epic, brought together the heroine and her mate, and foretold his death - again becomes a narrative focus, here, a tool of revelation. Suitors increase their stature by praising animals they have killed in the hunt. But the women perform symbolic sleight-of-hand by interpreting the animals as though they had the totemic significance that regulates and can prevent a marriage. Primary, marriage-regulating totems (<i>miziro </i>- \"prohibitions\") occasionally are mentioned in self-praise, and secondary totems (<i>mulumuna</i> - \"clan brothers\") appear regularly. But killing a woman's clan's totem of either kind would never lead to a prohibition, as, say, sharing the same primary totem could."
+  },
+  {
+    "type": "note",
+    "line": "253",
+    "id": 402,
+    "time": 807.58,
+    "id_ref": 402,
+    "note": "Pulverizer comes from <i>oku-sa</i>, \"to grind\" as a stone grinds millet; as an antelope's pounding hooves grind savannah earth to dust."
+  },
+  {
+    "type": "note",
+    "line": "270",
+    "id": 423,
+    "time": 840.06,
+    "id_ref": 423,
+    "note": "Mwamali is said to have been a man who killed many, then committed suicide and became a possessing spirit."
+  },
+  {
+    "type": "note",
+    "line": "272",
+    "id": 425,
+    "time": 843.56,
+    "id_ref": 425,
+    "note": "\"It's not a belt\" is metaphorical praise of the road travelled; it may look like a belt stretching off into the distance, but to walk it is not so easy."
+  },
+  {
+    "type": "note",
+    "line": "282",
+    "id": 437,
+    "time": 0.0,
+    "id_ref": 437,
+    "note": "The final appearance of this section of Kachwenyanja's self-praise underlines once again the importance of the poetic form to the plot. Similar words first declared the hero's identity to the heroine, winning her love and her hand in marriage. Their reversal in the depiction (181-182) of the hero's death and dishonor calls the heroine to act (211-211.1, 214-415). She soon quotes the words, adding the virtues of his warrior identity to her own (226-227). As praise, the lines include the imperative \"Hear!\" (<i>Hulila!</i>), which indexes the generic addressee of such speech - the king or other person of high standing. Warriors had license to command attention and to promise deeds of valor that would gain royal reward. When Nyakandaalo quotes the words she seems to address them to the spirit of the dead hero, signifying that her relationship to him has become like that of a warrior to a king: she will perform fell deeds on his behalf. This analogy is confirmed in her brief address to his corpse, in which she makes the promise that becomes her own self-praise (247.1-248.1). Her boast, unlike the hero's, is not reversed. It completes the logic of its genre, being voiced both before and after its achievement. When the little man appropriates the hero's praise (282.1), he changes the imperative from \"Hear!\" to \"Hail!\" (<i>Habuka!</i>), a word characteristically addressed to a king, but by his retinue, deferentially, to welcome him as he entered and took a position of preeminence. The substitution articulates the little man's commoner, clan-based, ethical knowledge. He evokes the regal identity of the fallen warrior, adding it to his own social persona with the intonation of a lowborn clansman who has gladly slain his social superior."
+  },
+  {
+    "type": "note",
+    "line": "287",
+    "id": 446,
+    "time": 0.0,
+    "id_ref": 446,
+    "note": "Truly possessed, as a spirit does a medium, as a lover does a lover."
+  },
+  {
+    "type": "note",
+    "line": "300",
+    "id": 469,
+    "time": 0.0,
+    "id_ref": 469,
+    "note": "The the soft pith of a banana plant stalk can be used as a washcloth."
+  },
+  {
+    "type": "note",
+    "line": "304",
+    "id": 475,
+    "time": 0.0,
+    "id_ref": 475,
+    "note": "She washed his feet, a a full extension of womanly care."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "304",
+    "id": 475,
+    "time": 0.0,
+    "id_ref": 475,
+    "note": "two stanzas in <b>aab</b> (304-306.1, 307-309) each beginning with a double verb formula; the first is formed in <b>aa</b>a<b>b</b> by contrast between lines with first person initial verbs (a's:304, 305, 306) and a line with a third person initial verb (b: 306.1); the second is formed in aab by contrast between first person, verb initial lines of narration (a's: 307, 308) and a line of praise (b: 309).",
+    "line_end": "309"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "307",
+    "id": 480,
+    "time": 0.0,
+    "id_ref": 480,
+    "note": "verse passage in <b>aab</b> formed by repetition and variation in passages in which only men are killed (a's: 307-325, 326-343) and a final passage in which both men and a woman die (b: 344-353).",
+    "line_end": "353"
+  },
+  {
+    "type": "note",
+    "line": "308",
+    "id": 481,
+    "time": 0.0,
+    "id_ref": 481,
+    "note": "The <i>ekimooma </i>grasshopper is brown at rest, but jumps and flies to reveal its magenta colored wings: this is praise for a depilated vulva and labia minora."
+  },
+  {
+    "type": "note",
+    "line": "312",
+    "id": 486,
+    "time": 0.0,
+    "id_ref": 486,
+    "note": "The slashed voice-box speaks in the exchange of symbolic violence that began with Kachwenyanja's use of an enemy's corpse to sit upon in self-display (162)and elevate himself for individual recognition and reward. The little man answered by cutting the penis from hero's corpse, a symbolic utterance in a clan discourse of reproduction. Nyakandaalo has the last word in this exchange, asserting the power and knowledge that transcends state and clan. Her destruction of the clansman's voice-box (<i>amalaka</i> \"larynx\" from the plural of <i>eilaka</i> \"voice\") symbolically cuts his power to speak, to praise himself, to be remembered, to attain the immortatity conferred by ritualized artistic speech. Destroying the instrument of rememberance asserts the strength of the bard himself. She embodies this virtue in the very next episode by constructing a poetic memorial for her slain lover with the nameless corpses she has taken. Gruesome acts build a violent, ethically meaningful exchange, a thematic sequence superimposed upon the epic's larger design."
+  },
+  {
+    "type": "note",
+    "line": "316",
+    "id": 492,
+    "time": 0.0,
+    "id_ref": 492,
+    "note": "Collecting pots of plantains cooked but uneaten would be the act of a knowing, very dutiful, and loving wife."
+  },
+  {
+    "type": "note",
+    "line": "317",
+    "id": 494,
+    "time": 0.0,
+    "id_ref": 494,
+    "note": "On would usually look in on a friend to maintain friendship or to help during ill health, but here there is ambiguous intent."
+  },
+  {
+    "type": "note",
+    "line": "324",
+    "id": 504,
+    "time": 0.0,
+    "id_ref": 504,
+    "note": "A woman has a joking relationship with her husband's brother, and sex between them, while not prescribed, is not proscribed as incest (as it is with a husband's father)."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "354",
+    "id": 550,
+    "time": 0.0,
+    "id_ref": 550,
+    "note": "stanza in <b>a</b>a<b>ba</b> formed by contrast between lines comprising independent clauses composed as [...] \"they got out\" + direct object (a's: 354, 355, 357) and a line comprising a relative clause (b: 356).",
+    "line_end": "357"
+  },
+  {
+    "type": "note",
+    "line": "360",
+    "id": 558,
+    "time": 0.0,
+    "id_ref": 558,
+    "note": "ff.: The epic's concluding commentary is framed as Nyakandaalo's address to the corpse of the royal warrior. It is her victorious self-praise (<i>eby'ebugo</i>) spoken before her avenged lover, like one in which a victorious warrior might have asserted his identity before a king. Her soliloquy recounts her heroic accomplishments as a warrior might (360-370.1) and then adds lines of women's traditional elegaic praise (371-379). Her poetry resolves oppositions introduced at several junctures in the narrative. The opposition between clan domesticity and courtly manner, injected in terms of beer and surrounding wifely strategies and locally resolved by a non-clan union, is overcome by the heroine's speech as an embodyment of both courtly warrior-courtesan, whose brave deeds honor the king-like hero, and loving wife, whose intimate praise celebrates his beauty. The dramatic opposition between love and war, locally resolved by the warrior's farewell, is finally resolved by their combination in the courtesan's strategem-making war by making love-and in the careful, poetic equation of the morsels of their short-lived love with the generous servings of her revenge. Finally, the opposition between life and death in battle, between honor and dishonor, locally resolved by the death and dishonor wreaked upon the royal warrior, is transformed by her poetic speech to death with honor, combining enemy corpses heaped in tribute to his memory with praise of his physical beauty and loving ways. With these syntheses of opposing themes and male and female voices, the bard achieves the immortalizing power of his craft."
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "360",
+    "id": 558,
+    "time": 0.0,
+    "id_ref": 558,
+    "note": "stanza in <b>ab</b>b<b>ab</b>abbabab formed by contrast between lines that comprise a numbered sequence (a's: 360, 363, 365, 368, 370) and lines that recall aspects of the heroic couple's romantic love (b's: 364, 366-367, 369, 370.1).",
+    "line_end": "370.1"
+  },
+  {
+    "type": "note",
+    "line": "370",
+    "id": 568,
+    "time": 0.0,
+    "id_ref": 568,
+    "note": "\"The fifth\" victim is called <i>omu-shankazi</i>, which is not a Haya word. It is apparantly a combination of <i>omushaija,</i> \"man,\" and <i>nkazi,</i> a female marker. It refers to the sister-in-law. \n_"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "373",
+    "id": 574,
+    "time": 0.0,
+    "id_ref": 574,
+    "note": "stanza in <b>abab</b> formed by contrast between conditional clauses (a's: 373, 375) and figures of praise (b's: 374, 376).",
+    "line_end": "376"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "380",
+    "id": 583,
+    "time": 0.0,
+    "id_ref": 583,
+    "note": "stanza alternately in <b>aba</b> formed by contrasts between lines composed as \"I have lost\" + noun phrase (a's: 380, 382) and lines composed as \"I have been robbed of\" + noun phrase (b: 381); in aab formed by contrast between lines composed as verb + substantive relative clause (a's: 380, 381) and a line composed as verb + noun + adjectival relative clause (b: 382). \n_",
+    "line_end": "382"
+  }
+]

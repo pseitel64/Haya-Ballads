@@ -1,0 +1,3536 @@
+[
+  {
+    "id": 1,
+    "kind": "poem",
+    "line": "1",
+    "text": "<i>By the road to Nsheshe, he came from Kailongo.</i>"
+  },
+  {
+    "id": 2,
+    "kind": "poem",
+    "line": "1.1",
+    "text": " \t<i>In Luhunga, he came from Mugajwaale.</i>"
+  },
+  {
+    "id": 3,
+    "kind": "poem",
+    "line": "2",
+    "text": "<i>Luhunga, Mugajwaale,</i>"
+  },
+  {
+    "id": 4,
+    "kind": "poem",
+    "line": "2.1",
+    "text": " \t<i>Kakolonto and Kabwenge.</i>"
+  },
+  {
+    "id": 5,
+    "kind": "poem",
+    "line": "2.2",
+    "text": " \t<i>You are a child of the unbroken wilderness.</i>"
+  },
+  {
+    "id": 6,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 7,
+    "kind": "poem",
+    "line": "3",
+    "text": "<i>Nsheshe.</i>"
+  },
+  {
+    "id": 8,
+    "kind": "poem",
+    "line": "4",
+    "text": "<i>Of the white teeth,</i>"
+  },
+  {
+    "id": 9,
+    "kind": "poem",
+    "line": "5",
+    "text": "<i>Dark gums.</i>"
+  },
+  {
+    "id": 10,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 11,
+    "kind": "poem",
+    "line": "6",
+    "text": "<i>He came from Nsheshe and Kailongo.</i>"
+  },
+  {
+    "id": 12,
+    "kind": "poem",
+    "line": "6.1",
+    "text": " \t<i>In Luhunga he came from from Mugajwaale,</i>"
+  },
+  {
+    "id": 13,
+    "kind": "poem",
+    "line": "6.2",
+    "text": " \t<i>Kakolonto and Kabwenge.</i>"
+  },
+  {
+    "id": 14,
+    "kind": "poem",
+    "line": "6.3",
+    "text": " \t<i>You are a child of the unbroken wilderness.</i>"
+  },
+  {
+    "id": 15,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 16,
+    "kind": "poem",
+    "line": "7",
+    "text": "My friend,"
+  },
+  {
+    "id": 17,
+    "kind": "poem",
+    "line": "8",
+    "text": "He had two wives."
+  },
+  {
+    "id": 18,
+    "kind": "poem",
+    "line": "9",
+    "text": "One they called Ngolwa."
+  },
+  {
+    "id": 19,
+    "kind": "poem",
+    "line": "10",
+    "text": "(No! they called her) Nkwanzi, Nkwanzi,"
+  },
+  {
+    "id": 20,
+    "kind": "poem",
+    "line": "11",
+    "text": "<i>(praise of Nkwanzi not translatable. )</i>"
+  },
+  {
+    "id": 21,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 22,
+    "kind": "poem",
+    "line": "12",
+    "text": "Then Mukabalinda was his junior wife."
+  },
+  {
+    "id": 23,
+    "kind": "poem",
+    "line": "12.1",
+    "text": " \tThen as a woman, she put her faith in co-wife's conflict."
+  },
+  {
+    "id": 24,
+    "kind": "poem",
+    "line": "13",
+    "text": "Mukabalinda, the junior wife."
+  },
+  {
+    "id": 25,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 26,
+    "kind": "poem",
+    "line": "14",
+    "text": "The other, then, put her faith in husband's favor."
+  },
+  {
+    "id": 27,
+    "kind": "poem",
+    "line": "14.1",
+    "text": " \tNkwanzi, the senior wife."
+  },
+  {
+    "id": 28,
+    "kind": "poem",
+    "line": "15",
+    "text": "As the senior, she put her faith in husband's favor."
+  },
+  {
+    "id": 29,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 30,
+    "kind": "poem",
+    "line": "16",
+    "text": "The man of Nsheshe"
+  },
+  {
+    "id": 31,
+    "kind": "poem",
+    "line": "17",
+    "text": "Slept with Mukabalinda, the junior wife."
+  },
+  {
+    "id": 32,
+    "kind": "poem",
+    "line": "17.1",
+    "text": " \tIn the early morning hours, about three,"
+  },
+  {
+    "id": 33,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 34,
+    "kind": "poem",
+    "line": "18",
+    "text": "<i>When evil roams,</i>"
+  },
+  {
+    "id": 35,
+    "kind": "poem",
+    "line": "19",
+    "text": "<i>When a person faints and does not revive,</i>"
+  },
+  {
+    "id": 36,
+    "kind": "poem",
+    "line": "19.1",
+    "text": " \t<i>When one lover meets another,</i>"
+  },
+  {
+    "id": 37,
+    "kind": "poem",
+    "line": "19.2",
+    "text": " \t<i>When you hear them in the royal mansion finally disperse,</i>"
+  },
+  {
+    "id": 38,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 39,
+    "kind": "poem",
+    "line": "20",
+    "text": "They lay, they embraced."
+  },
+  {
+    "id": 40,
+    "kind": "poem",
+    "line": "21",
+    "text": "Lying there,"
+  },
+  {
+    "id": 41,
+    "kind": "poem",
+    "line": "22",
+    "text": "The man was escorted off by snoring . . ."
+  },
+  {
+    "id": 42,
+    "kind": "poem",
+    "line": "23",
+    "text": "The woman struck me with her palm!"
+  },
+  {
+    "id": 43,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 44,
+    "kind": "poem",
+    "line": "24",
+    "text": "\"Woman! Is this what your father and mother taught you?\""
+  },
+  {
+    "id": 45,
+    "kind": "poem",
+    "line": "24.1",
+    "text": " \t\"My lord, I didn't hit you meanly."
+  },
+  {
+    "id": 46,
+    "kind": "poem",
+    "line": "25",
+    "text": "I heard something make you wimper as you slept,"
+  },
+  {
+    "id": 47,
+    "kind": "poem",
+    "line": "26",
+    "text": "My lord.\""
+  },
+  {
+    "id": 48,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 49,
+    "kind": "poem",
+    "line": "27",
+    "text": "\"I dreamed of marrying."
+  },
+  {
+    "id": 50,
+    "kind": "poem",
+    "line": "28",
+    "text": "Of marrying the woman, Crested crane."
+  },
+  {
+    "id": 51,
+    "kind": "poem",
+    "line": "29",
+    "text": "I carried her away from the foot of a mountain.\""
+  },
+  {
+    "id": 52,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 53,
+    "kind": "poem",
+    "line": "30",
+    "text": "He said, \"When morning comes, my wife,"
+  },
+  {
+    "id": 54,
+    "kind": "poem",
+    "line": "30.1",
+    "text": " \tScour out my calabash for me.\""
+  },
+  {
+    "id": 55,
+    "kind": "poem",
+    "line": "31",
+    "text": "She scoured it near to breaking."
+  },
+  {
+    "id": 56,
+    "kind": "poem",
+    "line": "32",
+    "text": "Beer she poured injust a bit for sipping and relaxing."
+  },
+  {
+    "id": 57,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 58,
+    "kind": "poem",
+    "line": "33",
+    "text": "I dreamed of marrying her, I did."
+  },
+  {
+    "id": 59,
+    "kind": "poem",
+    "line": "34",
+    "text": "My clothes she smoked with incense near to burning."
+  },
+  {
+    "id": 60,
+    "kind": "poem",
+    "line": "35",
+    "text": "When morning had come,"
+  },
+  {
+    "id": 61,
+    "kind": "poem",
+    "line": "36",
+    "text": "She poured in beer for sipping and relaxing."
+  },
+  {
+    "id": 62,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 63,
+    "kind": "poem",
+    "line": "37",
+    "text": "A spear I took in my right hand,"
+  },
+  {
+    "id": 64,
+    "kind": "poem",
+    "line": "38",
+    "text": "A hafted knife I took in my left,"
+  },
+  {
+    "id": 65,
+    "kind": "poem",
+    "line": "39",
+    "text": "A child behind, to bear my calabash with woven cap."
+  },
+  {
+    "id": 66,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 67,
+    "kind": "poem",
+    "line": "40",
+    "text": "I came to Nsheshe."
+  },
+  {
+    "id": 68,
+    "kind": "poem",
+    "line": "41",
+    "text": "I came into Kailongo."
+  },
+  {
+    "id": 69,
+    "kind": "poem",
+    "line": "42",
+    "text": "From Luhunga I came to Mugajwaale."
+  },
+  {
+    "id": 70,
+    "kind": "poem",
+    "line": "43",
+    "text": "I took to the unbroken wilderness."
+  },
+  {
+    "id": 71,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 72,
+    "kind": "poem",
+    "line": "43.1",
+    "text": " \tMy beer I got out at Milama."
+  },
+  {
+    "id": 73,
+    "kind": "poem",
+    "line": "44",
+    "text": "At Ndama, Ndama village"
+  },
+  {
+    "id": 74,
+    "kind": "poem",
+    "line": "45",
+    "text": "I descended to Kabilizi."
+  },
+  {
+    "id": 75,
+    "kind": "poem",
+    "line": "46",
+    "text": "Through Migala I passed."
+  },
+  {
+    "id": 76,
+    "kind": "poem",
+    "line": "47",
+    "text": "By the low road I ascended to Galeba's in Nyakabanga."
+  },
+  {
+    "id": 77,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 78,
+    "kind": "poem",
+    "line": "48",
+    "text": "I came to Kahyolo village of Mpembe."
+  },
+  {
+    "id": 79,
+    "kind": "poem",
+    "line": "49",
+    "text": "Lugasha village of Mukama."
+  },
+  {
+    "id": 80,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 81,
+    "kind": "poem",
+    "line": "50",
+    "text": "I crossed Kyenguzi and Nziba streams."
+  },
+  {
+    "id": 82,
+    "kind": "poem",
+    "line": "51",
+    "text": "At Kanyamukule village on the hill at Mazimba's, I went toward Kyabilanja."
+  },
+  {
+    "id": 83,
+    "kind": "poem",
+    "line": "52",
+    "text": "By the low road I ascended to Muhuumuza's of He-who-Hasn't-his-Hasn't-his of Mashobe."
+  },
+  {
+    "id": 84,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 85,
+    "kind": "poem",
+    "line": "53",
+    "text": "\"Please direct me to some beer."
+  },
+  {
+    "id": 86,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 87,
+    "kind": "poem",
+    "line": "54",
+    "text": "<i>Hear! Spear of warriors</i>"
+  },
+  {
+    "id": 88,
+    "kind": "poem",
+    "line": "55",
+    "text": "<i>That kills on open ground.</i>"
+  },
+  {
+    "id": 89,
+    "kind": "poem",
+    "line": "56",
+    "text": "<i>He rolls them in blackened grass.\"</i>"
+  },
+  {
+    "id": 90,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 91,
+    "kind": "poem",
+    "line": "57",
+    "text": "Muhuumuza said, \"Because the kings lack nothing"
+  },
+  {
+    "id": 92,
+    "kind": "poem",
+    "line": "57.1",
+    "text": " \tGo by Ilogelo to the royal dwelling of Kayango,"
+  },
+  {
+    "id": 93,
+    "kind": "poem",
+    "line": "58",
+    "text": "<i>Kayango of Dispute-ender,</i>"
+  },
+  {
+    "id": 94,
+    "kind": "poem",
+    "line": "59",
+    "text": "<i>Dispute-ender of By'olugano,</i>"
+  },
+  {
+    "id": 95,
+    "kind": "poem",
+    "line": "60",
+    "text": "<i>By'olugano of Nyabwilu,</i>"
+  },
+  {
+    "id": 96,
+    "kind": "poem",
+    "line": "61",
+    "text": "<i>Nyabwilu of Kahange,</i>"
+  },
+  {
+    "id": 97,
+    "kind": "poem",
+    "line": "62",
+    "text": "<i>Childless Hawks of Hayaland.\"</i>"
+  },
+  {
+    "id": 98,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 99,
+    "kind": "poem",
+    "line": "63",
+    "text": "I took the road directly."
+  },
+  {
+    "id": 100,
+    "kind": "poem",
+    "line": "63.1",
+    "text": " \tI came to Nyamukazi."
+  },
+  {
+    "id": 101,
+    "kind": "poem",
+    "line": "64",
+    "text": "In Lwakayanja on the hill"
+  },
+  {
+    "id": 102,
+    "kind": "poem",
+    "line": "64.1",
+    "text": " \tAt Kamuhabwa's,"
+  },
+  {
+    "id": 103,
+    "kind": "poem",
+    "line": "64.2",
+    "text": " \tI came to Kazilango."
+  },
+  {
+    "id": 104,
+    "kind": "poem",
+    "line": "65",
+    "text": "At Kayango's royal mansion I arrived."
+  },
+  {
+    "id": 105,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 106,
+    "kind": "poem",
+    "line": "66",
+    "text": "I go and find he's in, the scion of By'olugano."
+  },
+  {
+    "id": 107,
+    "kind": "poem",
+    "line": "67",
+    "text": "\"My lord, Long life to the Fearless one, Father of men!\""
+  },
+  {
+    "id": 108,
+    "kind": "poem",
+    "line": "68",
+    "text": "Ahihyaya!"
+  },
+  {
+    "id": 109,
+    "kind": "poem",
+    "line": "69",
+    "text": "\"Long life to the Fearless one, Father of men!"
+  },
+  {
+    "id": 110,
+    "kind": "poem",
+    "line": "69.1",
+    "text": " \tI salute you with a greeting of love and fear."
+  },
+  {
+    "id": 111,
+    "kind": "poem",
+    "line": "69.2",
+    "text": " \tI add one to buy life."
+  },
+  {
+    "id": 112,
+    "kind": "poem",
+    "line": "70",
+    "text": "Provider, I have a great thirst.\""
+  },
+  {
+    "id": 113,
+    "kind": "poem",
+    "line": "71",
+    "text": "He poured it 'til it filled."
+  },
+  {
+    "id": 114,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 115,
+    "kind": "poem",
+    "line": "72",
+    "text": "I was swallowed by the road to Enjelu."
+  },
+  {
+    "id": 116,
+    "kind": "poem",
+    "line": "73",
+    "text": "I turned at the house of Bilaze of George."
+  },
+  {
+    "id": 117,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 118,
+    "kind": "poem",
+    "line": "74",
+    "text": "In Kamachumu village at Milama"
+  },
+  {
+    "id": 119,
+    "kind": "poem",
+    "line": "75",
+    "text": "–It hadn't yet become a town–"
+  },
+  {
+    "id": 120,
+    "kind": "poem",
+    "line": "75.1",
+    "text": " \tI went toward the spring at Kamilabala."
+  },
+  {
+    "id": 121,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 122,
+    "kind": "poem",
+    "line": "76",
+    "text": "At Bukende's at the forecourt,"
+  },
+  {
+    "id": 123,
+    "kind": "poem",
+    "line": "77",
+    "text": "I went toward Nyazilo."
+  },
+  {
+    "id": 124,
+    "kind": "poem",
+    "line": "77.1",
+    "text": " \tIn Kakila at Njwanga's,"
+  },
+  {
+    "id": 125,
+    "kind": "poem",
+    "line": "77.2",
+    "text": " \tI descended Nyamilyango mountain."
+  },
+  {
+    "id": 126,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 127,
+    "kind": "poem",
+    "line": "78",
+    "text": "I met girls there"
+  },
+  {
+    "id": 128,
+    "kind": "poem",
+    "line": "79",
+    "text": "I meet two noblewomen."
+  },
+  {
+    "id": 129,
+    "kind": "poem",
+    "line": "80",
+    "text": "They were gathering straw"
+  },
+  {
+    "id": 130,
+    "kind": "poem",
+    "line": "81",
+    "text": "They are there, at the foot of a mountain."
+  },
+  {
+    "id": 131,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 132,
+    "kind": "poem",
+    "line": "82",
+    "text": "\"Straw gathering's work, my mothers!\""
+  },
+  {
+    "id": 133,
+    "kind": "poem",
+    "line": "83",
+    "text": "They straightened up;they agreed."
+  },
+  {
+    "id": 134,
+    "kind": "poem",
+    "line": "84",
+    "text": "A sheaf of straw they placed for me or . . ."
+  },
+  {
+    "id": 135,
+    "kind": "poem",
+    "line": "85",
+    "text": "I obliged; I sat upon it."
+  },
+  {
+    "id": 136,
+    "kind": "poem",
+    "line": "86",
+    "text": "\"Long life to the Fearless one!\""
+  },
+  {
+    "id": 137,
+    "kind": "poem",
+    "line": "87",
+    "text": "They said, \"I greet you, my lord, Wealth-of-the-People.\""
+  },
+  {
+    "id": 138,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 139,
+    "kind": "poem",
+    "line": "88",
+    "text": "\"You two women,"
+  },
+  {
+    "id": 140,
+    "kind": "poem",
+    "line": "89",
+    "text": "Consent and I will marry you.\""
+  },
+  {
+    "id": 141,
+    "kind": "poem",
+    "line": "90",
+    "text": "She refused, Nyakaandalo."
+  },
+  {
+    "id": 142,
+    "kind": "poem",
+    "line": "91",
+    "text": "She said, \"My lord, it is forbidden."
+  },
+  {
+    "id": 143,
+    "kind": "poem",
+    "line": "92",
+    "text": "Two women are not married beneath one sun."
+  },
+  {
+    "id": 144,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 145,
+    "kind": "poem",
+    "line": "92.1",
+    "text": " \tMarry my sister,"
+  },
+  {
+    "id": 146,
+    "kind": "poem",
+    "line": "93",
+    "text": "And I will come behind to bear a wedding gift."
+  },
+  {
+    "id": 147,
+    "kind": "poem",
+    "line": "94",
+    "text": "Or marry me,"
+  },
+  {
+    "id": 148,
+    "kind": "poem",
+    "line": "95",
+    "text": "And my sister will bear the gift.\""
+  },
+  {
+    "id": 149,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 150,
+    "kind": "poem",
+    "line": "96",
+    "text": "\"I shall marry you, Nyakaandalo!\""
+  },
+  {
+    "id": 151,
+    "kind": "poem",
+    "line": "97",
+    "text": "\"You man who'd marry me, who are you?"
+  },
+  {
+    "id": 152,
+    "kind": "poem",
+    "line": "98",
+    "text": "Before you I'm amazed."
+  },
+  {
+    "id": 153,
+    "kind": "poem",
+    "line": "98.1",
+    "text": " \t<i>In Kihanja if you are not a Hinda, my kings,</i>"
+  },
+  {
+    "id": 154,
+    "kind": "poem",
+    "line": "98.2",
+    "text": " \t<i>You are honored in Kabale as a Munkango.\"</i>"
+  },
+  {
+    "id": 155,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 156,
+    "kind": "poem",
+    "line": "99",
+    "text": "<i>\"Mother, our home is in Nsheshe.</i>"
+  },
+  {
+    "id": 157,
+    "kind": "poem",
+    "line": "100",
+    "text": "<i>Mother, our home is in Kailongo.</i>"
+  },
+  {
+    "id": 158,
+    "kind": "poem",
+    "line": "101",
+    "text": "<i>I come from Luhunga and Mugajwaale.</i>"
+  },
+  {
+    "id": 159,
+    "kind": "poem",
+    "line": "101.1",
+    "text": " \t<i>I come from Kakolonto and Kabwenge.</i>"
+  },
+  {
+    "id": 160,
+    "kind": "poem",
+    "line": "101.2",
+    "text": " \t<i>I am a child of unbroken wilderness.</i>"
+  },
+  {
+    "id": 161,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 162,
+    "kind": "poem",
+    "line": "102",
+    "text": "<i>My hair dulls any razor.</i>"
+  },
+  {
+    "id": 163,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 164,
+    "kind": "poem",
+    "line": "103",
+    "text": "<i>Hear! Spear of warriors</i>"
+  },
+  {
+    "id": 165,
+    "kind": "poem",
+    "line": "104",
+    "text": "<i>Hear! Spear of warriors</i>"
+  },
+  {
+    "id": 166,
+    "kind": "poem",
+    "line": "104.1",
+    "text": " \t<i>That kills on open ground.\"</i>"
+  },
+  {
+    "id": 167,
+    "kind": "poem",
+    "line": "104.2",
+    "text": " \tShe said, \"Father, you have married me, <i>Wealth-of-the-people</i>.\""
+  },
+  {
+    "id": 168,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 169,
+    "kind": "poem",
+    "line": "105",
+    "text": "I obliged, I married her."
+  },
+  {
+    "id": 170,
+    "kind": "poem",
+    "line": "106",
+    "text": "I secluded her four days."
+  },
+  {
+    "id": 171,
+    "kind": "poem",
+    "line": "107",
+    "text": "On the fifth the already married one emerged."
+  },
+  {
+    "id": 172,
+    "kind": "poem",
+    "line": "107.1",
+    "text": " \tOn the sixth I had embraced her . . ."
+  },
+  {
+    "id": 173,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 174,
+    "kind": "poem",
+    "line": "108",
+    "text": "I hear drums that stand at Nsheshe."
+  },
+  {
+    "id": 175,
+    "kind": "poem",
+    "line": "109",
+    "text": "I hear those that stand at Kailongo."
+  },
+  {
+    "id": 176,
+    "kind": "poem",
+    "line": "110",
+    "text": "I hear those of Luhunga."
+  },
+  {
+    "id": 177,
+    "kind": "poem",
+    "line": "111",
+    "text": "I hear those of Mugajwaale."
+  },
+  {
+    "id": 178,
+    "kind": "poem",
+    "line": "112",
+    "text": "I hear those of Kakoronto and Kabwenge."
+  },
+  {
+    "id": 179,
+    "kind": "poem",
+    "line": "113",
+    "text": "I hear those that stand in unbroken wilderness."
+  },
+  {
+    "id": 180,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 181,
+    "kind": "poem",
+    "line": "114",
+    "text": "I had embraced her lying on my back."
+  },
+  {
+    "id": 182,
+    "kind": "poem",
+    "line": "114.1",
+    "text": " \tShe said, \"My husband, what is it?\""
+  },
+  {
+    "id": 183,
+    "kind": "poem",
+    "line": "115",
+    "text": "\"I hear drums speak."
+  },
+  {
+    "id": 184,
+    "kind": "poem",
+    "line": "116",
+    "text": "Those that stand at Nsheshe,"
+  },
+  {
+    "id": 185,
+    "kind": "poem",
+    "line": "117",
+    "text": "Those that roar,"
+  },
+  {
+    "id": 186,
+    "kind": "poem",
+    "line": "117.1",
+    "text": " \tThey roar within me.\""
+  },
+  {
+    "id": 187,
+    "kind": "poem",
+    "line": "118",
+    "text": "He said, \"I must go to war."
+  },
+  {
+    "id": 188,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 189,
+    "kind": "poem",
+    "line": "119",
+    "text": "My wife, make up provisions.\""
+  },
+  {
+    "id": 190,
+    "kind": "poem",
+    "line": "120",
+    "text": "\"Provisions of what sort?"
+  },
+  {
+    "id": 191,
+    "kind": "poem",
+    "line": "121",
+    "text": "I did not come in marriage with a storage sack and seeds.\""
+  },
+  {
+    "id": 192,
+    "kind": "poem",
+    "line": "122",
+    "text": "\"Please go and grind some millet.\""
+  },
+  {
+    "id": 193,
+    "kind": "poem",
+    "line": "123",
+    "text": "She said, \"My lord, the grinding stone has dropped into it.\""
+  },
+  {
+    "id": 194,
+    "kind": "poem",
+    "line": "124",
+    "text": "\"Go dig my large white yam for me.\""
+  },
+  {
+    "id": 195,
+    "kind": "poem",
+    "line": "125",
+    "text": "\"The leafy stems outside are eaten by bugs."
+  },
+  {
+    "id": 196,
+    "kind": "poem",
+    "line": "125.1",
+    "text": " \tI found the root inside blocked off by solid rock.\""
+  },
+  {
+    "id": 197,
+    "kind": "poem",
+    "line": "126",
+    "text": "\"Go dig for me <i>enkongo </i>yams.\""
+  },
+  {
+    "id": 198,
+    "kind": "poem",
+    "line": "127",
+    "text": "\"My lord, I've cut and piled only rotten chunks.\""
+  },
+  {
+    "id": 199,
+    "kind": "poem",
+    "line": "128",
+    "text": "\"Hand me my bow.\""
+  },
+  {
+    "id": 200,
+    "kind": "poem",
+    "line": "129",
+    "text": "\"Provider, its string's been cut by rats.\""
+  },
+  {
+    "id": 201,
+    "kind": "poem",
+    "line": "130",
+    "text": "\"Hand it to me. I'll use banana bast."
+  },
+  {
+    "id": 202,
+    "kind": "poem",
+    "line": "131",
+    "text": "Hand me my spear.\""
+  },
+  {
+    "id": 203,
+    "kind": "poem",
+    "line": "132",
+    "text": "She said, \"Its shaft's been eaten away.\""
+  },
+  {
+    "id": 204,
+    "kind": "poem",
+    "line": "133",
+    "text": "\"Please hand me, Provider . . ."
+  },
+  {
+    "id": 205,
+    "kind": "poem",
+    "line": "134",
+    "text": "Hand me that calabash of mine.\""
+  },
+  {
+    "id": 206,
+    "kind": "poem",
+    "line": "135",
+    "text": "\"My lord, it's been taken over by a spider."
+  },
+  {
+    "id": 207,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 208,
+    "kind": "poem",
+    "line": "136",
+    "text": "Don't go! All, all signs foretell unnatural wonders.\""
+  },
+  {
+    "id": 209,
+    "kind": "poem",
+    "line": "136.1",
+    "text": " \t\"You, wife–you show experience in marriage.\""
+  },
+  {
+    "id": 210,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 211,
+    "kind": "poem",
+    "line": "137",
+    "text": "<i>He of Nsheshe and Kailongo,</i>"
+  },
+  {
+    "id": 212,
+    "kind": "poem",
+    "line": "138",
+    "text": "<i>In Luhunga he comes from Mugajwaale,</i>"
+  },
+  {
+    "id": 213,
+    "kind": "poem",
+    "line": "139",
+    "text": "<i>In Kakolonto he comes from Kabwenge.</i>"
+  },
+  {
+    "id": 214,
+    "kind": "poem",
+    "line": "139.1",
+    "text": " \t<i>Child of unbroken wilderness.</i>"
+  },
+  {
+    "id": 215,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 216,
+    "kind": "poem",
+    "line": "140",
+    "text": "He said, \"Hand me . .."
+  },
+  {
+    "id": 217,
+    "kind": "poem",
+    "line": "141",
+    "text": "I heard him break off a piece of cooked porridge and chew it."
+  },
+  {
+    "id": 218,
+    "kind": "poem",
+    "line": "141.1",
+    "text": " \tShe handed him his bow. He strung it with banana bast."
+  },
+  {
+    "id": 219,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 220,
+    "kind": "poem",
+    "line": "142",
+    "text": "When he left the forecourt,"
+  },
+  {
+    "id": 221,
+    "kind": "poem",
+    "line": "143",
+    "text": "\"My wife, I would recite my praise to you:"
+  },
+  {
+    "id": 222,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 223,
+    "kind": "poem",
+    "line": "144",
+    "text": "<i>For I married you but a few days ago,</i>"
+  },
+  {
+    "id": 224,
+    "kind": "poem",
+    "line": "145",
+    "text": "<i>And I have love for you and long to see your face.</i>"
+  },
+  {
+    "id": 225,
+    "kind": "poem",
+    "line": "146",
+    "text": "<i>Your name I have not yet pronounced.</i>"
+  },
+  {
+    "id": 226,
+    "kind": "poem",
+    "line": "146.1",
+    "text": " \t<i>You call me, 'Dear one'; I answer, 'Yes, dear one.'</i>"
+  },
+  {
+    "id": 227,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 228,
+    "kind": "poem",
+    "line": "147",
+    "text": "<i>When in your strength you cultivate,</i>"
+  },
+  {
+    "id": 229,
+    "kind": "poem",
+    "line": "148",
+    "text": "<i>If a small leaf should fall before you,</i>"
+  },
+  {
+    "id": 230,
+    "kind": "poem",
+    "line": "149",
+    "text": "Say this: 'If he did not make the first strike, surely he made the kill.'"
+  },
+  {
+    "id": 231,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 232,
+    "kind": "poem",
+    "line": "150",
+    "text": "<i>I go to war, the Buffalo.\"</i>"
+  },
+  {
+    "id": 233,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 234,
+    "kind": "poem",
+    "line": "151",
+    "text": "When he reached Lugongo field,"
+  },
+  {
+    "id": 235,
+    "kind": "poem",
+    "line": "152",
+    "text": "He took the road to Lutenge in Kashalala."
+  },
+  {
+    "id": 236,
+    "kind": "poem",
+    "line": "153",
+    "text": "In Lugongo he finds all the warriors."
+  },
+  {
+    "id": 237,
+    "kind": "poem",
+    "line": "153.1",
+    "text": " \tTheir shields, my lord, they'd walled together."
+  },
+  {
+    "id": 238,
+    "kind": "poem",
+    "line": "154",
+    "text": "He obliged. He taunted one out."
+  },
+  {
+    "id": 239,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 240,
+    "kind": "poem",
+    "line": "155",
+    "text": "The man there wanted blood brotherhood with him."
+  },
+  {
+    "id": 241,
+    "kind": "poem",
+    "line": "155.1",
+    "text": " \tHe said, \"Long life to the Fearless one!\""
+  },
+  {
+    "id": 242,
+    "kind": "poem",
+    "line": "156",
+    "text": "He said, \"You've already fallen, 'Long life to the Fearless one!'\""
+  },
+  {
+    "id": 243,
+    "kind": "poem",
+    "line": "156.1",
+    "text": " \tHe said, \"The sun arose on your misfortune!\""
+  },
+  {
+    "id": 244,
+    "kind": "poem",
+    "line": "157",
+    "text": "He said, \"In peace, I awoke in peace.\""
+  },
+  {
+    "id": 245,
+    "kind": "poem",
+    "line": "158",
+    "text": "He taunted one out, the Buffalo."
+  },
+  {
+    "id": 246,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 247,
+    "kind": "poem",
+    "line": "159",
+    "text": "He killed, he boasted of him."
+  },
+  {
+    "id": 248,
+    "kind": "poem",
+    "line": "160",
+    "text": "The second, he boasted of him."
+  },
+  {
+    "id": 249,
+    "kind": "poem",
+    "line": "161",
+    "text": "The third, he boasted of him."
+  },
+  {
+    "id": 250,
+    "kind": "poem",
+    "line": "162",
+    "text": "The fourth, he sat down upon."
+  },
+  {
+    "id": 251,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 252,
+    "kind": "poem",
+    "line": "163",
+    "text": "When he stood up,"
+  },
+  {
+    "id": 253,
+    "kind": "poem",
+    "line": "163.1",
+    "text": " \tHe used his tobacco."
+  },
+  {
+    "id": 254,
+    "kind": "poem",
+    "line": "163.2",
+    "text": " \tHe used his packet of coffee berries."
+  },
+  {
+    "id": 255,
+    "kind": "poem",
+    "line": "164",
+    "text": "He stood up to fight, <i>the Buffalo</i>."
+  },
+  {
+    "id": 256,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 257,
+    "kind": "poem",
+    "line": "164.1",
+    "text": " \tAt that place, there was a little man."
+  },
+  {
+    "id": 258,
+    "kind": "poem",
+    "line": "165",
+    "text": "The little man had tied a cloak of barkcloth on."
+  },
+  {
+    "id": 259,
+    "kind": "poem",
+    "line": "166",
+    "text": "His bow, a<i> Hits-not-cattle</i>plant,"
+  },
+  {
+    "id": 260,
+    "kind": "poem",
+    "line": "166.1",
+    "text": " \tAnd he'd strung it with banana bast."
+  },
+  {
+    "id": 261,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 262,
+    "kind": "poem",
+    "line": "167",
+    "text": "He obliged and called out to him."
+  },
+  {
+    "id": 263,
+    "kind": "poem",
+    "line": "168",
+    "text": "\"You man, the light-skinned one, you!"
+  },
+  {
+    "id": 264,
+    "kind": "poem",
+    "line": "169",
+    "text": "<i>In Kihanja if you are not a Hinda,</i>"
+  },
+  {
+    "id": 265,
+    "kind": "poem",
+    "line": "169.1",
+    "text": " \t<i>You'll be honored in Kabale as a Munkango.</i>"
+  },
+  {
+    "id": 266,
+    "kind": "poem",
+    "line": "170",
+    "text": "Flee my bow."
+  },
+  {
+    "id": 267,
+    "kind": "poem",
+    "line": "171",
+    "text": "Let me not sire misfortune for you."
+  },
+  {
+    "id": 268,
+    "kind": "poem",
+    "line": "172",
+    "text": "Let me not sire misfortune for you.\""
+  },
+  {
+    "id": 269,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 270,
+    "kind": "poem",
+    "line": "173",
+    "text": "He refused,<i> the Spear of warriors</i>."
+  },
+  {
+    "id": 271,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 272,
+    "kind": "poem",
+    "line": "174",
+    "text": "He's gone, he's let one fly."
+  },
+  {
+    "id": 273,
+    "kind": "poem",
+    "line": "175",
+    "text": "He's pierced his breast."
+  },
+  {
+    "id": 274,
+    "kind": "poem",
+    "line": "176",
+    "text": "The warrior he was, Kachwenyanja,"
+  },
+  {
+    "id": 275,
+    "kind": "poem",
+    "line": "176.1",
+    "text": " \tHe plucked it out; he sucked the wound!"
+  },
+  {
+    "id": 276,
+    "kind": "poem",
+    "line": "177",
+    "text": "He said, \"Hindas, I've been bitten by a dog."
+  },
+  {
+    "id": 277,
+    "kind": "poem",
+    "line": "178",
+    "text": "Just let me go and cut the little man in two.\""
+  },
+  {
+    "id": 278,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 279,
+    "kind": "poem",
+    "line": "179",
+    "text": "When Kachwenyanja tried to cut the little man,"
+  },
+  {
+    "id": 280,
+    "kind": "poem",
+    "line": "180",
+    "text": "The little one cut his throat. It spilled out on the ground."
+  },
+  {
+    "id": 281,
+    "kind": "poem",
+    "line": "181",
+    "text": "He killed him on white earth."
+  },
+  {
+    "id": 282,
+    "kind": "poem",
+    "line": "182",
+    "text": "He rolled him in blackened grass."
+  },
+  {
+    "id": 283,
+    "kind": "poem",
+    "line": "183",
+    "text": "He killed him on white earth."
+  },
+  {
+    "id": 284,
+    "kind": "poem",
+    "line": "183.1",
+    "text": " \tHe rolled him in blackened grass."
+  },
+  {
+    "id": 285,
+    "kind": "poem",
+    "line": "184",
+    "text": "The Muhamba cut his right hand off."
+  },
+  {
+    "id": 286,
+    "kind": "poem",
+    "line": "184.1",
+    "text": " \tI saw that deed the Muganguzi warriors do."
+  },
+  {
+    "id": 287,
+    "kind": "poem",
+    "line": "185",
+    "text": "Weyeyeyeye"
+  },
+  {
+    "id": 288,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 289,
+    "kind": "poem",
+    "line": "186",
+    "text": "In that place he'd left behind"
+  },
+  {
+    "id": 290,
+    "kind": "poem",
+    "line": "187",
+    "text": "His wife has a maidservant."
+  },
+  {
+    "id": 291,
+    "kind": "poem",
+    "line": "188",
+    "text": "His wife has I-laugh-knowingly."
+  },
+  {
+    "id": 292,
+    "kind": "poem",
+    "line": "188.1",
+    "text": " \tI answer, \"Mother, knowledge is within.\""
+  },
+  {
+    "id": 293,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 294,
+    "kind": "poem",
+    "line": "189",
+    "text": "She said, \"Go and receive my husband."
+  },
+  {
+    "id": 295,
+    "kind": "poem",
+    "line": "189.1",
+    "text": " \tHe's gone to Lugongo.\""
+  },
+  {
+    "id": 296,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 297,
+    "kind": "poem",
+    "line": "189.2",
+    "text": " \tShe pressed out sweet banana mash."
+  },
+  {
+    "id": 298,
+    "kind": "poem",
+    "line": "189.3",
+    "text": " \tShe brought fire for his pipe."
+  },
+  {
+    "id": 299,
+    "kind": "poem",
+    "line": "190",
+    "text": "A packet of coffee berries . . ."
+  },
+  {
+    "id": 300,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 301,
+    "kind": "poem",
+    "line": "191",
+    "text": "When Nyakaandalo came to Lugongo,"
+  },
+  {
+    "id": 302,
+    "kind": "poem",
+    "line": "192",
+    "text": "She met Kabwengo."
+  },
+  {
+    "id": 303,
+    "kind": "poem",
+    "line": "193",
+    "text": "\"My lord, you've travelled far!\""
+  },
+  {
+    "id": 304,
+    "kind": "poem",
+    "line": "194",
+    "text": "She said, \"My lord, you've travelled far!"
+  },
+  {
+    "id": 305,
+    "kind": "poem",
+    "line": "195",
+    "text": "Direct me to my husband.\""
+  },
+  {
+    "id": 306,
+    "kind": "poem",
+    "line": "196",
+    "text": "\"My lady, he's there in the rear, herding the plunder."
+  },
+  {
+    "id": 307,
+    "kind": "poem",
+    "line": "196.1",
+    "text": " \tBe assured: If he did not make the first strike, surely he made the kill.\""
+  },
+  {
+    "id": 308,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 309,
+    "kind": "poem",
+    "line": "197",
+    "text": "She went further and met Nkunzile."
+  },
+  {
+    "id": 310,
+    "kind": "poem",
+    "line": "197.1",
+    "text": " \tShe said, \"Father, you've travelled far!"
+  },
+  {
+    "id": 311,
+    "kind": "poem",
+    "line": "198",
+    "text": "Direct me to my husband, <i>the Buffalo</i>.\""
+  },
+  {
+    "id": 312,
+    "kind": "poem",
+    "line": "199",
+    "text": "He said, \"He's in the rear herding plunder of war.\""
+  },
+  {
+    "id": 313,
+    "kind": "poem",
+    "line": "199.1",
+    "text": " \tHe said, \"If he did not make the first strike, surely he made the kill.\""
+  },
+  {
+    "id": 314,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 315,
+    "kind": "poem",
+    "line": "200",
+    "text": "Bad news is brought by a traveller."
+  },
+  {
+    "id": 316,
+    "kind": "poem",
+    "line": "201",
+    "text": "She went further and met a Muziba."
+  },
+  {
+    "id": 317,
+    "kind": "poem",
+    "line": "202",
+    "text": "They'd fled. He'd fallen behind."
+  },
+  {
+    "id": 318,
+    "kind": "poem",
+    "line": "202.1",
+    "text": " \tHe wiped sweat from his face."
+  },
+  {
+    "id": 319,
+    "kind": "poem",
+    "line": "203",
+    "text": "\"You, man, you've travelled far!\""
+  },
+  {
+    "id": 320,
+    "kind": "poem",
+    "line": "204",
+    "text": "She said, \"You've travelled far, Provider!"
+  },
+  {
+    "id": 321,
+    "kind": "poem",
+    "line": "205",
+    "text": "Direct me to my husband.\""
+  },
+  {
+    "id": 322,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 323,
+    "kind": "poem",
+    "line": "206",
+    "text": "He said, \"What does your husband look like?\""
+  },
+  {
+    "id": 324,
+    "kind": "poem",
+    "line": "207",
+    "text": "\"He has sideburns and a beard."
+  },
+  {
+    "id": 325,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 326,
+    "kind": "poem",
+    "line": "208",
+    "text": "<i>He of Nsheshe came from Kailongo,</i>"
+  },
+  {
+    "id": 327,
+    "kind": "poem",
+    "line": "208.1",
+    "text": " \t<i>In Luhunga he came from Mugajwaale,</i>"
+  },
+  {
+    "id": 328,
+    "kind": "poem",
+    "line": "209",
+    "text": "<i>He of Kakolonto and Kabwenge.</i>"
+  },
+  {
+    "id": 329,
+    "kind": "poem",
+    "line": "209.1",
+    "text": " \t<i>A child of the unbroken wilderness.\"</i>"
+  },
+  {
+    "id": 330,
+    "kind": "cue",
+    "line": "0",
+    "text": "\t[Stop to change recording tape]"
+  },
+  {
+    "id": 331,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 332,
+    "kind": "poem",
+    "line": "210",
+    "text": "He said, \"They have killed your husband!"
+  },
+  {
+    "id": 333,
+    "kind": "poem",
+    "line": "211",
+    "text": "They killed him on white earth."
+  },
+  {
+    "id": 334,
+    "kind": "poem",
+    "line": "211.1",
+    "text": " \tThey rolled him in blackened grass."
+  },
+  {
+    "id": 335,
+    "kind": "poem",
+    "line": "212",
+    "text": "They have killed him. They have killed him."
+  },
+  {
+    "id": 336,
+    "kind": "poem",
+    "line": "213",
+    "text": "He was killed by a little man whose cloak was barkcloth."
+  },
+  {
+    "id": 337,
+    "kind": "poem",
+    "line": "214",
+    "text": "He killed him on white earth."
+  },
+  {
+    "id": 338,
+    "kind": "poem",
+    "line": "215",
+    "text": "He rolled him in blackened grass."
+  },
+  {
+    "id": 339,
+    "kind": "poem",
+    "line": "216",
+    "text": "The Muhamba cut his right hand off."
+  },
+  {
+    "id": 340,
+    "kind": "poem",
+    "line": "216.1",
+    "text": " \tI saw that deed the Muganguzi warriors do."
+  },
+  {
+    "id": 341,
+    "kind": "poem",
+    "line": "217",
+    "text": "When it did not oblige he took his penis for a trophy.\""
+  },
+  {
+    "id": 342,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 343,
+    "kind": "poem",
+    "line": "218",
+    "text": "She said, \"What shall I do?\""
+  },
+  {
+    "id": 344,
+    "kind": "poem",
+    "line": "219",
+    "text": "She wailed but once."
+  },
+  {
+    "id": 345,
+    "kind": "poem",
+    "line": "220",
+    "text": "The people of Lutenge up above could not hear her."
+  },
+  {
+    "id": 346,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 347,
+    "kind": "poem",
+    "line": "221",
+    "text": "She said, \"My kings!\""
+  },
+  {
+    "id": 348,
+    "kind": "poem",
+    "line": "222",
+    "text": "She said, \"I ground millet"
+  },
+  {
+    "id": 349,
+    "kind": "poem",
+    "line": "223",
+    "text": "Women grind millet,"
+  },
+  {
+    "id": 350,
+    "kind": "poem",
+    "line": "223.1",
+    "text": " \tMy kings"
+  },
+  {
+    "id": 351,
+    "kind": "poem",
+    "line": "223.2",
+    "text": " \tBut I sit at the rocky outcrop,"
+  },
+  {
+    "id": 352,
+    "kind": "poem",
+    "line": "223.3",
+    "text": " \tI grind sorcery!\""
+  },
+  {
+    "id": 353,
+    "kind": "poem",
+    "line": "224",
+    "text": "She said, \"They 'do' themselves with herbs."
+  },
+  {
+    "id": 354,
+    "kind": "poem",
+    "line": "225",
+    "text": "But today I 'did' myself with the Destroyer!"
+  },
+  {
+    "id": 355,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 356,
+    "kind": "poem",
+    "line": "226",
+    "text": "<i>Hear! Spear of warriors,</i>"
+  },
+  {
+    "id": 357,
+    "kind": "poem",
+    "line": "227",
+    "text": "<i>Hear! That kills on open ground,</i>"
+  },
+  {
+    "id": 358,
+    "kind": "poem",
+    "line": "227.1",
+    "text": " \t<i>He rolls them in blackened grass.\"</i>"
+  },
+  {
+    "id": 359,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 360,
+    "kind": "poem",
+    "line": "228",
+    "text": "She said, \"My child, break open the provisions,\""
+  },
+  {
+    "id": 361,
+    "kind": "poem",
+    "line": "229",
+    "text": "She said, \"And the coffee berries scatter.\""
+  },
+  {
+    "id": 362,
+    "kind": "poem",
+    "line": "230",
+    "text": "She said, \"Scatter, scatter!\""
+  },
+  {
+    "id": 363,
+    "kind": "poem",
+    "line": "231",
+    "text": "She said, \"Scatter."
+  },
+  {
+    "id": 364,
+    "kind": "poem",
+    "line": "231.1",
+    "text": " \tFrom inside me I am driven to revenge.\""
+  },
+  {
+    "id": 365,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 366,
+    "kind": "poem",
+    "line": "232",
+    "text": "She said, \"<i>My husband died as one,</i>"
+  },
+  {
+    "id": 367,
+    "kind": "poem",
+    "line": "232.1",
+    "text": " \t<i>But he'll make nine go along.</i>"
+  },
+  {
+    "id": 368,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 369,
+    "kind": "poem",
+    "line": "233",
+    "text": "Shave a line around my head."
+  },
+  {
+    "id": 370,
+    "kind": "poem",
+    "line": "233.1",
+    "text": " \tI'll be a young woman.\""
+  },
+  {
+    "id": 371,
+    "kind": "poem",
+    "line": "234",
+    "text": "She said, \"No, Mother, you've matured."
+  },
+  {
+    "id": 372,
+    "kind": "poem",
+    "line": "235",
+    "text": "Let me cut a full circle."
+  },
+  {
+    "id": 373,
+    "kind": "poem",
+    "line": "236",
+    "text": "Take your walking staff the <i>Prattling one</i>.\""
+  },
+  {
+    "id": 374,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 375,
+    "kind": "poem",
+    "line": "237",
+    "text": "She said, \"Rub butterfat on like water,\""
+  },
+  {
+    "id": 376,
+    "kind": "poem",
+    "line": "238",
+    "text": "She said, \"Rub butterfat on like water,\""
+  },
+  {
+    "id": 377,
+    "kind": "poem",
+    "line": "239",
+    "text": "She said, \"Enough to make your leather skirt cling.\""
+  },
+  {
+    "id": 378,
+    "kind": "poem",
+    "line": "240",
+    "text": "She said, \"We go to Ihangiro to take revenge.\""
+  },
+  {
+    "id": 379,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 380,
+    "kind": "poem",
+    "line": "241",
+    "text": "She said, \"<i>He died as one.\"</i>"
+  },
+  {
+    "id": 381,
+    "kind": "poem",
+    "line": "242",
+    "text": "She said, \"<i>The man will take along nine.\"</i>"
+  },
+  {
+    "id": 382,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 383,
+    "kind": "cue",
+    "line": "0",
+    "text": "\t[Interruption–bard adjusts calabash resonator]\t"
+  },
+  {
+    "id": 384,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 385,
+    "kind": "poem",
+    "line": "243",
+    "text": "She said, \"<i>He died as one.</i>"
+  },
+  {
+    "id": 386,
+    "kind": "poem",
+    "line": "243.1",
+    "text": " \t<i>In Ihangiro may he make nine go along.\"</i>"
+  },
+  {
+    "id": 387,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 388,
+    "kind": "poem",
+    "line": "244",
+    "text": "When I came to Lugongo,"
+  },
+  {
+    "id": 389,
+    "kind": "poem",
+    "line": "245",
+    "text": "The place they killed my man,"
+  },
+  {
+    "id": 390,
+    "kind": "poem",
+    "line": "246",
+    "text": "I broke off a twig."
+  },
+  {
+    "id": 391,
+    "kind": "poem",
+    "line": "247",
+    "text": "I cast it on him."
+  },
+  {
+    "id": 392,
+    "kind": "poem",
+    "line": "247.1",
+    "text": " \tI said, \"My husband, I leave you buried."
+  },
+  {
+    "id": 393,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 394,
+    "kind": "poem",
+    "line": "248",
+    "text": "<i>Although you died as one,</i>"
+  },
+  {
+    "id": 395,
+    "kind": "poem",
+    "line": "248.1",
+    "text": " \t<i>In Ihangiro I'll make nine go with you.\"</i>"
+  },
+  {
+    "id": 396,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 397,
+    "kind": "poem",
+    "line": "249",
+    "text": "I straight away took the Lugongo road,"
+  },
+  {
+    "id": 398,
+    "kind": "poem",
+    "line": "250",
+    "text": "I met a man there guarding cattle."
+  },
+  {
+    "id": 399,
+    "kind": "poem",
+    "line": "250.1",
+    "text": " \tHe said, \"Woman, I–Wealth-of-the-people–have married you.\""
+  },
+  {
+    "id": 400,
+    "kind": "poem",
+    "line": "251",
+    "text": "\"Before that, begin: recite me your self-praise.\""
+  },
+  {
+    "id": 401,
+    "kind": "poem",
+    "line": "252",
+    "text": "Eeyoo"
+  },
+  {
+    "id": 402,
+    "kind": "poem",
+    "line": "253",
+    "text": "He said, \"<i>I killed an antelope, the Pulverizer of the wilderness.\"</i>"
+  },
+  {
+    "id": 403,
+    "kind": "poem",
+    "line": "254",
+    "text": "She said, \"Stop right there. We are prohibited.\""
+  },
+  {
+    "id": 404,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 405,
+    "kind": "poem",
+    "line": "255",
+    "text": "I took the Kyandai road."
+  },
+  {
+    "id": 406,
+    "kind": "poem",
+    "line": "256",
+    "text": "I meet a man guarding cattle."
+  },
+  {
+    "id": 407,
+    "kind": "poem",
+    "line": "257",
+    "text": "\"Woman, I would marry you.\""
+  },
+  {
+    "id": 408,
+    "kind": "poem",
+    "line": "258",
+    "text": "\"Before that, begin: recite me your self-praise.\""
+  },
+  {
+    "id": 409,
+    "kind": "poem",
+    "line": "259",
+    "text": "<i>\"I killed a buffalo, Great curved horn, the Hanging-noose.\"</i>"
+  },
+  {
+    "id": 410,
+    "kind": "poem",
+    "line": "260",
+    "text": "She said, \"Stop right there. We are prohibited.\""
+  },
+  {
+    "id": 411,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 412,
+    "kind": "poem",
+    "line": "261",
+    "text": "I took the road."
+  },
+  {
+    "id": 413,
+    "kind": "poem",
+    "line": "262",
+    "text": "I go. I sight the setting sun."
+  },
+  {
+    "id": 414,
+    "kind": "poem",
+    "line": "263",
+    "text": "When I arrived in Nshamba village of Igabilo,"
+  },
+  {
+    "id": 415,
+    "kind": "poem",
+    "line": "264",
+    "text": "I meet a man there guarding cattle."
+  },
+  {
+    "id": 416,
+    "kind": "poem",
+    "line": "265",
+    "text": "\"Woman, I–<i>Wealth-of-the-people</i>– have married you.\""
+  },
+  {
+    "id": 417,
+    "kind": "poem",
+    "line": "265.1",
+    "text": " \tShe said, \"Before that, begin: recite me your self-praise.\""
+  },
+  {
+    "id": 418,
+    "kind": "poem",
+    "line": "266",
+    "text": "<i>\"I killed an elephant, Elder of the wilderness.\"</i>"
+  },
+  {
+    "id": 419,
+    "kind": "poem",
+    "line": "267",
+    "text": "I said, \"Stop right there. We are prohibited.\""
+  },
+  {
+    "id": 420,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 421,
+    "kind": "poem",
+    "line": "268",
+    "text": "I sighted the direction of Kabale."
+  },
+  {
+    "id": 422,
+    "kind": "poem",
+    "line": "269",
+    "text": "<i>The Kabale's in Ihangiro kingdom are many.</i>"
+  },
+  {
+    "id": 423,
+    "kind": "poem",
+    "line": "270",
+    "text": "<i>There is Kabale of Mwamaali,</i>"
+  },
+  {
+    "id": 424,
+    "kind": "poem",
+    "line": "271",
+    "text": "<i>The Fearless Hunter of Migongo.</i>"
+  },
+  {
+    "id": 425,
+    "kind": "poem",
+    "line": "272",
+    "text": "<i>It's not a belt that they can tie around the waist.</i>"
+  },
+  {
+    "id": 426,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 427,
+    "kind": "poem",
+    "line": "273",
+    "text": "By then the cattle were all returning."
+  },
+  {
+    "id": 428,
+    "kind": "poem",
+    "line": "274",
+    "text": "I meet a man."
+  },
+  {
+    "id": 429,
+    "kind": "poem",
+    "line": "275",
+    "text": "His cloak was barkcloth."
+  },
+  {
+    "id": 430,
+    "kind": "poem",
+    "line": "276",
+    "text": "\"Woman, I –<i>Wealth-of-the-people– have married you.\"</i>"
+  },
+  {
+    "id": 431,
+    "kind": "poem",
+    "line": "277",
+    "text": "\"Before that, begin: recite me your self-praise.\""
+  },
+  {
+    "id": 432,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 433,
+    "kind": "poem",
+    "line": "278",
+    "text": "<i>[false start]</i>"
+  },
+  {
+    "id": 434,
+    "kind": "poem",
+    "line": "279",
+    "text": "<i>He said, \"Yesterday at Lugongo,</i>"
+  },
+  {
+    "id": 435,
+    "kind": "poem",
+    "line": "280",
+    "text": "<i>I killed a man with fair skin.</i>"
+  },
+  {
+    "id": 436,
+    "kind": "poem",
+    "line": "281",
+    "text": "<i>He had sideburns and he had a beard.</i>"
+  },
+  {
+    "id": 437,
+    "kind": "poem",
+    "line": "282",
+    "text": "<i>His name is Kachwenyanja.</i>"
+  },
+  {
+    "id": 438,
+    "kind": "poem",
+    "line": "282.1",
+    "text": " \t<i>Hail! Spear of warriors.</i>"
+  },
+  {
+    "id": 439,
+    "kind": "poem",
+    "line": "283",
+    "text": "<i>I killed him on white earth.</i>"
+  },
+  {
+    "id": 440,
+    "kind": "poem",
+    "line": "283.1",
+    "text": " \t<i>I rolled him in blackened grass.\"</i>"
+  },
+  {
+    "id": 441,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 442,
+    "kind": "poem",
+    "line": "284",
+    "text": "\"Hear! Spear of warriors."
+  },
+  {
+    "id": 443,
+    "kind": "poem",
+    "line": "285",
+    "text": "You, man, it's you.\""
+  },
+  {
+    "id": 444,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 445,
+    "kind": "poem",
+    "line": "286",
+    "text": "He said, \"<i>I killed and took from him a trophy.\"</i>"
+  },
+  {
+    "id": 446,
+    "kind": "poem",
+    "line": "287",
+    "text": "She said, \"Now you've married me and you've truly possessed me too.\""
+  },
+  {
+    "id": 448,
+    "kind": "poem",
+    "line": "288",
+    "text": "He obliged and married me."
+  },
+  {
+    "id": 449,
+    "kind": "poem",
+    "line": "289",
+    "text": "He secluded me two days"
+  },
+  {
+    "id": 450,
+    "kind": "poem",
+    "line": "290",
+    "text": "And two make four."
+  },
+  {
+    "id": 451,
+    "kind": "poem",
+    "line": "291",
+    "text": "On the fifth the divorcee emerged."
+  },
+  {
+    "id": 452,
+    "kind": "poem",
+    "line": "292",
+    "text": "He said, \"I –Wealth-of-the-people–have married you.\""
+  },
+  {
+    "id": 453,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 454,
+    "kind": "poem",
+    "line": "293",
+    "text": "When he saw I had emerged . . ."
+  },
+  {
+    "id": 455,
+    "kind": "poem",
+    "line": "294",
+    "text": "In Ihangiro you know how they drink . . ."
+  },
+  {
+    "id": 456,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 457,
+    "kind": "poem",
+    "line": "295",
+    "text": "I said, \"My husband . . .\""
+  },
+  {
+    "id": 458,
+    "kind": "poem",
+    "line": "295.1",
+    "text": " \t\"You, young girl . . .\""
+  },
+  {
+    "id": 459,
+    "kind": "poem",
+    "line": "295.2",
+    "text": " \t\"My husband . . .\""
+  },
+  {
+    "id": 460,
+    "kind": "poem",
+    "line": "296",
+    "text": "She said (within), \"His memory is becoming lost to me."
+  },
+  {
+    "id": 461,
+    "kind": "poem",
+    "line": "296.1",
+    "text": " \tThis day I want revenge.\""
+  },
+  {
+    "id": 462,
+    "kind": "poem",
+    "line": "297",
+    "text": "She said (within), \"I want revenge.\""
+  },
+  {
+    "id": 463,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 464,
+    "kind": "poem",
+    "line": "298",
+    "text": "We went out among the weeds (to cultivate)."
+  },
+  {
+    "id": 465,
+    "kind": "poem",
+    "line": "299",
+    "text": "I took my knife."
+  },
+  {
+    "id": 466,
+    "kind": "poem",
+    "line": "299.1",
+    "text": " \tI sharpened it."
+  },
+  {
+    "id": 467,
+    "kind": "poem",
+    "line": "299.2",
+    "text": " \tI tried it."
+  },
+  {
+    "id": 468,
+    "kind": "poem",
+    "line": "299.3",
+    "text": " \tThe banana tree fell with a single blow."
+  },
+  {
+    "id": 469,
+    "kind": "poem",
+    "line": "300",
+    "text": "From the stump I removed the pith."
+  },
+  {
+    "id": 470,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 471,
+    "kind": "poem",
+    "line": "301",
+    "text": "He'd gone for beer."
+  },
+  {
+    "id": 472,
+    "kind": "poem",
+    "line": "302",
+    "text": "And he came home having drunk it."
+  },
+  {
+    "id": 473,
+    "kind": "poem",
+    "line": "303",
+    "text": "He was a cattle herder."
+  },
+  {
+    "id": 474,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 475,
+    "kind": "poem",
+    "line": "304",
+    "text": "I obliged; I washed his feet."
+  },
+  {
+    "id": 476,
+    "kind": "poem",
+    "line": "305",
+    "text": "I served out food; we ate."
+  },
+  {
+    "id": 477,
+    "kind": "poem",
+    "line": "306",
+    "text": "I rubbed him with oil."
+  },
+  {
+    "id": 478,
+    "kind": "cue",
+    "line": "0",
+    "text": "\t He lay completely down."
+  },
+  {
+    "id": 479,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 480,
+    "kind": "poem",
+    "line": "307",
+    "text": "I lay down, I followed him."
+  },
+  {
+    "id": 481,
+    "kind": "poem",
+    "line": "308",
+    "text": "I revealed to him <i>the grasshopper</i>"
+  },
+  {
+    "id": 482,
+    "kind": "poem",
+    "line": "309",
+    "text": "<i>That has waves like a lake.</i>"
+  },
+  {
+    "id": 483,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 484,
+    "kind": "poem",
+    "line": "310",
+    "text": "When languor carried him away,"
+  },
+  {
+    "id": 485,
+    "kind": "poem",
+    "line": "311",
+    "text": "And he'd been ushered off by snoring,"
+  },
+  {
+    "id": 486,
+    "kind": "poem",
+    "line": "312",
+    "text": "I raised him up."
+  },
+  {
+    "id": 487,
+    "kind": "poem",
+    "line": "312.1",
+    "text": " \tThe voice box I slashed."
+  },
+  {
+    "id": 488,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 489,
+    "kind": "poem",
+    "line": "313",
+    "text": "When dawn arose,"
+  },
+  {
+    "id": 490,
+    "kind": "poem",
+    "line": "314",
+    "text": "I said to his brothers,"
+  },
+  {
+    "id": 491,
+    "kind": "poem",
+    "line": "315",
+    "text": "\"In Ihangiro is this how you drink?"
+  },
+  {
+    "id": 492,
+    "kind": "poem",
+    "line": "316",
+    "text": "My man went for beer yesterday,"
+  },
+  {
+    "id": 493,
+    "kind": "poem",
+    "line": "316.1",
+    "text": " \tAnd I slept with the plantain pot."
+  },
+  {
+    "id": 494,
+    "kind": "poem",
+    "line": "317",
+    "text": "If he's still gone today, come look in on me.\""
+  },
+  {
+    "id": 495,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 496,
+    "kind": "poem",
+    "line": "318",
+    "text": "While I was there"
+  },
+  {
+    "id": 497,
+    "kind": "poem",
+    "line": "318.1",
+    "text": " \tI was surprised to see my sister-in-law."
+  },
+  {
+    "id": 498,
+    "kind": "poem",
+    "line": "319",
+    "text": "Sister-in-law paid me a visit."
+  },
+  {
+    "id": 499,
+    "kind": "poem",
+    "line": "320",
+    "text": "I said, \"Is this how your brother drinks?"
+  },
+  {
+    "id": 500,
+    "kind": "poem",
+    "line": "321",
+    "text": "They say it'll be two days before he comes.\""
+  },
+  {
+    "id": 501,
+    "kind": "poem",
+    "line": "322",
+    "text": "Sister-in-law said, \"I'll be going now.\""
+  },
+  {
+    "id": 502,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 503,
+    "kind": "poem",
+    "line": "323",
+    "text": "While I was there"
+  },
+  {
+    "id": 504,
+    "kind": "poem",
+    "line": "324",
+    "text": "I was surprised by his brother at dusk."
+  },
+  {
+    "id": 505,
+    "kind": "poem",
+    "line": "325",
+    "text": "\"Come look in on me, child.\""
+  },
+  {
+    "id": 506,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 507,
+    "kind": "poem",
+    "line": "326",
+    "text": "I made the bed and we lay in it."
+  },
+  {
+    "id": 508,
+    "kind": "poem",
+    "line": "327",
+    "text": "I revealed to him <i>the grasshopper</i>"
+  },
+  {
+    "id": 509,
+    "kind": "poem",
+    "line": "328",
+    "text": "<i>That has waves like a lake.</i>"
+  },
+  {
+    "id": 510,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 511,
+    "kind": "poem",
+    "line": "329",
+    "text": "When languor carried him away,"
+  },
+  {
+    "id": 512,
+    "kind": "poem",
+    "line": "330",
+    "text": "And I saw him ushered off by snoring,"
+  },
+  {
+    "id": 513,
+    "kind": "poem",
+    "line": "331",
+    "text": "I raised him up."
+  },
+  {
+    "id": 514,
+    "kind": "poem",
+    "line": "331.1",
+    "text": " \tThe voice box I slashed."
+  },
+  {
+    "id": 515,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 516,
+    "kind": "poem",
+    "line": "332",
+    "text": "Again I said to his brothers at dawn,"
+  },
+  {
+    "id": 517,
+    "kind": "poem",
+    "line": "333",
+    "text": "\"Is this how you drink in Ihangiro?"
+  },
+  {
+    "id": 518,
+    "kind": "poem",
+    "line": "334",
+    "text": "My man went two days ago for beer."
+  },
+  {
+    "id": 519,
+    "kind": "poem",
+    "line": "334.1",
+    "text": " \tChild, the plantain pots are four."
+  },
+  {
+    "id": 520,
+    "kind": "poem",
+    "line": "335",
+    "text": "If he's still gone today, come look in on us,"
+  },
+  {
+    "id": 521,
+    "kind": "poem",
+    "line": "336",
+    "text": "Or leave us alone–we'll go back."
+  },
+  {
+    "id": 522,
+    "kind": "poem",
+    "line": "337",
+    "text": "We are two women here.\""
+  },
+  {
+    "id": 523,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 524,
+    "kind": "poem",
+    "line": "338",
+    "text": "He said, \"Don't be a bit concerned."
+  },
+  {
+    "id": 525,
+    "kind": "poem",
+    "line": "339",
+    "text": "In Ihangiro we have cow byres on Buligi island."
+  },
+  {
+    "id": 526,
+    "kind": "poem",
+    "line": "340",
+    "text": "He's ruled by desire for his divorcee."
+  },
+  {
+    "id": 527,
+    "kind": "poem",
+    "line": "341",
+    "text": "He's sure to be at Buligi of Mwoogo."
+  },
+  {
+    "id": 528,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 529,
+    "kind": "poem",
+    "line": "342",
+    "text": "If he doesn't bring you a cow that's calfed,"
+  },
+  {
+    "id": 530,
+    "kind": "poem",
+    "line": "342.1",
+    "text": " \tHe won't fail to bring you one for slaughter.\""
+  },
+  {
+    "id": 531,
+    "kind": "poem",
+    "line": "343",
+    "text": "\"If he's still gone today, come look in on me.\""
+  },
+  {
+    "id": 532,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 533,
+    "kind": "poem",
+    "line": "344",
+    "text": "They obliged and both came."
+  },
+  {
+    "id": 534,
+    "kind": "poem",
+    "line": "345",
+    "text": "On that day,"
+  },
+  {
+    "id": 535,
+    "kind": "poem",
+    "line": "346",
+    "text": "Again my sister-in-law paid a visit."
+  },
+  {
+    "id": 536,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 537,
+    "kind": "poem",
+    "line": "347",
+    "text": "When the brothers had come,"
+  },
+  {
+    "id": 538,
+    "kind": "poem",
+    "line": "347.1",
+    "text": " \tOne lay with I-laugh-knowingly,"
+  },
+  {
+    "id": 539,
+    "kind": "poem",
+    "line": "347.2",
+    "text": " \tThe other lay with Kandaalo."
+  },
+  {
+    "id": 540,
+    "kind": "poem",
+    "line": "348",
+    "text": "Both revealed to them the <i>grasshopper</i>."
+  },
+  {
+    "id": 541,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 542,
+    "kind": "poem",
+    "line": "349",
+    "text": "When there was languor,"
+  },
+  {
+    "id": 543,
+    "kind": "poem",
+    "line": "350",
+    "text": "Both men were ushered off by snoring."
+  },
+  {
+    "id": 544,
+    "kind": "poem",
+    "line": "351",
+    "text": "They raised them up."
+  },
+  {
+    "id": 545,
+    "kind": "poem",
+    "line": "351.1",
+    "text": " \tVoice boxes they slashed."
+  },
+  {
+    "id": 546,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 547,
+    "kind": "poem",
+    "line": "352",
+    "text": "In the front room they seized the sister-in-law,"
+  },
+  {
+    "id": 548,
+    "kind": "poem",
+    "line": "353",
+    "text": "And slashed her voice box as well."
+  },
+  {
+    "id": 549,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 550,
+    "kind": "poem",
+    "line": "354",
+    "text": "They got Kachwenyanja's bow."
+  },
+  {
+    "id": 551,
+    "kind": "poem",
+    "line": "355",
+    "text": "They got his leather kilt and his cloak"
+  },
+  {
+    "id": 552,
+    "kind": "poem",
+    "line": "356",
+    "text": "That he had taken with the trophy."
+  },
+  {
+    "id": 553,
+    "kind": "poem",
+    "line": "357",
+    "text": "They went and got his drinking calabash."
+  },
+  {
+    "id": 554,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 555,
+    "kind": "poem",
+    "line": "358",
+    "text": "When the woman came to Lugongo,"
+  },
+  {
+    "id": 556,
+    "kind": "poem",
+    "line": "359",
+    "text": "The place that he had killed him,"
+  },
+  {
+    "id": 557,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 558,
+    "kind": "poem",
+    "line": "360",
+    "text": "She said, \"<i>The one I killed first</i>"
+  },
+  {
+    "id": 559,
+    "kind": "poem",
+    "line": "361",
+    "text": "<i>Was for his courting of me,</i>"
+  },
+  {
+    "id": 560,
+    "kind": "poem",
+    "line": "362",
+    "text": "<i>Was for how he carried me away from the foot of a mountain.\"</i>"
+  },
+  {
+    "id": 561,
+    "kind": "poem",
+    "line": "363",
+    "text": "She said, \"<i>The second man,\"</i>"
+  },
+  {
+    "id": 562,
+    "kind": "poem",
+    "line": "364",
+    "text": "She said, \"<i>Was for his love and his longing to see my face.\"</i>"
+  },
+  {
+    "id": 563,
+    "kind": "poem",
+    "line": "365",
+    "text": "She said, \"<i>The third man,</i>"
+  },
+  {
+    "id": 564,
+    "kind": "poem",
+    "line": "366",
+    "text": "<i>Names not yet pronounced:</i>"
+  },
+  {
+    "id": 565,
+    "kind": "poem",
+    "line": "367",
+    "text": "<i>His calling to me, 'Dear one, ' and my calling to him, 'Yes, Dear one.'\"</i>"
+  },
+  {
+    "id": 566,
+    "kind": "poem",
+    "line": "368",
+    "text": "She said, \"<i>The fourth man,</i>"
+  },
+  {
+    "id": 567,
+    "kind": "poem",
+    "line": "369",
+    "text": "<i>The soul of my husband, Kachwenyanja!\"</i>"
+  },
+  {
+    "id": 568,
+    "kind": "poem",
+    "line": "370",
+    "text": "She said, \"<i>The fifth,</i>"
+  },
+  {
+    "id": 569,
+    "kind": "poem",
+    "line": "370.1",
+    "text": " \t<i>The shadow of my husband.\"</i>"
+  },
+  {
+    "id": 570,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 571,
+    "kind": "poem",
+    "line": "371",
+    "text": "<i>\"You women bereaved of men,</i>"
+  },
+  {
+    "id": 572,
+    "kind": "poem",
+    "line": "372",
+    "text": "<i>Tell me how you mourn.\"</i>"
+  },
+  {
+    "id": 573,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 574,
+    "kind": "poem",
+    "line": "373",
+    "text": "She said, \"<i>If he is dark complexioned,\"</i>"
+  },
+  {
+    "id": 575,
+    "kind": "poem",
+    "line": "374",
+    "text": "She said, \"<i>Dark clouds after rain has fallen.\"</i>"
+  },
+  {
+    "id": 576,
+    "kind": "poem",
+    "line": "375",
+    "text": "She said, \"<i>If he is light,\"</i>"
+  },
+  {
+    "id": 577,
+    "kind": "poem",
+    "line": "376",
+    "text": "She said, \"<i>A tan cow with large, white marks,</i>"
+  },
+  {
+    "id": 578,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 579,
+    "kind": "poem",
+    "line": "377",
+    "text": "<i>A white haired plant.</i>"
+  },
+  {
+    "id": 580,
+    "kind": "poem",
+    "line": "378",
+    "text": "<i>Shelter from the rain,</i>"
+  },
+  {
+    "id": 581,
+    "kind": "poem",
+    "line": "379",
+    "text": "<i>Shade from the sun.</i>"
+  },
+  {
+    "id": 582,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 583,
+    "kind": "poem",
+    "line": "380",
+    "text": "<i>I have lost what must not be lost.</i>"
+  },
+  {
+    "id": 584,
+    "kind": "poem",
+    "line": "381",
+    "text": "<i>I have been robbed of what cannot be spoken.</i>"
+  },
+  {
+    "id": 585,
+    "kind": "poem",
+    "line": "382",
+    "text": "<i>I have lost my husband who went to war.</i>"
+  },
+  {
+    "id": 586,
+    "kind": "blank",
+    "line": "0",
+    "text": ""
+  },
+  {
+    "id": 587,
+    "kind": "poem",
+    "line": "383",
+    "text": "<i>You of Nsheshe and Kailongo.</i>"
+  },
+  {
+    "id": 588,
+    "kind": "poem",
+    "line": "384",
+    "text": "<i>Hear! I come from Ihangiro with revenge.</i>"
+  },
+  {
+    "id": 589,
+    "kind": "poem",
+    "line": "385",
+    "text": "<i>My husband died as one.</i>"
+  },
+  {
+    "id": 590,
+    "kind": "poem",
+    "line": "385.1",
+    "text": " \t<i>But in Ihangiro I made nine go with him.\"</i>"
+  }
+]

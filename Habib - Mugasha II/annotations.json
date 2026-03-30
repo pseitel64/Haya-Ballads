@@ -1,0 +1,348 @@
+[
+  {
+    "type": "verse",
+    "line": 2,
+    "line_end": 3,
+    "id": 2,
+    "time": 21.47,
+    "note": "2.1-3.1: stanza in <b>aab</b> formed by contrast between lines that contain \"fall\" + \"into a quandary\" (<b>a</b>'s: 2.1, 3) and a single one word line, \"they were confounded\" (<b>b</b>: 3.1)",
+    "line_sub": 1,
+    "line_end_sub": 1,
+    "id_ref": 2
+  },
+  {
+    "type": "verse",
+    "line": 4,
+    "line_end": 5,
+    "id": 8,
+    "time": 34.75,
+    "note": "4-5.1: compound stanza in <b>abb</b>, 1 + 2 + 2, formed by contrast between couplets substantially repeated whose lines alternatingly contain one of two names (<b>b</b>'s: 4.1-4.2, 5-5.1) and a single line that contains both names (<b>a</b>: 4).",
+    "line_end_sub": 1,
+    "id_ref": 8
+  },
+  {
+    "type": "verse",
+    "line": 5,
+    "line_end": 6,
+    "id": 11,
+    "time": 42.53,
+    "note": "5.2-6.1: compound stanza in <b>ab</b>b<b>a</b>, 1 + 2 + 2 + 1, by contrast between single lines that begin with \"That day\" (<b>a</b>'s: 5.2, 6.1) and couplets that cohere respectively by enjambment and repetition (<b>b</b>'s: 5.3-5.4, 5.5-6)",
+    "line_sub": 2,
+    "line_end_sub": 1,
+    "id_ref": 11
+  },
+  {
+    "type": "verse",
+    "line": 7,
+    "line_end": 7,
+    "id": 21,
+    "time": 58.99,
+    "note": "7-7.3: stanza in <b>abb</b>b by contrast between lines that begin with 3rd person singular verbs in the habitual aspect (<b>b</b>'s: 7.1, 7.2, 7.3) and a single line that begins with a second person singular verb in the present continuitive.",
+    "line_end_sub": 3,
+    "id_ref": 21
+  },
+  {
+    "type": "verse",
+    "line": 8,
+    "line_end": 8,
+    "id": 26,
+    "time": 65.45,
+    "note": "8-8.2: stanza in <b>aba</b> by parallel lines (<b>a</b>'s: 8, 8.2) with opposing verbs \"she set out\" and \"she returned\" contrasted with a single verb initial line (<b>b</b>: 8.1).",
+    "line_end_sub": 2,
+    "id_ref": 26
+  },
+  {
+    "type": "verse",
+    "line": 12,
+    "line_end": 13,
+    "id": 37,
+    "time": 96.03,
+    "note": "12.3-13.4: stanza in <b>ab</b>b<b>a</b>a<b>b</b>, 1 + 2 + 2 + 1, by contrast between lines that contain a 3rd person plural verb (<b>a</b>'s: 12.3, 13.2, 13.3) and lines that are composed of praisenames (<b>b</b>'s: 13, 13.1, 13.4).",
+    "line_sub": 3,
+    "line_end_sub": 4,
+    "id_ref": 37
+  },
+  {
+    "type": "verse",
+    "line": 13,
+    "line_end": 14,
+    "id": 44,
+    "time": 103.2,
+    "note": "13.5-14.3: compound stanza in <b>abb</b>, 2 + 2 + 2, by contrast between a single couplet that coheres by parallellism (<b>a</b>: 13.5-13.6) and couplets that each cohere internally by enjambment and are both interrogatives composed as subordinate clause introduced by adverbial marker <i>Ka</i>/ question introduced by emphatic marker Nka (<b>b</b>'s: 14-14.1, 14.2-14.3).",
+    "line_sub": 5,
+    "line_end_sub": 3,
+    "id_ref": 44
+  },
+  {
+    "type": "verse",
+    "line": 20,
+    "line_end": 23,
+    "id": 71,
+    "time": 136.82,
+    "note": "20-23.2: compound stanza in <b>aab</b>, 4 + 3 + 1, by initial linegroups (<b>a</b>'s: 20-21.1, 22-23.1) that cohere internally by enjambment and are composed similarly as scene-setting address or aside (20-21.1, 22)/ parallel quoted speech introduced by locutive (21, 23)/ final parallel line (21.1, 23.1), contrasted with a single finalizing line (<b>b</b>: 23.2) that has an initial negative verb.",
+    "line_end_sub": 2,
+    "id_ref": 71
+  },
+  {
+    "type": "verse",
+    "line": 25,
+    "line_end": 25,
+    "id": 83,
+    "time": 153.82,
+    "note": "25-25.3: stanza in <b>aabb</b> formed by contrast between couplets that cohere as 3rd person singular narrative (<b>a</b>'s: 25-25.2) and as negative, quoted, 1st person speech (<b>b</b>'s: 25.2-25.3).",
+    "line_end_sub": 3,
+    "id_ref": 83
+  },
+  {
+    "type": "verse",
+    "line": 26,
+    "line_end": 30,
+    "id": 88,
+    "time": 159.47,
+    "note": "26.1-30.1: stanza in <b>a</b>aa<b>b</b>bx<b>a</b>aa<b>b</b> formed by lines that contain ethical statements (<b>a</b>'s: 26.1-26.3, 29-30) contrasted with lines that are composed as \"they gave\" + fishname [/ praisenames] (<b>b</b>'s: 27-28, 30.1); note intervening line (<b>x</b>: 28).",
+    "line_sub": 1,
+    "line_end_sub": 1,
+    "id_ref": 88
+  },
+  {
+    "type": "verse",
+    "line": 32,
+    "line_end": 32,
+    "id": 101,
+    "time": 180.84,
+    "note": "32-32.3: stanza in <b>aa</b>a<b>b</b> formed by conrast between lines whose initial 3rd person verb is near past (<b>a</b>'s: 32-32.2) and a single line whose initial 3rd person verb is distant past",
+    "line_end_sub": 3,
+    "id_ref": 101
+  },
+  {
+    "type": "verse",
+    "line": 35,
+    "line_end": 37,
+    "id": 111,
+    "time": 199.94,
+    "note": "35.1-37.5: verse in <b>aba</b> formed by contrast between stanzas formed in <b>aba</b> (<b>a</b>'s: 35.1-36.2, 37.2-37.5) and a couplet (<b>b</b>: 37-37.1) that coheres by parallel use of 3rd plural near past verbs; the first stanza is formed in <b>a</b>aa<b>ba</b> by contrast between 1st person singular verb initial lines that express desire (<b>a</b>'s: 35.1-36, 36.2) and a single line that comprises a dependent clause (<b>b</b>: 36.1); the second stanza is formed in <b>a</b>a<b>ba</b> by contrast between lines composed as verb initial + placenames (<b>a</b>'s: 37.2, 37.3, 37.5) and a single line composed as placenames alone (<b>b</b>: 37.4).",
+    "line_sub": 1,
+    "line_end_sub": 5,
+    "id_ref": 111
+  },
+  {
+    "type": "verse",
+    "line": 41,
+    "line_end": 46,
+    "id": 134,
+    "time": 236.2,
+    "note": "41-46.1: stanza in <b>ab</b>bb<b>a</b>a<b>b</b>babbb formed by contrast between lines composed as [child] + \"surprised by\" + nature spirit (<b>a</b>'s: 41, 42.1, 43, 45) and lines composed as praisenames (<b>b</b>'s: 41.1, 41.2, 42, 44, 44.1, 45.1, 46, 46.1).",
+    "line_end_sub": 1,
+    "id_ref": 134
+  },
+  {
+    "type": "verse",
+    "line": 47,
+    "line_end": 48,
+    "id": 147,
+    "time": 252.94,
+    "note": "47-48.1: compound stanza in <b>abb</b>, 1 + 2 + 2, formed by contrast between nearly identical couplets that cohere internally semantically (<b>b</b>'s: 47.1-47.2, 48-48.1) and a single line that begins with a direct object.",
+    "line_end_sub": 1,
+    "id_ref": 147
+  },
+  {
+    "type": "verse",
+    "line": 48,
+    "line_end": 48,
+    "id": 150,
+    "time": 278.97,
+    "note": "48.2-48.4: stanza in <b>aab</b> formed by contrast between lines that have an initial verb (<b>a</b>'s: 48.2, 48.3) and a single line that has no verb (<b>b</b>: 48.4).",
+    "line_sub": 2,
+    "line_end_sub": 4,
+    "id_ref": 150
+  },
+  {
+    "type": "verse",
+    "line": 50,
+    "line_end": 51,
+    "id": 159,
+    "time": 288.27,
+    "note": "50-51.1: stanza in <b>ab</b>b<b>ab</b>bb formed by contrast between lines that comprise and address to the maiden (<b>a</b>'s: 50, 50.3) and lines composed as praisenames (<b>b</b>'s: 50.1, 50.2, 5.4, 51, 51.1).",
+    "line_end_sub": 1,
+    "id_ref": 159
+  },
+  {
+    "type": "verse",
+    "line": 50,
+    "line_end": 72,
+    "id": 159,
+    "time": 288.27,
+    "note": "50-72: verse passage in <b>ab</b>b<b>a</b> formed, with many interpolated lines, around the contrast between speakers, Mugasha's utterances (<b>a</b>'s) of proposal (50, 50.3) and oath (69.1-70.1) and the maiden's utterances (<b>b</b>'s) of response (53.2, 53.3)) and oath( 56-57.2).",
+    "id_ref": 159
+  },
+  {
+    "type": "verse",
+    "line": 52,
+    "line_end": 52,
+    "id": 164,
+    "time": 295.2,
+    "note": "52-52.3: stanza in <b>aab</b> formed by contrast between lines whose main verbs are inflected to accord with \"child\" (<b>a</b>'s: 52, 52.1) and one line whose verb accords with \"spit\" (<b>b</b>: 52.3).",
+    "line_end_sub": 3,
+    "id_ref": 164
+  },
+  {
+    "type": "verse",
+    "line": 53,
+    "line_end": 54,
+    "id": 167,
+    "time": 299.45,
+    "note": "53.2-54.1: compound stanza in <b>abb</b>, 1 + 2 + 2, formed by couplets each composed as second person predication / explication of predication (<b>b</b>'s: 53.3-53.4 and 55-55.1:fisherman cannot marry royalty and dried fish stink, respectively) contrasted with a single line of address (<b>a</b>: 53.2)",
+    "line_sub": 2,
+    "line_end_sub": 1,
+    "id_ref": 167
+  },
+  {
+    "type": "verse",
+    "line": 79,
+    "line_end": 81,
+    "id": 219,
+    "time": 374.5,
+    "note": "79-81.3: stanza in <b>aba</b> formed by single lines that include a drum name (<b>a</b>'s: 79, 81.3) contrasted with lines of drum sounds (<b>b</b>'s: 79.1-81.2)",
+    "line_end_sub": 3,
+    "id_ref": 219
+  },
+  {
+    "type": "verse",
+    "line": 82,
+    "line_end": 114,
+    "id": 228,
+    "time": 388.94,
+    "note": "82-114: passage of lines composed as apperance of nature spirit/ [praisename]/ [quoted self-praise of characterization or boast]/: \"you marry her, [Mugasha or his praisename]\"",
+    "id_ref": 228
+  },
+  {
+    "type": "verse",
+    "line": 117,
+    "line_end": 121,
+    "id": 308,
+    "time": 532.85,
+    "note": "117-121: compound stanza in <b>aba</b>, 3 + 2 + 3, formed by contrast between three lines that repeat fully (<b>a</b>'s: 117-118.1, 120-121) and two lines that almost repeat (<b>b</b>'s: 119-119.1).",
+    "id_ref": 308
+  },
+  {
+    "type": "verse",
+    "line": 124,
+    "line_end": 143,
+    "id": 321,
+    "time": 544.32,
+    "note": "124.1-143.1: verse passage composed of questions (<b>a</b>'s) and answers (<b>b</b>'s) formed into three distinct patterns: <b>aa</b>aa<b>b</b> (124.1-127); <b>abab</b>ababab (128-137); and a pair of mirror stanzas formed in <b>aabab</b> (138-140.2 and 141-143.1).",
+    "line_sub": 1,
+    "line_end_sub": 1,
+    "id_ref": 321
+  },
+  {
+    "type": "verse",
+    "line": 150,
+    "line_end": 161,
+    "id": 361,
+    "time": 627.01,
+    "note": "150-161: song (perhaps quoted from a folktale) composed in three repeated verses (150-153, 154-157, 158-161) each formed as <b>abab</b> by contrast between lines that contain nouns (<b>a</b>'s: 150, 152, 154, 156, 158, 160) and lines that contain only verbs (<b>b</b>'s: 151, 153, 155, 157, 159, 161).",
+    "id_ref": 361
+  },
+  {
+    "type": "verse",
+    "line": 167,
+    "line_end": 186,
+    "id": 385,
+    "time": 670.0,
+    "note": "167-186.3: passage composed of four linegroups (167-168.1, 169-175.2, 176-181.2, 182-187.3) each composed thematically as (a) fish fulfills wedding role (167, 169 and 173, 176, 182 and 185 - in the second and the fourth linegroups this element is repeated; (b) description of wedding role (167.1, 170-172.2, 177 183-84) (c) transformantion of form (168, 174-175.1, 178-181.1, 186-186.2); (d) \"The power of Wamala\" (168.1, 175.2, 181.2, 186.3).",
+    "line_end_sub": 3,
+    "id_ref": 385
+  },
+  {
+    "type": "verse",
+    "line": 190,
+    "line_end": 212,
+    "id": 433,
+    "time": 757.83,
+    "note": "190-212.2: verse passage composed of three linegroups (190-198, 199-203, 204-212.3) that form an <b>aab</b> pattern; each linegroup composed as (a) Mugasha sends a nature spitrit (190-190.1, 199, 204) (b) the spirit's action briefly described (191, 200, 205-206) (c) aside commenting on the effects of such an action (192-193, 201, 207) (d) elaborated description of element's action (194-197, 202-202.2, 207-211) (e) Wamala's response (198, 203, 212-212.4); the linegroups create a pattern of <b>aab</b> by contrast principally between simple refusals and an elaborate quasi-acceptance (e: 198, 203 and 121-212.3, respectively), and also between single lines of terse narrative and a pair of lines of direct discourse that cohere by enjambment (b: 191, 200 and 206-207, respectively).",
+    "line_end_sub": 2,
+    "id_ref": 433
+  },
+  {
+    "type": "verse",
+    "line": 213,
+    "line_end": 221,
+    "id": 467,
+    "time": 814.78,
+    "note": "213-221.1: three stanzas formed in <b>aab</b> by lines that cohere by parallelism created by verb inflection and word order contrasted with single lines composed differently; the first such stanza (213-217) is formed in <b>aa</b>a<b>b</b>(b) by contrast between lines that have a subject in initial position followed by an adverbial past perfect verb (<b>a</b>'s: 213, 214, 215) and a single line that also begins with a subject but whose verb is inflected differently (<b>b</b>: 216); the stanza is then ®MDUL¯re-fnialized by a line that has a verb in initial position (b: 217); the second stanza (218-219.1) is formed in <b>aab</b> by contrast between lines of narration that cohere by initial verbs with similar inflections (<b>a</b>'s: 218, 219) contrasted with a single line of quoted speech (<b>b</b>:219.1); the third stanza in the group (220.1-221.1) is formed in <b>aab</b> by contrast between lines of narration that begin with a double verb formation (<b>a</b>'s:220.1, 222) and a single line of quoted speech (<b>b</b>: 221.1)",
+    "line_end_sub": 1,
+    "id_ref": 467
+  },
+  {
+    "type": "verse",
+    "line": 249,
+    "line_end": 250,
+    "id": 533,
+    "time": 939.73,
+    "note": "249.1-250.1: compound stanza in <b>aab</b>, 2 + 2 + 2, formed by contrast between couplets composed as repeated line + subject final line (<b>a</b>'s: 249.1-249.2, 249.3-249.4) and a single couplet of praisenames (<b>b</b>: 250-251).",
+    "line_sub": 1,
+    "line_end_sub": 1,
+    "id_ref": 533
+  },
+  {
+    "type": "verse",
+    "line": 250,
+    "line_end": 252,
+    "id": 538,
+    "time": 948.47,
+    "note": "250.2-252.3: verse of three stanzas (250.2-250.5, 251-251.3, 252-252.3) in <b>aba</b> formed by two stanzas that cohere by lexical repetition and by stanzaic patterning as <b>ab</b>b<b>a</b> (<b>a</b>'s: 250.2-250.5, 252-252.3; formed internally by contrast between parallel lines of placenames (<b>b</b>'s: 250.3, 250.4 and 252.1, 252.2) and initial and final lines that cohere by past verbal tenses (<b>a</b>'s: 250.2, 250.5 and 252, 252.3)) contrasted with a single stanza in <b>abab</b>, (<b>b</b>: 251-251.3; formed internally by contrast between lines that cohere by grammatical subordination (<b>a</b>'s: 251, 251.2) and lines of praisenames (<b>b</b>'s:251.1, 251.3)).",
+    "line_sub": 2,
+    "line_end_sub": 3,
+    "id_ref": 538
+  },
+  {
+    "type": "verse",
+    "line": 254,
+    "line_end": 257,
+    "id": 558,
+    "time": 969.14,
+    "note": "254-257.1: stanza in <b>ab</b>bb<b>a</b> formed by contrast between lines that end with \"my child\" (<b>a</b>'s: 254, 257.1) and lines that begin with \"See...\" (<b>b</b>'s: 255, 256, 257).",
+    "line_end_sub": 1,
+    "id_ref": 558
+  },
+  {
+    "type": "verse",
+    "line": 259,
+    "line_end": 270,
+    "id": 566,
+    "time": 979.79,
+    "note": "259-270: compound stanza in <b>a</b>a<b>ba</b> formed by the contrast between three linegroups, each comprised of a single exchange of quoted utterances asymmetrical in length (<b>a</b>'s: 259-261, 262-264, 268-270; in the final linegroup the answer is several lines in length, reversing the pattern of the previous linegroups) and a single linegroup that comprises multiple exchanges of quoted utterances symmetrical in length (<b>b</b>: 264.1-267).",
+    "id_ref": 566
+  },
+  {
+    "type": "verse",
+    "line": 283,
+    "line_end": 291,
+    "id": 607,
+    "time": 1038.96,
+    "note": "283.1-291.1: passage of four linegroups (283.1-284.1, 285-286.1, 287-288.1, 289-291.1) in <b>aa</b>a<b>b</b> formed by linegroups that are each composed, with some variation, of three repeated lines (<b>a</b>'s: 283.1-284.1, 285-286.1, 287-288.1) contrasted with a single linegroup (<b>b</b>: 289-291.1) that begins like the others but ends differently.",
+    "line_sub": 1,
+    "line_end_sub": 1,
+    "id_ref": 607
+  },
+  {
+    "type": "verse",
+    "line": 292,
+    "line_end": 299,
+    "id": 626,
+    "time": 1061.35,
+    "note": "292-299.1: passage of four linegroups (292-293, 294-295, 296-297, 298-299) each each composed, with some variation, of three types of lines formed by repetition and parallelism.",
+    "line_end_sub": 1,
+    "id_ref": 626
+  },
+  {
+    "type": "verse",
+    "line": 301,
+    "line_end": 305,
+    "id": 645,
+    "time": 1084.71,
+    "note": "301-305: compound stanza in <b>aab</b>, 2 + 2 + 1, formed by contrast between couplets composed as plant name + resembles + plant name/ repeated line (<b>a</b>'s: 301-302, 303-304) and a single line that begins the same but ends differently <b>b</b>: 305).",
+    "id_ref": 645
+  }
+]
