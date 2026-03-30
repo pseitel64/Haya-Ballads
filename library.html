@@ -120,7 +120,6 @@
       }
     }
   </style>
-  <link rel="manifest" href="manifest.json">
 </head>
 <body>
 
@@ -407,11 +406,12 @@
   <div class="welcome-modal">
     <div class="welcome-modal-header">
       <span class="welcome-modal-title">Haya Epic Ballad Collection Library</span>
-      <button id="welcomeCloseBtn" class="welcome-close-btn">Continue &#8594;</button>
+      <button id="welcomeCloseBtn" class="welcome-close-btn">Close ✕</button>
     </div>
     <div class="welcome-modal-body">
       <p>Welcome to the collection. In it you will find presentations of 10 recorded performances from a centuries-old tradition of narrative poetry. The poems were created, curated, and re-created by epic bards who sing and accompany themselves on the enanga, a small harp-like instrument technically referred to as a trough zither. In each presentation you hear the bard's voice singing and his fingers plucking enanga strings and see a synchronized, scrolling transcription in Haya and translation in English, accompanied by occasional links to annotations that explicate cultural and historical dimensions of the poem and reveal its stanzaic versification.</p>
       <p>Other forms of commentary are also designed to ease your access to the art: plot summaries, an overview of the verse system, and a search function. This helping apparatus is respectfully backgrounded, so as to keep foremost the sound and meaning of the bard's words. Almost all of the thematic commentary was developed in interviews with many Haya teachers. I hope I have understood them well. Experts in Haya language, including the bard Abdallah Feza, have confirmed my understanding of the poetic structure.</p>
+      <p><em>This collection is in active development. Search, About This Collection, and Acknowledgements are coming soon. Your feedback is welcome.</em></p>
     </div>
   </div>
 </div>
@@ -569,14 +569,5 @@ document.addEventListener('DOMContentLoaded', function() {
   </div>
 </div>
 
-<script>
-  if ('serviceWorker' in navigator) {
-    window.addEventListener('load', function() {
-      navigator.serviceWorker.register('/service-worker.js')
-        .then(reg => console.log('[SW] Registered:', reg.scope))
-        .catch(err => console.warn('[SW] Registration failed:', err));
-    });
-  }
-</script>
 </body>
 </html>
