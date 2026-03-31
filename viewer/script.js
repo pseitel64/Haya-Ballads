@@ -2102,6 +2102,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }
   
   function handleSearchResultClick(result, searchQuery) {
+    console.log("[Search] handleSearchResultClick called, type:", result.type, "ballad:", result.ballad, "isCurrent:", result.isCurrent);
     // Check if result is from a different ballad (not marked as current)
     if (result.ballad && !result.isCurrent) {
       // Result is from another ballad - need to open that ballad
@@ -2226,11 +2227,24 @@ document.addEventListener("DOMContentLoaded", () => {
   
   
   function openResultInCurrentTab(result, searchQuery) {
-    // Build URL for the other ballad - go up to parent, then into ballad folder
+    // Build repo root URL
     const currentPath = window.location.pathname;
+    const pathParts = currentPath.split('/');
     pathParts.pop(); // Remove index.html
     pathParts.pop(); // Remove current ballad folder
-    let url = `${window.location.origin}${pathParts.join('/')}/${result.balladFolder}/index.html`;
+    const repoRoot = window.location.origin + pathParts.join('/');
+
+    // Essays and intros open in new tab regardless of tab mode setting
+    if (result.type === 'essay') {
+      window.open(`${repoRoot}/essays/${result.file}`, '_blank');
+      return;
+    }
+    if (result.type === 'intro') {
+      window.open(`${repoRoot}/${encodeURIComponent(result.balladFolder)}/intro.html`, '_blank');
+      return;
+    }
+
+    let url = `${repoRoot}/${encodeURIComponent(result.balladFolder)}/index.html`;
     
     // Add parameters for navigation
     const params = new URLSearchParams();
@@ -2253,18 +2267,30 @@ document.addEventListener("DOMContentLoaded", () => {
   }
   
   function openResultInNewTabWithContext(result, searchQuery) {
+    // Build repo root URL
+    const currentPath = window.location.pathname;
+    const pathParts = currentPath.split('/');
+    pathParts.pop(); // Remove index.html
+    pathParts.pop(); // Remove current ballad folder
+    const repoRoot = window.location.origin + pathParts.join('/');
+
+    // Handle essay and intro types — these are not ballad pages
+    if (result.type === 'essay') {
+      window.open(`${repoRoot}/essays/${result.file}`, '_blank');
+      return;
+    }
+    if (result.type === 'intro') {
+      window.open(`${repoRoot}/${encodeURIComponent(result.balladFolder)}/intro.html`, '_blank');
+      return;
+    }
+
     // Build URL - use other ballad's folder if needed
     let url;
     if (!result.isCurrent) {
       // Opening a different ballad - go up to parent, then into ballad folder
-      const currentPath = window.location.pathname;
-      const pathParts = currentPath.split('/');
-      pathParts.pop(); // Remove index.html
-      pathParts.pop(); // Remove current ballad folder
-      url = `${window.location.origin}${pathParts.join('/')}/${result.balladFolder}/index.html`;
+      url = `${repoRoot}/${encodeURIComponent(result.balladFolder)}/index.html`;
     } else {
       // Opening current ballad
-      const currentPath = window.location.pathname;
       const basePath = currentPath.substring(0, currentPath.lastIndexOf('/') + 1);
       url = window.location.origin + basePath + 'index.html';
     }
