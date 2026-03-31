@@ -42,7 +42,7 @@
       line-height: 1.35;
     }
     .essay-nav-item {
-      color: #e8e4dc;
+      color: #1a1a18;
       font-family: var(--sans);
       font-weight: 400;
       cursor: pointer;
@@ -406,7 +406,7 @@
   <div class="welcome-modal">
     <div class="welcome-modal-header">
       <span class="welcome-modal-title">Haya Epic Ballad Collection Library</span>
-      <button id="welcomeCloseBtn" class="welcome-close-btn">Continue &#8594;</button>
+      <button id="welcomeCloseBtn" class="welcome-close-btn">Close ✕</button>
     </div>
     <div class="welcome-modal-body">
       <p>Welcome to the collection. In it you will find presentations of 10 recorded performances from a centuries-old tradition of narrative poetry. The poems were created, curated, and re-created by epic bards who sing and accompany themselves on the enanga, a small harp-like instrument technically referred to as a trough zither. In each presentation you hear the bard's voice singing and his fingers plucking enanga strings and see a synchronized, scrolling transcription in Haya and translation in English, accompanied by occasional links to annotations that explicate cultural and historical dimensions of the poem and reveal its stanzaic versification.</p>
@@ -429,15 +429,15 @@
 .welcome-overlay.open { display: flex; }
 
 .welcome-modal {
-  background: #1a1a18;
-  color: #e8e4dc;
-  border: 1px solid #3a3a32;
+  background: #faf8f4;
+  color: #1a1a18;
+  border: 1px solid #ccc;
   border-radius: 6px;
   width: 58%;
   max-height: 70vh;
   display: flex;
   flex-direction: column;
-  box-shadow: 0 8px 32px rgba(0,0,0,0.6);
+  box-shadow: 0 8px 32px rgba(0,0,0,0.25);
 }
 
 .welcome-modal-header {
@@ -445,8 +445,8 @@
   align-items: center;
   justify-content: space-between;
   padding: 0.8em 1.2em;
-  border-bottom: 1px solid #3a3a32;
-  background: #1a1a18;
+  border-bottom: 1px solid #ccc;
+  background: #faf8f4;
   border-radius: 6px 6px 0 0;
   flex-shrink: 0;
 }
@@ -459,8 +459,8 @@
 
 .welcome-close-btn {
   background: none;
-  border: 1px solid #5a5a4a;
-  color: #e8e4dc;
+  border: 1px solid #aaa;
+  color: #1a1a18;
   font-family: sans-serif;
   font-size: 0.82em;
   padding: 0.3em 0.8em;
@@ -475,7 +475,7 @@
   font-family: 'Libre Baskerville', Georgia, serif;
   font-size: 1em;
   line-height: 1.75;
-  color: #e8e4dc;
+  color: #1a1a18;
 }
 </style>
 
@@ -531,9 +531,25 @@ document.addEventListener('DOMContentLoaded', function() {
       acknowledgements: 'Acknowledgements'
     };
     var bodies = {
-      about: '<p><em>About This Collection</em> — content to be added.</p>',
-      search: '<p><em>Search</em> — search functionality to be added.</p>',
-      acknowledgements: '<p><em>Acknowledgements</em> — content to be added.</p>'
+      about: `<p>This collection of 10 Haya epic ballads is based on fieldwork in Kagera Region of Tanzania beginning in 1968 and in several subsequent visits. The last was in 1995. The tape recordings from these researches have been digitized and are stored in the Seitel-Dauer Research Archive in the Indiana University Library Archive of Traditional Music, along with recordings of other speech genres like folktales and self-praise poetry (<em>ebyebugo</em>), and field notes, photographs, and annotated transcriptions. There are 99 digitized recordings of epic ballads in the research archive. Mugasha I was recorded by Hugh Tracy in 1950 and is used with permission of the International Library of African Music.</p>
+<p>As noted in the essay on recording methods, my research originally focused on the social use of metaphor, principally the speech genre of proverbs. Sheila Dauer, my former wife and co-fieldworker on the first visit, did sociolinguistic research on the genre of greetings. So from the very beginning of the collection, the focus and method of data collection was dialogic: an understanding of linguistic art and cultural knowledge as aesthetic and social forms that emerge from interactions between people. This perspective informs not only the research but also how the poems are presented in the collection.</p>`,
+      search: `<p>Search is available from any ballad page. Open any ballad, then click the &#9776; hamburger menu and select <strong>Search</strong>. Set the scope to <em>All files</em> to search across all ten ballads, their annotations, plot summaries, and the introductory essays.</p>
+<p>Or open a ballad directly to begin searching:</p>
+<ul style="font-family:var(--sans);font-size:0.95em;line-height:2;">
+<li><a href="Feza - Kaitaba/index.html" target="_blank">King Kaitaba</a></li>
+<li><a href="Fezza - Kitekele/index.html" target="_blank">King Kitekere</a></li>
+<li><a href="Habib - Mugasha I/index.html" target="_blank">Mugasha I</a></li>
+<li><a href="Habib - Mugasha II/index.html" target="_blank">Mugasha II</a></li>
+<li><a href="Mugasha - Mbali/index.html" target="_blank">The Place You Come From</a></li>
+<li><a href="Mugasha - Rukiza/index.html" target="_blank">Rukiza</a></li>
+<li><a href="Muzee - Kachwenyanja/index.html" target="_blank">Kachwenyanja</a></li>
+<li><a href="Muzee - Kaiyula/index.html" target="_blank">Kaiyula</a></li>
+<li><a href="Muzee - Kajango/index.html" target="_blank">Kajango</a></li>
+<li><a href="Muzee - The Tree Mwata/index.html" target="_blank">The Tree Mwata</a></li>
+</ul>`,
+      acknowledgements: `<p>I gratefully acknowledge first the generous help and patience provided to me by many Haya persons who aided me in this project. Dr. Mugyabuso Mulokozi, Winifred Kisiraga, and Abdallah &#8220;Feza&#8221; Kaluandila have greatly shaped my thinking. Many Haya performers and teachers have also built the way.</p>
+<p>My American teachers, especially Ralph Rinzler, David Sapir, Dell Hymes, and Ken Goldstein, have pointed the way to understanding and presenting performances. And, of course, I am grateful to Anthropic&#8217;s LLM Claude for the coding and editing that makes this possible and for sharpening my web aesthetics.</p>
+<p>My greatest debt is to Marcy, Lizzy, Jesse, and Gene, without whose encouragement, unstinting support, and forbearance, I could not have completed this project.</p>`
     };
     stubTitle.textContent = titles[which];
     stubBody.innerHTML = bodies[which];
