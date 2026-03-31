@@ -2019,10 +2019,13 @@ document.addEventListener("DOMContentLoaded", () => {
     resultsDiv.dataset.results = JSON.stringify(results);
     
     // Add click handlers to results (for jumping to line)
+    console.log("[Search] Binding clicks to", resultsDiv.querySelectorAll('.search-result[data-index]').length, "results");
     resultsDiv.querySelectorAll('.search-result[data-index]').forEach(resultEl => {
       resultEl.addEventListener('click', (e) => {
+        e.stopPropagation();
         const index = parseInt(resultEl.dataset.index);
         const result = results[index];
+        console.log("[Search] Result clicked, index:", index, "type:", result.type);
         handleSearchResultClick(result, query);
       });
     });
@@ -2276,11 +2279,15 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Handle essay and intro types — these are not ballad pages
     if (result.type === 'essay') {
-      window.open(`${repoRoot}/essays/${result.file}`, '_blank');
+      const essayURL = `${repoRoot}/essays/${result.file}`;
+      console.log('[Search] Opening essay:', essayURL);
+      window.open(essayURL, '_blank');
       return;
     }
     if (result.type === 'intro') {
-      window.open(`${repoRoot}/${encodeURIComponent(result.balladFolder)}/intro.html`, '_blank');
+      const introURL = `${repoRoot}/${encodeURIComponent(result.balladFolder)}/intro.html`;
+      console.log('[Search] Opening intro:', introURL);
+      window.open(introURL, '_blank');
       return;
     }
 
