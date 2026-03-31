@@ -2312,11 +2312,19 @@ document.addEventListener("DOMContentLoaded", () => {
     pathParts.pop(); // remove current ballad folder
     const repoRoot = window.location.origin + pathParts.join('/');
 
+    // Debug: log repoRoot so we can verify path construction
+    console.log('[Search] repoRoot:', repoRoot);
+
     let url;
     if (result.type === 'essay') {
+      // Essays live at repoRoot/essays/filename
       url = `${repoRoot}/essays/${result.file}`;
+      console.log('[Search] Essay URL:', url);
     } else if (result.type === 'intro') {
-      url = `${repoRoot}/${encodeURIComponent(result.balladFolder)}/intro.html`;
+      // Intros: encode each path segment separately to handle spaces
+      const encodedFolder = result.balladFolder.split(' ').map(encodeURIComponent).join('%20');
+      url = `${repoRoot}/${encodedFolder}/intro.html`;
+      console.log('[Search] Intro URL:', url);
     } else if (result.balladFolder) {
       // Poem result — go to index.html in that ballad folder
       const base = `${repoRoot}/${encodeURIComponent(result.balladFolder)}/index.html`;
