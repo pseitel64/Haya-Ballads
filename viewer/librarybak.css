@@ -59,15 +59,19 @@ a:hover { color: var(--accent-hover); }
   border-bottom: 1px solid var(--border);
   padding: 1.2em 2em;
   background: var(--bg);
+  position: sticky;
+  top: 0;
+  z-index: 100;
 }
 
 .page-header-inner {
   max-width: var(--max-w);
   margin: 0 auto;
   display: flex;
-  align-items: baseline;
-  justify-content: space-between;
+  align-items: center;
+  justify-content: flex-end;
   gap: 1em;
+  position: relative;
 }
 
 .site-title {
@@ -76,8 +80,11 @@ a:hover { color: var(--accent-hover); }
   font-weight: 400;
   color: var(--muted);
   text-decoration: none;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.06em;
   text-transform: uppercase;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
 }
 .site-title:hover { color: var(--fg); }
 
@@ -296,7 +303,7 @@ a:hover { color: var(--accent-hover); }
   text-transform: uppercase;
   letter-spacing: 0.12em;
   color: var(--muted);
-  margin: 0 0 1.5em;
+  margin: 0 0 0 0;
   padding-bottom: 0.5em;
   border-bottom: 1px solid var(--border);
 }
@@ -320,14 +327,18 @@ a:hover { color: var(--accent-hover); }
 
 .essay-entry-title {
   font-family: var(--serif);
+  font-size: 1.1em;
+  font-weight: 700;
+}
+.essay-entry-title a,
+.essay-nav-item {
+  color: var(--fg);
+  text-decoration: none;
   font-size: 1em;
   font-weight: 700;
 }
-.essay-entry-title a {
-  color: var(--fg);
-  text-decoration: none;
-}
-.essay-entry-title a:hover { color: var(--accent); }
+.essay-entry-title a:hover,
+.essay-nav-item:hover { color: var(--accent); }
 
 .essay-entry-read {
   font-family: var(--sans);

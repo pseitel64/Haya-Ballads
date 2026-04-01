@@ -75,7 +75,7 @@ a:hover { color: var(--accent-hover); }
 }
 
 .site-title {
-  font-size: 0.85em;
+  font-size: 1.05em;
   font-family: var(--sans);
   font-weight: 400;
   color: var(--muted);
@@ -283,7 +283,7 @@ a:hover { color: var(--accent-hover); }
 }
 
 .library-hero .subtitle {
-  font-size: 1.05em;
+  font-size: 1.25em;
   color: var(--muted);
   margin-bottom: 0;
   font-style: italic;
