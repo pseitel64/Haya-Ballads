@@ -42,7 +42,7 @@
       line-height: 1.35;
     }
     .essay-nav-item {
-      color: #1a1a18;
+      color: #e8e4dc;
       font-family: var(--sans);
       font-weight: 400;
       cursor: pointer;
@@ -406,7 +406,7 @@
   <div class="welcome-modal">
     <div class="welcome-modal-header">
       <span class="welcome-modal-title">Haya Epic Ballad Collection Library</span>
-      <button id="welcomeCloseBtn" class="welcome-close-btn">Close ✕</button>
+      <button id="welcomeCloseBtn" class="welcome-close-btn">Continue &#8594;</button>
     </div>
     <div class="welcome-modal-body">
       <p>Welcome to the collection. In it you will find presentations of 10 recorded performances from a centuries-old tradition of narrative poetry. The poems were created, curated, and re-created by epic bards who sing and accompany themselves on the enanga, a small harp-like instrument technically referred to as a trough zither. In each presentation you hear the bard's voice singing and his fingers plucking enanga strings and see a synchronized, scrolling transcription in Haya and translation in English, accompanied by occasional links to annotations that explicate cultural and historical dimensions of the poem and reveal its stanzaic versification.</p>
@@ -429,15 +429,15 @@
 .welcome-overlay.open { display: flex; }
 
 .welcome-modal {
-  background: #faf8f4;
-  color: #1a1a18;
-  border: 1px solid #ccc;
+  background: #1a1a18;
+  color: #e8e4dc;
+  border: 1px solid #3a3a32;
   border-radius: 6px;
   width: 58%;
   max-height: 70vh;
   display: flex;
   flex-direction: column;
-  box-shadow: 0 8px 32px rgba(0,0,0,0.25);
+  box-shadow: 0 8px 32px rgba(0,0,0,0.7);
 }
 
 .welcome-modal-header {
@@ -445,8 +445,8 @@
   align-items: center;
   justify-content: space-between;
   padding: 0.8em 1.2em;
-  border-bottom: 1px solid #ccc;
-  background: #faf8f4;
+  border-bottom: 1px solid #3a3a32;
+  background: #1a1a18;
   border-radius: 6px 6px 0 0;
   flex-shrink: 0;
 }
@@ -459,8 +459,8 @@
 
 .welcome-close-btn {
   background: none;
-  border: 1px solid #aaa;
-  color: #1a1a18;
+  border: 1px solid #5a5a4a;
+  color: #e8e4dc;
   font-family: sans-serif;
   font-size: 0.82em;
   padding: 0.3em 0.8em;
@@ -475,12 +475,13 @@
   font-family: 'Libre Baskerville', Georgia, serif;
   font-size: 1em;
   line-height: 1.75;
-  color: #1a1a18;
+  color: #e8e4dc;
 }
 </style>
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
+  window.scrollTo(0, 0);
 (function() {
   // ── Hamburger toggle ──
   document.querySelector('.nav-hamburger').addEventListener('click', function(e) {
@@ -505,6 +506,10 @@ document.addEventListener('DOMContentLoaded', function() {
   });
   if (!sessionStorage.getItem('welcomeSeen')) {
     welcomeOverlay.classList.add('open');
+    setTimeout(function() {
+      var body = document.querySelector('#welcomeOverlay .welcome-modal-body');
+      if (body) body.scrollTop = 0;
+    }, 10);
   }
 
   // ── Stub modals ──
@@ -523,6 +528,10 @@ document.addEventListener('DOMContentLoaded', function() {
     document.getElementById('nav-mobile').classList.remove('open');
     if (which === 'welcome') {
       welcomeOverlay.classList.add('open');
+      setTimeout(function() {
+        var body = document.querySelector('#welcomeOverlay .welcome-modal-body');
+        if (body) body.scrollTop = 0;
+      }, 10);
       return;
     }
     var titles = {
@@ -532,8 +541,8 @@ document.addEventListener('DOMContentLoaded', function() {
     };
     var bodies = {
       about: `<p>This collection of 10 Haya epic ballads is based on fieldwork in Kagera Region of Tanzania beginning in 1968 and in several subsequent visits. The last was in 1995. The tape recordings from these researches have been digitized and are stored in the Seitel-Dauer Research Archive in the Indiana University Library Archive of Traditional Music, along with recordings of other speech genres like folktales and self-praise poetry (<em>ebyebugo</em>), and field notes, photographs, and annotated transcriptions. There are 99 digitized recordings of epic ballads in the research archive. Mugasha I was recorded by Hugh Tracy in 1950 and is used with permission of the International Library of African Music.</p>
-<p>As noted in the essay on recording methods, my research originally focused on the social use of metaphor, principally the speech genre of proverbs. Sheila Dauer, my former wife and co-fieldworker on the first visit, did sociolinguistic research on the genre of greetings. So from the very beginning of the collection, the focus and method of data collection was dialogic: an understanding of linguistic art and cultural knowledge as aesthetic and social forms that emerge from interactions between people. This perspective informs not only the research but also how the poems are presented in the collection. The presentation invites your participation in the creation of meaning.</p>`,
-      search: `<p>The entire collection can be searched from the menu icon (&#9776;) at the upper right of any ballad page. Open any ballad, click the menu icon, and select <strong>Search</strong>. Set the scope to <em>All files</em> to search across all ten ballads, their annotations, plot summaries, and the introductory essays.</p>
+<p>As noted in the essay on recording methods, my research originally focused on the social use of metaphor, principally the speech genre of proverbs. Sheila Dauer, my former wife and co-fieldworker on the first visit, did sociolinguistic research on the genre of greetings. So from the very beginning of the collection, the focus and method of data collection was dialogic: an understanding of linguistic art and cultural knowledge as aesthetic and social forms that emerge from interactions between people. This perspective informs not only the research but also how the poems are presented in the collection. The presentation style invites your participation in the creation of meaning.</p>`,
+      search: `<p>The entire collection can be searched from the menu icon (&#9776;) at the lower right of any ballad page. Open any ballad, click the menu icon, and select <strong>Search</strong>. Set the scope to <em>All files</em> to search across all ten ballads, their annotations, plot summaries, and the introductory essays.</p>
 <p>Or open a ballad directly to begin searching:</p>
 <ul style="font-family:var(--sans);font-size:0.95em;line-height:2;">
 <li><a href="Feza - Kaitaba/index.html" target="_blank">King Kaitaba</a></li>
@@ -548,12 +557,17 @@ document.addEventListener('DOMContentLoaded', function() {
 <li><a href="Muzee - The Tree Mwata/index.html" target="_blank">The Tree Mwata</a></li>
 </ul>`,
       acknowledgements: `<p>I gratefully acknowledge first the generous help and patience provided to me by many Haya persons who aided me in this project. Dr. Mugyabuso Mulokozi, Winifred Kisiraga, and Abdallah &#8220;Feza&#8221; Kaluandila have greatly shaped my thinking. Many Haya performers and teachers have also built the way.</p>
-<p>My American teachers, especially Ralph Rinzler, David Sapir, Dell Hymes, and Ken Goldstein, have pointed the way to understanding and presenting performances. And, of course, I am grateful to Anthropic&#8217;s LLM Claude for the coding and editing that makes this possible and for sharpening my web aesthetics.</p>
+<p>My American teachers, especially Ralph Rinzler, David Sapir, Dell Hymes, and Ken Goldstein, have pointed the way to understanding and presenting performances. And, of course, I am grateful to Anthropic&#8217;s LLM Claude for the coding, editing, and informed style decisions that make this possible.</p>
 <p>My greatest debt is to Marcy, Lizzy, Jesse, and Gene, without whose encouragement, unstinting support, and forbearance, I could not have completed this project.</p>`
     };
     stubTitle.textContent = titles[which];
     stubBody.innerHTML = bodies[which];
     stubOverlay.classList.add('open');
+    // Scroll modal body to top
+    setTimeout(function() {
+      var body = document.querySelector('.welcome-modal-body');
+      if (body) body.scrollTop = 0;
+    }, 10);
   };
 
   // ── Essay nav items ──
