@@ -59,6 +59,9 @@ a:hover { color: var(--accent-hover); }
   border-bottom: 1px solid var(--border);
   padding: 1.2em 2em;
   background: var(--bg);
+  position: sticky;
+  top: 0;
+  z-index: 100;
 }
 
 .page-header-inner {
@@ -324,14 +327,18 @@ a:hover { color: var(--accent-hover); }
 
 .essay-entry-title {
   font-family: var(--serif);
+  font-size: 1.1em;
+  font-weight: 700;
+}
+.essay-entry-title a,
+.essay-nav-item {
+  color: var(--fg);
+  text-decoration: none;
   font-size: 1em;
   font-weight: 700;
 }
-.essay-entry-title a {
-  color: var(--fg);
-  text-decoration: none;
-}
-.essay-entry-title a:hover { color: var(--accent); }
+.essay-entry-title a:hover,
+.essay-nav-item:hover { color: var(--accent); }
 
 .essay-entry-read {
   font-family: var(--sans);
