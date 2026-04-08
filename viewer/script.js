@@ -1672,33 +1672,54 @@ document.addEventListener("DOMContentLoaded", () => {
       { file: 'poetic_forms.html',         title: 'Poetic Forms in Haya Epic Ballads' },
     ];
 
+    // Helper: extract just the main-content text from HTML, stripping all tags cleanly
+    function extractMainText(html) {
+      // Extract only main-content section
+      const mainMatch = html.match(/<main[^>]*>([\s\S]*?)<\/main>/i);
+      const src = mainMatch ? mainMatch[1] : html;
+      // Remove script and style blocks entirely
+      const clean = src.replace(/<script[\s\S]*?<\/script>/gi, '')
+                        .replace(/<style[\s\S]*?<\/style>/gi, '')
+                        .replace(/<[^>]+>/g, ' ')
+                        .replace(/&[a-z#0-9]+;/gi, ' ')
+                        .replace(/\s+/g, ' ')
+                        .trim();
+      return clean;
+    }
+
+    // Helper: find all occurrences and return one result per occurrence
+    function findAllOccurrences(text, queryLower, type, meta) {
+      const textLower = text.toLowerCase();
+      const found = [];
+      let searchFrom = 0;
+      while (true) {
+        const idx = textLower.indexOf(queryLower, searchFrom);
+        if (idx === -1) break;
+        const start = Math.max(0, idx - 80);
+        const end = Math.min(text.length, idx + queryLower.length + 80);
+        const snippet = text.substring(start, end).trim();
+        found.push(Object.assign({ text: snippet, context: snippet, relevance: 1 }, meta));
+        searchFrom = idx + queryLower.length;
+      }
+      return found;
+    }
+
     for (const essay of ESSAYS) {
       try {
         const url = `${repoRoot}/essays/${essay.file}`;
         const resp = await fetch(url);
         if (!resp.ok) continue;
         const html = await resp.text();
-        // Strip tags for searching
-        const text = html.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ');
-        const textLower = text.toLowerCase();
-        if (textLower.includes(queryLower)) {
-          // Find a context snippet
-          const idx = textLower.indexOf(queryLower);
-          const start = Math.max(0, idx - 80);
-          const end = Math.min(text.length, idx + queryLower.length + 80);
-          const snippet = text.substring(start, end).trim();
-          results.push({
-            type: 'essay',
-            ballad: essay.title,
-            balladFolder: null,
-            file: essay.file,
-            line: null,
-            id: null,
-            text: snippet,
-            context: snippet,
-            relevance: 1
-          });
-        }
+        const text = extractMainText(html);
+        const hits = findAllOccurrences(text, queryLower, 'essay', {
+          type: 'essay',
+          ballad: essay.title,
+          balladFolder: null,
+          file: essay.file,
+          line: null,
+          id: null,
+        });
+        hits.forEach(h => results.push(h));
       } catch (err) {
         console.log('[Search] Could not load essay:', essay.file, err.message);
       }
@@ -1711,25 +1732,16 @@ document.addEventListener("DOMContentLoaded", () => {
         const resp = await fetch(url);
         if (!resp.ok) continue;
         const html = await resp.text();
-        const text = html.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ');
-        const textLower = text.toLowerCase();
-        if (textLower.includes(queryLower)) {
-          const idx = textLower.indexOf(queryLower);
-          const start = Math.max(0, idx - 80);
-          const end = Math.min(text.length, idx + queryLower.length + 80);
-          const snippet = text.substring(start, end).trim();
-          results.push({
-            type: 'intro',
-            ballad: ballad.name + ' (Introduction)',
-            balladFolder: ballad.folder,
-            file: 'intro.html',
-            line: null,
-            id: null,
-            text: snippet,
-            context: snippet,
-            relevance: 1
-          });
-        }
+        const text = extractMainText(html);
+        const hits = findAllOccurrences(text, queryLower, 'intro', {
+          type: 'intro',
+          ballad: ballad.name + ' (Introduction)',
+          balladFolder: ballad.folder,
+          file: 'intro.html',
+          line: null,
+          id: null,
+        });
+        hits.forEach(h => results.push(h));
       } catch (err) {
         console.log('[Search] Could not load intro for:', ballad.name, err.message);
       }
