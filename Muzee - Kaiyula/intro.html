@@ -19,34 +19,21 @@
         <a href="../essays/haya_people.html">Essays</a>
         <a href="index.html">Listen</a>
       </nav>
-      <div class="nav-relative">
-        <button class="nav-hamburger" data-target="nav-mobile" aria-label="Menu">☰</button>
-        <div class="nav-dropdown" id="nav-mobile">
-          <a href="../library.html">Library</a>
-          <a href="../essays/haya_people.html">Essays</a>
-          <a href="index.html">Listen to this ballad</a>
-        </div>
-      </div>
     </div>
   </header>
 
   <main class="main-content">
     <h1 class="intro-ballad-name"><em>Kaiyula</em></h1>
     <p class="intro-performer">Muzee of Kanazi</p>
-
     <a class="intro-begin-btn" href="index.html">Begin Listening</a>
-
     <section class="intro-section" style="margin-top:3em;">
       <h2>Introduction</h2>
-      <p>Kaiyula is a woman's name. It is also the distant thunder that accompanies the first sprinklings of rain after the long, parched, and  sometimes hungry dry season.</p>
-    <p>The ballad of Kaiyula is a poetic evocation of human passion: the supernatural heat that melts together lovers created only for each other; and a lover's crazy, aesthetic, mind-altering embrace of the other's beauty. That is, the ballad is about attraction between youths, on one hand, and between adults, on the other</p>
-    <p>Comparing this ballad with The Place You Come From reveals similar episodes based on particular speech interactions: seduction, pillow talk, and post-coital exchange. Kaiyula also has several other kinds of episodes and includes two seductions not one; The Place You Come From gives more emphasis to the post-coital exchange and its consequences. Seeing the episodes as types assists understanding of the many poetic figures and the rhetorical functions they serve.</p>
-    <p>Muzee sang this ballad on August 22, 1969, to an audience gathered at the traditional house (msonge) of Dionies Lutabanzibwa.</p>
+      <p>Kaiyula is a woman's name. It is also the distant thunder that accompanies the first sprinklings of rain after the long, parched, and sometimes hungry dry season.</p>
+      <p>The ballad of Kaiyula is a poetic evocation of human passion: the supernatural heat that melts together lovers created only for each other; and a lover's crazy, aesthetic, mind-altering embrace of the other's beauty. That is, the ballad is about attraction between youths, on one hand, and between adults, on the other.</p>
+      <p>Comparing this ballad with The Place You Come From reveals similar episodes based on particular speech interactions: seduction, pillow talk, and post-coital exchange. Kaiyula also has several other kinds of episodes and includes two seductions not one; The Place You Come From gives more emphasis to the post-coital exchange and its consequences. Seeing the episodes as types assists understanding of the many poetic figures and the rhetorical functions they serve.</p>
+      <p>Muzee sang this ballad on August 22, 1969, to an audience gathered at the traditional house (msonge) of Dionies Lutabanzibwa.</p>
     </section>
-    
-    <p style="margin-top:3em;">
-      <a class="intro-begin-btn" href="index.html">Begin Listening</a>
-    </p>
+    <p style="margin-top:3em;"><a class="intro-begin-btn" href="index.html">Begin Listening</a></p>
   </main>
 
   <footer class="page-footer">
@@ -55,5 +42,39 @@
 
 </div>
 <script src="../viewer/navigation.js"></script>
+<script>
+// Search term highlight from URL hash
+(function() {
+  var hash = window.location.hash;
+  if (!hash || !hash.startsWith('#search=')) return;
+  var query = decodeURIComponent(hash.replace('#search=', '')).trim();
+  if (!query) return;
+
+  function highlightAndScroll() {
+    var body = document.querySelector('.main-content') || document.body;
+    var html = body.innerHTML;
+    var regex = new RegExp('(' + query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + ')', 'gi');
+    body.innerHTML = html.replace(regex, '<mark class="search-hit">$1</mark>');
+    var first = document.querySelector('.search-hit');
+    if (first) {
+      first.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', highlightAndScroll);
+  } else {
+    highlightAndScroll();
+  }
+})();
+</script>
+<style>
+mark.search-hit {
+  background: #ffef80;
+  color: #1a1a18;
+  border-radius: 2px;
+  padding: 0 2px;
+}
+</style>
 </body>
 </html>

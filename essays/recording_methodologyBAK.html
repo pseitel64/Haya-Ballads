@@ -28,7 +28,6 @@
       <div class="nav-relative">...</div>
       -->
     </div>
-    </div>
   </header>
 
   <main class="main-content">
@@ -60,39 +59,5 @@
 
 </div>
 <script src="../viewer/navigation.js"></script>
-<script>
-// Search term highlight from URL hash
-(function() {
-  var hash = window.location.hash;
-  if (!hash || !hash.startsWith('#search=')) return;
-  var query = decodeURIComponent(hash.replace('#search=', '')).trim();
-  if (!query) return;
-
-  function highlightAndScroll() {
-    var body = document.querySelector('.main-content') || document.body;
-    var html = body.innerHTML;
-    var regex = new RegExp('(' + query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + ')', 'gi');
-    body.innerHTML = html.replace(regex, '<mark class="search-hit">$1</mark>');
-    var first = document.querySelector('.search-hit');
-    if (first) {
-      first.scrollIntoView({ behavior: 'smooth', block: 'center' });
-    }
-  }
-
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', highlightAndScroll);
-  } else {
-    highlightAndScroll();
-  }
-})();
-</script>
-<style>
-mark.search-hit {
-  background: #ffef80;
-  color: #1a1a18;
-  border-radius: 2px;
-  padding: 0 2px;
-}
-</style>
 </body>
 </html>

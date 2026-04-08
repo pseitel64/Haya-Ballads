@@ -19,36 +19,22 @@
         <a href="../essays/haya_people.html">Essays</a>
         <a href="index.html">Listen</a>
       </nav>
-      <div class="nav-relative">
-        <button class="nav-hamburger" data-target="nav-mobile" aria-label="Menu">☰</button>
-        <div class="nav-dropdown" id="nav-mobile">
-          <a href="../library.html">Library</a>
-          <a href="../essays/haya_people.html">Essays</a>
-          <a href="index.html">Listen to this ballad</a>
-        </div>
-      </div>
     </div>
   </header>
 
   <main class="main-content">
     <h1 class="intro-ballad-name"><em>King Kaitaba</em></h1>
     <p class="intro-performer">Abdallah Feza Kaluandila</p>
-
     <a class="intro-begin-btn" href="index.html">Begin Listening</a>
-
     <section class="intro-section" style="margin-top:3em;">
       <h2>Introduction</h2>
       <p>King Kaitaba ruled the central Haya Kingdom of Kyamtwara in the middle of the 19th century. Son of Kitekere, the founder of the Bankango dynasty, Kaitaba stands heroically amidst the symbols, instruments, and prerogatives of royal rule. Just as his father does in his own ballad included in this library, Kaitaba rises up under grave provocation and thoroughly defeats the armies of a neighboring king. We see in him both the acme and the pivot of institutional power in the centralized state he commands.</p>
-    <p>But the seams in Kaitaba's mantle of state power have become more visible, even frayed. To be sure, we see the king confirm the unity of his state and bring glory to its name on the battlefield. But the origin both of the unease he feels from the very beginning of the story and of the driving force of disequilibrium that the plot eventually resolves come from within his own state.</p>
-    <p>That force originates in the manly high spirits of the miteeko, the cohorts of warriors from a single locality, who have been educated together as youths at the royal compound, have done heavy labor like clearing land for the state economy, and most importantly, have fought together as warriors if and when this was necessary. Their appetites for battle and its spoils are seen to be difficult to constrain. The cohorts seem to challenge Kaitaba to be more like the dominant figure his dynasty-founding father was.</p>
-    <p>The elaboration of power relationships in this picture of the state seems reflected in the ballad's complex poetic form, which is baroque in comparison with those of other works in the genre. The composer - who is said to be the famous Kyamtwara bard Magangala - has intensified and multiplied the poetic features found in other works in the genre, creating a highly structured stylistic surface for the poem.</p>
-    <p>Another remarkable feature of the ballad is its coda, which envisions warriors returning from victorious battle. In the column are Kaitaba's successors, who in various ways, at the end of the 19th century and the beginning of the 20th, fell afoul of German colonial rule. They are pictured crying as they proceed homeward from their campaign.</p>
+      <p>But the seams in Kaitaba's mantle of state power have become more visible, even frayed. To be sure, we see the king confirm the unity of his state and bring glory to its name on the battlefield. But the origin both of the unease he feels from the very beginning of the story and of the driving force of disequilibrium that the plot eventually resolves come from within his own state.</p>
+      <p>That force originates in the manly high spirits of the miteeko, the cohorts of warriors from a single locality, who have been educated together as youths at the royal compound, have done heavy labor like clearing land for the state economy, and most importantly, have fought together as warriors if and when this was necessary. Their appetites for battle and its spoils are seen to be difficult to constrain. The cohorts seem to challenge Kaitaba to be more like the dominant figure his dynasty-founding father was.</p>
+      <p>The elaboration of power relationships in this picture of the state seems reflected in the ballad's complex poetic form, which is baroque in comparison with those of other works in the genre. The composer - who is said to be the famous Kyamtwara bard Magangala - has intensified and multiplied the poetic features found in other works in the genre, creating a highly structured stylistic surface for the poem.</p>
+      <p>Another remarkable feature of the ballad is its coda, which envisions warriors returning from victorious battle. In the column are Kaitaba's successors, who in various ways, at the end of the 19th century and the beginning of the 20th, fell afoul of German colonial rule. They are pictured crying as they proceed homeward from their campaign.</p>
     </section>
-    
-
-    <p style="margin-top:3em;">
-      <a class="intro-begin-btn" href="index.html">Begin Listening</a>
-    </p>
+    <p style="margin-top:3em;"><a class="intro-begin-btn" href="index.html">Begin Listening</a></p>
   </main>
 
   <footer class="page-footer">
@@ -57,5 +43,39 @@
 
 </div>
 <script src="../viewer/navigation.js"></script>
+<script>
+// Search term highlight from URL hash
+(function() {
+  var hash = window.location.hash;
+  if (!hash || !hash.startsWith('#search=')) return;
+  var query = decodeURIComponent(hash.replace('#search=', '')).trim();
+  if (!query) return;
+
+  function highlightAndScroll() {
+    var body = document.querySelector('.main-content') || document.body;
+    var html = body.innerHTML;
+    var regex = new RegExp('(' + query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + ')', 'gi');
+    body.innerHTML = html.replace(regex, '<mark class="search-hit">$1</mark>');
+    var first = document.querySelector('.search-hit');
+    if (first) {
+      first.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', highlightAndScroll);
+  } else {
+    highlightAndScroll();
+  }
+})();
+</script>
+<style>
+mark.search-hit {
+  background: #ffef80;
+  color: #1a1a18;
+  border-radius: 2px;
+  padding: 0 2px;
+}
+</style>
 </body>
 </html>

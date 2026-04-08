@@ -1647,158 +1647,113 @@ document.addEventListener("DOMContentLoaded", () => {
       await searchBalladFiles(ballad, queryLower, results);
     }
     
+    // Search essays and intros
+    await searchEssaysAndIntros(queryLower, results);
+
     console.log('[Search] Total results from all ballads:', results.length);
   }
   
-  async function discoverBalladFolders() {
-    // Get parent directory URL
+  async function searchEssaysAndIntros(queryLower, results) {
+    // Build repo root URL
     const currentPath = window.location.pathname;
     const pathParts = currentPath.split('/');
-    pathParts.pop(); // Remove index.html
-    pathParts.pop(); // Remove current ballad folder
-    const parentURL = window.location.origin + pathParts.join('/');
-    
-    console.log('[Discovery] Parent URL:', parentURL);
-    console.log('[Discovery] Scanning for all ballad folders...');
-    
-    // Try to get directory listing
-    try {
-      const response = await fetch(parentURL);
-      const html = await response.text();
-      
-      // Extract folder names from directory listing
-      // This works with Apache/Nginx default directory listings
-      const folderRegex = /<a href="([^"]+)\/">/g;
-      const folders = [];
-      let match;
-      
-      while ((match = folderRegex.exec(html)) !== null) {
-        const folder = decodeURIComponent(match[1]);
-        // Skip parent directory and hidden folders
-        if (folder !== '..' && !folder.startsWith('.')) {
-          folders.push(folder);
+    pathParts.pop(); // remove index.html
+    pathParts.pop(); // remove ballad folder
+    const repoRoot = window.location.origin + pathParts.join('/');
+
+    // Known essays
+    const ESSAYS = [
+      { file: 'haya_people.html',          title: 'The Haya People' },
+      { file: 'enanga_tradition.html',     title: 'The Enanga Tradition' },
+      { file: 'recording_methodology.html',title: 'Recording These Performances' },
+      { file: 'heroic_age.html',           title: 'Why These Are Epics: The Heroic Age' },
+      { file: 'call_episode.html',         title: 'The Call Episode' },
+      { file: 'bards_voices.html',         title: 'Four Bards, Four Voices' },
+      { file: 'poetic_forms.html',         title: 'Poetic Forms in Haya Epic Ballads' },
+    ];
+
+    for (const essay of ESSAYS) {
+      try {
+        const url = `${repoRoot}/essays/${essay.file}`;
+        const resp = await fetch(url);
+        if (!resp.ok) continue;
+        const html = await resp.text();
+        // Strip tags for searching
+        const text = html.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ');
+        const textLower = text.toLowerCase();
+        if (textLower.includes(queryLower)) {
+          // Find a context snippet
+          const idx = textLower.indexOf(queryLower);
+          const start = Math.max(0, idx - 80);
+          const end = Math.min(text.length, idx + queryLower.length + 80);
+          const snippet = text.substring(start, end).trim();
+          results.push({
+            type: 'essay',
+            ballad: essay.title,
+            balladFolder: null,
+            file: essay.file,
+            line: null,
+            id: null,
+            text: snippet,
+            context: snippet,
+            relevance: 1
+          });
         }
+      } catch (err) {
+        console.log('[Search] Could not load essay:', essay.file, err.message);
       }
-      
-      console.log('[Discovery] Found', folders.length, 'folders to check:', folders.join(', '));
-      
-      // Test each folder for transcription.json
-      const discoveries = await Promise.all(
-        folders.map(async (folder) => {
-          try {
-            const testURL = `${parentURL}/${folder}/transcription.json`;
-            const response = await fetch(testURL, { method: 'HEAD' });
-            if (response.ok) {
-              console.log('[Discovery] ? Found ballad:', folder);
-              
-              // Check if it has a plot file - try common patterns
-              const folderLower = folder.toLowerCase().replace(/^[^-]+ - /, ''); // Remove prefix like "Muzee - "
-              const plotFiles = [
-                `${folderLower}_plot.json`,
-                `${folder.toLowerCase()}_plot.json`,
-                'plot.json'
-              ];
-              
-              let hasPlot = false;
-              let plotFile = null;
-              
-              for (const pf of plotFiles) {
-                const plotURL = `${parentURL}/${folder}/${pf}`;
-                const plotResp = await fetch(plotURL, { method: 'HEAD' });
-                if (plotResp.ok) {
-                  hasPlot = true;
-                  plotFile = pf;
-                  console.log('[Discovery]   ? Has plot file:', pf);
-                  break;
-                }
-              }
-              
-              // Extract a clean name (remove prefixes like "Muzee - ", "Habib - ", etc.)
-              let name = folder;
-              if (folder.includes(' - ')) {
-                name = folder.split(' - ')[1];
-              }
-              
-              return { 
-                name: name, 
-                folder: folder, 
-                hasPlot: hasPlot, 
-                plotFile: plotFile 
-              };
-            }
-          } catch (err) {
-            // Folder doesn't have transcription.json, skip
-          }
-          return null;
-        })
-      );
-      
-      // Filter out nulls and store
-      BALLADS = discoveries.filter(d => d !== null);
-      console.log('[Discovery] ? Found', BALLADS.length, 'valid ballads:', BALLADS.map(b => b.name).join(', '));
-      
-    } catch (err) {
-      console.warn('[Discovery] Could not read directory listing, trying fallback...', err);
-      
-      // Fallback: Try common patterns
-      const commonPrefixes = ['Feza', 'Habib', 'Muzee', 'Mugasha'];
-      const commonNames = ['Kaitaba', 'Kitekere', 'Mbali', 'Rukiza', 'Kachwenyanja', 'Kaiyula', 'Kajango', 'Mwata'];
-      const possibleFolders = [];
-      
-      // Try prefix - name combinations
-      for (const prefix of commonPrefixes) {
-        for (const name of commonNames) {
-          possibleFolders.push(`${prefix} - ${name}`);
+    }
+
+    // Search intro pages for each ballad
+    for (const ballad of BALLADS) {
+      try {
+        const url = `${repoRoot}/${encodeURIComponent(ballad.folder)}/intro.html`;
+        const resp = await fetch(url);
+        if (!resp.ok) continue;
+        const html = await resp.text();
+        const text = html.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ');
+        const textLower = text.toLowerCase();
+        if (textLower.includes(queryLower)) {
+          const idx = textLower.indexOf(queryLower);
+          const start = Math.max(0, idx - 80);
+          const end = Math.min(text.length, idx + queryLower.length + 80);
+          const snippet = text.substring(start, end).trim();
+          results.push({
+            type: 'intro',
+            ballad: ballad.name + ' (Introduction)',
+            balladFolder: ballad.folder,
+            file: 'intro.html',
+            line: null,
+            id: null,
+            text: snippet,
+            context: snippet,
+            relevance: 1
+          });
         }
+      } catch (err) {
+        console.log('[Search] Could not load intro for:', ballad.name, err.message);
       }
-      // Also try just names
-      possibleFolders.push(...commonNames);
-      
-      console.log('[Discovery] Trying', possibleFolders.length, 'common patterns...');
-      
-      // Test each possibility
-      const discoveries = await Promise.all(
-        possibleFolders.map(async (folder) => {
-          try {
-            const testURL = `${parentURL}/${folder}/transcription.json`;
-            const response = await fetch(testURL, { method: 'HEAD' });
-            if (response.ok) {
-              console.log('[Discovery] ? Found ballad:', folder);
-              
-              // Check for plot file
-              const folderLower = folder.toLowerCase().replace(/^[^-]+ - /, '');
-              const plotFiles = [`${folderLower}_plot.json`, 'plot.json'];
-              let hasPlot = false;
-              let plotFile = null;
-              
-              for (const pf of plotFiles) {
-                const plotURL = `${parentURL}/${folder}/${pf}`;
-                const plotResp = await fetch(plotURL, { method: 'HEAD' });
-                if (plotResp.ok) {
-                  hasPlot = true;
-                  plotFile = pf;
-                  break;
-                }
-              }
-              
-              let name = folder;
-              if (folder.includes(' - ')) {
-                name = folder.split(' - ')[1];
-              }
-              
-              return { name, folder, hasPlot, plotFile };
-            }
-          } catch (err) {
-            // Skip
-          }
-          return null;
-        })
-      );
-      
-      BALLADS = discoveries.filter(d => d !== null);
-      console.log('[Discovery] ? Found', BALLADS.length, 'ballads via fallback');
     }
   }
+
+    async function discoverBalladFolders() {
+    // Hardcoded ballad list — GitHub Pages has no directory listing
+    const KNOWN_BALLADS = [
+      { folder: 'Feza - Kaitaba',         name: 'Kaitaba',              hasPlot: true,  plotFile: 'kaitaba_plot.json' },
+      { folder: 'Fezza - Kitekele',        name: 'King Kitekere',        hasPlot: true,  plotFile: 'kitekele_plot.json' },
+      { folder: 'Habib - Mugasha I',       name: 'Mugasha I',            hasPlot: true,  plotFile: 'mugasha_i_plot.json' },
+      { folder: 'Habib - Mugasha II',      name: 'Mugasha II',           hasPlot: false, plotFile: null },
+      { folder: 'Mugasha - Mbali',         name: 'The Place You Come From', hasPlot: true, plotFile: 'mbali_plot.json' },
+      { folder: 'Mugasha - Rukiza',        name: 'Rukiza',               hasPlot: true,  plotFile: 'rukiza_plot.json' },
+      { folder: 'Muzee - Kachwenyanja',    name: 'Kachwenyanja',         hasPlot: true,  plotFile: 'kachwenyanja_plot.json' },
+      { folder: 'Muzee - Kaiyula',         name: 'Kaiyula',              hasPlot: true,  plotFile: 'kaiyula_plot.json' },
+      { folder: 'Muzee - Kajango',         name: 'Kajango',              hasPlot: true,  plotFile: 'kajango_plot.json' },
+      { folder: 'Muzee - The Tree Mwata',  name: 'The Tree Mwata',       hasPlot: true,  plotFile: 'the_tree_mwata_plot.json' },
+    ];
+    BALLADS = KNOWN_BALLADS;
+    console.log('[Discovery] Using hardcoded ballad list:', BALLADS.map(b => b.name).join(', '));
+  }
+
   
   async function searchBalladFiles(ballad, queryLower, results) {
     const balladResults = [];
@@ -1808,7 +1763,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const pathParts = currentPath.split('/');
     pathParts.pop(); // Remove index.html
     pathParts.pop(); // Remove current ballad folder
-    const baseURL = `${window.location.origin}${pathParts.join('/')}/${ballad.folder}`;
+    const baseURL = `${window.location.origin}${pathParts.join('/')}/${encodeURIComponent(ballad.folder)}`;
     
     console.log('[Search] Searching in:', baseURL);
     
@@ -2019,7 +1974,9 @@ document.addEventListener("DOMContentLoaded", () => {
       } else {
         const typeLabel = result.type === 'transcription' ? 'Haya' : 
                          result.type === 'translation' ? 'English' : 
-                         result.type === 'plot' ? 'Plot' : 'Note';
+                         result.type === 'plot' ? 'Plot' :
+                         result.type === 'essay' ? 'Essay' :
+                         result.type === 'intro' ? 'Intro' : 'Note';
         
         // Always show ballad name inline with result (same style as type badge)
         const balladLabel = result.ballad ? 
@@ -2046,7 +2003,7 @@ document.addEventListener("DOMContentLoaded", () => {
             <div class="search-result-header">
               ${balladLabel}
               ${typeBadge}
-              <span class="search-result-line">Line${result.type === 'plot' ? 's' : ''} ${result.line}</span>
+              ${result.line ? `<span class="search-result-line">Line${result.type === 'plot' ? 's' : ''} ${result.line}</span>` : ''}
             </div>
             <div class="search-result-context">${result.context}</div>
           </div>
@@ -2062,10 +2019,13 @@ document.addEventListener("DOMContentLoaded", () => {
     resultsDiv.dataset.results = JSON.stringify(results);
     
     // Add click handlers to results (for jumping to line)
+    console.log("[Search] Binding clicks to", resultsDiv.querySelectorAll('.search-result[data-index]').length, "results");
     resultsDiv.querySelectorAll('.search-result[data-index]').forEach(resultEl => {
       resultEl.addEventListener('click', (e) => {
+        e.stopPropagation();
         const index = parseInt(resultEl.dataset.index);
         const result = results[index];
+        console.log("[Search] Result clicked, index:", index, "type:", result.type);
         handleSearchResultClick(result, query);
       });
     });
@@ -2145,6 +2105,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }
   
   function handleSearchResultClick(result, searchQuery) {
+    console.log("[Search] handleSearchResultClick called, type:", result.type, "ballad:", result.ballad, "isCurrent:", result.isCurrent);
     // Check if result is from a different ballad (not marked as current)
     if (result.ballad && !result.isCurrent) {
       // Result is from another ballad - need to open that ballad
@@ -2269,11 +2230,24 @@ document.addEventListener("DOMContentLoaded", () => {
   
   
   function openResultInCurrentTab(result, searchQuery) {
-    // Build URL for the other ballad - go up to parent, then into ballad folder
+    // Build repo root URL
     const currentPath = window.location.pathname;
+    const pathParts = currentPath.split('/');
     pathParts.pop(); // Remove index.html
     pathParts.pop(); // Remove current ballad folder
-    let url = `${window.location.origin}${pathParts.join('/')}/${result.balladFolder}/index.html`;
+    const repoRoot = window.location.origin + pathParts.join('/');
+
+    // Essays and intros open in new tab regardless of tab mode setting
+    if (result.type === 'essay') {
+      window.open(`${repoRoot}/essays/${result.file}`, '_blank');
+      return;
+    }
+    if (result.type === 'intro') {
+      window.open(`${repoRoot}/${encodeURIComponent(result.balladFolder)}/intro.html`, '_blank');
+      return;
+    }
+
+    let url = `${repoRoot}/${encodeURIComponent(result.balladFolder)}/index.html`;
     
     // Add parameters for navigation
     const params = new URLSearchParams();
@@ -2296,18 +2270,34 @@ document.addEventListener("DOMContentLoaded", () => {
   }
   
   function openResultInNewTabWithContext(result, searchQuery) {
+    // Build repo root URL
+    const currentPath = window.location.pathname;
+    const pathParts = currentPath.split('/');
+    pathParts.pop(); // Remove index.html
+    pathParts.pop(); // Remove current ballad folder
+    const repoRoot = window.location.origin + pathParts.join('/');
+
+    // Handle essay and intro types — these are not ballad pages
+    if (result.type === 'essay') {
+      const essayURL = `${repoRoot}/essays/${result.file}`;
+      console.log('[Search] Opening essay:', essayURL);
+      window.open(essayURL, '_blank');
+      return;
+    }
+    if (result.type === 'intro') {
+      const introURL = `${repoRoot}/${encodeURIComponent(result.balladFolder)}/intro.html`;
+      console.log('[Search] Opening intro:', introURL);
+      window.open(introURL, '_blank');
+      return;
+    }
+
     // Build URL - use other ballad's folder if needed
     let url;
     if (!result.isCurrent) {
       // Opening a different ballad - go up to parent, then into ballad folder
-      const currentPath = window.location.pathname;
-      const pathParts = currentPath.split('/');
-      pathParts.pop(); // Remove index.html
-      pathParts.pop(); // Remove current ballad folder
-      url = `${window.location.origin}${pathParts.join('/')}/${result.balladFolder}/index.html`;
+      url = `${repoRoot}/${encodeURIComponent(result.balladFolder)}/index.html`;
     } else {
       // Opening current ballad
-      const currentPath = window.location.pathname;
       const basePath = currentPath.substring(0, currentPath.lastIndexOf('/') + 1);
       url = window.location.origin + basePath + 'index.html';
     }
@@ -2348,24 +2338,49 @@ document.addEventListener("DOMContentLoaded", () => {
   
   
   function openResultInNewTab(result) {
-    // Get current ballad path
+    // Build URL from origin + repo root + encoded folder + index.html
     const currentPath = window.location.pathname;
-    const basePath = currentPath.substring(0, currentPath.lastIndexOf('/') + 1);
-    
-    // Build URL with line reference
-    let url = window.location.origin + basePath;
-    
-    if (result.type === 'plot') {
-      // For plot results, pass the line range to open plot summary
-      url += `?plot=${encodeURIComponent(result.line)}`;
-    } else if (result.id) {
-      // For transcription/translation/annotation results, link to specific time
-      const time = timeForId(result.id);
-      if (time != null) {
-        url += `?t=${time}`;
+    const pathParts = currentPath.split('/');
+    pathParts.pop(); // remove index.html
+    pathParts.pop(); // remove current ballad folder
+    const repoRoot = window.location.origin + pathParts.join('/');
+
+    // Debug: log repoRoot so we can verify path construction
+    console.log('[Search] repoRoot:', repoRoot);
+
+    let url;
+    if (result.type === 'essay') {
+      // Essays live at repoRoot/essays/filename
+      url = `${repoRoot}/essays/${result.file}`;
+      console.log('[Search] Essay URL:', url);
+    } else if (result.type === 'intro') {
+      // Intros: encode each path segment separately to handle spaces
+      const encodedFolder = result.balladFolder.split(' ').map(encodeURIComponent).join('%20');
+      url = `${repoRoot}/${encodedFolder}/intro.html`;
+      console.log('[Search] Intro URL:', url);
+    } else if (result.balladFolder) {
+      // Poem result — go to index.html in that ballad folder
+      const base = `${repoRoot}/${encodeURIComponent(result.balladFolder)}/index.html`;
+      if (result.type === 'plot') {
+        url = `${base}?plot=${encodeURIComponent(result.line)}`;
+      } else if (result.id) {
+        const time = timeForId(result.id);
+        url = time != null ? `${base}?t=${time}` : base;
+      } else {
+        url = base;
+      }
+    } else {
+      // Current ballad result
+      const basePath = currentPath.substring(0, currentPath.lastIndexOf('/') + 1);
+      url = window.location.origin + basePath;
+      if (result.type === 'plot') {
+        url += `?plot=${encodeURIComponent(result.line)}`;
+      } else if (result.id) {
+        const time = timeForId(result.id);
+        if (time != null) url += `?t=${time}`;
       }
     }
-    
+
     window.open(url, '_blank');
   }
   
@@ -2461,7 +2476,9 @@ document.addEventListener("DOMContentLoaded", () => {
     if (result.type === 'info') return '';
     
     const typeLabel = result.type === 'transcription' ? 'Haya' : 
-                     result.type === 'translation' ? 'English' : 'Note';
+                     result.type === 'translation' ? 'English' :
+                     result.type === 'essay' ? 'Essay' :
+                     result.type === 'intro' ? 'Intro' : 'Note';
     
     let typeBadge;
     if (result.type === 'annotation') {
