@@ -1692,14 +1692,16 @@ document.addEventListener("DOMContentLoaded", () => {
       const textLower = text.toLowerCase();
       const found = [];
       let searchFrom = 0;
+      let occurrenceIndex = 1;
       while (true) {
         const idx = textLower.indexOf(queryLower, searchFrom);
         if (idx === -1) break;
         const start = Math.max(0, idx - 80);
         const end = Math.min(text.length, idx + queryLower.length + 80);
         const snippet = text.substring(start, end).trim();
-        found.push(Object.assign({ text: snippet, context: snippet, relevance: 1 }, meta));
+        found.push(Object.assign({ text: snippet, context: snippet, relevance: 1, occurrenceIndex: occurrenceIndex }, meta));
         searchFrom = idx + queryLower.length;
+        occurrenceIndex++;
       }
       return found;
     }
@@ -2251,11 +2253,11 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Essays and intros open in new tab regardless of tab mode setting
     if (result.type === 'essay') {
-      window.open(`${repoRoot}/essays/${result.file}#search=${encodeURIComponent(searchQuery)}`, '_blank');
+      window.open(`${repoRoot}/essays/${result.file}#search=${encodeURIComponent(searchQuery)}&n=${result.occurrenceIndex || 1}`, '_blank');
       return;
     }
     if (result.type === 'intro') {
-      window.open(`${repoRoot}/${encodeURIComponent(result.balladFolder)}/intro.html#search=${encodeURIComponent(searchQuery)}`, '_blank');
+      window.open(`${repoRoot}/${encodeURIComponent(result.balladFolder)}/intro.html#search=${encodeURIComponent(searchQuery)}&n=${result.occurrenceIndex || 1}`, '_blank');
       return;
     }
 
@@ -2291,13 +2293,13 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Handle essay and intro types — these are not ballad pages
     if (result.type === 'essay') {
-      const essayURL = `${repoRoot}/essays/${result.file}#search=${encodeURIComponent(searchQuery)}`;
+      const essayURL = `${repoRoot}/essays/${result.file}#search=${encodeURIComponent(searchQuery)}&n=${result.occurrenceIndex || 1}`;
       console.log('[Search] Opening essay:', essayURL);
       window.open(essayURL, '_blank');
       return;
     }
     if (result.type === 'intro') {
-      const introURL = `${repoRoot}/${encodeURIComponent(result.balladFolder)}/intro.html#search=${encodeURIComponent(searchQuery)}`;
+      const introURL = `${repoRoot}/${encodeURIComponent(result.balladFolder)}/intro.html#search=${encodeURIComponent(searchQuery)}&n=${result.occurrenceIndex || 1}`;
       console.log('[Search] Opening intro:', introURL);
       window.open(introURL, '_blank');
       return;
@@ -2363,12 +2365,12 @@ document.addEventListener("DOMContentLoaded", () => {
     let url;
     if (result.type === 'essay') {
       // Essays live at repoRoot/essays/filename
-      url = `${repoRoot}/essays/${result.file}#search=${encodeURIComponent(searchQuery || '')}`;
+      url = `${repoRoot}/essays/${result.file}#search=${encodeURIComponent(searchQuery || '')}&n=${result.occurrenceIndex || 1}`;
       console.log('[Search] Essay URL:', url);
     } else if (result.type === 'intro') {
       // Intros: encode each path segment separately to handle spaces
       const encodedFolder = result.balladFolder.split(' ').map(encodeURIComponent).join('%20');
-      url = `${repoRoot}/${encodedFolder}/intro.html#search=${encodeURIComponent(searchQuery || '')}`;
+      url = `${repoRoot}/${encodedFolder}/intro.html#search=${encodeURIComponent(searchQuery || '')}&n=${result.occurrenceIndex || 1}`;
       console.log('[Search] Intro URL:', url);
     } else if (result.balladFolder) {
       // Poem result — go to index.html in that ballad folder
