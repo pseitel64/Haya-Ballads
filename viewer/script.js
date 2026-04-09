@@ -721,8 +721,10 @@ document.addEventListener("DOMContentLoaded", () => {
       }
       
       // Load plot data
-      fetch(getPlotFilename())
-        .then(r => r.json())
+      const plotFile = getPlotFilename();
+      console.log('[Plot] Fetching:', plotFile, 'from:', window.location.href);
+      fetch(plotFile)
+        .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status + ' for ' + plotFile); return r.json(); })
         .then(plotData => {
           let scrollToSection = 0;
           
