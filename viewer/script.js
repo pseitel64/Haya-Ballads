@@ -2171,17 +2171,22 @@ document.addEventListener("DOMContentLoaded", () => {
         // Add back arrow
         addBackArrowToSearchPanel();
       } else if (result.type === 'plot') {
-        // Transform search panel to show plot summary
-        showPlotSummaryWithLines(result.line, searchQuery, true);
-        // Jump to relevant line range
-        const lineRange = result.line.split('-');
-        const firstLine = lineRange[0];
-        const matchingRow = TR.find(item => String(item.line) === firstLine && item.kind === "poem");
-        if (matchingRow) {
-          const time = timeForId(matchingRow.id);
-          if (time != null && audioEl) {
-            audioEl.currentTime = time;
+        if (result.isCurrent) {
+          // Transform search panel to show plot summary for current ballad
+          showPlotSummaryWithLines(result.line, searchQuery, true);
+          // Jump to relevant line range
+          const lineRange = result.line.split('-');
+          const firstLine = lineRange[0];
+          const matchingRow = TR.find(item => String(item.line) === firstLine && item.kind === "poem");
+          if (matchingRow) {
+            const time = timeForId(matchingRow.id);
+            if (time != null && audioEl) {
+              audioEl.currentTime = time;
+            }
           }
+        } else {
+          // Plot result from another ballad — open that ballad with plot param
+          openResultInNewTabWithContext(result, searchQuery);
         }
       } else if (result.type === 'transcription') {
         // Haya result - move search panel to right and add back arrow
