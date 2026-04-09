@@ -1307,6 +1307,9 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="multitab-info-inline">Search: "${searchQuery}"</div>
           <button class="close-panel-btn" aria-label="Close">&times;</button>
         </div>
+        <div class="content-body">
+          <div id="searchResults" class="search-results"></div>
+        </div>
       </div>
     `;
     
@@ -1594,6 +1597,7 @@ document.addEventListener("DOMContentLoaded", () => {
           results.push({
             type: 'plot',
             ballad: 'current',
+            isCurrent: true,
             line: section.lines,
             id: null,
             text: section.text,
@@ -1893,6 +1897,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 type: 'plot',
                 ballad: ballad.name,
                 balladFolder: ballad.folder,
+                isCurrent: false,
                 line: section.lines,
                 id: null,
                 text: section.text,
