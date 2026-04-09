@@ -54,21 +54,62 @@
 </div>
 <script src="../viewer/navigation.js"></script>
 <script>
-// Search term highlight from URL hash
+// Search term highlight from URL hash — uses TreeWalker for reliable text-node matching
 (function() {
   var hash = window.location.hash;
   if (!hash || !hash.startsWith('#search=')) return;
-  var query = decodeURIComponent(hash.replace('#search=', '')).trim();
+  var params = hash.substring(1).split('&');
+  var query = '';
+  var n = 1;
+  params.forEach(function(p) {
+    if (p.startsWith('search=')) query = decodeURIComponent(p.replace('search=', '')).trim();
+    if (p.startsWith('n=')) n = parseInt(p.replace('n=', '')) || 1;
+  });
   if (!query) return;
 
   function highlightAndScroll() {
-    var body = document.querySelector('.main-content') || document.body;
-    var html = body.innerHTML;
-    var regex = new RegExp('(' + query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + ')', 'gi');
-    body.innerHTML = html.replace(regex, '<mark class="search-hit">$1</mark>');
-    var first = document.querySelector('.search-hit');
-    if (first) {
-      first.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    var container = document.querySelector('.main-content') || document.body;
+    var regex = new RegExp(query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'gi');
+    var walker = document.createTreeWalker(container, NodeFilter.SHOW_TEXT, null, false);
+    var textNodes = [];
+    var node;
+    while ((node = walker.nextNode())) {
+      if (regex.test(node.nodeValue)) {
+        textNodes.push(node);
+        regex.lastIndex = 0;
+      }
+    }
+
+    var hitCount = 0;
+    textNodes.forEach(function(textNode) {
+      var parent = textNode.parentNode;
+      if (!parent || parent.nodeName === 'SCRIPT' || parent.nodeName === 'STYLE') return;
+      var text = textNode.nodeValue;
+      var frag = document.createDocumentFragment();
+      var lastIdx = 0;
+      var m;
+      regex.lastIndex = 0;
+      while ((m = regex.exec(text)) !== null) {
+        hitCount++;
+        if (m.index > lastIdx) {
+          frag.appendChild(document.createTextNode(text.slice(lastIdx, m.index)));
+        }
+        var mark = document.createElement('mark');
+        mark.className = 'search-hit';
+        mark.id = 'search-hit-' + hitCount;
+        mark.textContent = m[0];
+        frag.appendChild(mark);
+        lastIdx = m.index + m[0].length;
+      }
+      if (lastIdx < text.length) {
+        frag.appendChild(document.createTextNode(text.slice(lastIdx)));
+      }
+      parent.replaceChild(frag, textNode);
+    });
+
+    var target = document.getElementById('search-hit-' + n) || document.querySelector('.search-hit');
+    if (target) {
+      target.scrollIntoView({ behavior: 'smooth', block: 'center' });
     }
   }
 
