@@ -86,7 +86,7 @@
     "line_end": null,
     "id": 29,
     "time": 77.23,
-    "note": "Nyamugenya: a commonly heard praise, but apparantly its meaning has been forgotton.",
+    "note": "Nyamugenya: a commonly heard praise, but apparently its meaning has been forgotten.",
     "id_ref": 29
   },
   {
@@ -104,7 +104,7 @@
     "line_end": 40,
     "id": 38,
     "time": 94.8,
-    "note": "verse in <b>aba&#x27;</b> of three linegroups that cohere by incremental repetition; the first linegroup of three lines is apparantly a truncated quatrain (30-32); the other two are full quatrains; the first and third linegroups are almost identical, except for truncation and the fact they are framed as quoted speech and narration, respectively; it seems if the first linegroup were a full quatrain it would be linked to the second by incremantel repetition also; the final line of the final linegroup finalizes the figure with the standard phrase &quot;that day&quot;; second quatrain (33-36) is a stanza in <b>aaab</b> formed by contrast between lines that begin with a verb inflected in the first person plural and a line with no verb consisting of a praisename.",
+    "note": "verse in <b>aba&#x27;</b> of three linegroups that cohere by incremental repetition; the first linegroup of three lines is apparently a truncated quatrain (30-32); the other two are full quatrains; the first and third linegroups are almost identical, except for truncation and the fact they are framed as quoted speech and narration, respectively; it seems if the first linegroup were a full quatrain it would be linked to the second by incremental repetition also; the final line of the final linegroup finalizes the figure with the standard phrase &quot;that day&quot;; second quatrain (33-36) is a stanza in <b>aaab</b> formed by contrast between lines that begin with a verb inflected in the first person plural and a line with no verb consisting of a praisename.",
     "id_ref": 38
   },
   {
@@ -212,7 +212,7 @@
     "line_end": null,
     "id": 81,
     "time": 217.63,
-    "note": "Kabahula: apparantly the place where announcements were made;<i>kabahule</i><i> </i>means &quot;let them hear.&quot;",
+    "note": "Kabahula: apparently the place where announcements were made;<i>kabahule</i><i> </i>means &quot;let them hear.&quot;",
     "id_ref": 81
   },
   {
@@ -257,7 +257,7 @@
     "line_end": 73,
     "id": 90,
     "time": 236.36,
-    "note": "stanza in <b>abbb</b> by virtue of contrast between lines that have bodypart initial (71-73) and one that does not (70); figure could also be <b>aabb</b> composed of couplets that cohere by enjambment (70-71) and parallelism (72-73) respactively.",
+    "note": "stanza in <b>abbb</b> by virtue of contrast between lines that have bodypart initial (71-73) and one that does not (70); figure could also be <b>aabb</b> composed of couplets that cohere by enjambment (70-71) and parallelism (72-73) respectively.",
     "id_ref": 90
   },
   {
@@ -284,7 +284,7 @@
     "line_end": null,
     "id": 106,
     "time": 269.08,
-    "note": "Sorgham: the principal ingredient for beer; the lack of land for its cultivation is said to be a problem in Kyamutwala. A major part of the hospitality expected from kings by their subjects was beer, and its absence here has prevented the regular palace attendance expected of respectful subjects.",
+    "note": "Sorghum: the principal ingredient for beer; the lack of land for its cultivation is said to be a problem in Kyamutwala. A major part of the hospitality expected from kings by their subjects was beer, and its absence here has prevented the regular palace attendance expected of respectful subjects.",
     "id_ref": 106
   },
   {
@@ -365,7 +365,7 @@
     "line_end": null,
     "id": 143,
     "time": 351.65999999999997,
-    "note": "The sequence of tenses suggests alacrity and its consequences: beginning with the unmarked <i>-a- </i>past, the movement is fixed in time with the<i> -ka-</i>, and then completed with the <i>-</i><i>ile</i><i> </i>perfect. The following line picks up the string of the narraitve again with the unmarked<i> -a-.</i>",
+    "note": "The sequence of tenses suggests alacrity and its consequences: beginning with the unmarked <i>-a- </i>past, the movement is fixed in time with the<i> -ka-</i>, and then completed with the <i>-</i><i>ile</i><i> </i>perfect. The following line picks up the string of the narrative again with the unmarked<i> -a-.</i>",
     "id_ref": 143
   },
   {
@@ -394,15 +394,6 @@
     "time": 394.65,
     "note": "stanza in <b>abac</b> formed by contrast between lines whose final word is repeated three times (<b>a</b>&#x27;s: 128, 130) and lines that lack this feature; the stanza is composed of couplets that cohere by enjambment and apposition, respectively.",
     "id_ref": 159
-  },
-  {
-    "type": "verse",
-    "line": 132,
-    "line_end": 135,
-    "id": 164,
-    "time": 405.15,
-    "note": "four lines of praisenames",
-    "id_ref": 164
   },
   {
     "type": "verse",
@@ -568,15 +559,6 @@
   },
   {
     "type": "verse",
-    "line": 230,
-    "line_end": 233,
-    "id": 286,
-    "time": 669.64,
-    "note": "stanza that coheres by enjambment.",
-    "id_ref": 286
-  },
-  {
-    "type": "verse",
     "line": 234,
     "line_end": 243,
     "id": 291,
@@ -662,7 +644,7 @@
     "line_end": 269,
     "id": 332,
     "time": 760.01,
-    "note": "note bwoli on either side of enanga solo (see 17, 21)",
+    "note": "note <i>bwoli</i> on either side of enanga solo (see the same figure in lines 17, 21)",
     "id_ref": 332
   },
   {
@@ -671,7 +653,7 @@
     "line_end": 277,
     "id": 339,
     "time": 782.74,
-    "note": "two stanzas (270-273, 274-277) that cohere by repetition and parallalism and are similarly formed in <b>aa</b>a<b>b</b>; the first stanza is formed in <b>aa</b>a<b>b</b> by contrast between one line that has an indicative verb (<b>b</b>: 273) and three lines that do not (<b>a</b>&#x27;s: 270-272); the second stanza is formed in <b>aa</b>a<b>b</b> by contrast between one line that repeats a line from the previous stanza (<b>b</b>: 277), and three lines that do not (<b>a</b>&#x27;s: 274-276).",
+    "note": "two stanzas (270-273, 274-277) that cohere by repetition and parallelism and are similarly formed in <b>aa</b>a<b>b</b>; the first stanza is formed in <b>aa</b>a<b>b</b> by contrast between one line that has an indicative verb (<b>b</b>: 273) and three lines that do not (<b>a</b>&#x27;s: 270-272); the second stanza is formed in <b>aa</b>a<b>b</b> by contrast between one line that repeats a line from the previous stanza (<b>b</b>: 277), and three lines that do not (<b>a</b>&#x27;s: 274-276).",
     "id_ref": 339
   },
   {
@@ -725,7 +707,7 @@
     "line_end": 292,
     "id": 363,
     "time": 832.25,
-    "note": "stanza in <b>aabb</b> formed by couplets, that both begin with locutives and cohere by enjambment; the first also coheres by repetition of twalila &quot;rule&quot; (<b>a</b>&#x27;s: 289-290) and the second by the occcurrence of praisemames (<b>b</b>&#x27;s: 291-292).",
+    "note": "stanza in <b>aabb</b> formed by couplets, that both begin with locutives and cohere by enjambment; the first also coheres by repetition of twalila &quot;rule&quot; (<b>a</b>&#x27;s: 289-290) and the second by the occurrence of praisenames (<b>b</b>&#x27;s: 291-292).",
     "id_ref": 363
   },
   {
@@ -797,7 +779,7 @@
     "line_end": null,
     "id": 378,
     "time": 875.04,
-    "note": "Plant soon to bear: see line 380 below; the terms of this abuse do not seem totally consistant with the exposition.",
+    "note": "Plant soon to bear: see line 380 below, where the terms of this abuse seem to be expanded.",
     "id_ref": 378
   },
   {
@@ -851,7 +833,7 @@
     "line_end": 348,
     "id": 417,
     "time": 970.91,
-    "note": "verse passage in <b>aba</b>a<b>b</b> formed by contrast between stanzas whose initial lines are composed as &quot;he summoned&quot;.../praisename or proper name (<b>a</b>&#x27;s: 330-333, 337-340, 341-344) and stanzas whose initial line is composed as &quot;When (they divined) they saw (them) in the milking room...&quot; (<b>b</b>&#x27;s: 334-336, 345-348); the type <b>a</b> stanzas are formed in <b>aabb</b>: 330-333 in couplets that cohere, respectively, by enjambment and repetition; 337-340 in couplets that cohere, respectively, by chaining and enjambment; in 341-344 the initial couplet coheres by enjambment, while the other couplet - and the series of type <b>a</b> stanzas as a whole - is finalized by a line with an initial formulaic phrase kil&#x27; eki mbwenu and semantic, rather than syntactic, coherence with the preceeding line; this finalization creates incremental repetition, which is replicated in the two type <b>b</b> stanzas: 334-336 is formed in <b>aab</b> by contrast between initial lines that cohere by repetition and a final line that does not and that begins with a placename (as the two previous lines began with verbs); 341-344 is formed in <b>aabb</b>; a previous triplet (334-336) has been condensed to form the initial couplet (341-342) that coheres by parallelism (present continuitive verbs in final positions); the following couplet, the king&#x27;s warlike outburst, finalizes the stanza by semantic contrast and the passage as a whole by incremental repetition.",
+    "note": "verse passage in <b>aba</b>a<b>b</b> formed by contrast between stanzas whose initial lines are composed as &quot;he summoned&quot;.../praisename or proper name (<b>a</b>&#x27;s: 330-333, 337-340, 341-344) and stanzas whose initial line is composed as &quot;When (they divined) they saw (them) in the milking room...&quot; (<b>b</b>&#x27;s: 334-336, 345-348); the type <b>a</b> stanzas are formed in <b>aabb</b>: 330-333 in couplets that cohere, respectively, by enjambment and repetition; 337-340 in couplets that cohere, respectively, by chaining and enjambment; in 341-344 the initial couplet coheres by enjambment, while the other couplet - and the series of type <b>a</b> stanzas as a whole - is finalized by a line with an initial formulaic phrase kil&#x27; eki mbwenu and semantic, rather than syntactic, coherence with the preceding line; this finalization creates incremental repetition, which is replicated in the two type <b>b</b> stanzas: 334-336 is formed in <b>aab</b> by contrast between initial lines that cohere by repetition and a final line that does not and that begins with a placename (as the two previous lines began with verbs); 341-344 is formed in <b>aabb</b>; a previous triplet (334-336) has been condensed to form the initial couplet (341-342) that coheres by parallelism (present continuitive verbs in final positions); the following couplet, the king&#x27;s warlike outburst, finalizes the stanza by semantic contrast and the passage as a whole by incremental repetition.",
     "id_ref": 417
   },
   {
@@ -1031,7 +1013,7 @@
     "line_end": 447,
     "id": 559,
     "time": 1292.55,
-    "note": "compound stanza in <b>aba&#x27;</b>, 2 + 2 + 2, by contrast between couplets whose lines begin second person locutive.../ &quot;this day&quot;...(<b>a</b>&#x27;s: 442-443, 446-447, although the line division is varied, as it is in the immediately preceeding passage - compare 422-423 and 424-425) and a single couplet that substantially repeats part of the preceeding passage (<b>b</b>: 444-445 repeats 420-421 and 436-437).",
+    "note": "compound stanza in <b>aba&#x27;</b>, 2 + 2 + 2, by contrast between couplets whose lines begin second person locutive.../ &quot;this day&quot;...(<b>a</b>&#x27;s: 442-443, 446-447, although the line division is varied, as it is in the immediately preceding passage - compare 422-423 and 424-425) and a single couplet that substantially repeats part of the preceding passage (<b>b</b>: 444-445 repeats 420-421 and 436-437).",
     "id_ref": 559
   },
   {
@@ -1067,7 +1049,7 @@
     "line_end": 461,
     "id": 576,
     "time": 1324.25,
-    "note": "compound stanza in <b>aab</b>, 2 + 2 + 2; formed by cotrast between couplets that begin similarly and literally refer to cattle (<b>a</b>&#x27;s: 456-457, 458-459) and a single that begins as the others but ends with a proverb.",
+    "note": "compound stanza in <b>aab</b>, 2 + 2 + 2; formed by contrast between couplets that begin similarly and literally refer to cattle (<b>a</b>&#x27;s: 456-457, 458-459) and a single that begins as the others but ends with a proverb.",
     "id_ref": 576
   },
   {
@@ -1220,7 +1202,7 @@
     "line_end": null,
     "id": 677,
     "time": 1551.78,
-    "note": "Zili Omukwoga: a personal name from its position in the poem, but an unusual one, and one whose meaning is not apparant. _",
+    "note": "Zili Omukwoga: a personal name from its position in the poem, but an unusual one, and one whose meaning is not apparent. _",
     "id_ref": 677
   }
 ]
