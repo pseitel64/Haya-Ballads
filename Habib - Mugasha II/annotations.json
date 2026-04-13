@@ -37,7 +37,7 @@
     "line_end": 7,
     "id": 21,
     "time": 58.99,
-    "note": "7-7.3: stanza in <b>abb</b>b by contrast between lines that begin with 3rd person singular verbs in the habitual aspect (<b>b</b>'s: 7.1, 7.2, 7.3) and a single line that begins with a second person singular verb in the present continuitive.",
+    "note": "7-7.3: stanza in <b>abb</b>b by contrast between lines that begin with 3rd person singular verbs in the habitual aspect (<b>b</b>'s: 7.1, 7.2, 7.3) and a single line that begins with a second person singular verb in the present continuative.",
     "line_end_sub": 3,
     "id_ref": 21
   },
@@ -68,7 +68,7 @@
     "line_end": 14,
     "id": 44,
     "time": 103.2,
-    "note": "13.5-14.3: compound stanza in <b>abb</b>, 2 + 2 + 2, by contrast between a single couplet that coheres by parallellism (<b>a</b>: 13.5-13.6) and couplets that each cohere internally by enjambment and are both interrogatives composed as subordinate clause introduced by adverbial marker <i>Ka</i>/ question introduced by emphatic marker Nka (<b>b</b>'s: 14-14.1, 14.2-14.3).",
+    "note": "13.5-14.3: compound stanza in <b>abb</b>, 2 + 2 + 2, by contrast between a single couplet that coheres by parallelism (<b>a</b>: 13.5-13.6) and couplets that each cohere internally by enjambment and are both interrogatives composed as subordinate clause introduced by adverbial marker <i>Ka</i>/ question introduced by emphatic marker Nka (<b>b</b>'s: 14-14.1, 14.2-14.3).",
     "line_sub": 5,
     "line_end_sub": 3,
     "id_ref": 44
@@ -110,7 +110,7 @@
     "line_end": 32,
     "id": 101,
     "time": 180.84,
-    "note": "32-32.3: stanza in <b>aa</b>a<b>b</b> formed by conrast between lines whose initial 3rd person verb is near past (<b>a</b>'s: 32-32.2) and a single line whose initial 3rd person verb is distant past",
+    "note": "32-32.3: stanza in <b>aa</b>a<b>b</b> formed by contrast between lines whose initial 3rd person verb is near past (<b>a</b>'s: 32-32.2) and a single line whose initial 3rd person verb is distant past",
     "line_end_sub": 3,
     "id_ref": 101
   },
@@ -270,7 +270,7 @@
     "line_end": 221,
     "id": 467,
     "time": 814.78,
-    "note": "213-221.1: three stanzas formed in <b>aab</b> by lines that cohere by parallelism created by verb inflection and word order contrasted with single lines composed differently; the first such stanza (213-217) is formed in <b>aa</b>a<b>b</b>(b) by contrast between lines that have a subject in initial position followed by an adverbial past perfect verb (<b>a</b>'s: 213, 214, 215) and a single line that also begins with a subject but whose verb is inflected differently (<b>b</b>: 216); the stanza is then ®MDUL¯re-fnialized by a line that has a verb in initial position (b: 217); the second stanza (218-219.1) is formed in <b>aab</b> by contrast between lines of narration that cohere by initial verbs with similar inflections (<b>a</b>'s: 218, 219) contrasted with a single line of quoted speech (<b>b</b>:219.1); the third stanza in the group (220.1-221.1) is formed in <b>aab</b> by contrast between lines of narration that begin with a double verb formation (<b>a</b>'s:220.1, 222) and a single line of quoted speech (<b>b</b>: 221.1)",
+    "note": "213-221.1: three stanzas formed in <b>aab</b> by lines that cohere by parallelism created by verb inflection and word order contrasted with single lines composed differently; the first such stanza (213-217) is formed in <b>aa</b>a<b>b</b>(b) by contrast between lines that have a subject in initial position followed by an adverbial past perfect verb (<b>a</b>'s: 213, 214, 215) and a single line that also begins with a subject but whose verb is inflected differently (<b>b</b>: 216); the stanza is then ®MDUL¯re-finalized by a line that has a verb in initial position (b: 217); the second stanza (218-219.1) is formed in <b>aab</b> by contrast between lines of narration that cohere by initial verbs with similar inflections (<b>a</b>'s: 218, 219) contrasted with a single line of quoted speech (<b>b</b>:219.1); the third stanza in the group (220.1-221.1) is formed in <b>aab</b> by contrast between lines of narration that begin with a double verb formation (<b>a</b>'s:220.1, 222) and a single line of quoted speech (<b>b</b>: 221.1)",
     "line_end_sub": 1,
     "id_ref": 467
   },
@@ -344,5 +344,189 @@
     "time": 1084.71,
     "note": "301-305: compound stanza in <b>aab</b>, 2 + 2 + 1, formed by contrast between couplets composed as plant name + resembles + plant name/ repeated line (<b>a</b>'s: 301-302, 303-304) and a single line that begins the same but ends differently <b>b</b>: 305).",
     "id_ref": 645
+  },
+  {
+    "type": "note",
+    "line": "1",
+    "id": 1,
+    "id_ref": 1,
+    "time": null,
+    "note": "The bard begins his story at the first of the two trials that reveal the identity of Mugasha's mother. He omits Mugasha's miraculous and difficult birth and early childhood — events on which he lavished, in his earlier performance, almost 200 lines of poetry sung with about 60 of his breaths. In this version he gives less emphasis to the mythic aspects and more to the poetic power of mimesis and comparison. The bard can begin at this point because 1) most people already know the story, and 2) this genre and especially the Mugasha ballad can have various ways of introducing the obligatory, genre-defining episode — the Call — Mugasha's confrontation and mutual swearing with Wamara's daughter."
+  },
+  {
+    "type": "note",
+    "line": "2",
+    "id": 2,
+    "id_ref": 2,
+    "time": null,
+    "note": "Mugasha, the spirit that controls events on the lake, being swallowed by the lake is a laughable ruse."
+  },
+  {
+    "type": "note",
+    "line": "4",
+    "id": 8,
+    "id_ref": 8,
+    "time": null,
+    "note": "Nyatende is Mugasha's mother's sister. Nyambubi is his mother, as will become apparent."
+  },
+  {
+    "type": "note",
+    "line": "5.3",
+    "id": 15,
+    "id_ref": 15,
+    "time": null,
+    "note": "Child of my mother and ancestral spirit are terms of address that convey both intimacy and respect. Mugasha's aunt asks her sister's help in a difficult task."
+  },
+  {
+    "type": "note",
+    "line": "6",
+    "id": 18,
+    "id_ref": 18,
+    "time": null,
+    "note": "My child! Nyatende asserts untruthfully that Mugasha is hers."
+  },
+  {
+    "type": "note",
+    "line": "7",
+    "id": 21,
+    "id_ref": 21,
+    "time": null,
+    "note": "This belief about the unsettled nature of a deceased child's spirit is commonly known."
+  },
+  {
+    "type": "note",
+    "line": "9",
+    "id": 30,
+    "id_ref": 30,
+    "time": null,
+    "note": "Mugasha's aunt's gesture, hand raised with palm outward, usually requests a spirit's help in redressing a wrong."
+  },
+  {
+    "type": "note",
+    "line": "13.4",
+    "id": 48,
+    "id_ref": 48,
+    "time": null,
+    "note": "A forgetful debtor avoids looking his creditor in the eye."
+  },
+  {
+    "type": "note",
+    "line": "18",
+    "id": 61,
+    "id_ref": 61,
+    "time": null,
+    "note": "Kagolo's praise alludes to his hot-headed and warlike behavior, which spirit mediums embody when they are possessed by him."
+  },
+  {
+    "type": "note",
+    "line": "18.1",
+    "id": 62,
+    "id_ref": 62,
+    "time": null,
+    "note": "<i>Dry words</i> are strong and effective, as opposed to &#8216;wet&#8217; words, which are weak."
+  },
+  {
+    "type": "note",
+    "line": "18.2",
+    "id": 63,
+    "id_ref": 63,
+    "time": null,
+    "note": "Stiff Elbows probably reflects his demeanor as a possessing spirit; it seems to reinforce in gestural language his extreme and immoderate behavior."
+  },
+  {
+    "type": "note",
+    "line": "18.5",
+    "id": 66,
+    "id_ref": 66,
+    "time": null,
+    "note": "The water oracle (<i>Byantabuzi</i>) is associated with this spirit (its name comes from <i>oku-tabula</i>, &#8220;to make water bubble up or forth&#8221;). Byantabuzi also echoes the name of the place where Kagolo acquired his characteristic way of talking (l. 136.3)."
+  },
+  {
+    "type": "note",
+    "line": "19",
+    "id": 67,
+    "id_ref": 67,
+    "time": null,
+    "note": "<i>Drank it, spilled it, built it, burned it</i>, refer to the episodes of myths about Kagolo and his grandfather Wamala."
+  },
+  {
+    "type": "note",
+    "line": "40",
+    "id": 130,
+    "id_ref": 130,
+    "time": null,
+    "note": "Lyanyaibungo was gathering straw to place on the floor of a dwelling. Work of this kind comes under the category of &#8220;to make things pleasing,&#8221; a knowledge especially associated with marriageable young women."
+  },
+  {
+    "type": "note",
+    "line": "42",
+    "id": 137,
+    "id_ref": 137,
+    "time": null,
+    "note": "Silent runner praises lightning, which in traditional belief is silent and relatively harmless; thunder is thought to make noise and do damage."
+  },
+  {
+    "type": "note",
+    "line": "43",
+    "id": 139,
+    "id_ref": 139,
+    "time": null,
+    "note": "Nshungu is a strong seasonal wind that brings cloud formations resembling the long horns of Ankole cattle."
+  },
+  {
+    "type": "note",
+    "line": "71",
+    "id": 205,
+    "id_ref": 205,
+    "time": null,
+    "note": "Habib has softened Mugasha's counter-factual vow to appearing naked from committing maternal incest (<i>Mugasha I</i>: 86)."
+  },
+  {
+    "type": "note",
+    "line": "105.1",
+    "id": 278,
+    "id_ref": 278,
+    "time": null,
+    "note": "<i>Drink it at the spearshaft of Ndekezi</i> is a proverbial expression for committing suicide. The phrase refers to a poison ordeal administered by a medium of the spirit Kimuli."
+  },
+  {
+    "type": "note",
+    "line": "149",
+    "id": 358,
+    "id_ref": 358,
+    "time": null,
+    "note": "The frog's song and the events it alludes to apparently come from a folktale, but I have not been able to find the one."
+  },
+  {
+    "type": "note",
+    "line": "179",
+    "id": 408,
+    "id_ref": 408,
+    "time": null,
+    "note": "The house Habib refers to is the traditional Musonge, large, dome-shaped, bamboo-framed, thatched with grass, and apparently very flammable."
+  },
+  {
+    "type": "note",
+    "line": "182",
+    "id": 416,
+    "id_ref": 416,
+    "time": null,
+    "note": "The maiden of the hafted knife is a young girl who accompanies the speech-making, spear-bearing elder. Her cultural butterfat becomes natural slime by the power of Wamala."
+  },
+  {
+    "type": "note",
+    "line": "316",
+    "id": 679,
+    "id_ref": 679,
+    "time": null,
+    "note": "Looked over with one eye. To look at a person briefly, with the head turned making one eye prominent communicates a hostile, or at least not a friendly, disposition."
+  },
+  {
+    "type": "note",
+    "line": "348",
+    "id": 745,
+    "id_ref": 745,
+    "time": null,
+    "note": "Whoever hits your eye... is a well-known proverb."
   }
 ]
