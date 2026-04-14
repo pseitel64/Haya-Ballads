@@ -139,10 +139,10 @@
   },
   {
     "type": "note",
-    "line": "41",
-    "id": 155,
+    "line": "41.2",
+    "id": 157,
     "time": null,
-    "id_ref": 155,
+    "id_ref": 157,
     "note": "<i> Kin-of-the-Peaceful-One</i> are women (12n). \"<i> The joyful one grows joyous...</i> \" are words of a women's song at weddings."
   },
   {
@@ -167,10 +167,10 @@
   },
   {
     "type": "note",
-    "line": "43",
-    "id": 164,
+    "line": "43.1",
+    "id": 165,
     "time": 288.26,
-    "id_ref": 164,
+    "id_ref": 165,
     "note": "<i> Silent runner </i> praises lightning, which in traditional belief is silent and relatively harmless; thunder is thought to make noise and do damage."
   },
   {
@@ -193,10 +193,10 @@
   },
   {
     "type": "note",
-    "line": "45.1",
-    "id": 173,
+    "line": "45.2",
+    "id": 174,
     "time": 302.02,
-    "id_ref": 173,
+    "id_ref": 174,
     "note": "A <i> forgetful debtor</i> avoids looking his creditor in the eye."
   },
   {
@@ -280,23 +280,6 @@
     "note": "Mugasha's being <i> swallowed by the water</i> is a laughable ruse, for he is the spirit that controls its power."
   },
   {
-    "type": "note",
-    "line": "60",
-    "id": 215,
-    "time": 372.34,
-    "id_ref": 215,
-    "note": "Mugasha's childless aunt starts out as though she will succeed in becoming known as his mother, but her dedication is not sufficient and she fails. The women argue."
-  },
-  {
-    "type": "note",
-    "line": "63",
-    "id": 224,
-    "time": 385.74,
-    "id_ref": 224,
-    "note": "This belief about the unsettled nature of a deceased child's spirit is commonly known.",
-    "line_end": "63.1"
-  },
-  {
     "type": "verse",
     "line": "63.1",
     "id": 225,
@@ -307,14 +290,6 @@
     "badge": "verse"
   },
   {
-    "type": "note",
-    "line": "65",
-    "id": 229,
-    "time": 393.74,
-    "id_ref": 229,
-    "note": "Mugasha's aunt's gesture, hand raised with palm outward, usually requests a spirit's help in redressing a wrong."
-  },
-  {
     "type": "verse",
     "line": "67.1",
     "id": 240,
@@ -323,14 +298,6 @@
     "note": "compound stanza in <b>aba</b>, 4 + 4 + 1, by repetition and syntactic parallelism; <b>a</b>'s (67.1-.4, 69.1) are structured as 3rd person near past verb initial; <b>b</b> (67.5, 68, 69) forms another figure in <b>aba</b>: <b>a</b>'s are structured as &#8220;I saw he passed&#8221; + placename; <b>b</b> (68) begins with a prepositional phrase and ends with the subject.",
     "line_end": "69.1",
     "badge": "verse"
-  },
-  {
-    "type": "note",
-    "line": "69",
-    "id": 246,
-    "time": 424.44,
-    "id_ref": 246,
-    "note": "Squatting or sitting with the knees raised is women's characteristic posture for several gender-related acts: giving birth, having sex, urinating, cooking at the hearth, and doing agricultural labor."
   },
   {
     "type": "verse",
@@ -387,14 +354,6 @@
     "note": "<i> Stiff Elbows </i> probably reflects his demeanor as a possessing spirit; it seems to reinforce in gestural language his extreme and immoderate behavior."
   },
   {
-    "type": "note",
-    "line": "83",
-    "id": 300,
-    "time": null,
-    "id_ref": 300,
-    "note": "<i> Drank it, spilled it, built it, burned it</i> , refer to the episodes of myths about Kagolo and his grandfather Wamala."
-  },
-  {
     "type": "verse",
     "line": "79",
     "id": 284,
@@ -416,10 +375,10 @@
   },
   {
     "type": "note",
-    "line": "82",
-    "id": 295,
+    "line": "64",
+    "id": 228,
     "time": 506.91,
-    "id_ref": 295,
+    "id_ref": 228,
     "note": "For <i> Big eyes...forgetful debtor </i> see 45.1n."
   },
   {
@@ -478,10 +437,10 @@
   },
   {
     "type": "note",
-    "line": "122",
-    "id": 456,
+    "line": "122.3",
+    "id": 459,
     "time": null,
-    "id_ref": 456,
+    "id_ref": 459,
     "note": "For exegesis of Kagolo's praise, see 82n."
   },
   {
@@ -496,18 +455,18 @@
   },
   {
     "type": "note",
-    "line": "105",
-    "id": 390,
+    "line": "87.3",
+    "id": 316,
     "time": 681.06,
-    "id_ref": 390,
+    "id_ref": 316,
     "note": "<i> They-die-but-they've-been-told</i> is the name of Mugasha's drum."
   },
   {
     "type": "note",
-    "line": "106",
-    "id": 396,
+    "line": "88.1",
+    "id": 319,
     "time": 693.88,
-    "id_ref": 396,
+    "id_ref": 319,
     "note": "<i> Roaring</i> here translates <i> ngu</i> , a conjunction sometimes used to introduce indirect discourse. Here it seems onomatopoetic."
   },
   {
@@ -522,10 +481,10 @@
   },
   {
     "type": "note",
-    "line": "113",
-    "id": 423,
+    "line": "95",
+    "id": 345,
     "time": 737.22,
-    "id_ref": 423,
+    "id_ref": 345,
     "note": "<i> Ensenene grasshoppers</i> are caught, dressed, cooked, and eaten as a great delicacy that comes once a year, during the short rainy season. They are usually caught singly with the hand. The tasty grasshopper boasts that there will be so many as to be scooped up in large baskets."
   },
   {
@@ -570,10 +529,10 @@
   },
   {
     "type": "note",
-    "line": "106.4",
-    "id": 402,
+    "line": "106.5",
+    "id": 403,
     "time": 817.77,
-    "id_ref": 402,
+    "id_ref": 403,
     "note": "The <i> frog's song</i> and the events it alludes to apparently come from a folktale, but I have not been able to find the one."
   },
   {
@@ -659,10 +618,10 @@
   },
   {
     "type": "note",
-    "line": "142",
-    "id": 568,
+    "line": "124",
+    "id": 470,
     "time": 958.49,
-    "id_ref": 568,
+    "id_ref": 470,
     "note": "<i> I have nothing, nothing to compare it to</i> ,<i> </i> a confession of defeat: Wamala's rhetorical inability to make comparisons is equated with his lack of physical mastery.",
     "line_end": "142.1"
   },
@@ -677,10 +636,10 @@
   },
   {
     "type": "note",
-    "line": "145",
-    "id": 578,
+    "line": "127",
+    "id": 492,
     "time": 989.77,
-    "id_ref": 578,
+    "id_ref": 492,
     "note": "<i> Looked over with one eye</i> . To look at a person briefly, with the head turned making one eye prominent communicates a hostile, or at least not a friendly, disposition."
   },
   {
