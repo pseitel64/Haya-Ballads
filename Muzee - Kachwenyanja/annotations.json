@@ -42,7 +42,7 @@
     "id": 34,
     "time": 90.31,
     "id_ref": 34,
-    "note": "stanza in <b>aa</b>a<b>b</b> formed contrast between lines composed as adverbial conjunction + noun ... (a's: 18, 19, 19.1) and a line composed as adverbial conjunction + prepositional phrase (b: 19.2).",
+    "note": "stanza in <b>aa</b>a<b>b</b> formed by contrast between lines composed as adverbial conjunction + noun ... (a's: 18, 19, 19.1) and a line composed as adverbial conjunction + prepositional phrase (b: 19.2).",
     "line_end": "19.2"
   },
   {
@@ -108,7 +108,7 @@
     "id": 74,
     "time": 182.32,
     "id_ref": 74,
-    "note": "verse in <b>aba</b> of mirror stanzas (a's: 45-47 and 50-52) composed of lines with parllel syntax (45 and 50 : verb initial; 46 and 51: verb final, or almost final) and with the same initial words (47 and 52 \"By the low road I ascended to ...\"); a pair of lines (b: 48, 49) intervenes between the stanzas to create the aba pattern.",
+    "note": "verse in <b>aba</b> of mirror stanzas (a's: 45-47 and 50-52) composed of lines with parallel syntax (45 and 50 : verb initial; 46 and 51: verb final, or almost final) and with the same initial words (47 and 52 \"By the low road I ascended to ...\"); a pair of lines (b: 48, 49) intervenes between the stanzas to create the aba pattern.",
     "line_end": "52"
   },
   {
@@ -249,7 +249,7 @@
     "id": 152,
     "time": 336.3,
     "id_ref": 152,
-    "note": "Hinda and Munkango are the ruling clans in their respective kingdoms, Kihanja and Kyamtwala.. The latter's royal dwelling is in Kabale. She praises the warrior's regal appearance."
+    "note": "Hinda and Munkango are the ruling clans in their respective kingdoms, Kihanja and Kyamtwala. The latter's royal dwelling is in Kabale. She praises the warrior's regal appearance."
   },
   {
     "type": "note",
@@ -266,7 +266,7 @@
     "id": 156,
     "time": 341.05,
     "id_ref": 156,
-    "note": "compound stanza, 2 + 2 + 1, formed in <b>aab</b><b> </b>by couplets (a's: 99-100, 101-101.1) whose lines cohere internally by parallel composition as \"mother, our home is in\" + placename, and as \"I come from\" + placename + \"and\" + placename, respectively, contrasted with a final line that has a distinct composition (b: 101.2).",
+    "note": "compound stanza, 2 + 2 + 1, formed in <b>aab</b> by couplets (a's: 99-100, 101-101.1) whose lines cohere internally by parallel composition as \"mother, our home is in\" + placename, and as \"I come from\" + placename + \"and\" + placename, respectively, contrasted with a final line that has a distinct composition (b: 101.2).",
     "line_end": "101.2"
   },
   {
@@ -292,8 +292,18 @@
     "id": 174,
     "time": 376.55,
     "id_ref": 174,
-    "note": "stanza formed alternately in <b>aa</b>aaa<b>b</b> by contrast between lines that end with a placename (a's:108-112) and a single line that ends with a place description (b: 113) and in <b>a</b>a<b>b</b>bb<b>a</b> by contrast between lines that contain a relative verb (a's: 108, 109, 113) and lines that substitute a possessive particle for it (b's: 110, 111, 112).\n114.1-118: compound stanza in aba formed by contrast between couplets composed of independent clauses (a's: 114.1-115, 117.1-118) and a couplet of relative verbs (b: 116-117); the passage can also be seen as an annular structure abccba: locutive + quoted speech (114.1)/ [drum] + verb (115)/ relative verb (116)/relative verb (117)/ [drum] + verb (117.1)/ locutive + quoted speech (118).",
+    "note": "stanza formed alternately in <b>aa</b>aaa<b>b</b> by contrast between lines that end with a placename (a's:108-112) and a single line that ends with a place description (b: 113) and in <b>a</b>a<b>b</b>bb<b>a</b> by contrast between lines that contain a relative verb (a's: 108, 109, 113) and lines that substitute a possessive particle for it (b's: 110, 111, 112).",
     "line_end": "113"
+  },
+  {
+    "type": "verse",
+    "badge": "verse",
+    "line": "114.1",
+    "id": 584,
+    "time": null,
+    "id_ref": 584,
+    "note": "114.1-118: compound stanza in aba formed by contrast between couplets composed of independent clauses (a's: 114.1-115, 117.1-118) and a couplet of relative verbs (b: 116-117); the passage can also be seen as an annular structure abccba: locutive + quoted speech (114.1)/ [drum] + verb (115)/ relative verb (116)/relative verb (117)/ [drum] + verb (117.1)/ locutive + quoted speech (118).",
+    "line_end": 118
   },
   {
     "type": "verse",
@@ -330,7 +340,7 @@
     "id": 223,
     "time": 467.76,
     "id_ref": 223,
-    "note": "verse passage of four sets of line groups. Each set is finalized by a formulaic line composed as initial verb + praise name; the sets are patterned as <b>aa</b>a<b>b</b><b>:</b> three sets, each one comprised of two line groups + a formulaic line in which the praisename is \"buffalo\" (a's: 144-146.1 + 147-149 + 150; 151-154 + 155-157 + 158; 159 -162 + 163 -163.1 + 164) are finalized by a single set comprised of three line groups + single line formula in which the praisename is \"spear of warriors\" (b: 164.1-166.1 + 167-169.1 + 170-172 + 173). Seven of these ten line groups are composed as stanzas.",
+    "note": "verse passage of four sets of line groups. Each set is finalized by a formulaic line composed as initial verb + praise name; the sets are patterned as <b>aa</b>a<b>b</b>: three sets, each one comprised of two line groups + a formulaic line in which the praisename is \"buffalo\" (a's: 144-146.1 + 147-149 + 150; 151-154 + 155-157 + 158; 159 -162 + 163 -163.1 + 164) are finalized by a single set comprised of three line groups + single line formula in which the praisename is \"spear of warriors\" (b: 164.1-166.1 + 167-169.1 + 170-172 + 173). Seven of these ten line groups are composed as stanzas.",
     "line_end": "173"
   },
   {
@@ -428,7 +438,7 @@
     "id": 279,
     "time": 574.76,
     "id_ref": 279,
-    "note": "compound stanza of four line pairs, formed in <b>ab</b>b<b>a </b>by conrast between pairs that repeat the word \"cut\" (a's: 179-180, 184-184.1; the latter pair includes an aside) and repeated pairs whose constituent lines are composed as verb + preposition + color term (b's: 181-182, 183-183.1).",
+    "note": "compound stanza of four line pairs, formed in <b>ab</b>b<b>a </b>by contrast between pairs that repeat the word \"cut\" (a's: 179-180, 184-184.1; the latter pair includes an aside) and repeated pairs whose constituent lines are composed as verb + preposition + color term (b's: 181-182, 183-183.1).",
     "line_end": "184.1"
   },
   {
@@ -515,7 +525,7 @@
     "id": 316,
     "time": 644.59,
     "id_ref": 316,
-    "note": "A Muziba is a native of a northern kingdom of Hayaland.."
+    "note": "A Muziba is a native of a northern kingdom of Hayaland."
   },
   {
     "type": "verse",
@@ -588,7 +598,7 @@
     "id": 360,
     "time": 0.0,
     "id_ref": 360,
-    "note": "compound stanza, 2 + 2 + 1, formed in <b>aab</b> by couplets with locutives and with commanding verbs (subjunctive or imperative) that stand alone or markedly follow their direct objects (a's: 228-229, 230-231) contrasted with a single line that has a verb in the indicative mood and an umarked word order of subject, verb, object (b: 231.1).",
+    "note": "compound stanza, 2 + 2 + 1, formed in <b>aab</b> by couplets with locutives and with commanding verbs (subjunctive or imperative) that stand alone or markedly follow their direct objects (a's: 228-229, 230-231) contrasted with a single line that has a verb in the indicative mood and an unmarked word order of subject, verb, object (b: 231.1).",
     "line_end": "231.1"
   },
   {
@@ -659,7 +669,7 @@
     "id": 377,
     "time": 0.0,
     "id_ref": 377,
-    "note": "A leather skirt was a sign of prestige, indicating the warer's access to cattle."
+    "note": "A leather skirt was a sign of prestige, indicating the wearer's access to cattle."
   },
   {
     "type": "verse",
@@ -719,7 +729,7 @@
     "id": 437,
     "time": 0.0,
     "id_ref": 437,
-    "note": "The final appearance of this section of Kachwenyanja's self-praise underlines once again the importance of the poetic form to the plot. Similar words first declared the hero's identity to the heroine, winning her love and her hand in marriage. Their reversal in the depiction (181-182) of the hero's death and dishonor calls the heroine to act (211-211.1, 214-415). She soon quotes the words, adding the virtues of his warrior identity to her own (226-227). As praise, the lines include the imperative \"Hear!\" (<i>Hulila!</i>), which indexes the generic addressee of such speech - the king or other person of high standing. Warriors had license to command attention and to promise deeds of valor that would gain royal reward. When Nyakandaalo quotes the words she seems to address them to the spirit of the dead hero, signifying that her relationship to him has become like that of a warrior to a king: she will perform fell deeds on his behalf. This analogy is confirmed in her brief address to his corpse, in which she makes the promise that becomes her own self-praise (247.1-248.1). Her boast, unlike the hero's, is not reversed. It completes the logic of its genre, being voiced both before and after its achievement. When the little man appropriates the hero's praise (282.1), he changes the imperative from \"Hear!\" to \"Hail!\" (<i>Habuka!</i>), a word characteristically addressed to a king, but by his retinue, deferentially, to welcome him as he entered and took a position of preeminence. The substitution articulates the little man's commoner, clan-based, ethical knowledge. He evokes the regal identity of the fallen warrior, adding it to his own social persona with the intonation of a lowborn clansman who has gladly slain his social superior."
+    "note": "The final appearance of this section of Kachwenyanja's self-praise underlines once again the importance of the poetic form to the plot. Similar words first declared the hero's identity to the heroine, winning her love and her hand in marriage. Their reversal in the depiction (181-182) of the hero's death and dishonor calls the heroine to act (211-211.1, 214-215). She soon quotes the words, adding the virtues of his warrior identity to her own (226-227). As praise, the lines include the imperative \"Hear!\" (<i>Hulila!</i>), which indexes the generic addressee of such speech - the king or other person of high standing. Warriors had license to command attention and to promise deeds of valor that would gain royal reward. When Nyakandaalo quotes the words she seems to address them to the spirit of the dead hero, signifying that her relationship to him has become like that of a warrior to a king: she will perform fell deeds on his behalf. This analogy is confirmed in her brief address to his corpse, in which she makes the promise that becomes her own self-praise (247.1-248.1). Her boast, unlike the hero's, is not reversed. It completes the logic of its genre, being voiced both before and after its achievement. When the little man appropriates the hero's praise (282.1), he changes the imperative from \"Hear!\" to \"Hail!\" (<i>Habuka!</i>), a word characteristically addressed to a king, but by his retinue, deferentially, to welcome him as he entered and took a position of preeminence. The substitution articulates the little man's commoner, clan-based, ethical knowledge. He evokes the regal identity of the fallen warrior, adding it to his own social persona with the intonation of a lowborn clansman who has gladly slain his social superior."
   },
   {
     "type": "note",
@@ -735,7 +745,7 @@
     "id": 469,
     "time": 0.0,
     "id_ref": 469,
-    "note": "The the soft pith of a banana plant stalk can be used as a washcloth."
+    "note": "The soft pith of a banana plant stalk can be used as a washcloth."
   },
   {
     "type": "note",
@@ -743,7 +753,7 @@
     "id": 475,
     "time": 0.0,
     "id_ref": 475,
-    "note": "She washed his feet, a a full extension of womanly care."
+    "note": "She washed his feet, a full extension of womanly care."
   },
   {
     "type": "verse",
@@ -779,7 +789,7 @@
     "id": 486,
     "time": 0.0,
     "id_ref": 486,
-    "note": "The slashed voice-box speaks in the exchange of symbolic violence that began with Kachwenyanja's use of an enemy's corpse to sit upon in self-display (162)and elevate himself for individual recognition and reward. The little man answered by cutting the penis from hero's corpse, a symbolic utterance in a clan discourse of reproduction. Nyakandaalo has the last word in this exchange, asserting the power and knowledge that transcends state and clan. Her destruction of the clansman's voice-box (<i>amalaka</i> \"larynx\" from the plural of <i>eilaka</i> \"voice\") symbolically cuts his power to speak, to praise himself, to be remembered, to attain the immortatity conferred by ritualized artistic speech. Destroying the instrument of rememberance asserts the strength of the bard himself. She embodies this virtue in the very next episode by constructing a poetic memorial for her slain lover with the nameless corpses she has taken. Gruesome acts build a violent, ethically meaningful exchange, a thematic sequence superimposed upon the epic's larger design."
+    "note": "The slashed voice-box speaks in the exchange of symbolic violence that began with Kachwenyanja's use of an enemy's corpse to sit upon in self-display (162) and elevate himself for individual recognition and reward. The little man answered by cutting the penis from hero's corpse, a symbolic utterance in a clan discourse of reproduction. Nyakandaalo has the last word in this exchange, asserting the power and knowledge that transcends state and clan. Her destruction of the clansman's voice-box (<i>amalaka</i> \"larynx\" from the plural of <i>eilaka</i> \"voice\") symbolically cuts his power to speak, to praise himself, to be remembered, to attain the immortality conferred by ritualized artistic speech. Destroying the instrument of remembrance asserts the strength of the bard himself. She embodies this virtue in the very next episode by constructing a poetic memorial for her slain lover with the nameless corpses she has taken. Gruesome acts build a violent, ethically meaningful exchange, a thematic sequence superimposed upon the epic's larger design."
   },
   {
     "type": "note",
@@ -839,7 +849,7 @@
     "id": 568,
     "time": 0.0,
     "id_ref": 568,
-    "note": "\"The fifth\" victim is called <i>omu-shankazi</i>, which is not a Haya word. It is apparantly a combination of <i>omushaija,</i> \"man,\" and <i>nkazi,</i> a female marker. It refers to the sister-in-law. \n_"
+    "note": "\"The fifth\" victim is called <i>omu-shankazi</i>, which is not a Haya word. It is apparently a combination of <i>omushaija,</i> \"man,\" and <i>nkazi,</i> a female marker. It refers to the sister-in-law."
   },
   {
     "type": "verse",
