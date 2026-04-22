@@ -80,7 +80,7 @@
     "id": 25,
     "time": 74.42,
     "id_ref": 25,
-    "note": "These lines were actually sung as:\nKyai k'enkonjwa/ Munyaanya abailagula/ Mh-mh/ Ky'entundu/ Munyaanya abailagula/ Ky'enkonjwa/ Munyanya abela mubili.\nSkin of the enkonjwa/ Sister to the dark-complected/ Mh-mh (no)/ Of the entundu/ Sister to the dark-complected/ Of the enkonjwa/ Sister to the light-skinned body.\nThey are apparantly a mistake and a hasty correction, so I have altered them here to match their repetition on lines 206-209.",
+    "note": "These lines were actually sung as:\nKyai k'enkonjwa/ Munyaanya abailagula/ Mh-mh/ Ky'entundu/ Munyaanya abailagula/ Ky'enkonjwa/ Munyanya abela mubili.\nSkin of the enkonjwa/ Sister to the dark-complected/ Mh-mh (no)/ Of the entundu/ Sister to the dark-complected/ Of the enkonjwa/ Sister to the light-skinned body.\nThey are apparently a mistake and a hasty correction, so I have altered them here to match their repetition on lines 206-209.",
     "line_end": "11"
   },
   {
@@ -124,7 +124,7 @@
     "id": 79,
     "time": 190.81,
     "id_ref": 79,
-    "note": "<i>I cannot understand</i>...<i>let them be</i>...<i>born in love</i>. With this interpretation of events the elder avoids the implication that the children's behavior violates natural law. Had they done so, they would have committed an <i>eihano</i> (pl. <i>amahano</i>), a dreaded disturbance in equlibrium that requires redressive action (like the murder in \"She's Killed One...\" or the unnatural birth in \"I Shall Be Drinking From Them\" or the incest in \"Child of the Valley\" in <i>See so...</i>). The unnamed concept surfaces, however, to name the extramarital love that seems a consequence of this early attraction (173, 212, 394). Its semantic element of magical wonder is separated from the element of unnatural calamity on 340.1, where the word evokes sexual attraction. Conversely, the word has only negative, but not unnatural, connotations in <i>Kachwenyanja</i>: 136, 171.",
+    "note": "<i>I cannot understand</i>...<i>let them be</i>...<i>born in love</i>. With this interpretation of events the elder avoids the implication that the children's behavior violates natural law. Had they done so, they would have committed an <i>eihano</i> (pl. <i>amahano</i>), a dreaded disturbance in equilibrium that requires redressive action (like the murder in \"She's Killed One...\" or the unnatural birth in \"I Shall Be Drinking From Them\" or the incest in \"Child of the Valley\" in <i>See so...</i>). The unnamed concept surfaces, however, to name the extramarital love that seems a consequence of this early attraction (173, 212, 394). Its semantic element of magical wonder is separated from the element of unnatural calamity on 340.1, where the word evokes sexual attraction. Conversely, the word has only negative, but not unnatural, connotations in <i>Kachwenyanja</i>: 136, 171.",
     "line_end": "47"
   },
   {
@@ -195,7 +195,7 @@
     "id": 125,
     "time": 0.0,
     "id_ref": 125,
-    "note": "<i>I'd kill you and eat you...the-Spotted-One</i> are two images of the lover's will-to-possess. The first (64-64.3) incorporates the loved object as food, as the seducer did in <i>The Place You Come From</i>(: 54-56). Here the desired consummation is inserted in a discourse of adornment and display - the beautiful eyes worn as beads, the bold refusal to honor the bond of cattle ownership that ultimately supports the state. In <i>The Place You Come From</i> the possession is enfolded in a discourse of familiarity. Familarity and adornment reappear in their respective plots as motivating themes. In the second image (65-65.2), the lover would possess the loved object as a prize, an achievement to be marked publically and poetically. (On the poetic resonances of the Spotted-one - here, the Leopard - see the note to <i>Lukiza</i>: 171.2) A groom's traditional recitation of self-praise, done on the day after his bride changes residence to consummate their marriage, is a social referent of the image; but uncultured men are also said to brag of their conquests, and this undertone is probably present as well.",
+    "note": "<i>I'd kill you and eat you...the-Spotted-One</i> are two images of the lover's will-to-possess. The first (64-64.3) incorporates the loved object as food, as the seducer did in <i>The Place You Come From</i>(: 54-56). Here the desired consummation is inserted in a discourse of adornment and display - the beautiful eyes worn as beads, the bold refusal to honor the bond of cattle ownership that ultimately supports the state. In <i>The Place You Come From</i> the possession is enfolded in a discourse of familiarity. Familiarity and adornment reappear in their respective plots as motivating themes. In the second image (65-65.2), the lover would possess the loved object as a prize, an achievement to be marked publicly and poetically. (On the poetic resonances of the Spotted-one - here, the Leopard - see the note to <i>Lukiza</i>: 171.2) A groom's traditional recitation of self-praise, done on the day after his bride changes residence to consummate their marriage, is a social referent of the image; but uncultured men are also said to brag of their conquests, and this undertone is probably present as well.",
     "line_end": "65.2"
   },
   {
@@ -351,7 +351,16 @@
     "id": 204,
     "time": 434.91,
     "id_ref": 204,
-    "note": "To <i>put the paddle on my hip</i> is to propel the canoe.\n115, 116: <i>Kishwa</i>, or <i>Kishwagala</i>, is the name of an epic bard from Ihangilo. His repertoire overlaps with Muzee's, and I have several performance texts of his in my collection.PAGE "
+    "note": "To <i>put the paddle on my hip</i> is to propel the canoe.\n115, 116: <i>Kishwa</i>, or <i>Kishwagala</i>, is the name of an epic bard from Ihangilo. His repertoire overlaps with Muzee's, and I have several performance texts of his in my collection."
+  },
+  {
+    "id": 701,
+    "id_ref": 701,
+    "line": 103,
+    "line_end": 105,
+    "type": "verse",
+    "note": "Stanza in <b>aab</b> formed by contrast between two lines (103, 104) that have initial, similarly inflected verbs and a single line (105) that has no verb.",
+    "time": null
   },
   {
     "type": "verse",
@@ -528,7 +537,7 @@
     "id": 363,
     "time": 739.33,
     "id_ref": 363,
-    "note": "Two stanzas with mirror structure (194-197, 198-200.1): accusation (194, 198) elaboration of charge (195-194.1, 199), denial (196, 200), plea (197, 200.1).",
+    "note": "Two stanzas with mirror structure (194-197, 198-200.1): accusation (194, 198) elaboration of charge (195-196.1, 199), denial (196, 200), plea (197, 200.1).",
     "line_end": "200.1"
   },
   {
@@ -703,16 +712,6 @@
     "line_end": "249.1"
   },
   {
-    "type": "verse",
-    "badge": "verse",
-    "line": "250",
-    "id": 457,
-    "time": 0.0,
-    "id_ref": 457,
-    "note": "Stanza in <b>aabb</b> formed by lines in which nouns are in foregrounded positions (first (256), last (257), and as a direct object preceding a verb (258)) contrasted with a line that is solely composed of verbs (258.1).",
-    "line_end": "253"
-  },
-  {
     "type": "note",
     "line": "255",
     "id": 463,
@@ -806,7 +805,7 @@
     "id": 506,
     "time": 0.0,
     "id_ref": 506,
-    "note": "Compound stanza in <b>aab</b>, 2 + 2 + 2, formed by contrast between two couplets that cohere by virtue of parallelism (lexical - \"...kills not./...what kills is...\" -283-284, and semantic - \"What pricks.../It pains...\" - 284-285) and a single finalizing couplet (186-187) that coheres by an enjambment marked by a direct object preceeding its verb and by a double verb formation.",
+    "note": "Compound stanza in <b>aab</b>, 2 + 2 + 2, formed by contrast between two couplets that cohere by virtue of parallelism (lexical - \"...kills not./...what kills is...\" -283-284, and semantic - \"What pricks.../It pains...\" - 284-285) and a single finalizing couplet (286-287) that coheres by an enjambment marked by a direct object preceeding its verb and by a double verb formation.",
     "line_end": "287"
   },
   {
@@ -855,7 +854,7 @@
     "id": 530,
     "time": 0.0,
     "id_ref": 530,
-    "note": "Compound stanza in <b>abab</b>, 2 + 1 + 2 + 3, formed by contrast between linegroups that specify conditions (<b>a</b>'s: 301-302, 304-305) and those that state result (<b>b</b>'s: 303, 106-106.2); syntactic coherence is strongest in the first couplet, which combines infinitive and distant past in each line, and in the contrast between halves - the first <b>ab</b> being couched in the distant past, the second in the past perfect, except for the final line (306.2) that combines the tenses.",
+    "note": "Compound stanza in <b>abab</b>, 2 + 1 + 2 + 3, formed by contrast between linegroups that specify conditions (<b>a</b>'s: 301-302, 304-305) and those that state result (<b>b</b>'s: 303, 306-306.2); syntactic coherence is strongest in the first couplet, which combines infinitive and distant past in each line, and in the contrast between halves - the first <b>ab</b> being couched in the distant past, the second in the past perfect, except for the final line (306.2) that combines the tenses.",
     "line_end": "306.2"
   },
   {
@@ -1067,7 +1066,7 @@
     "id": 653,
     "time": 0.0,
     "id_ref": 653,
-    "note": "<i>snake</i> - see note to <i>Lukiza</i>: 171.2."
+    "note": "<i>snake</i> - see note to <i>Rukiza</i>: 171.2."
   },
   {
     "type": "verse",
