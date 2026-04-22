@@ -131,7 +131,7 @@
     "line_end": 39,
     "id": 44,
     "time": 129.83,
-    "note": "stanza in <b>a</b>a<b>ba</b> formed by contrast between lines that repeat <i>nkagamba </i>\"I said\" + <i>katunywana </i>\"let us swear a blood brotherhood\" (<b>a</b>'s: 36, 37, 39) and one composed of praisenames (<b>b</b>: 38).",
+    "note": "stanza in <b>aaba</b> formed by contrast between lines that repeat <i>nkagamba </i>\"I said\" + <i>katunywana </i>\"let us swear a blood brotherhood\" (<b>a</b>'s: 36, 37, 39) and one composed of praisenames (<b>b</b>: 38).",
     "id_ref": 44
   },
   {
@@ -213,15 +213,6 @@
     "id": 67,
     "time": 183.89,
     "note": "stanza in <b>aab</b> formed by contrast between lines that repeat <i>lya</i> \"eat\" (<b>a</b>'s: 54,55) and a finalizing line that shifts domain of reference and is inflected in the negative.",
-    "id_ref": 67
-  },
-  {
-    "type": "note",
-    "line": 54,
-    "line_end": null,
-    "id": 67,
-    "time": 183.89,
-    "note": "Rather than eat: .",
     "id_ref": 67
   },
   {
@@ -338,7 +329,7 @@
     "line_end": null,
     "id": 122,
     "time": null,
-    "note": "Have you slept?: The greeting here echos that in line 27 and indicates, perhaps, a momentary nap.",
+    "note": "Have you slept?: The greeting here echoes that in line 27 and indicates, perhaps, a momentary nap.",
     "id_ref": 122
   },
   {
@@ -689,7 +680,7 @@
     "line_end": null,
     "id": 338,
     "time": 788.63,
-    "note": "Plantains: <i>Enshansha</i> bananas are a fitting reward, for they punningly refer becoming happy <i>oku-shanshamuka</i>.",
+    "note": "Plantains: <i>Enshansha</i> bananas are a fitting reward, for they punningly refer to becoming happy <i>oku-shanshamuka</i>.",
     "id_ref": 338
   },
   {
@@ -698,7 +689,7 @@
     "line_end": 281,
     "id": 348,
     "time": null,
-    "note": "stanza in <b>abab</b> formed by contrast between lines that begin with conditional verbal inflections (<b>a</b>'s: 278-280) and lines that do not (<b>b</b>'s:279-281).<b> </b>",
+    "note": "stanza in <b>abab</b> formed by contrast between lines that begin with conditional verbal inflections (<b>a</b>'s: 278,280) and lines that do not (<b>b</b>'s:279,281).",
     "id_ref": 348
   },
   {
