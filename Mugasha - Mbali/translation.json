@@ -81,13 +81,13 @@
     "id": 14,
     "kind": "poem",
     "line": "11",
-    "text": "I was born in Katoma <i>o</i><i>f</i><i> </i><i>k</i><i>i</i><i>n</i><i>s</i><i>h</i><i>w</i><i>i</i>,"
+    "text": "I was born in Katoma <i>of kinshwi</i>,"
   },
   {
     "id": 15,
     "kind": "poem",
     "line": "12",
-    "text": "You were born in Bulembo <i>o</i><i>f</i><i> </i><i>y</i><i>o</i><i>j</i><i>w</i><i>e</i>."
+    "text": "You were born in Bulembo <i>of yojwe</i>."
   },
   {
     "id": 16,
@@ -129,7 +129,7 @@
     "id": 22,
     "kind": "poem",
     "line": "18",
-    "text": "Ane others to Ilogelo."
+    "text": "And others to Ilogelo."
   },
   {
     "id": 23,
@@ -141,13 +141,13 @@
     "id": 24,
     "kind": "poem",
     "line": "19",
-    "text": "<i>Y</i><i>o</i><i>u</i><i>'</i><i>r</i><i>e</i><i> </i><i>a</i><i> </i><i>c</i><i>h</i><i>i</i><i>l</i><i>d</i><i> </i><i>o</i><i>f</i><i> </i><i>t</i><i>h</i><i>e</i><i> </i><i>B</i><i>i</i><i>g</i><i>w</i><i>a</i><i>n</i><i>e</i><i>m</i><i>b</i><i>a</i>"
+    "text": "<i>You're a child of the Bigwanemba</i>"
   },
   {
     "id": 25,
     "kind": "poem",
     "line": "20",
-    "text": "<i>O</i><i>f</i><i> </i><i>T</i><i>h</i><i>e</i><i>y</i><i>-</i><i>b</i><i>e</i><i>l</i><i>l</i><i>o</i><i>w</i><i>-</i><i>n</i><i>o</i><i>t</i><i> </i><i>f</i><i>r</i><i>o</i><i>m</i><i> </i><i>L</i><i>a</i><i>k</i><i>e</i><i> </i><i>I</i><i>k</i><i>i</i><i>m</i><i>b</i><i>a</i>."
+    "text": "<i>Of They-bellow-not from Lake Ikimba</i>."
   },
   {
     "id": 26,
@@ -189,7 +189,7 @@
     "id": 32,
     "kind": "poem",
     "line": "26",
-    "text": "You Ma Kilondo <i>o</i><i>f</i><i> </i><i>t</i><i>h</i><i>e</i><i> </i><i>M</i><i>o</i><i>u</i><i>n</i><i>t</i><i>a</i><i>i</i><i>n</i>."
+    "text": "You Ma Kilondo <i>of the Mountain</i>."
   },
   {
     "id": 33,
@@ -273,7 +273,7 @@
     "id": 46,
     "kind": "poem",
     "line": "38",
-    "text": "<i>C</i><i>h</i><i>i</i><i>l</i><i>d</i><i> </i><i>o</i><i>f</i><i> </i><i>t</i><i>h</i><i>e</i><i> </i><i>b</i><i>l</i><i>a</i><i>c</i><i>k</i><i> </i><i>s</i><i>n</i><i>a</i><i>k</i><i>e</i><i>s</i><i> </i><i>o</i><i>f</i><i> </i><i>B</i><i>u</i><i>n</i><i>e</i><i>n</i><i>a</i><i>,</i>"
+    "text": "<i>Child of the black snakes of Bunena,</i>"
   },
   {
     "id": 47,
@@ -315,7 +315,7 @@
     "id": 53,
     "kind": "poem",
     "line": "44",
-    "text": "<i>M</i><i>u</i><i>h</i><i>u</i><i>m</i><i>u</i><i>l</i><i>a</i><i> </i>trees found there long ago."
+    "text": "<i>Muhumula </i>trees found there long ago."
   },
   {
     "id": 54,
@@ -345,13 +345,13 @@
     "id": 58,
     "kind": "poem",
     "line": "48",
-    "text": "<i>I</i><i>t</i><i> </i><i>i</i><i>t</i><i>c</i><i>h</i><i>e</i><i>s</i><i> </i><i>m</i><i>o</i><i>r</i><i>e</i><i> </i><i>t</i><i>h</i><i>a</i><i>n</i><i> </i><i>a</i><i>n</i><i>y</i><i> </i><i>r</i><i>a</i><i>s</i><i>h</i><i>.</i>"
+    "text": "<i>It itches more than any rash.</i>"
   },
   {
     "id": 59,
     "kind": "poem",
     "line": "49",
-    "text": "<i>I</i><i>t</i><i> </i><i>l</i><i>a</i><i>m</i><i>e</i><i>s</i><i> </i><i>m</i><i>o</i><i>r</i><i>e</i><i> </i><i>t</i><i>h</i><i>a</i><i>n</i><i> </i><i>a</i><i>c</i><i>a</i><i>n</i><i>t</i><i>h</i><i>u</i><i>s</i><i> </i><i>t</i><i>h</i><i>o</i><i>r</i><i>n</i><i>.</i>"
+    "text": "<i>It lames more than acanthus thorn.</i>"
   },
   {
     "id": 60,
@@ -375,7 +375,7 @@
     "id": 63,
     "kind": "poem",
     "line": "51",
-    "text": "<i>S</i><i>m</i><i>o</i><i>o</i><i>t</i><i>h</i><i>n</i><i>e</i><i>s</i><i>s</i><i> </i><i>o</i><i>f</i><i> </i><i>K</i><i>i</i><i>j</i><i>o</i><i>n</i><i>g</i><i>o</i><i>,</i> there"
+    "text": "<i>Smoothness of Kijongo,</i> there"
   },
   {
     "id": 64,
@@ -387,7 +387,7 @@
     "id": 65,
     "kind": "poem",
     "line": "53",
-    "text": "Ma Kilondo <i>o</i><i>f</i><i> </i><i>t</i><i>h</i><i>e</i><i> </i><i>M</i><i>o</i><i>u</i><i>n</i><i>t</i><i>a</i><i>i</i><i>n</i>."
+    "text": "Ma Kilondo <i>of the Mountain</i>."
   },
   {
     "id": 66,
@@ -423,25 +423,25 @@
     "id": 71,
     "kind": "poem",
     "line": "57",
-    "text": "\"Mother, Mother <i>D</i><i>a</i><i>p</i><i>p</i><i>l</i><i>e</i><i>d</i><i>-</i><i>c</i><i>o</i><i>w</i>, <i>O</i><i>f</i><i>t</i><i>-</i><i>s</i><i>p</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>o</i><i>f</i>,\" he said,"
+    "text": "\"Mother, Mother <i>Dappled-cow</i>, <i>Oft-spoken-of</i>,\" he said,"
   },
   {
     "id": 72,
     "kind": "poem",
     "line": "58",
-    "text": "\"<i>S</i><i>p</i><i>e</i><i>a</i><i>r</i><i>s</i><i> </i><i>k</i><i>i</i><i>l</i><i>l</i><i> </i><i>m</i><i>e</i><i>n</i>,"
+    "text": "\"<i>Spears kill men</i>,"
   },
   {
     "id": 73,
     "kind": "poem",
     "line": "59",
-    "text": "<i>H</i><i>o</i><i>e</i><i>s</i><i> </i><i>a</i><i>r</i><i>e</i><i> </i><i>r</i><i>u</i><i>l</i><i>e</i><i>d</i><i> </i><i>b</i><i>y</i><i> </i><i>K</i><i>a</i><i>b</i><i>a</i><i>g</i><i>a</i><i>l</i><i>a</i>,\""
+    "text": "<i>Hoes are ruled by Kabagala</i>,\""
   },
   {
     "id": 74,
     "kind": "poem",
     "line": "60",
-    "text": "\"Father<i> </i><i>w</i><i>h</i><i>o</i><i> </i><i>m</i><i>a</i><i>k</i><i>e</i><i>s</i><i> </i><i>m</i><i>e</i><i> </i><i>w</i><i>e</i><i>l</i><i>l</i>,\" she answered."
+    "text": "\"Father<i> who makes me well</i>,\" she answered."
   },
   {
     "id": 75,
@@ -489,25 +489,25 @@
     "id": 82,
     "kind": "poem",
     "line": "66",
-    "text": "He touched her on the thing <i>W</i><i>e</i><i>l</i><i>l</i><i>-</i><i>s</i><i>p</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>o</i><i>f</i>,"
+    "text": "He touched her on the thing <i>Well-spoken-of</i>,"
   },
   {
     "id": 83,
     "kind": "poem",
     "line": "67",
-    "text": "On the <i>S</i><i>l</i><i>e</i><i>e</i><i>p</i><i>i</i><i>n</i><i>g</i><i>-</i><i>s</i><i>i</i><i>c</i><i>k</i><i>n</i><i>e</i><i>s</i><i>s</i>, <i>K</i><i>i</i><i>l</i><i>l</i><i>e</i><i>r</i><i>-</i><i>o</i><i>f</i><i>-</i><i>c</i><i>a</i><i>t</i><i>t</i><i>l</i><i>e</i>,"
+    "text": "On the <i>Sleeping-sickness</i>, <i>Killer-of-cattle</i>,"
   },
   {
     "id": 84,
     "kind": "poem",
     "line": "68",
-    "text": "On the <i>P</i><i>l</i><i>u</i><i>n</i><i>d</i><i>e</i><i>r</i><i>e</i><i>r</i><i> </i><i>o</i><i>f</i><i> </i><i>c</i><i>a</i><i>t</i><i>t</i><i>l</i><i>e</i><i> </i><i>a</i><i>n</i><i>d</i><i> </i><i>t</i><i>h</i><i>e</i><i>i</i><i>r</i><i> </i><i>o</i><i>f</i><i>f</i><i>s</i><i>p</i><i>r</i><i>i</i><i>n</i><i>g</i>,"
+    "text": "On the <i>Plunderer of cattle and their offspring</i>,"
   },
   {
     "id": 85,
     "kind": "poem",
     "line": "69",
-    "text": "On the <i>S</i><i>h</i><i>o</i><i>r</i><i>t</i><i> </i><i>f</i><i>a</i><i>c</i><i>e</i><i> </i><i>w</i><i>i</i><i>t</i><i>h</i><i> </i><i>a</i><i> </i><i>l</i><i>o</i><i>n</i><i>g</i><i> </i><i>n</i><i>o</i><i>s</i><i>e</i>."
+    "text": "On the <i>Short face with a long nose</i>."
   },
   {
     "id": 86,
@@ -549,13 +549,13 @@
     "id": 92,
     "kind": "poem",
     "line": "73.1",
-    "text": " \"Mother <i>D</i><i>a</i><i>p</i><i>p</i><i>l</i><i>e</i><i>d</i><i>-</i><i>c</i><i>o</i><i>w</i>,"
+    "text": " \"Mother <i>Dappled-cow</i>,"
   },
   {
     "id": 93,
     "kind": "poem",
     "line": "74",
-    "text": "Mother <i>S</i><i>p</i><i>e</i><i>a</i><i>r</i><i>s</i><i>-</i><i>k</i><i>i</i><i>l</i><i>l</i><i>-</i><i>m</i><i>e</i><i>n</i>,"
+    "text": "Mother <i>Spears-kill-men</i>,"
   },
   {
     "id": 94,
@@ -603,19 +603,19 @@
     "id": 101,
     "kind": "poem",
     "line": "80",
-    "text": "You Ma Kilondo <i>o</i><i>f</i><i> </i><i>t</i><i>h</i><i>e</i><i> </i><i>M</i><i>o</i><i>u</i><i>n</i><i>t</i><i>a</i><i>i</i><i>n</i>,"
+    "text": "You Ma Kilondo <i>of the Mountain</i>,"
   },
   {
     "id": 102,
     "kind": "poem",
     "line": "81",
-    "text": "You <i>L</i><i>i</i><i>t</i><i>t</i><i>l</i><i>e</i><i> </i><i>c</i><i>a</i><i>l</i><i>f</i><i>'</i><i>s</i><i> </i><i>f</i><i>o</i><i>o</i><i>t</i>,"
+    "text": "You <i>Little calf's foot</i>,"
   },
   {
     "id": 103,
     "kind": "poem",
     "line": "82",
-    "text": "Mother <i>F</i><i>l</i><i>i</i><i>r</i><i>t</i><i>i</i><i>n</i><i>g</i><i> </i><i>n</i><i>e</i><i>i</i><i>g</i><i>h</i><i>b</i><i>o</i><i>r</i><i>'</i><i>s</i><i> </i><i>e</i><i>y</i><i>e</i><i>s</i>,"
+    "text": "Mother <i>Flirting neighbor's eyes</i>,"
   },
   {
     "id": 104,
@@ -639,13 +639,13 @@
     "id": 107,
     "kind": "poem",
     "line": "85",
-    "text": "\"Father <i>C</i><i>a</i><i>n</i><i>o</i><i>e</i><i>-</i><i>p</i><i>o</i><i>l</i><i>e</i><i> </i><i>o</i><i>f</i><i> </i><i>I</i><i>t</i><i>o</i><i>j</i><i>o</i><i>'</i><i>s</i><i> </i><i>f</i><i>e</i><i>r</i><i>r</i><i>y</i><i>m</i><i>a</i><i>n</i><i> </i><i>K</i><i>y</i><i>a</i><i>k</i><i>u</i><i>s</i><i>h</i><i>e</i><i>n</i><i>g</i><i>o</i>,\" she answered,"
+    "text": "\"Father <i>Canoe-pole of Itojo's ferryman Kyakushengo</i>,\" she answered,"
   },
   {
     "id": 108,
     "kind": "poem",
     "line": "86",
-    "text": "<i>T</i><i>h</i><i>a</i><i>t</i><i> </i><i>m</i><i>e</i><i>a</i><i>s</i><i>u</i><i>r</i><i>e</i><i>s</i><i> </i><i>t</i><i>h</i><i>e</i><i> </i><i>r</i><i>i</i><i>v</i><i>e</i><i>r</i><i> </i><i>b</i><i>o</i><i>t</i><i>t</i><i>o</i><i>m</i><i> </i><i>w</i><i>i</i><i>t</i><i>h</i><i>o</i><i>u</i><i>t</i><i> </i><i>a</i><i> </i><i>s</i><i>t</i><i>r</i><i>u</i><i>g</i><i>g</i><i>l</i><i>e</i>.\""
+    "text": "<i>That measures the river bottom without a struggle</i>.\""
   },
   {
     "id": 109,
@@ -849,19 +849,19 @@
     "id": 142,
     "kind": "poem",
     "line": "113",
-    "text": "\"Mother <i>D</i><i>a</i><i>p</i><i>p</i><i>l</i><i>e</i><i>d</i><i>-</i><i>c</i><i>o</i><i>w</i><i>,</i><i> </i><i>O</i><i>f</i><i>t</i><i>-</i><i>s</i><i>p</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>o</i><i>f</i><i>,</i>\" he said,"
+    "text": "\"Mother <i>Dappled-cow, Oft-spoken-of,</i>\" he said,"
   },
   {
     "id": 143,
     "kind": "poem",
     "line": "114",
-    "text": "\"<i>S</i><i>p</i><i>e</i><i>a</i><i>r</i><i>s</i><i> </i><i>k</i><i>i</i><i>l</i><i>l</i><i> </i><i>m</i><i>e</i><i>n</i>.\""
+    "text": "\"<i>Spears kill men</i>.\""
   },
   {
     "id": 144,
     "kind": "poem",
     "line": "115",
-    "text": "\"Father <i>W</i><i>h</i><i>o</i><i>-</i><i>m</i><i>a</i><i>k</i><i>e</i><i>s</i><i>-</i><i>m</i><i>e</i><i>-</i><i>w</i><i>e</i><i>l</i><i>l</i>,\" she answered."
+    "text": "\"Father <i>Who-makes-me-well</i>,\" she answered."
   },
   {
     "id": 145,
@@ -873,7 +873,7 @@
     "id": 146,
     "kind": "poem",
     "line": "116",
-    "text": "\"Into your <i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i>,\" he said,"
+    "text": "\"Into your <i>Broken-mouth-vessel</i>,\" he said,"
   },
   {
     "id": 147,
@@ -897,7 +897,7 @@
     "id": 150,
     "kind": "poem",
     "line": "120",
-    "text": "\"Call it <i>B</i><i>r</i><i>o</i><i>u</i><i>g</i><i>h</i><i>t</i><i>-</i><i>b</i><i>y</i><i>-</i><i>D</i><i>e</i><i>s</i><i>i</i><i>r</i><i>e</i>.\""
+    "text": "\"Call it <i>Brought-by-Desire</i>.\""
   },
   {
     "id": 151,
@@ -933,25 +933,25 @@
     "id": 156,
     "kind": "poem",
     "line": "124",
-    "text": "You took the <i>D</i><i>r</i><i>u</i><i>m</i><i> </i><i>o</i><i>f</i><i> </i><i>k</i><i>i</i><i>n</i><i>g</i><i>s</i><i> </i><i>a</i><i>n</i><i>d</i><i> </i><i>m</i><i>e</i><i>n</i><i>,</i><i> </i><i>t</i><i>h</i><i>e</i><i> </i><i>t</i><i>h</i><i>i</i><i>n</i><i>g</i><i> </i><i>W</i><i>e</i><i>l</i><i>l</i><i>-</i><i>s</i><i>p</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>o</i><i>f</i><i>,</i>"
+    "text": "You took the <i>Drum of kings and men, the thing Well-spoken-of,</i>"
   },
   {
     "id": 157,
     "kind": "poem",
     "line": "125",
-    "text": "<i>T</i><i>h</i><i>e</i><i> </i><i>S</i><i>l</i><i>e</i><i>e</i><i>p</i><i>i</i><i>n</i><i>g</i><i>-</i><i>s</i><i>i</i><i>c</i><i>k</i><i>n</i><i>e</i><i>s</i><i>s</i><i>,</i><i> </i><i>K</i><i>i</i><i>l</i><i>l</i><i>e</i><i>r</i><i>-</i><i>o</i><i>f</i><i>-</i><i>c</i><i>a</i><i>t</i><i>t</i><i>l</i><i>e</i><i>,</i>"
+    "text": "<i>The Sleeping-sickness, Killer-of-cattle,</i>"
   },
   {
     "id": 158,
     "kind": "poem",
     "line": "126",
-    "text": "<i>T</i><i>h</i><i>e</i><i> </i><i>P</i><i>l</i><i>u</i><i>n</i><i>d</i><i>e</i><i>r</i><i>e</i><i>r</i><i> </i><i>o</i><i>f</i><i> </i><i>c</i><i>a</i><i>t</i><i>t</i><i>l</i><i>e</i><i> </i><i>a</i><i>n</i><i>d</i><i> </i><i>t</i><i>h</i><i>e</i><i>i</i><i>r</i><i> </i><i>o</i><i>f</i><i>f</i><i>s</i><i>p</i><i>r</i><i>i</i><i>n</i><i>g</i><i>,</i>"
+    "text": "<i>The Plunderer of cattle and their offspring,</i>"
   },
   {
     "id": 159,
     "kind": "poem",
     "line": "127",
-    "text": "You call it <i>a</i><i> </i><i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i>."
+    "text": "You call it <i>a Broken-mouth-vessel</i>."
   },
   {
     "id": 160,
@@ -975,13 +975,13 @@
     "id": 163,
     "kind": "poem",
     "line": "130",
-    "text": "What they call a <i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i>'"
+    "text": "What they call a <i>Broken-mouth-vessel</i>'"
   },
   {
     "id": 164,
     "kind": "poem",
     "line": "131",
-    "text": "Is the resonator for the <i>e</i><i>n</i><i>a</i><i>n</i><i>g</i><i>a</i>"
+    "text": "Is the resonator for the <i>enanga</i>"
   },
   {
     "id": 165,
@@ -993,13 +993,13 @@
     "id": 166,
     "kind": "poem",
     "line": "133",
-    "text": "\"Mine is <i>a</i><i> </i><i>t</i><i>h</i><i>i</i><i>n</i><i>g</i><i> </i><i>W</i><i>e</i><i>l</i><i>l</i><i>-</i><i>s</i><i>p</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>o</i><i>f</i>,\" she declared."
+    "text": "\"Mine is <i>a thing Well-spoken-of</i>,\" she declared."
   },
   {
     "id": 167,
     "kind": "poem",
     "line": "134",
-    "text": "\"It's really <i>a</i><i> </i><i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i>,\" he said."
+    "text": "\"It's really <i>a Broken-mouth-vessel</i>,\" he said."
   },
   {
     "id": 168,
@@ -1131,25 +1131,25 @@
     "id": 189,
     "kind": "poem",
     "line": "152",
-    "text": "He took the <i>D</i><i>r</i><i>u</i><i>m</i><i> </i><i>o</i><i>f</i><i> </i><i>k</i><i>i</i><i>n</i><i>g</i><i>s</i><i> </i><i>a</i><i>n</i><i>d</i><i> </i><i>m</i><i>e</i><i>n</i><i>,</i><i> </i><i>t</i><i>h</i><i>e</i><i> </i><i>t</i><i>h</i><i>i</i><i>n</i><i>g</i><i> </i><i>W</i><i>e</i><i>l</i><i>l</i><i>-</i><i>s</i><i>p</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>o</i><i>f</i><i>,</i>"
+    "text": "He took the <i>Drum of kings and men, the thing Well-spoken-of,</i>"
   },
   {
     "id": 190,
     "kind": "poem",
     "line": "153",
-    "text": "<i>T</i><i>h</i><i>e</i><i> </i><i>S</i><i>l</i><i>e</i><i>e</i><i>p</i><i>i</i><i>n</i><i>g</i><i>-</i><i>s</i><i>i</i><i>c</i><i>k</i><i>n</i><i>e</i><i>s</i><i>s</i><i>,</i><i> </i><i>K</i><i>i</i><i>l</i><i>l</i><i>e</i><i>r</i><i>-</i><i>o</i><i>f</i><i>-</i><i>c</i><i>a</i><i>t</i><i>t</i><i>l</i><i>e</i><i>,</i>"
+    "text": "<i>The Sleeping-sickness, Killer-of-cattle,</i>"
   },
   {
     "id": 191,
     "kind": "poem",
     "line": "154",
-    "text": "<i>T</i><i>h</i><i>e</i><i> </i><i>P</i><i>l</i><i>u</i><i>n</i><i>d</i><i>e</i><i>r</i><i>e</i><i>r</i><i> </i><i>o</i><i>f</i><i> </i><i>c</i><i>a</i><i>t</i><i>t</i><i>l</i><i>e</i><i> </i><i>a</i><i>n</i><i>d</i><i> </i><i>t</i><i>h</i><i>e</i><i>i</i><i>r</i><i> </i><i>o</i><i>f</i><i>f</i><i>s</i><i>p</i><i>r</i><i>i</i><i>n</i><i>g</i><i>,</i>"
+    "text": "<i>The Plunderer of cattle and their offspring,</i>"
   },
   {
     "id": 192,
     "kind": "poem",
     "line": "155",
-    "text": "He called it a <i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i>."
+    "text": "He called it a <i>Broken-mouth-vessel</i>."
   },
   {
     "id": 193,
@@ -1173,13 +1173,13 @@
     "id": 196,
     "kind": "poem",
     "line": "158",
-    "text": "What they call a <i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i>'"
+    "text": "What they call a <i>Broken-mouth-vessel</i>'"
   },
   {
     "id": 197,
     "kind": "poem",
     "line": "159",
-    "text": "Is the resonator for the <i>e</i><i>n</i><i>a</i><i>n</i><i>g</i><i>a</i>"
+    "text": "Is the resonator for the <i>enanga</i>"
   },
   {
     "id": 198,
@@ -1191,13 +1191,13 @@
     "id": 199,
     "kind": "poem",
     "line": "161",
-    "text": "\"Mine is a thing <i>W</i><i>e</i><i>l</i><i>l</i><i>-</i><i>s</i><i>p</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>o</i><i>f</i>.\""
+    "text": "\"Mine is a thing <i>Well-spoken-of</i>.\""
   },
   {
     "id": 200,
     "kind": "poem",
     "line": "162",
-    "text": "\"Yes,\" they agreed, \"It's a <i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i>.\""
+    "text": "\"Yes,\" they agreed, \"It's a <i>Broken-mouth-vessel</i>.\""
   },
   {
     "id": 201,
@@ -1233,7 +1233,7 @@
     "id": 206,
     "kind": "poem",
     "line": "167",
-    "text": "\"Yes,\" they agreed, \"It's a <i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i>.\""
+    "text": "\"Yes,\" they agreed, \"It's a <i>Broken-mouth-vessel</i>.\""
   },
   {
     "id": 207,
@@ -1245,7 +1245,7 @@
     "id": 208,
     "kind": "poem",
     "line": "169",
-    "text": "\"Yes,\" he agreed, \"It's a <i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i>.\""
+    "text": "\"Yes,\" he agreed, \"It's a <i>Broken-mouth-vessel</i>.\""
   },
   {
     "id": 209,
@@ -1281,7 +1281,7 @@
     "id": 214,
     "kind": "poem",
     "line": "174",
-    "text": "\"Yes,\" they agreed, \"It's a <i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i>.\""
+    "text": "\"Yes,\" they agreed, \"It's a <i>Broken-mouth-vessel</i>.\""
   },
   {
     "id": 215,
@@ -1293,7 +1293,7 @@
     "id": 216,
     "kind": "poem",
     "line": "176",
-    "text": "\"Yes,\" he agreed, \"It's a <i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i>.\""
+    "text": "\"Yes,\" he agreed, \"It's a <i>Broken-mouth-vessel</i>.\""
   },
   {
     "id": 217,
@@ -1311,7 +1311,7 @@
     "id": 219,
     "kind": "poem",
     "line": "178",
-    "text": "Ma Kilondo <i>o</i><i>f</i><i> </i><i>t</i><i>h</i><i>e</i><i> </i><i>M</i><i>o</i><i>u</i><i>n</i><i>t</i><i>a</i><i>i</i><i>n</i>."
+    "text": "Ma Kilondo <i>of the Mountain</i>."
   },
   {
     "id": 220,
@@ -1377,13 +1377,13 @@
     "id": 230,
     "kind": "poem",
     "line": "185",
-    "text": "He's from Katoma <i>o</i><i>f</i><i> </i><i>k</i><i>i</i><i>n</i><i>s</i><i>h</i><i>w</i><i>i</i>,"
+    "text": "He's from Katoma <i>of kinshwi</i>,"
   },
   {
     "id": 231,
     "kind": "poem",
     "line": "186",
-    "text": "I'm from Bulembo <i>o</i><i>f</i><i> </i><i>y</i><i>o</i><i>j</i><i>w</i><i>e</i>."
+    "text": "I'm from Bulembo <i>of yojwe</i>."
   },
   {
     "id": 232,
@@ -1449,25 +1449,25 @@
     "id": 242,
     "kind": "poem",
     "line": "194",
-    "text": "He took <i>t</i><i>h</i><i>e</i><i> </i><i>D</i><i>r</i><i>u</i><i>m</i><i> </i><i>o</i><i>f</i><i> </i><i>k</i><i>i</i><i>n</i><i>g</i><i>s</i><i> </i><i>a</i><i>n</i><i>d</i><i> </i><i>m</i><i>e</i><i>n</i><i>,</i><i> </i><i>t</i><i>h</i><i>e</i><i> </i><i>t</i><i>h</i><i>i</i><i>n</i><i>g</i><i> </i><i>W</i><i>e</i><i>l</i><i>l</i><i>-</i><i>s</i><i>p</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>o</i><i>f</i><i>,</i>"
+    "text": "He took <i>the Drum of kings and men, the thing Well-spoken-of,</i>"
   },
   {
     "id": 243,
     "kind": "poem",
     "line": "195",
-    "text": "<i>T</i><i>h</i><i>e</i><i> </i><i>S</i><i>l</i><i>e</i><i>e</i><i>p</i><i>i</i><i>n</i><i>g</i><i>-</i><i>s</i><i>i</i><i>c</i><i>k</i><i>n</i><i>e</i><i>s</i><i>s</i><i>,</i><i> </i><i>K</i><i>i</i><i>l</i><i>l</i><i>e</i><i>r</i><i>-</i><i>o</i><i>f</i><i>-</i><i>c</i><i>a</i><i>t</i><i>t</i><i>l</i><i>e</i><i>,</i>"
+    "text": "<i>The Sleeping-sickness, Killer-of-cattle,</i>"
   },
   {
     "id": 244,
     "kind": "poem",
     "line": "196",
-    "text": "<i>T</i><i>h</i><i>e</i><i> </i><i>P</i><i>l</i><i>u</i><i>n</i><i>d</i><i>e</i><i>r</i><i>e</i><i>r</i><i> </i><i>o</i><i>f</i><i> </i><i>c</i><i>a</i><i>t</i><i>t</i><i>l</i><i>e</i><i> </i><i>a</i><i>n</i><i>d</i><i> </i><i>t</i><i>h</i><i>e</i><i>i</i><i>r</i><i> </i><i>o</i><i>f</i><i>f</i><i>s</i><i>p</i><i>r</i><i>i</i><i>n</i><i>g</i><i>.</i>"
+    "text": "<i>The Plunderer of cattle and their offspring.</i>"
   },
   {
     "id": 245,
     "kind": "poem",
     "line": "197",
-    "text": "He called it <i>a</i><i> </i><i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i>!"
+    "text": "He called it <i>a Broken-mouth-vessel</i>!"
   },
   {
     "id": 246,
@@ -1491,13 +1491,13 @@
     "id": 249,
     "kind": "poem",
     "line": "200",
-    "text": "What they call a <i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i>'"
+    "text": "What they call a <i>Broken-mouth-vessel</i>'"
   },
   {
     "id": 250,
     "kind": "poem",
     "line": "201",
-    "text": "Is the resonator for the <i>e</i><i>n</i><i>a</i><i>n</i><i>g</i><i>a</i>"
+    "text": "Is the resonator for the <i>enanga</i>"
   },
   {
     "id": 251,
@@ -1509,7 +1509,7 @@
     "id": 252,
     "kind": "poem",
     "line": "203",
-    "text": "'Yes,' he said, 'It's a <i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i><i>.</i>'\""
+    "text": "'Yes,' he said, 'It's a <i>Broken-mouth-vessel.</i>'\""
   },
   {
     "id": 253,
@@ -1539,7 +1539,7 @@
     "id": 257,
     "kind": "poem",
     "line": "207",
-    "text": "'Yes,' they agreed 'It's <i>a</i><i> </i><i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i>.'"
+    "text": "'Yes,' they agreed 'It's <i>a Broken-mouth-vessel</i>.'"
   },
   {
     "id": 258,
@@ -1551,7 +1551,7 @@
     "id": 259,
     "kind": "poem",
     "line": "209",
-    "text": "'Yes,' he agreed, 'It's <i>a</i><i> </i><i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i>.'\""
+    "text": "'Yes,' he agreed, 'It's <i>a Broken-mouth-vessel</i>.'\""
   },
   {
     "id": 260,
@@ -1575,7 +1575,7 @@
     "id": 263,
     "kind": "poem",
     "line": "212",
-    "text": "'Yes,' they agreed, 'It's a <i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i>.'"
+    "text": "'Yes,' they agreed, 'It's a <i>Broken-mouth-vessel</i>.'"
   },
   {
     "id": 264,
@@ -1587,7 +1587,7 @@
     "id": 265,
     "kind": "poem",
     "line": "214",
-    "text": "'Yes,' he agreed, 'It's <i>a</i><i> </i><i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i>.'\""
+    "text": "'Yes,' he agreed, 'It's <i>a Broken-mouth-vessel</i>.'\""
   },
   {
     "id": 266,
@@ -1617,13 +1617,13 @@
     "id": 270,
     "kind": "poem",
     "line": "218",
-    "text": "To take my <i>t</i><i>h</i><i>i</i><i>n</i><i>g</i> <i>W</i><i>e</i><i>l</i><i>l</i><i>-</i><i>s</i><i>p</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>o</i><i>f</i><i>,</i>"
+    "text": "To take my <i>thing</i> <i>Well-spoken-of,</i>"
   },
   {
     "id": 271,
     "kind": "poem",
     "line": "219",
-    "text": "Then they call it <i>a</i><i> </i><i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i>!\""
+    "text": "Then they call it <i>a Broken-mouth-vessel</i>!\""
   },
   {
     "id": 272,
@@ -1653,7 +1653,7 @@
     "id": 276,
     "kind": "poem",
     "line": "222",
-    "text": "\"Yes,\" he agreed, \"It is <i>a</i><i> </i><i>t</i><i>h</i><i>i</i><i>n</i><i>g</i><i> </i><i>W</i><i>e</i><i>l</i><i>l</i><i>-</i><i>s</i><i>p</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>o</i><i>f</i>.\""
+    "text": "\"Yes,\" he agreed, \"It is <i>a thing Well-spoken-of</i>.\""
   },
   {
     "id": 277,
@@ -1665,7 +1665,7 @@
     "id": 278,
     "kind": "poem",
     "line": "224",
-    "text": "Was going to hunt <i>t</i><i>h</i><i>e</i><i> </i><i>t</i><i>h</i><i>i</i><i>n</i><i>g</i><i> </i><i>W</i><i>e</i><i>l</i><i>l</i><i>-</i><i>s</i><i>p</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>o</i><i>f</i>.\""
+    "text": "Was going to hunt <i>the thing Well-spoken-of</i>.\""
   },
   {
     "id": 279,
@@ -1677,7 +1677,7 @@
     "id": 280,
     "kind": "poem",
     "line": "226",
-    "text": "\"They were kissing <i>t</i><i>h</i><i>e</i><i> </i><i>t</i><i>h</i><i>i</i><i>n</i><i>g</i><i> </i><i>W</i><i>e</i><i>l</i><i>l</i><i>-</i><i>s</i><i>p</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>o</i><i>f</i>.\""
+    "text": "\"They were kissing <i>the thing Well-spoken-of</i>.\""
   },
   {
     "id": 281,
@@ -1689,7 +1689,7 @@
     "id": 282,
     "kind": "poem",
     "line": "228",
-    "text": "They were honoring <i>t</i><i>h</i><i>e</i><i> </i><i>t</i><i>h</i><i>i</i><i>n</i><i>g</i><i> </i><i>W</i><i>e</i><i>l</i><i>l</i><i>-</i><i>s</i><i>p</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>o</i><i>f</i>.\""
+    "text": "They were honoring <i>the thing Well-spoken-of</i>.\""
   },
   {
     "id": 283,
@@ -1701,7 +1701,7 @@
     "id": 284,
     "kind": "poem",
     "line": "229",
-    "text": "\"And it is truly <i>t</i><i>h</i><i>e</i><i> </i><i>P</i><i>l</i><i>u</i><i>n</i><i>d</i><i>e</i><i>r</i><i>e</i><i>r</i><i> </i><i>o</i><i>f</i><i> </i><i>c</i><i>a</i><i>t</i><i>t</i><i>l</i><i>e</i><i> </i><i>a</i><i>n</i><i>d</i><i> </i><i>t</i><i>h</i><i>e</i><i>i</i><i>r</i><i> </i><i>o</i><i>f</i><i>f</i><i>s</i><i>p</i><i>r</i><i>i</i><i>n</i><i>g</i><i>,</i>\" he said,"
+    "text": "\"And it is truly <i>the Plunderer of cattle and their offspring,</i>\" he said,"
   },
   {
     "id": 285,
@@ -1737,7 +1737,7 @@
     "id": 290,
     "kind": "poem",
     "line": "234",
-    "text": "\"And it is truly the <i>S</i><i>l</i><i>e</i><i>e</i><i>p</i><i>i</i><i>n</i><i>g</i><i>-</i><i>s</i><i>i</i><i>c</i><i>k</i><i>n</i><i>e</i><i>s</i><i>s</i><i>,</i><i> </i><i>K</i><i>i</i><i>l</i><i>l</i><i>e</i><i>r</i><i>-</i><i>o</i><i>f</i><i>-</i><i>c</i><i>a</i><i>t</i><i>t</i><i>l</i><i>e</i>,\" he said."
+    "text": "\"And it is truly the <i>Sleeping-sickness, Killer-of-cattle</i>,\" he said."
   },
   {
     "id": 291,
@@ -1797,7 +1797,7 @@
     "id": 300,
     "kind": "poem",
     "line": "241",
-    "text": "Calling it a <i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i> shows"
+    "text": "Calling it a <i>Broken-mouth-vessel</i> shows"
   },
   {
     "id": 301,
@@ -1851,7 +1851,7 @@
     "id": 309,
     "kind": "poem",
     "line": "248",
-    "text": "\"The one who called it a <i>B</i><i>r</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>m</i><i>o</i><i>u</i><i>t</i><i>h</i><i>-</i><i>v</i><i>e</i><i>s</i><i>s</i><i>e</i><i>l</i>,"
+    "text": "\"The one who called it a <i>Broken-mouth-vessel</i>,"
   },
   {
     "id": 310,
@@ -1893,25 +1893,25 @@
     "id": 316,
     "kind": "poem",
     "line": "253",
-    "text": "\"So you'll know that you know nothing of <i>t</i><i>h</i><i>e</i><i> </i><i>f</i><i>o</i><i>l</i><i>d</i><i>i</i><i>n</i><i>g</i>,\" he said,"
+    "text": "\"So you'll know that you know nothing of <i>the folding</i>,\" he said,"
   },
   {
     "id": 317,
     "kind": "poem",
     "line": "254",
-    "text": "\"They'll boil <i>k</i><i>a</i><i>g</i><i>i</i><i>g</i><i>i</i> beans for you"
+    "text": "\"They'll boil <i>kagigi</i> beans for you"
   },
   {
     "id": 318,
     "kind": "poem",
     "line": "255",
-    "text": "And <i>s</i><i>h</i><i>o</i><i>l</i><i>o</i><i>s</i><i>i</i><i> </i>beans that are black."
+    "text": "And <i>sholosi </i>beans that are black."
   },
   {
     "id": 319,
     "kind": "poem",
     "line": "256",
-    "text": "They'll cut <i>B</i><i>e</i><i>l</i><i>l</i><i>o</i><i>w</i><i>e</i><i>r</i><i> </i><i>e</i><i>n</i><i>s</i><i>h</i><i>a</i><i>n</i><i>k</i><i>a</i><i>l</i><i>a</i> plantains.\" he said,"
+    "text": "They'll cut <i>Bellower enshankala</i> plantains.\" he said,"
   },
   {
     "id": 320,
@@ -1923,7 +1923,7 @@
     "id": 321,
     "kind": "poem",
     "line": "258",
-    "text": "You know nothing of <i>t</i><i>h</i><i>e</i><i> </i><i>f</i><i>o</i><i>l</i><i>d</i><i>i</i><i>n</i><i>g</i><i>.</i>\""
+    "text": "You know nothing of <i>the folding.</i>\""
   },
   {
     "id": 322,
@@ -1947,25 +1947,25 @@
     "id": 325,
     "kind": "poem",
     "line": "260",
-    "text": "\"I call it <i>t</i><i>h</i><i>e</i><i> </i><i>t</i><i>h</i><i>i</i><i>n</i><i>g</i><i> </i><i>W</i><i>e</i><i>l</i><i>l</i><i>-</i><i>s</i><i>p</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>o</i><i>f</i><i>,</i>\" he declared,"
+    "text": "\"I call it <i>the thing Well-spoken-of,</i>\" he declared,"
   },
   {
     "id": 326,
     "kind": "poem",
     "line": "261",
-    "text": "<i>T</i><i>h</i><i>e</i><i> </i><i>S</i><i>l</i><i>e</i><i>e</i><i>p</i><i>i</i><i>n</i><i>g</i><i>-</i><i>s</i><i>i</i><i>c</i><i>k</i><i>n</i><i>e</i><i>s</i><i>s</i><i>,</i><i> </i><i>K</i><i>i</i><i>l</i><i>l</i><i>e</i><i>r</i><i>-</i><i>o</i><i>f</i><i>-</i><i>c</i><i>a</i><i>t</i><i>t</i><i>l</i><i>e</i><i>,</i>"
+    "text": "<i>The Sleeping-sickness, Killer-of-cattle,</i>"
   },
   {
     "id": 327,
     "kind": "poem",
     "line": "262",
-    "text": "<i>t</i><i>h</i><i>e</i><i> </i><i>P</i><i>l</i><i>u</i><i>n</i><i>d</i><i>e</i><i>r</i><i>e</i><i>r</i><i> </i><i>o</i><i>f</i><i> </i><i>c</i><i>a</i><i>t</i><i>t</i><i>l</i><i>e</i><i> </i><i>a</i><i>n</i><i>d</i><i> </i><i>t</i><i>h</i><i>e</i><i>i</i><i>r</i><i> </i><i>o</i><i>f</i><i>f</i><i>s</i><i>p</i><i>r</i><i>i</i><i>n</i><i>g</i><i>.</i>"
+    "text": "<i>the Plunderer of cattle and their offspring.</i>"
   },
   {
     "id": 328,
     "kind": "poem",
     "line": "263",
-    "text": "I call it <i>t</i><i>h</i><i>e</i><i> </i><i>S</i><i>h</i><i>o</i><i>r</i><i>t</i><i> </i><i>f</i><i>a</i><i>c</i><i>e</i><i> </i><i>w</i><i>i</i><i>t</i><i>h</i><i> </i><i>a</i><i> </i><i>L</i><i>o</i><i>n</i><i>g</i><i> </i><i>n</i><i>o</i><i>s</i><i>e</i>.\""
+    "text": "I call it <i>the Short face with a Long nose</i>.\""
   },
   {
     "id": 329,
@@ -1989,13 +1989,13 @@
     "id": 332,
     "kind": "poem",
     "line": "265",
-    "text": "\"They'll boil <i>k</i><i>a</i><i>m</i><i>w</i><i>a</i><i>m</i><i>i</i> beans for you,\" he said,"
+    "text": "\"They'll boil <i>kamwami</i> beans for you,\" he said,"
   },
   {
     "id": 333,
     "kind": "poem",
     "line": "266",
-    "text": "\"And <i>k</i><i>a</i><i>b</i><i>a</i><i>n</i><i>g</i><i>a</i><i> </i>beans that are white."
+    "text": "\"And <i>kabanga </i>beans that are white."
   },
   {
     "id": 334,
@@ -2019,25 +2019,25 @@
     "id": 337,
     "kind": "poem",
     "line": "269",
-    "text": "\"They'll cut you <i>e</i><i>n</i><i>s</i><i>h</i><i>a</i><i>n</i><i>s</i><i>h</i><i>a</i><i> </i>plantains.\" he said."
+    "text": "\"They'll cut you <i>enshansha </i>plantains.\" he said."
   },
   {
     "id": 338,
     "kind": "poem",
     "line": "270",
-    "text": "Eat the <i>e</i><i>n</i><i>s</i><i>h</i><i>a</i><i>n</i><i>s</i><i>h</i><i>a</i><i> </i>plantains,"
+    "text": "Eat the <i>enshansha </i>plantains,"
   },
   {
     "id": 339,
     "kind": "poem",
     "line": "271",
-    "text": "Because you called it <i>t</i><i>h</i><i>e</i><i> </i><i>t</i><i>h</i><i>i</i><i>n</i><i>g</i><i> </i><i>W</i><i>e</i><i>l</i><i>l</i><i>-</i><i>s</i><i>p</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>o</i><i>f</i>,"
+    "text": "Because you called it <i>the thing Well-spoken-of</i>,"
   },
   {
     "id": 340,
     "kind": "poem",
     "line": "272",
-    "text": "Eat the <i>e</i><i>n</i><i>s</i><i>h</i><i>a</i><i>n</i><i>s</i><i>h</i><i>a</i><i> </i>plantains,"
+    "text": "Eat the <i>enshansha </i>plantains,"
   },
   {
     "id": 341,
@@ -2055,13 +2055,13 @@
     "id": 343,
     "kind": "poem",
     "line": "274",
-    "text": "\"But that <i>t</i><i>h</i><i>i</i><i>n</i><i>g</i><i> </i><i>W</i><i>e</i><i>l</i><i>l</i><i>-</i><i>s</i><i>p</i><i>o</i><i>k</i><i>e</i><i>n</i><i>-</i><i>o</i><i>f</i>,\" he said,"
+    "text": "\"But that <i>thing Well-spoken-of</i>,\" he said,"
   },
   {
     "id": 344,
     "kind": "poem",
     "line": "275",
-    "text": "\"<i>T</i><i>h</i><i>e</i><i> </i><i>S</i><i>l</i><i>e</i><i>e</i><i>p</i><i>i</i><i>n</i><i>g</i><i>-</i><i>s</i><i>i</i><i>c</i><i>k</i><i>n</i><i>e</i><i>s</i><i>s</i><i>,</i><i> </i><i>K</i><i>i</i><i>l</i><i>l</i><i>e</i><i>r</i><i>-</i><i>o</i><i>f</i><i>-</i><i>c</i><i>a</i><i>t</i><i>t</i><i>l</i><i>e</i>,\""
+    "text": "\"<i>The Sleeping-sickness, Killer-of-cattle</i>,\""
   },
   {
     "id": 345,
