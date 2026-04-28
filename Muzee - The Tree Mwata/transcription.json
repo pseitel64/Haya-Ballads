@@ -387,7 +387,7 @@
     "id": 65,
     "kind": "poem",
     "line": "35",
-    "text": "35 \"'Waitu omuti Mafumbo"
+    "text": "\"'Waitu omuti Mafumbo"
   },
   {
     "id": 66,
@@ -1275,7 +1275,7 @@
     "id": 213,
     "kind": "poem",
     "line": "120",
-    "text": "120<i> Kizila zikalala kayogolekano</i>"
+    "text": "<i> Kizila zikalala kayogolekano</i>"
   },
   {
     "id": 214,
@@ -1353,7 +1353,7 @@
     "id": 226,
     "kind": "poem",
     "line": "126.1",
-    "text": " <i>Lwa Kyomumaizi, Lwagaga, [n'entembe]</i>"
+    "text": " <i>Lwa Kyomumaizi, Lwagaga, n'entembe</i>"
   },
   {
     "id": 227,
@@ -1539,7 +1539,7 @@
     "id": 257,
     "kind": "poem",
     "line": "145",
-    "text": "145 <i>Kobugule kagw' omumaizi.'</i>"
+    "text": "<i>Kobugule kagw' omumaizi.'</i>"
   },
   {
     "id": 258,
@@ -1767,7 +1767,7 @@
     "id": 295,
     "kind": "poem",
     "line": "158.1",
-    "text": " Mubuge ekilo n'omushanaKyashalashala "
+    "text": " Mubuge ekilo n'omushana Kyashalashala "
   },
   {
     "id": 296,
@@ -2859,7 +2859,7 @@
     "id": 477,
     "kind": "poem",
     "line": "245",
-    "text": "245 Ahi, \"Iloko"
+    "text": "Ahi, \"Iloko"
   },
   {
     "id": 478,
@@ -4389,7 +4389,7 @@
     "id": 732,
     "kind": "poem",
     "line": "375",
-    "text": "375 <i>Yayembeile omw'lungu nitutinamuki?</i>"
+    "text": "<i>Yayembeile omw'lungu nitutinamuki?</i>"
   },
   {
     "id": 733,
@@ -4479,7 +4479,7 @@
     "id": 747,
     "kind": "poem",
     "line": "384",
-    "text": "385 <i>Kanyawela oyela</i>"
+    "text": "<i>Kanyawela oyela</i>"
   },
   {
     "id": 748,
