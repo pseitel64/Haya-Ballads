@@ -417,7 +417,7 @@
     "id": 70,
     "kind": "poem",
     "line": "24.1",
-    "text": "\tIn Ihangilo the Kabale's are many.\t"
+    "text": "\tIn Ihangilo the Kabales are many.\t"
   },
   {
     "id": 71,
@@ -1065,7 +1065,7 @@
     "id": 178,
     "kind": "poem",
     "line": "74.1",
-    "text": "<i>\tCalfs with heavy foot-falls,</i><i>\t</i>"
+    "text": "<i>\tCalves with heavy foot-falls,</i><i>\t</i>"
   },
   {
     "id": 179,
@@ -1275,7 +1275,7 @@
     "id": 213,
     "kind": "poem",
     "line": "89.1",
-    "text": "\t<i>Missle that strikes the place of danger,</i><i>\t</i>"
+    "text": "\t<i>Missile that strikes the place of danger,</i><i>\t</i>"
   },
   {
     "id": 214,
@@ -1293,7 +1293,7 @@
     "id": 216,
     "kind": "poem",
     "line": "90.1",
-    "text": "<i>\tFrom the home of Missle-strikes-a-bull's-back,</i><i>\t</i>"
+    "text": "<i>\tFrom the home of Missile-strikes-a-bull's-back,</i><i>\t</i>"
   },
   {
     "id": 217,
@@ -5031,7 +5031,7 @@
     "id": 839,
     "kind": "poem",
     "line": "371",
-    "text": "Do not fear. Enter. Tred lightly.\t"
+    "text": "Do not fear. Enter. Tread lightly.\t"
   },
   {
     "id": 840,
@@ -6363,7 +6363,7 @@
     "id": 1061,
     "kind": "poem",
     "line": "501",
-    "text": "A rhinocerous I killed, the <i>Shrill-cry, </i>the<i> Foot-fall</i>,\t"
+    "text": "A rhinoceros I killed, the <i>Shrill-cry, </i>the<i> Foot-fall</i>,\t"
   },
   {
     "id": 1062,
@@ -6591,6 +6591,6 @@
     "id": 1099,
     "kind": "poem",
     "line": "522.1",
-    "text": "\tThey make trouble in ways you cannot [forsee]\t"
+    "text": "\tThey make trouble in ways you cannot (foresee)\t"
   }
 ]
