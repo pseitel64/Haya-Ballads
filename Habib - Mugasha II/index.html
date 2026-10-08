@@ -10,7 +10,7 @@
 </head>
 <body>
 
-  <audio id="audio" src="https://archive.org/download/kajango/mugasha2.m4a" preload="metadata"></audio>
+  <audio id="audio" src="mugasha2.m4a" preload="metadata"></audio>
 
   <div id="transport">
     <div id="transportLeft">
@@ -56,7 +56,7 @@
         </div>
       </div>
       <div id="introModalBody">
-        <p>This second version of Mugasha by Habib Suliman is no less remarkable performance than that recorded by the bard 30 years earlier. It is included here because it is an equally entertaining telling of the mythic tale by the virtuoso bard. Based on conversations with Prof. M.M. Mulokozi, I think that Habib's 1980 version represents the evolution of the bards art toward a more mimetic and theatrical form. While some of the rich stanzaic forms of the 1950 version remain in 1980, creative focus seems to be more on the elaboration and colorful depiction of events. The bard omits entirely the first episode -- Mugasha's difficult birth, structured in the 1950 version as a single, intricate poetic figure composed of about 80 interrelated lines -- and expands and elaborates the riotous wedding feast with its uninvited aquatic guests. Habib performed this in 1980 at the court of Mukama Gabriel Rugabandama, who continued to promote and protect Haya culture even after he and other kings of Hayaland lost official political recognition in 1961. For this second version, I have not prepared a separate plot summary or cultural notes; versification is described.</p>
+        <p>This second version of Mugasha by Habib Suliman is no less remarkable performance than that recorded by the bard 30 years earlier. It is included here because it is an equally entertaining telling of the mythic tale by the virtuoso bard. Based on conversations with Prof. M.M. Mulokozi, I think that Habib's 1980 version represents the evolution of the bards art toward a more mimetic and theatrical form. While some of the rich stanzaic forms of the 1950 version remain in 1980, creative focus seems to be more on the elaboration and colorful depiction of events. The bard omits entirely the first episode -- Mugasha's difficult birth, structured in the 1950 version as a single, intricate poetic figure composed of about 80 interrelated lines -- and expands and elaborates the riotous wedding feast with its uninvited aquatic guests. Habib performed this in 1980 at the court of Mukama Gabriel Rugabandana, who continued to promote and protect Haya culture even after he and other kings of Hayaland lost official political recognition in 1961. For this second version, I have not prepared a separate plot summary or cultural notes; versification is described.</p>
       </div>
     </div>
   </div>
@@ -65,9 +65,11 @@
   <section id="annoPanel" class="anno"></section>
   <div id="imagePanel" class="image-modal"></div>
 
+  <script src="../viewer/data.js"></script>
   <script src="../viewer/script.js"></script>
   <script>
     const audio = document.getElementById('audio');
+    audio.addEventListener('error', function(){ if(!window._audioWarned){ window._audioWarned=true; alert('The audio file "mugasha2.m4a" was not found in this ballad\'s folder. Please copy it there.'); } });
     document.querySelectorAll('.speed-btn').forEach(btn => {
       btn.addEventListener('click', () => {
         audio.playbackRate = parseFloat(btn.dataset.rate);
