@@ -10,7 +10,7 @@
 </head>
 <body>
 
-  <audio id="audio" src="mugasha2.m4a" preload="metadata"></audio>
+  <audio id="audio" src="https://archive.org/download/kajango/mugasha2.m4a" preload="metadata"></audio>
 
   <div id="transport">
     <div id="transportLeft">
@@ -65,11 +65,9 @@
   <section id="annoPanel" class="anno"></section>
   <div id="imagePanel" class="image-modal"></div>
 
-  <script src="../viewer/data.js"></script>
   <script src="../viewer/script.js"></script>
   <script>
     const audio = document.getElementById('audio');
-    audio.addEventListener('error', function(){ if(!window._audioWarned){ window._audioWarned=true; alert('The audio file "mugasha2.m4a" was not found in this ballad\'s folder. Please copy it there.'); } });
     document.querySelectorAll('.speed-btn').forEach(btn => {
       btn.addEventListener('click', () => {
         audio.playbackRate = parseFloat(btn.dataset.rate);
