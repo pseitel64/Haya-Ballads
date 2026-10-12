@@ -7,6 +7,13 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="../viewer/library.css" />
+  <style>
+    /* essay pages: keep the title and menu from overlapping */
+    .page-header-inner { flex-wrap: wrap; justify-content: center; row-gap: 0.4em; }
+    .site-title { position: static; transform: none; flex-basis: 100%; text-align: center; }
+    .nav-menu { flex-wrap: wrap; justify-content: center; }
+    .nav-menu a { white-space: nowrap; }
+  </style>
 </head>
 <body>
 <div class="page-wrapper">
@@ -27,7 +34,6 @@
       <!-- hamburger nav for mobile (reserved for future use)
       <div class="nav-relative">...</div>
       -->
-    </div>
     </div>
   </header>
 

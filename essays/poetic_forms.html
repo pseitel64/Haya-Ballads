@@ -76,6 +76,13 @@
     h3 { margin-top: 1.8em; }
     h4 { margin-top: 1.4em; font-style: italic; font-weight: normal; }
   </style>
+  <style>
+    /* essay pages: keep the title and menu from overlapping */
+    .page-header-inner { flex-wrap: wrap; justify-content: center; row-gap: 0.4em; }
+    .site-title { position: static; transform: none; flex-basis: 100%; text-align: center; }
+    .nav-menu { flex-wrap: wrap; justify-content: center; }
+    .nav-menu a { white-space: nowrap; }
+  </style>
 </head>
 <body>
 <div class="page-wrapper">
@@ -96,7 +103,6 @@
       <!-- hamburger nav for mobile (reserved for future use)
       <div class="nav-relative">...</div>
       -->
-    </div>
     </div>
   </header>
 
