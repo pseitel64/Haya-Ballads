@@ -149,7 +149,7 @@
     "line_end": 61,
     "id": 52,
     "time": 127.78,
-    "note": "verse in <b>aab</b> of three linegroups (41-49, 50-55, 56-61) with mirrored structure; each linegroup consists of couplets composed as verb initial/ 0verb appositive or praisename of the previous line&#x27;s subject, a pattern that is varied to create finalizations; the three linegroups share virtually the same final line (49, 55, and 61), which alters the couplet pattern just noted and finalizes each linegroup; the first linegroup is somewhat irregular and is the result, I believe, both of an expansion of the pattern clearly evident in the succeeding linegroups and of the noted interruption in the performance; if we regard lines 43-45 as expansions of the pattern, perhaps truncated by interruption, then the pattern of the verse can be seen as consisting of three six-line stanzas constructed as mirror images of one another (41-42 + 46-49, 50-55 and 56- 61); based on couplets composed as verb initial/ 0verb, the six line stanza has the following pattern: initial verb of attendance (or hearing) + proper noun/ praise/ interrogative form of &quot;to be&quot;/ address or praise of King/ initial imperative/ final line essentially repeated; the first two stanzas are finalized by the third (56-61), which varies the pattern by being composed solely of the alternation - inital verb of attendance + proper noun/ praise - except for its final line, which it shares with the other stanzas; it also introduces and repeats <i>teka</i> &quot;assemble&quot;in alternating lines, a verb that links this final and finalizing stanza to the stanza that follows.",
+    "note": "verse in <b>aab</b> of three linegroups (41-49, 50-55, 56-61) with mirrored structure; each linegroup consists of couplets composed as verb initial/ Ø verb appositive or praisename of the previous line&#x27;s subject, a pattern that is varied to create finalizations; the three linegroups share virtually the same final line (49, 55, and 61), which alters the couplet pattern just noted and finalizes each linegroup; the first linegroup is somewhat irregular and is the result, I believe, both of an expansion of the pattern clearly evident in the succeeding linegroups and of the noted interruption in the performance; if we regard lines 43-45 as expansions of the pattern, perhaps truncated by interruption, then the pattern of the verse can be seen as consisting of three six-line stanzas constructed as mirror images of one another (41-42 + 46-49, 50-55 and 56- 61); based on couplets composed as verb initial/ Ø verb, the six line stanza has the following pattern: initial verb of attendance (or hearing) + proper noun/ praise/ interrogative form of &quot;to be&quot;/ address or praise of King/ initial imperative/ final line essentially repeated; the first two stanzas are finalized by the third (56-61), which varies the pattern by being composed solely of the alternation - inital verb of attendance + proper noun/ praise - except for its final line, which it shares with the other stanzas; it also introduces and repeats <i>teka</i> &quot;assemble&quot;in alternating lines, a verb that links this final and finalizing stanza to the stanza that follows.",
     "id_ref": 52
   },
   {
@@ -203,7 +203,7 @@
     "line_end": 65,
     "id": 80,
     "time": 214.87,
-    "note": "stanza in <b>abab</b> formed by contrast between lines with verb initial (<b>a</b>&#x27;s: 62, 64) and those with 0verb (<b>b</b>&#x27;s: 63, 65); note the conrast with previous figure in 0verb line begins with preposition (63) and the second verb initial is inflected to refer to King rather than followers (64); prepositional constructions and royal subject are expanded in the following stanza.",
+    "note": "stanza in <b>abab</b> formed by contrast between lines with verb initial (<b>a</b>&#x27;s: 62, 64) and those with Ø verb (<b>b</b>&#x27;s: 63, 65); note the conrast with previous figure in Ø verb line begins with preposition (63) and the second verb initial is inflected to refer to King rather than followers (64); prepositional constructions and royal subject are expanded in the following stanza.",
     "id_ref": 80
   },
   {
@@ -500,7 +500,7 @@
     "line_end": 197,
     "id": 240,
     "time": 561.35,
-    "note": "compound stanza in <b>aba&#x27;</b>, 2 + 2 + 2, formed by contrast between couplets that are composed as locutive initial.../0verb and cohere by enjambment (<b>a</b>&#x27;s: 192-193, 196-197) and a single couplet that is composed as locutive initial.../NP+VP and coheres semantically as request/ justification (<b>b</b>:194-195).",
+    "note": "compound stanza in <b>aba&#x27;</b>, 2 + 2 + 2, formed by contrast between couplets that are composed as locutive initial.../Ø verb and cohere by enjambment (<b>a</b>&#x27;s: 192-193, 196-197) and a single couplet that is composed as locutive initial.../NP+VP and coheres semantically as request/ justification (<b>b</b>:194-195).",
     "id_ref": 240
   },
   {

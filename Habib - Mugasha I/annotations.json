@@ -187,7 +187,7 @@
     "id": 172,
     "time": null,
     "id_ref": 172,
-    "note": "compound stanza in <b> aab , 2 + 2 + 2, formed by contrast between couplets composed as double verb/ 0verb (<b> a 's: 45-45.1, 45.2-46) and a couplet that coheres by repetition of \"I'll catch\" in initial position (<b> b : 46.1-46.2).",
+    "note": "compound stanza in <b> aab , 2 + 2 + 2, formed by contrast between couplets composed as double verb/ Ø verb (<b> a 's: 45-45.1, 45.2-46) and a couplet that coheres by repetition of \"I'll catch\" in initial position (<b> b : 46.1-46.2).",
     "line_end": "46.2",
     "badge": "verse"
   },
@@ -359,7 +359,7 @@
     "id": 284,
     "time": 486.29,
     "id_ref": 284,
-    "note": "stanza in annular structure - <b> abcba - by contrast between lines composed as aside (in distant past tense)/ locutive + 2nd person/ 0verb descriptor/ locutive + 2nd person/ aside.",
+    "note": "stanza in annular structure - <b> abcba - by contrast between lines composed as aside (in distant past tense)/ locutive + 2nd person/ Ø verb descriptor/ locutive + 2nd person/ aside.",
     "line_end": "80.2",
     "badge": "verse"
   },
